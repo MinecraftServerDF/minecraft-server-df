@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/PW-Chen/minecraft-server-df](https://badges.gitter.im/PW-Chen/minecraft-server-df.svg)](https://gitter.im/PW-Chen/minecraft-server-df?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![owner1](https://img.shields.io/badge/Powered%20by-PW--Chen-blue.svg?style=flat)](https://github.com/PW-Chen)
-![coverphoto](minecraft-server-df/image/Coverphoto.jpg)    
+![coverphoto](https://raw.githubusercontent.com/ChenPoWei/minecraft-server-df/master/image/Coverphoto.jpg)    
 
 About / 關於 Minecraft Server DF :     
 >Minecraft Server DF創立於2012年7月中，本伺服器初始使用的Server版本為官方釋出的1.2.5版本，後來經過多次的嘗試，將伺服器升級為水桶1.7.2版，且陸陸續續的新增了許多插件，也屢次遭受到許多的攻擊，這些小小的意外，使得這個伺服器更加的完備，到目前為止已經新增了登入插件、砍樹插件、網路地圖插件以及本伺服器的重點火車插件，火車插件為專門為鐵道迷增設，主要使用者為Allen，他創建了本伺服器所有的鐵路系統，包括橘線、白線、黃線、紫線、紅線...等。
