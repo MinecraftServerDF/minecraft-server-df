@@ -16,8 +16,8 @@ Related links / 相關連結 :
 1.7.2 server information :
 * Server address / 伺服器地址 : mcdf.asuscomm.com    
 * Server port / 伺服器端口 : 101    
-* [white-list / 白名單](https://github.com/PW-Chen/minecraft-server-df/blob/master/white-list.txt)
-* [Operator / 管理員名單](https://github.com/PW-Chen/minecraft-server-df/blob/master/ops.txt)
+* [white-list / 白名單](https://github.com/ChenPoWei/minecraft-server-df/blob/master/white-list.txt)
+* [Operator / 管理員名單](https://github.com/ChenPoWei/minecraft-server-df/blob/master/ops.txt)
 * Map server / 地圖伺服器 : [http://mcdf.asuscomm.com:100/](http://mcdf.asuscomm.com:100/)  
 * Map : 
 	* world : 主要世界
