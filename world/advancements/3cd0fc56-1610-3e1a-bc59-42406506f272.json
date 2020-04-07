@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-07 17:09:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-04 11:19:00 +0800"
