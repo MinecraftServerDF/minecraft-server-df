@@ -421,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-05 22:54:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-04-04 20:24:26 +0800"
@@ -514,6 +520,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-04-05 11:44:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
     },
     "done": true
   },
@@ -835,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-04 20:03:09 +0800"
@@ -961,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-04-04 20:52:21 +0800"
@@ -996,6 +1020,7 @@
       "minecraft:skeleton": "2020-04-04 20:12:14 +0800",
       "minecraft:spider": "2020-04-04 22:50:57 +0800",
       "minecraft:creeper": "2020-04-05 09:16:40 +0800",
+      "minecraft:silverfish": "2020-04-05 17:35:02 +0800",
       "minecraft:zombie": "2020-04-04 20:46:40 +0800",
       "minecraft:drowned": "2020-04-04 20:50:17 +0800",
       "minecraft:zombie_villager": "2020-04-05 14:35:03 +0800"
@@ -1023,6 +1048,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-04-05 14:52:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
     },
     "done": true
   },
@@ -1125,6 +1156,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-04 21:40:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-05 22:54:16 +0800"
     },
     "done": true
   },
@@ -1488,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-04-06 21:36:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-04-04 20:52:21 +0800"
@@ -1632,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-04 20:52:21 +0800"
@@ -1701,6 +1750,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-04 20:10:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
     },
     "done": true
   },
@@ -1984,6 +2039,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-04-05 11:33:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-04-05 17:32:15 +0800"
     },
     "done": true
   },
