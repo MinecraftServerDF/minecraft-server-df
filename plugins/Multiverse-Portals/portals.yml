@@ -1,0 +1,181 @@
+portals:
+  train:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 451.0,81.0,-677.0:451.0,83.0,-675.0
+    world: world_train
+    destination: p:world1
+  world1:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 206.0,73.0,247.0:208.0,75.0,247.0
+    world: world
+    destination: p:train
+  world2:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 208.0,73.0,247.0:210.0,75.0,247.0
+    world: world
+    destination: p:old
+  world3:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 210.0,73.0,247.0:212.0,75.0,247.0
+    world: world
+    destination: p:survive
+  world4:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 212.0,73.0,247.0:214.0,75.0,247.0
+    world: world
+    destination: p:yucsh
+  world5:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 214.0,73.0,247.0:216.0,75.0,247.0
+    world: world
+    destination: p:comic
+  world6:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 216.0,73.0,247.0:218.0,75.0,247.0
+    world: world
+    destination: p:maomao
+  world7:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 218.0,73.0,247.0:220.0,75.0,247.0
+    world: world
+    destination: p:ken
+  old:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 51.0,63.0,166.0:51.0,65.0,168.0
+    world: world_old
+    destination: p:world2
+  survive:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 44.0,63.0,262.0:44.0,65.0,264.0
+    world: world_survive
+    destination: p:world3
+  yucsh:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: -52.0,66.0,210.0:-52.0,68.0,212.0
+    world: world_yucsh
+    destination: p:world4
+  comic:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 75.0,128.0,403.0:75.0,130.0,405.0
+    world: world_comic_world
+    destination: p:world5
+  maomao:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: -111.0,64.0,251.0:-111.0,66.0,253.0
+    world: world_MaoMao
+    destination: p:world6
+  ken:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 156.0,60.0,263.0:156.0,62.0,265.0
+    world: world_ken
+    destination: p:world7
+  world8:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 220.0,73.0,247.0:222.0,75.0,247.0
+    world: world
+    destination: p:1-8
+  1-8:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: -116.0,66.0,357.0:-114.0,68.0,357.0
+    world: world-1-8
+    destination: p:world8
+  world9:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 222.0,73.0,247.0:224.0,75.0,247.0
+    world: world
+    destination: p:china
+  china:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: apple
+    location: 42.0,45.0,-19.0:42.0,47.0,-17.0
+    world: world_china
+    destination: p:world9
