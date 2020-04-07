@@ -1,0 +1,4 @@
+# Whether multiple item frames next to each other can merge to show one large display
+# This allows Map Displays to be displayed on multiple item frames at a larger resolution
+# The tiling detection logic poses some overhead on the server, and if unused, can be disabled
+enableItemFrameTiling: true

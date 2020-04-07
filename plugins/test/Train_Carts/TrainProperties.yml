@@ -1,0 +1,109 @@
+train1:
+  allowPlayerTake: true
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    8ced96ea-5b39-40fd-bd41-c7c035a40b95:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}
+    51d82661-f810-40c6-82d8-0838c895f03c:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}
+    5d84cbcf-15d6-40e4-97cd-af66772f3b22:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}
+    bbcbed00-5206-4173-af30-b61f2d48a157:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}
+    51c60dad-e6bf-4c96-ac36-1700c7474728:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}
+    67b5bc38-121d-4695-a8ce-caa2ed0e3a36:
+      model:
+        type: ENTITY
+        entityType: MINECART
+        attachments:
+          0:
+            type: SEAT
+            position: {}
+            lockRotation: false
+            ejectPosition:
+              lockRotation: false
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+        position: {}

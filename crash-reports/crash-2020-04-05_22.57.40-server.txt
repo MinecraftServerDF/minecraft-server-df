@@ -1,0 +1,1730 @@
+---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 4/5/20 10:57 PM
+Description: Watching Server
+
+java.lang.Error
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.bl(SourceFile:139)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:129)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:107)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:186)
+	at net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(SourceFile:108)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:181)
+	at net.minecraft.server.v1_15_R1.World.getType(World.java:495)
+	at net.minecraft.server.v1_15_R1.IWorldReader.c(SourceFile:96)
+	at net.minecraft.server.v1_15_R1.World.getBlockPower(World.java:1105)
+	at net.minecraft.server.v1_15_R1.World.getBlockFacePower(World.java:1121)
+	at net.minecraft.server.v1_15_R1.World.isBlockIndirectlyPowered(World.java:1125)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:97)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:85)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:104)
+	at net.minecraft.server.v1_15_R1.BlockMinecartTrackAbstract.doPhysics(SourceFile:106)
+	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:439)
+	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:392)
+	at net.minecraft.server.v1_15_R1.BlockRedstoneTorch.remove(BlockRedstoneTorch.java:48)
+	at net.minecraft.server.v1_15_R1.IBlockData.remove(SourceFile:259)
+	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:287)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:233)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:113)
+	at net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:71)
+	at net.minecraft.server.v1_15_R1.Chunk.A(Chunk.java:798)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$40(PlayerChunkMap.java:632)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$3067/1325823386.apply(Unknown Source)
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+	at com.mojang.datafixers.util.Either.flatMap(Either.java:191)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$38(PlayerChunkMap.java:629)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2938/1921988142.apply(Unknown Source)
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58)
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter$$Lambda$2969/1266437970.run(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:555)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:566)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:246)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:885)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:852)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:793)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.bl(SourceFile:139)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:129)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:107)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:186)
+	at net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(SourceFile:108)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:181)
+	at net.minecraft.server.v1_15_R1.World.getType(World.java:495)
+	at net.minecraft.server.v1_15_R1.IWorldReader.c(SourceFile:96)
+	at net.minecraft.server.v1_15_R1.World.getBlockPower(World.java:1105)
+	at net.minecraft.server.v1_15_R1.World.getBlockFacePower(World.java:1121)
+	at net.minecraft.server.v1_15_R1.World.isBlockIndirectlyPowered(World.java:1125)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:97)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:85)
+	at net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:104)
+	at net.minecraft.server.v1_15_R1.BlockMinecartTrackAbstract.doPhysics(SourceFile:106)
+	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:439)
+	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:392)
+	at net.minecraft.server.v1_15_R1.BlockRedstoneTorch.remove(BlockRedstoneTorch.java:48)
+	at net.minecraft.server.v1_15_R1.IBlockData.remove(SourceFile:259)
+	at net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:287)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:233)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:138)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:362)
+	at net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12)
+	at net.minecraft.server.v1_15_R1.Block.a(Block.java:184)
+	at net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:113)
+	at net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:71)
+	at net.minecraft.server.v1_15_R1.Chunk.A(Chunk.java:798)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$40(PlayerChunkMap.java:632)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$3067/1325823386.apply(Unknown Source)
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38)
+	at com.mojang.datafixers.util.Either.flatMap(Either.java:191)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$38(PlayerChunkMap.java:629)
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2938/1921988142.apply(Unknown Source)
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source)
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58)
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter$$Lambda$2969/1266437970.run(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:555)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:566)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:246)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:885)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:852)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #15" Id=155 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@8335822
+	-  locked java.util.Collections$UnmodifiableSet@6f4b754
+	-  locked sun.nio.ch.WindowsSelectorImpl@2cb3352
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #14" Id=154 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@47c9bd6f
+	-  locked java.util.Collections$UnmodifiableSet@55290ffc
+	-  locked sun.nio.ch.WindowsSelectorImpl@76c45c1a
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #13" Id=153 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@2dceb033
+	-  locked java.util.Collections$UnmodifiableSet@27e64220
+	-  locked sun.nio.ch.WindowsSelectorImpl@3aadefcf
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #12" Id=152 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@6e5d500c
+	-  locked java.util.Collections$UnmodifiableSet@36ca3adc
+	-  locked sun.nio.ch.WindowsSelectorImpl@23a89967
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #11" Id=149 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@76aed94a
+	-  locked java.util.Collections$UnmodifiableSet@72f72aa3
+	-  locked sun.nio.ch.WindowsSelectorImpl@150ce2fb
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #10" Id=148 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@7208329c
+	-  locked java.util.Collections$UnmodifiableSet@72ecc11e
+	-  locked sun.nio.ch.WindowsSelectorImpl@39855fd2
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #9" Id=144 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@4b6c6923
+	-  locked java.util.Collections$UnmodifiableSet@78432e00
+	-  locked sun.nio.ch.WindowsSelectorImpl@6cb3e427
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #8" Id=143 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@7f5b4dac
+	-  locked java.util.Collections$UnmodifiableSet@57561615
+	-  locked sun.nio.ch.WindowsSelectorImpl@368401d1
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #7" Id=138 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@456559fa
+	-  locked java.util.Collections$UnmodifiableSet@60f65ad7
+	-  locked sun.nio.ch.WindowsSelectorImpl@7f70e62
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #6" Id=137 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@11eb1dc4
+	-  locked java.util.Collections$UnmodifiableSet@7eae3c8a
+	-  locked sun.nio.ch.WindowsSelectorImpl@2c5ce16a
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #5" Id=134 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@13e77e9d
+	-  locked java.util.Collections$UnmodifiableSet@5aab4418
+	-  locked sun.nio.ch.WindowsSelectorImpl@556e69ab
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Server-Worker-11" Id=133 TIMED_WAITING on java.util.concurrent.ForkJoinPool@1ef295dd
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@1ef295dd
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Netty Server IO #4" Id=131 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@36c91308
+	-  locked java.util.Collections$UnmodifiableSet@36421a4d
+	-  locked sun.nio.ch.WindowsSelectorImpl@10c70e1f
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #3" Id=130 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@1a113da7
+	-  locked java.util.Collections$UnmodifiableSet@643e3cbe
+	-  locked sun.nio.ch.WindowsSelectorImpl@4288d206
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"pool-11-thread-1" Id=129 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6a979bbe
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6a979bbe
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"pool-13-thread-1" Id=128 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@79f87f4e
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@79f87f4e
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #2" Id=127 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@6cb66703
+	-  locked java.util.Collections$UnmodifiableSet@68aa8071
+	-  locked sun.nio.ch.WindowsSelectorImpl@3eb6bcb1
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #1" Id=126 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@40ea626
+	-  locked java.util.Collections$UnmodifiableSet@5bdf57db
+	-  locked sun.nio.ch.WindowsSelectorImpl@67cafdd9
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Server Watchdog" Id=107 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at net.minecraft.server.v1_15_R1.ThreadWatchdog.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=106 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=105 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=104 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=103 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=102 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=101 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=100 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=99 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=98 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=97 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=96 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=95 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-94" Id=94 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-93" Id=93 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-92" Id=92 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-91" Id=91 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-90" Id=90 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-89" Id=89 RUNNABLE
+	at java.io.WinNTFileSystem.getBooleanAttributes(Native Method)
+	at java.io.File.exists(Unknown Source)
+	at org.dynmap.storage.filetree.FileTreeMapStorage$StorageTile.read(FileTreeMapStorage.java:102)
+	at org.dynmap.servlet.MapStorageResourceHandler.handle(MapStorageResourceHandler.java:96)
+	at org.dynmap.web.HandlerRouter.handle(HandlerRouter.java:51)
+	at org.dynmap.web.FilterHandler$1.doFilter(FilterHandler.java:64)
+	at org.dynmap.web.CustomHeaderFilter.doFilter(CustomHeaderFilter.java:32)
+	at org.dynmap.web.FilterHandler$1.doFilter(FilterHandler.java:62)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@6e05d591
+
+
+"etp463302147-88" Id=88 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-86" Id=86 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-85" Id=85 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3c1ccf68
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3c1ccf68
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:309)
+	at org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:379)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@1bcbf5f
+
+
+"etp463302147-84" Id=84 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-83" Id=83 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-82" Id=82 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-81" Id=81 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=80 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=79 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-78" Id=78 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=77 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=76 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-75" Id=75 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked sun.nio.ch.Util$2@c88d907
+	-  locked java.util.Collections$UnmodifiableSet@7457c19d
+	-  locked sun.nio.ch.WindowsSelectorImpl@8639d9a
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at org.dynmap.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:472)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@612d794b
+
+
+"etp463302147-74" Id=74 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-73" Id=73 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-72" Id=72 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-71" Id=71 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-70" Id=70 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-69" Id=69 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-68" Id=68 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-67" Id=67 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-66" Id=66 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-65" Id=65 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-64" Id=64 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Connector-Scheduler-28672d16-1" Id=63 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@52de6471
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@52de6471
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"etp463302147-62" Id=62 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=60 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=59 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"pool-12-thread-1" Id=58 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1854cfcc
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1854cfcc
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"etp463302147-57" Id=57 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5245ae72
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5245ae72
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:309)
+	at org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:379)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@161f4418
+
+
+"Session-HouseKeeper-677f77f4-1" Id=56 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@465e76ed
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@465e76ed
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"etp463302147-55" Id=55 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"etp463302147-54" Id=54 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1ddc3287
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Dynmap Render Thread" Id=51 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@67026fbb
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@67026fbb
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Dynmap Render Thread" Id=50 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@67026fbb
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@67026fbb
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Dynmap Render Thread" Id=49 WAITING on org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture@5916f638
+	at java.lang.Object.wait(Native Method)
+	-  waiting on org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture@5916f638
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture.get(CraftFuture.java:53)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture.get(CraftFuture.java:40)
+	at org.dynmap.MapManager$CheckWorldTimes.run(MapManager.java:891)
+	at org.dynmap.MapManager$DynmapScheduledThreadPoolExecutor$2.run(MapManager.java:214)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@b0c3891
+
+
+"Thread-16" Id=48 TIMED_WAITING on java.lang.Object@26dfe556
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@26dfe556
+	at org.dynmap.AsynchronousQueue.running(AsynchronousQueue.java:120)
+	at org.dynmap.AsynchronousQueue.access$000(AsynchronousQueue.java:9)
+	at org.dynmap.AsynchronousQueue$1.run(AsynchronousQueue.java:83)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=46 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=45 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=44 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=43 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"poi IO worker" Id=42 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"chunk IO worker" Id=41 WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+	at net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Timer-0" Id=40 TIMED_WAITING on java.util.TaskQueue@1383167e
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1383167e
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"WorldEdit Session Manager" Id=39 TIMED_WAITING on java.util.TaskQueue@6708cc02
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@6708cc02
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=38 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@9c151ed
+	-  locked java.util.Collections$UnmodifiableSet@50edf0d6
+	-  locked sun.nio.ch.WindowsSelectorImpl@5b563c53
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=37 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@7a1f83e7
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@7a1f83e7
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"D3D Screen Updater" Id=36 TIMED_WAITING on java.lang.Object@7952fb70
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@7952fb70
+	at sun.java2d.d3d.D3DScreenUpdateManager.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=34 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@4686dfcc
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248)
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+	-  locked org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@2cd8d7eb
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+	-  locked org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@2cd8d7eb
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+	...
+
+
+"TerminalConsoleWriter" Id=35 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2a5e692c
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2a5e692c
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+	at org.bukkit.craftbukkit.v1_15_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)
+
+
+"DestroyJavaVM" Id=33 RUNNABLE
+
+
+"Server thread" Id=21 TIMED_WAITING on java.lang.String@6c9286a5
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.lang.String@6c9286a5
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.bl(SourceFile:139)
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:129)
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:107)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:186)
+	at net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(SourceFile:108)
+	at net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:181)
+	...
+
+
+"Thread-4" Id=30 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@44398e6c
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@44398e6c
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+	at java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+	at com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+	at net.minecraft.server.v1_15_R1.ServerGUI.lambda$3(ServerGUI.java:137)
+	at net.minecraft.server.v1_15_R1.ServerGUI$$Lambda$1965/1604262022.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"TimerQueue" Id=31 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e3cbf6a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e3cbf6a
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+	at java.util.concurrent.DelayQueue.take(Unknown Source)
+	at javax.swing.TimerQueue.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@34b14198
+
+
+"AWT-EventQueue-0" Id=29 RUNNABLE
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(Unknown Source)
+	at javax.swing.text.AbstractDocument.handleInsertString(Unknown Source)
+	at javax.swing.text.AbstractDocument.insertString(Unknown Source)
+	at javax.swing.text.PlainDocument.insertString(Unknown Source)
+	at net.minecraft.server.v1_15_R1.ServerGUI.a(ServerGUI.java:178)
+	at net.minecraft.server.v1_15_R1.ServerGUI.lambda$5(ServerGUI.java:166)
+	at net.minecraft.server.v1_15_R1.ServerGUI$$Lambda$1973/1457559077.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	...
+
+
+"AWT-Windows" Id=27 RUNNABLE
+	at sun.awt.windows.WToolkit.eventLoop(Native Method)
+	at sun.awt.windows.WToolkit.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"AWT-Shutdown" Id=26 WAITING on java.lang.Object@772aa88
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@772aa88
+	at java.lang.Object.wait(Unknown Source)
+	at sun.awt.AWTAutoShutdown.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Java2D Disposer" Id=25 WAITING on java.lang.ref.ReferenceQueue$Lock@fb00ee4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@fb00ee4
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at sun.java2d.Disposer.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server Infinisleeper" Id=24 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.server.v1_15_R1.DedicatedServer$1.run(DedicatedServer.java:69)
+
+
+"Snooper Timer" Id=20 WAITING on java.util.TaskQueue@3133230b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@3133230b
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@a4f1da8
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@a4f1da8
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@18fbd083
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@18fbd083
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at net.minecraft.server.v1_15_R1.ThreadWatchdog.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.2
+	Minecraft Version ID: 1.15.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 631794720 bytes (602 MB) / 4314890240 bytes (4115 MB) up to 15090581504 bytes (14391 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xms16M -Xmx16190M
+	CraftBukkit Information: 
+   Running: CraftBukkit version git-Bukkit-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT) false
+   Plugins: { dynmap v3.0-beta-10-257* org.dynmap.bukkit.DynmapPlugin [mikeprimm], WorldEdit v7.1.0;8e55131 com.sk89q.worldedit.bukkit.WorldEditPlugin [], Essentials v2.17.2.0 com.earth2me.essentials.Essentials [Zenexer, ementalo, Aelux, Brettflan, KimKandor, snowleo, ceulemans, Xeology, KHobbits, md_5, Iaccidentally, drtshock, vemacs, SupaHam, md678685], EssentialsSpawn v2.17.2.0 com.earth2me.essentials.spawn.EssentialsSpawn [Zenexer, ementalo, Aelux, Brettflan, KimKandor, snowleo, ceulemans, Xeology, KHobbits], Lift v63 net.croxis.plugins.lift.BukkitLift [croxis], Multiverse-Core v4.1.0-b775 com.onarandombox.MultiverseCore.MultiverseCore [Rigby, fernferret, lithium3141, main--, dumptruckman], Multiverse-Portals v4.1.0-b805 com.onarandombox.MultiversePortals.MultiversePortals [Rigby, fernferret], Multiverse-Inventories v3.0.0-b459 com.onarandombox.multiverseinventories.MultiverseInventories [dumptruckman], Multiverse-SignPortals v4.1.0-b748 com.onarandombox.MultiverseSignPortals.MultiverseSignPortals [Rigby, fernferret], Multiverse-NetherPortals v4.1.0-b763 com.onarandombox.MultiverseNetherPortals.MultiverseNetherPortals [Rigby, fernferret],}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Reference Handler: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Unknown Source), java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)], WAITING etp463302147-70: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Finalizer: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(Unknown Source), java.lang.ref.ReferenceQueue.remove(Unknown Source), java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)], WAITING etp463302147-55: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING AWT-Shutdown: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Unknown Source), sun.awt.AWTAutoShutdown.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE etp463302147-78: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:309), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:379), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #11: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-82: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Server-Worker-11: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source), java.util.concurrent.ForkJoinPool.runWorker(Unknown Source), java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)], TIMED_WAITING pool-12-thread-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #13: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-64: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-88: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Connector-Scheduler-28672d16-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-86: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING pool-11-thread-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING TerminalConsoleWriter: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), org.bukkit.craftbukkit.v1_15_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)], WAITING etp463302147-68: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-92: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Signal Dispatcher: [], RUNNABLE Netty Server IO #7: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-72: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #15: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-94: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Dynmap Render Thread: [java.lang.Object.wait(Native Method), org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture.get(CraftFuture.java:53), org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftFuture.get(CraftFuture.java:40), org.dynmap.MapManager$CheckWorldTimes.run(MapManager.java:891), org.dynmap.MapManager$DynmapScheduledThreadPoolExecutor$2.run(MapManager.java:214), java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source), java.util.concurrent.FutureTask.run(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #8: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Server Infinisleeper: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_15_R1.DedicatedServer$1.run(DedicatedServer.java:69)], RUNNABLE Netty Server IO #10: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Java2D Disposer: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(Unknown Source), java.lang.ref.ReferenceQueue.remove(Unknown Source), sun.java2d.Disposer.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-90: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-65: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Server thread: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), net.minecraft.server.v1_15_R1.IAsyncTaskHandler.bl(SourceFile:139), net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:129), net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:107), net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:186), net.minecraft.server.v1_15_R1.IWorldReader.getChunkAt(SourceFile:108), net.minecraft.server.v1_15_R1.World.getChunkAt(World.java:181), net.minecraft.server.v1_15_R1.World.getType(World.java:495), net.minecraft.server.v1_15_R1.IWorldReader.c(SourceFile:96), net.minecraft.server.v1_15_R1.World.getBlockPower(World.java:1105), net.minecraft.server.v1_15_R1.World.getBlockFacePower(World.java:1121), net.minecraft.server.v1_15_R1.World.isBlockIndirectlyPowered(World.java:1125), net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:97), net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:85), net.minecraft.server.v1_15_R1.BlockPoweredRail.a(BlockPoweredRail.java:104), net.minecraft.server.v1_15_R1.BlockMinecartTrackAbstract.doPhysics(SourceFile:106), net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243), net.minecraft.server.v1_15_R1.World.a(World.java:439), net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:392), net.minecraft.server.v1_15_R1.BlockRedstoneTorch.remove(BlockRedstoneTorch.java:48), net.minecraft.server.v1_15_R1.IBlockData.remove(SourceFile:259), net.minecraft.server.v1_15_R1.Chunk.setType(Chunk.java:287), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:233), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.Block.a(Block.java:138), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:247), net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:328), net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:283), net.minecraft.server.v1_15_R1.World.a(World.java:362), net.minecraft.server.v1_15_R1.IWorldWriter.b(IWorldWriter.java:12), net.minecraft.server.v1_15_R1.Block.a(Block.java:184), net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:113), net.minecraft.server.v1_15_R1.ChunkConverter.a(SourceFile:71), net.minecraft.server.v1_15_R1.Chunk.A(Chunk.java:798), net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$40(PlayerChunkMap.java:632), net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$3067/1325823386.apply(Unknown Source), com.mojang.datafixers.util.Either$Left.map(Either.java:38), com.mojang.datafixers.util.Either.flatMap(Either.java:191), net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$38(PlayerChunkMap.java:629), net.minecraft.server.v1_15_R1.PlayerChunkMap$$Lambda$2938/1921988142.apply(Unknown Source), java.util.concurrent.CompletableFuture.uniApply(Unknown Source), java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source), java.util.concurrent.CompletableFuture$Completion.run(Unknown Source), net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58), net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter$$Lambda$2969/1266437970.run(Unknown Source), net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144), net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:555), net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118), net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:566), net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:246), net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:885), net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:869), net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103), net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:852), net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:793), java.lang.Thread.run(Unknown Source)], WAITING Thread-4: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), net.minecraft.server.v1_15_R1.ServerGUI.lambda$3(ServerGUI.java:137), net.minecraft.server.v1_15_R1.ServerGUI$$Lambda$1965/1604262022.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #1: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], TIMED_WAITING ObjectCleanerThread: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(Unknown Source), io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54), io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Dynmap Render Thread: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING TimerQueue: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source), java.util.concurrent.DelayQueue.take(Unknown Source), javax.swing.TimerQueue.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-71: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Dynmap Render Thread: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-93: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Server console handler: [java.io.FileInputStream.readBytes(Native Method), java.io.FileInputStream.read(Unknown Source), java.io.BufferedInputStream.fill(Unknown Source), java.io.BufferedInputStream.read(Unknown Source), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3171), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257), net.minecraft.server.v1_15_R1.DedicatedServer$2.run(DedicatedServer.java:97)], TIMED_WAITING etp463302147-67: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING pool-13-thread-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING Snooper Timer: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Unknown Source), java.util.TimerThread.mainLoop(Unknown Source), java.util.TimerThread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING etp463302147-85: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:309), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:379), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE AWT-Windows: [sun.awt.windows.WToolkit.eventLoop(Native Method), sun.awt.windows.WToolkit.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-84: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Timer-0: [java.lang.Object.wait(Native Method), java.util.TimerThread.mainLoop(Unknown Source), java.util.TimerThread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-62: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #9: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-89: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-54: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #6: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-69: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-75: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE DestroyJavaVM: [], RUNNABLE Netty Server IO #2: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-83: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #4: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #5: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], TIMED_WAITING etp463302147-57: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:309), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:379), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING WorldEdit Session Manager: [java.lang.Object.wait(Native Method), java.util.TimerThread.mainLoop(Unknown Source), java.util.TimerThread.run(Unknown Source)], RUNNABLE Attach Listener: [], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-66: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-81: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Server Watchdog: [java.lang.Thread.dumpThreads(Native Method), java.lang.Thread.getAllStackTraces(Unknown Source), org.bukkit.craftbukkit.v1_15_R1.CraftCrashReport.call(CraftCrashReport.java:33), net.minecraft.server.v1_15_R1.CrashReportSystemDetails.a(SourceFile:79), net.minecraft.server.v1_15_R1.CrashReport.i(CrashReport.java:71), net.minecraft.server.v1_15_R1.CrashReport.<init>(CrashReport.java:35), net.minecraft.server.v1_15_R1.ThreadWatchdog.run(SourceFile:59), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Thread-16: [java.lang.Object.wait(Native Method), org.dynmap.AsynchronousQueue.running(AsynchronousQueue.java:120), org.dynmap.AsynchronousQueue.access$000(AsynchronousQueue.java:9), org.dynmap.AsynchronousQueue$1.run(AsynchronousQueue.java:83), java.lang.Thread.run(Unknown Source)], WAITING AWT-EventQueue-0: [java.lang.Object.notify(Native Method), javax.swing.text.AbstractDocument.readUnlock(Unknown Source), javax.swing.plaf.basic.BasicTextUI.getPreferredSize(Unknown Source), javax.swing.plaf.basic.BasicTextAreaUI.getPreferredSize(Unknown Source), javax.swing.JComponent.getPreferredSize(Unknown Source), javax.swing.JTextArea.getPreferredSize(Unknown Source), javax.swing.text.JTextComponent.getScrollableTracksViewportHeight(Unknown Source), javax.swing.ScrollPaneLayout.layoutContainer(Unknown Source), java.awt.Container.layout(Unknown Source), java.awt.Container.doLayout(Unknown Source), java.awt.Container.validateTree(Unknown Source), java.awt.Container.validate(Unknown Source), javax.swing.RepaintManager$3.run(Unknown Source), javax.swing.RepaintManager$3.run(Unknown Source), java.security.AccessController.doPrivileged(Native Method), java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source), javax.swing.RepaintManager.validateInvalidComponents(Unknown Source), javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source), java.awt.event.InvocationEvent.dispatch(Unknown Source), java.awt.EventQueue.dispatchEventImpl(Unknown Source), java.awt.EventQueue.access$500(Unknown Source), java.awt.EventQueue$3.run(Unknown Source), java.awt.EventQueue$3.run(Unknown Source), java.security.AccessController.doPrivileged(Native Method), java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source), java.awt.EventQueue.dispatchEvent(Unknown Source), java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source), java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source), java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source), java.awt.EventDispatchThread.pumpEvents(Unknown Source), java.awt.EventDispatchThread.pumpEvents(Unknown Source), java.awt.EventDispatchThread.run(Unknown Source)], WAITING etp463302147-91: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), org.dynmap.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:472), org.dynmap.jetty.io.ManagedSelector$SelectorProducer.produce(ManagedSelector.java:409), org.dynmap.jetty.util.thread.strategy.EatWhatYouKill.produceTask(EatWhatYouKill.java:360), org.dynmap.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:184), org.dynmap.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171), org.dynmap.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129), org.dynmap.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING D3D Screen Updater: [java.lang.Object.wait(Native Method), sun.java2d.d3d.D3DScreenUpdateManager.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #3: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], TIMED_WAITING Session-HouseKeeper-677f77f4-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #14: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #0: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-74: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], RUNNABLE Netty Server IO #12: [sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method), sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source), sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source), sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source), sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source), sun.nio.ch.SelectorImpl.select(Unknown Source), io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62), io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756), io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:411), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Unknown Source)], WAITING etp463302147-73: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source), java.util.concurrent.LinkedBlockingQueue.take(Unknown Source), java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source), java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source), java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source), java.lang.Thread.run(Unknown Source)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(Unknown Source), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2861/742444865.run(Unknown Source), java.lang.Thread.run(Unknown Source)],}
+   Recent tasks from 10949-10979{Essentials:com.earth2me.essentials.EssentialsPlayerListener$$Lambda$3798/482041110@10810,}
+   Force Loaded Chunks: { world: {}, world_nether: {}, world_the_end: {}, world_china: {}, world_yucsh: {}, world_comic_world: {}, world_ken: {}, world_MaoMao: {}, world_train: {}, world-1-8: {}, world_survive: {}, world_old: {},}
+	Player Count: 6 / 100; [EntityPlayer['apple'/1861, l='world', x=226.21, y=73.00, z=251.68](apple at 226.2084531875295,73.0,251.68458747175396), EntityPlayer['rgps3725'/1928, l='world', x=-922.70, y=62.52, z=635.70](rgps3725 at -922.7038903785668,62.52326458192095,635.7043014940353), EntityPlayer['Caber588'/2147, l='world', x=-558.34, y=62.00, z=407.19](Caber588 at -558.3442024768347,62.0,407.19344606602243), EntityPlayer['mogoo'/5794, l='world', x=763.86, y=62.52, z=-1367.22](mogoo at 763.8642073097452,62.52326469960616,-1367.2238637615715), EntityPlayer['Selina'/11340, l='world', x=370.30, y=64.00, z=781.77](Selina at 370.30000001192093,64.0,781.7676322083408), EntityPlayer['Ken'/12635, l='world_train', x=603.16, y=66.31, z=676.65](Ken at 603.1628640465361,66.31161120717262,676.6479696088768)]
+	Data Packs: vanilla, file/bukkit
+	Is Modded: Definitely; Server brand changed to 'CraftBukkit'
+	Type: Dedicated Server (map_server.txt)

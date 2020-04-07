@@ -1,0 +1,138 @@
+# Registration
+registration:
+    disabled: '&b【AuthMe】&6已關閉註冊功能'
+    name_taken: '&b【AuthMe】&6這個帳號已經被註冊過了!'
+    register_request: '&b【AuthMe】&6請使用 "&c/register <密碼> <確認密碼>" 來註冊。'
+    command_usage: '&b【AuthMe】&6用法: &c"/register <密碼> <確認密碼>"'
+    reg_only: '&b【AuthMe】&6請訪問 http://example.com 進行註冊'
+    success: '&b【AuthMe】&6你已成功註冊'
+    kicked_admin_registered: 'An admin just registered you; please log in again.'
+# Password errors on registration
+password:
+    match_error: '&b【AuthMe】&6兩次輸入的密碼不一致!'
+    name_in_password: '&fYou can''t use your name as password'
+    unsafe_password: '&fYou can''t use unsafe passwords'
+    forbidden_characters: '&4Your password contains illegal characters. Allowed chars: %valid_chars'
+    wrong_length: '&b【AuthMe】&6你的密碼 超過最大字數 / 小於最小字數'
+# Login
+login:
+    command_usage: '&b【AuthMe】&6用法: &c"/login <密碼>"'
+    wrong_password: '&b【AuthMe】&6密碼錯誤!'
+    success: '&b【AuthMe】&6密碼正確，你已成功登入!'
+    login_request: '&b【AuthMe】&6請使用 &c"/login <密碼>" &6來登入。'
+    timeout_error: '&b【AuthMe】&6超過登入時間，請再試一次'
+# Errors
+error:
+    denied_command: '&cIn order to use this command you must be authenticated!'
+    denied_chat: '&cIn order to chat you must be authenticated!'
+    unregistered_user: '&b【AuthMe】&6沒有在資料庫內找到該玩家。'
+    not_logged_in: '&b【AuthMe】&6你還沒有登入!'
+    no_permission: '&b【AuthMe】&6你沒有使用該指令的權限。'
+    unexpected_error: '&b【AuthMe】&6發生錯誤，請聯繫管理員'
+    max_registration: '&b【AuthMe】&6你註冊的帳號數量已達到最大。'
+    logged_in: '&b【AuthMe】&6你已經登入了!'
+    kick_for_vip: '&&b【AuthMe】&6VIP玩家只能在伺服器滿人時登入伺服器!'
+    kick_unresolved_hostname: '&cAn error occurred: unresolved player hostname!'
+    tempban_max_logins: '&cYou have been temporarily banned for failing to log in too many times.'
+# AntiBot
+antibot:
+    kick_antibot: 'AntiBot protection mode is enabled! You have to wait some minutes before joining the server.'
+    auto_enabled: '&b【AuthMe】&6AntiBotMod已自動啟用!'
+    auto_disabled: '&b【AuthMe】&6AntiBotMod將會於 &c%m &6分鐘後自動關閉'
+# Unregister
+unregister:
+    success: '&b【AuthMe】&6你還沒有註冊!'
+    command_usage: '&b【AuthMe】&6用法: &c"/unregister <密碼>"'
+# Other messages
+misc:
+    account_not_activated: '&b【AuthMe】&6你的帳號還沒有經過驗證! 檢查看看你的電子信箱 (Email) 吧!'
+    password_changed: '&b【AuthMe】&6密碼變更成功!'
+    logout: '&b【AuthMe】&6你已成功登出'
+    reload: '&b【AuthMe】&6已重新讀取設定檔及資料庫'
+    usage_change_password: '&b【AuthMe】&6用法: &c"/changepassword <舊密碼> <新密碼>"'
+    accounts_owned_self: 'You own %count accounts:'
+    accounts_owned_other: 'The player %name has %count accounts:'
+# Session messages
+session:
+    valid_session: '&b【AuthMe】&6憑證登入'
+    invalid_session: '&b【AuthMe】&6憑證日期不相符!'
+# Error messages when joining
+on_join_validation:
+    same_ip_online: 'A player with the same IP is already in game!'
+    same_nick_online: '&b【AuthMe】&6有同樣帳號的玩家在線上!'
+    name_length: '&b【AuthMe】&6你的暱稱 太長 / 太短 了!'
+    characters_in_name: '&b【AuthMe】&6暱稱裡包含不能使用的字符'
+    kick_full_server: '&b【AuthMe】&6伺服器已經滿了，請等等再試一次'
+    country_banned: '你所在的地區無法進入此伺服器'
+    not_owner_error: 'You are not the owner of this account. Please choose another name!'
+    invalid_name_case: 'You should join using username %valid, not %invalid.'
+    quick_command: 'You used a command too fast! Please, join the server again and wait more before using any command.'
+# Email
+email:
+    add_email_request: '&b【AuthMe】&6請使用 &c"/email add <你的Email> <再次輸入你的Email>" &6來增加Email'
+    usage_email_add: '&b【AuthMe】&6用法: &c"/email add <你的Email> <重複輸入你的Email>"'
+    usage_email_change: '&b【AuthMe】&6用法: &c"/email change <現在的Email> <要替換的Email>"'
+    new_email_invalid: '&b【AuthMe】&6新的Email無效!'
+    old_email_invalid: '&b【AuthMe】&6舊的Email無效!'
+    invalid: '&b【AuthMe】&6無效的Email!'
+    added: '&b【AuthMe】&6已添加Email!'
+    add_not_allowed: '&cAdding email was not allowed.'
+    request_confirmation: '&b【AuthMe】&6驗證你的Email!'
+    changed: '&b【AuthMe】&6Email已變更!'
+    change_not_allowed: '&cChanging email was not allowed.'
+    email_show: '&2Your current email address is: &f%email'
+    no_email_for_account: '&2You currently don''t have email address associated with this account.'
+    already_used: '&4The email address is already being used'
+    incomplete_settings: 'Error: not all required settings are set for sending emails. Please contact an admin.'
+    send_failure: 'The email could not be sent. Please contact an administrator.'
+    change_password_expired: 'You cannot change your password using this command anymore.'
+    email_cooldown_error: '&cAn email was already sent recently. You must wait %time before you can send a new one.'
+# Password recovery by email
+recovery:
+    forgot_password_hint: '&b【AuthMe】&6忘記密碼了嗎? 使用 &c"/email recovery <你的Email>"'
+    command_usage: '&b【AuthMe】&6用法: &c"/email recovery <你的Email>"'
+    email_sent: '&b【AuthMe】&6已經送出要求至你的Email!'
+    code:
+        code_sent: 'A recovery code to reset your password has been sent to your email.'
+        incorrect: 'The recovery code is not correct! You have %count tries remaining.'
+        tries_exceeded: 'You have exceeded the maximum number attempts to enter the recovery code. Use "/email recovery [email]" to generate a new one.'
+        correct: 'Recovery code entered correctly!'
+        change_password: 'Please use the command /email setpassword <new password> to change your password immediately.'
+# Captcha
+captcha:
+    usage_captcha: '&b【AuthMe】&6請用 &c"/captcha %captcha_code" &6來輸入你的驗證碼'
+    wrong_captcha: '&b【AuthMe】&6錯誤的驗證碼'
+    valid_captcha: '&b【AuthMe】&6驗證碼無效!'
+    captcha_for_registration: 'To register you have to solve a captcha first, please use the command: /captcha %captcha_code'
+    register_captcha_valid: '&2Valid captcha! You may now register with /register'
+# Verification code
+verification:
+    code_required: '&3This command is sensitive and requires an email verification! Check your inbox and follow the email''s instructions.'
+    command_usage: '&cUsage: /verification <code>'
+    incorrect_code: '&cIncorrect code, please type "/verification <code>" into the chat, using the code you received by email'
+    success: '&2Your identity has been verified! You can now execute all commands within the current session!'
+    already_verified: '&2You can already execute every sensitive command within the current session!'
+    code_expired: '&3Your code has expired! Execute another sensitive command to get a new code!'
+    email_needed: '&3To verify your identity you need to link an email address with your account!!'
+# Time units
+time:
+    second: 'second'
+    seconds: 'seconds'
+    minute: 'minute'
+    minutes: 'minutes'
+    hour: 'hour'
+    hours: 'hours'
+    day: 'day'
+    days: 'days'
+# Two-factor authentication
+two_factor:
+    code_created: '&2Your secret code is %code. You can scan it from here %url'
+    confirmation_required: 'Please confirm your code with /2fa confirm <code>'
+    code_required: 'Please submit your two-factor authentication code with /2fa code <code>'
+    already_enabled: 'Two-factor authentication is already enabled for your account!'
+    enable_error_no_code: 'No 2fa key has been generated for you or it has expired. Please run /2fa add'
+    enable_success: 'Successfully enabled two-factor authentication for your account'
+    enable_error_wrong_code: 'Wrong code or code has expired. Please run /2fa add'
+    not_enabled_error: 'Two-factor authentication is not enabled for your account. Run /2fa add'
+    removed_success: 'Successfully removed two-factor auth from your account'
+    invalid_code: 'Invalid code!'

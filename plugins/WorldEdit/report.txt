@@ -1,0 +1,195 @@
+================================
+System Information
+================================
+
+Java: Oracle Corporation 1.8.0_45 (http://java.oracle.com/)
+Operating System: Windows 8.1 6.3 (amd64)
+Available Processors: 8
+Free Memory: 2595 MB
+Max Memory: 8889 MB
+Total Memory: 6328 MB
+System Load Average: -1.0
+Java Uptime: 61 minutes
+Startup: 
+	Input Arguments: 
+		-Xmx10000M
+		-Xms1024M
+Virtual Machine: 
+	Name: Java HotSpot(TM) 64-Bit Server VM
+	Vendor: Oracle Corporation
+	Version: Oracle Corporation
+Specification: 
+	Name: Java Virtual Machine Specification
+	Vendor: Oracle Corporation
+	Version: 1.8
+Class Loader: 
+	Loaded Class Count: 23500
+	Total Loaded Class Count: 23546
+	Unloaded Class Count: 46
+Garbage Collectors: 
+	PS Scavenge: 
+		Collection Count: 434
+		Collection Time: 16173ms
+	PS MarkSweep: 
+		Collection Count: 5
+		Collection Time: 4489ms
+Threads: 
+	#210 AuthMe-CacheLoader: TIMED_WAITING
+	#209 Craft Scheduler Thread - 35: TIMED_WAITING
+	#207 Craft Scheduler Thread - 34: TIMED_WAITING
+	#206 Craft Scheduler Thread - 33: TIMED_WAITING
+	#201 Thread-82: TIMED_WAITING
+	#200 Server-Worker-24: WAITING
+	#196 Server-Worker-23: WAITING
+	#192 Server-Worker-21: WAITING
+	#182 Server-Worker-19: WAITING
+	#167 Server-Worker-15: TIMED_WAITING
+	#145 Netty Server IO #3: RUNNABLE
+	#144 Netty Server IO #2: RUNNABLE
+	#140 AWT-Windows: RUNNABLE
+	#138 Java2D Disposer: WAITING
+	#137 pool-13-thread-1: WAITING
+	#133 pool-17-thread-1: WAITING
+	#131 Netty Server IO #1: RUNNABLE
+	#114 mysql-cj-abandoned-connection-cleanup: TIMED_WAITING
+	#113 poi IO worker: WAITING
+	#112 chunk IO worker: WAITING
+	#111 poi IO worker: WAITING
+	#110 chunk IO worker: WAITING
+	#109 poi IO worker: WAITING
+	#108 chunk IO worker: WAITING
+	#107 poi IO worker: WAITING
+	#106 chunk IO worker: WAITING
+	#105 poi IO worker: WAITING
+	#104 chunk IO worker: WAITING
+	#103 poi IO worker: WAITING
+	#102 chunk IO worker: WAITING
+	#101 Server-Worker-11: WAITING
+	#100 poi IO worker: WAITING
+	#99 chunk IO worker: WAITING
+	#98 poi IO worker: WAITING
+	#97 chunk IO worker: WAITING
+	#96 etp1458691063-96: WAITING
+	#95 etp1458691063-95: TIMED_WAITING
+	#94 etp1458691063-94: WAITING
+	#93 etp1458691063-93: WAITING
+	#92 etp1458691063-92: WAITING
+	#91 etp1458691063-91: WAITING
+	#90 etp1458691063-90: WAITING
+	#89 etp1458691063-89: WAITING
+	#88 etp1458691063-88: WAITING
+	#87 etp1458691063-87: WAITING
+	#86 etp1458691063-86: WAITING
+	#85 etp1458691063-85: WAITING
+	#84 etp1458691063-84: WAITING
+	#83 etp1458691063-83: WAITING
+	#82 etp1458691063-82: WAITING
+	#81 etp1458691063-81: WAITING
+	#80 etp1458691063-80: WAITING
+	#79 etp1458691063-79: WAITING
+	#78 etp1458691063-78: RUNNABLE
+	#76 poi IO worker: WAITING
+	#75 chunk IO worker: WAITING
+	#74 etp1458691063-74: WAITING
+	#73 etp1458691063-73: WAITING
+	#72 etp1458691063-72: WAITING
+	#71 etp1458691063-71: WAITING
+	#70 etp1458691063-70: WAITING
+	#69 etp1458691063-69: WAITING
+	#68 etp1458691063-68: TIMED_WAITING
+	#67 Connector-Scheduler-5d8d58e8-1: TIMED_WAITING
+	#66 etp1458691063-66: TIMED_WAITING
+	#65 pool-14-thread-1: TIMED_WAITING
+	#64 etp1458691063-64: WAITING
+	#63 Session-HouseKeeper-6445641b-1: TIMED_WAITING
+	#62 etp1458691063-62: WAITING
+	#61 etp1458691063-61: WAITING
+	#58 Dynmap Render Thread: TIMED_WAITING
+	#57 Dynmap Render Thread: RUNNABLE
+	#56 Dynmap Render Thread: WAITING
+	#55 Thread-25: TIMED_WAITING
+	#53 poi IO worker: WAITING
+	#52 chunk IO worker: WAITING
+	#51 poi IO worker: WAITING
+	#50 chunk IO worker: WAITING
+	#49 poi IO worker: WAITING
+	#48 chunk IO worker: WAITING
+	#44 Thread-16: RUNNABLE
+	#43 Thread-15: RUNNABLE
+	#42 Thread-14: RUNNABLE
+	#41 Thread-13: RUNNABLE
+	#40 Thread-12: RUNNABLE
+	#39 Thread-11: RUNNABLE
+	#38 Thread-10: RUNNABLE
+	#37 Thread-9: RUNNABLE
+	#36 Thread-8: RUNNABLE
+	#35 Timer-0: TIMED_WAITING
+	#34 WorldEdit Session Manager: TIMED_WAITING
+	#33 Netty Server IO #0: RUNNABLE
+	#32 ObjectCleanerThread: TIMED_WAITING
+	#31 Spigot Metrics Thread: TIMED_WAITING
+	#30 Spigot Watchdog Thread: TIMED_WAITING
+	#28 Server console handler: RUNNABLE
+	#29 TerminalConsoleWriter: WAITING
+	#27 DestroyJavaVM: RUNNABLE
+	#22 Server thread: RUNNABLE
+	#26 Server Infinisleeper: TIMED_WAITING
+	#24 NonBlockingInputStreamThread: WAITING
+	#21 Snooper Timer: WAITING
+	#17 Server-Worker-4: WAITING
+	#5 Attach Listener: RUNNABLE
+	#4 Signal Dispatcher: RUNNABLE
+	#3 Finalizer: WAITING
+	#2 Reference Handler: WAITING
+
+================================
+WorldEdit Configuration
+================================
+
+Configuration: 
+	noOpPermissions: false
+	commandBlockSupport: false
+	profile: false
+	traceUnflushedSessions: false
+	disallowedBlocks: [minecraft:yellow_bed, minecraft:lever, minecraft:redstone_torch, minecraft:tnt, minecraft:moving_piston, minecraft:gray_bed, minecraft:light_blue_bed, minecraft:acacia_sapling, minecraft:cyan_bed, minecraft:comparator, minecraft:grass, minecraft:torch, minecraft:oak_button, minecraft:black_bed, minecraft:sunflower, minecraft:fire, minecraft:magenta_bed, minecraft:dark_oak_sapling:, minecraft:melon_stem, minecraft:oak_sapling, minecraft:spruce_sapling, minecraft:powered_rail, minecraft:carrots, minecraft:poppy, minecraft:jungle_button, minecraft:red_bed, minecraft:jungle_sapling, minecraft:brown_bed, minecraft:rail, minecraft:birch_sapling, minecraft:dead_bush, minecraft:acacia_button, minecraft:lime_bed, minecraft:bedrock, minecraft:wheat, minecraft:green_bed, minecraft:rose_bush, minecraft:redstone_wire, minecraft:stone_button, minecraft:beetroots, minecraft:blue_bed, minecraft:sugar_cane, minecraft:red_mushroom, minecraft:orange_bed, minecraft:repeater, minecraft:pumpkin_stem, minecraft:detector_rail, minecraft:piston_head, minecraft:birch_button, minecraft:dark_oak_button, minecraft:spruce_button, minecraft:redstone_wall_torch, minecraft:pink_bed, minecraft:potatoes, minecraft:purple_bed, minecraft:brown_mushroom, minecraft:cactus, minecraft:light_gray_bed, minecraft:dandelion, minecraft:white_bed]
+	defaultChangeLimit: -1
+	maxChangeLimit: -1
+	defaultMaxPolygonalPoints: -1
+	maxPolygonalPoints: 20
+	defaultMaxPolyhedronPoints: -1
+	maxPolyhedronPoints: 20
+	shellSaveType: null
+	snapshotsConfigured: false
+	snapshotRepo: null
+	snapshotDatabase: null
+	maxRadius: -1
+	maxSuperPickaxeSize: 5
+	maxBrushRadius: 5
+	logCommands: false
+	logFile: worldedit.log
+	logFormat: [%1$tY-%1$tm-%1$td %1$tH:%1$tM:%1$tS %4$s]: %5$s%6$s%n
+	registerHelp: true
+	wandItem: minecraft:wooden_axe
+	superPickaxeDrop: true
+	superPickaxeManyDrop: false
+	useInventory: false
+	useInventoryOverride: true
+	useInventoryCreativeOverride: false
+	navigationUseGlass: true
+	navigationWand: minecraft:compass
+	navigationWandMaxDistance: 100
+	scriptTimeout: 3000
+	calculationTimeout: 100
+	maxCalculationTimeout: 300
+	allowedDataCycleBlocks: []
+	saveDir: schematics
+	scriptsDir: craftscripts
+	showHelpInfo: true
+	butcherDefaultRadius: -1
+	butcherMaxRadius: -1
+	allowSymlinks: false
+	serverSideCUI: true
+	extendedYLimit: false
+	defaultLocaleName: default
+	defaultLocale: zh_TW
+
