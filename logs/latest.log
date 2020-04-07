@@ -712,3 +712,36 @@
 [18:07:55] [Server thread/INFO]: Villager EntityVillager['Cleric'/26932, uuid='d27dfceb-a986-4091-b3e1-98cc6d3049b9', l='world', x=597.04, y=64.00, z=724.66, cx=37, cz=45, tl=61020, v=true, d=false] died, message: 'Cleric was slain by Zombie'
 [18:19:00] [Server thread/INFO]: OChinBo lost connection: Disconnected
 [18:19:00] [Server thread/INFO]: OChinBo left the game
+[18:20:18] [Server thread/INFO]: Villager EntityVillager['Villager'/26902, uuid='8bb5eb18-b768-4983-8a53-90cc125bc801', l='world', x=661.28, y=66.00, z=753.37, cx=41, cz=47, tl=75926, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[18:22:11] [Server thread/INFO]: Villager EntityVillager['Villager'/26915, uuid='81815715-f162-43ff-b8ec-0e70f1032b0d', l='world', x=560.50, y=70.94, z=743.40, cx=35, cz=46, tl=78161, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[18:23:47] [User Authenticator #5/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[18:23:47] [Server thread/INFO]: RocKog[/111.251.26.49:50259] logged in with entity id 43911 at ([world]219.42409291358422, 69.0, 265.21730223244913)
+[18:23:59] [Craft Scheduler Thread - 81/INFO]: [AuthMe] RocKog logged in!
+[18:24:15] [Server thread/INFO]: RocKog issued server command: /homes
+[18:24:15] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[18:24:15] [Server thread/WARN]: apple moved too quickly! -362.03625536045877,-5.98998534764516,2077.099611326683
+[18:24:25] [Server thread/INFO]: RocKog issued server command: /spawn
+[18:24:32] [Server thread/INFO]: RocKog issued server command: /homes
+[18:25:03] [Server thread/INFO]: RocKog issued server command: /set
+[18:25:09] [Server thread/INFO]: RocKog issued server command: /sethome
+[18:25:13] [Server thread/INFO]: RocKog issued server command: /home
+[18:27:11] [Server thread/INFO]: apple lost connection: Disconnected
+[18:27:11] [Server thread/INFO]: apple left the game
+[18:31:22] [Server thread/INFO]: RocKog issued server command: /sethome
+[18:47:03] [Server thread/INFO]: RocKog issued server command: /sethome
+[19:08:15] [User Authenticator #6/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[19:08:16] [User Authenticator #6/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[19:08:16] [Server thread/INFO]: wolf[/115.165.203.20:58251] logged in with entity id 52673 at ([world]262.3188909927087, 63.0, 1417.7490634448698)
+[19:08:16] [Server thread/INFO]: FredYea[/124.6.23.53:50438] logged in with entity id 52683 at ([world]218.5, 69.0, 264.5)
+[19:08:16] [pool-14-thread-1/INFO]: [Essentials] 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\3bd6dd21-b03e-3591-ab95-b403be4538c7.yml
+[19:08:16] [Server thread/INFO]: FredYea has made the advancement [Getting an Upgrade]
+[19:08:27] [Craft Scheduler Thread - 98/INFO]: [AuthMe] wolf logged in!
+[19:08:46] [Server thread/INFO]: FredYea lost connection: 【AuthMe】超過登入時間，請再試一次
+[19:08:46] [Server thread/INFO]: FredYea left the game
+[19:08:46] [Server thread/WARN]: handleDisconnection() called twice
+[19:08:52] [User Authenticator #6/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[19:08:52] [Server thread/INFO]: FredYea[/124.6.23.53:50442] logged in with entity id 53063 at ([world]219.25787405260442, 69.0, 265.96355349736507)
+[19:09:08] [Server thread/INFO]: [AuthMe] FredYea registered 124.6.23.53
+[19:09:08] [Craft Scheduler Thread - 98/INFO]: [AuthMe] FredYea logged in!
+[19:10:45] [Async Chat Thread - #10/INFO]: []<wolf> yee
+[19:18:05] [Server thread/INFO]: FredYea has made the advancement [Stone Age]
