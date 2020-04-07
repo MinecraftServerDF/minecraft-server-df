@@ -566,3 +566,5 @@
 [03:43:54] [Craft Scheduler Thread - 6/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [03:43:54] [Craft Scheduler Thread - 6/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
 [03:43:54] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[03:44:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59500 tiles rendered (229.65 msec/tile, 354.60 msec per render)
+[03:44:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59600 tiles rendered (229.53 msec/tile, 145.31 msec per render)
