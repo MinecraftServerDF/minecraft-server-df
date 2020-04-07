@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-07 22:02:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-04-05 19:45:16 +0800"
@@ -526,6 +532,7 @@
       "minecraft:phantom": "2020-04-05 18:29:03 +0800",
       "minecraft:witch": "2020-04-04 21:32:50 +0800",
       "minecraft:husk": "2020-04-04 00:41:59 +0800",
+      "minecraft:cave_spider": "2020-04-07 21:01:47 +0800",
       "minecraft:zombie": "2020-04-03 23:46:21 +0800",
       "minecraft:drowned": "2020-04-05 18:25:20 +0800"
     },
@@ -642,6 +649,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-03 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-04-07 20:44:47 +0800"
     },
     "done": true
   },
@@ -768,6 +781,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-03 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-07 22:02:29 +0800"
     },
     "done": true
   },
@@ -1224,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-07 22:02:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-04-04 20:57:47 +0800"
@@ -1245,6 +1270,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-03 23:33:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-04-07 21:50:51 +0800"
     },
     "done": true
   },
@@ -1737,6 +1768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-07 20:57:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-04 00:12:21 +0800"
@@ -1803,6 +1840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-04-07 20:44:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-04 00:19:42 +0800"
@@ -1833,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-04-07 21:50:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-05 17:56:46 +0800"
@@ -1854,6 +1903,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2020-04-04 20:33:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-04-07 20:44:47 +0800"
     },
     "done": true
   },
@@ -1998,6 +2053,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-04 20:28:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-04-07 22:00:18 +0800"
     },
     "done": true
   },
@@ -2208,6 +2269,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-04 21:32:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-07 20:57:58 +0800"
     },
     "done": true
   },
