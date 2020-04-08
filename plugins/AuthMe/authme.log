@@ -2547,3 +2547,109 @@
 [04-07 20:14:23]: [FINE] aforward3326 logged in!
 [04-07 20:36:15]: [FINE] LRIC logged in!
 [04-07 20:39:11]: [FINE] aforward3326 logged in!
+[04-07 20:46:32]: [FINE] rgps3725 logged in!
+[04-07 20:53:16]: [FINE] YuShiou logged in!
+[04-07 21:01:01]: [FINE] apple logged in!
+[04-07 21:03:35]: [FINE] mogoo logged in!
+[04-07 21:04:23]: [FINE] vu06m6 logged in!
+[04-07 21:07:27]: [FINE] RocKog logged in!
+[04-07 21:14:30]: [FINE] aforward3326 logged in!
+[04-07 21:16:11]: [FINE] Selina logged in!
+[04-07 21:21:47]: [FINE] PowerPU logged in!
+[04-07 21:22:50]: [FINE] Andy logged in!
+[04-07 21:30:18]: [FINE] aforward3326 used the wrong password
+[04-07 21:30:31]: [FINE] aforward3326 logged in!
+[04-07 21:33:10]: [FINE] aforward3326 logged in!
+[04-07 21:34:18]: [FINE] aforward3326 logged in!
+[04-07 21:40:28]: [FINE] apple logged in!
+[04-07 21:41:35]: [FINE] aforward3326 logged in!
+[04-07 21:50:07]: [FINE] aforward3326 logged in!
+[04-07 21:55:17]: [FINE] apple logged in!
+[04-07 22:03:18]: [FINE] aforward3326 logged in!
+[04-07 22:10:59]: [FINE] aforward3326 logged in!
+[04-07 22:21:38]: [FINE] aforward3326 logged in!
+[04-07 22:34:59]: [FINE] OChinBo logged in!
+[04-07 22:45:28]: [FINE] apple used the wrong password
+[04-07 22:45:43]: [FINE] apple logged in!
+[04-07 22:46:38]: [FINE] Allen registered 123.193.76.147
+[04-07 22:46:38]: [FINE] Allen logged in!
+[04-07 22:51:36]: [FINE] mogoo logged in!
+[04-07 22:53:21]: [FINE] Allen logged in!
+[04-07 22:54:25]: [FINE] LRIC logged in!
+[04-07 23:51:02]: [FINE] mogoo logged in!
+[04-08 00:12:49]: [FINE] apple used the wrong password
+[04-08 00:12:57]: [FINE] apple used the wrong password
+[04-08 00:13:11]: [FINE] apple logged in!
+[04-08 00:16:59]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-08 00:17:11]: [INFO] SQLite Setup finished
+[04-08 00:17:11]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-08 00:17:11]: [INFO] Hooked successfully into Essentials
+[04-08 00:17:11]: [INFO] Hooked successfully into Multiverse-Core
+[04-08 00:17:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-08 00:17:11]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-08 00:17:14]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-08 00:17:14]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-08 00:17:14]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-08 00:17:14]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-08 00:17:14]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$5341/1013791359.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-08 00:17:26]: [FINE] rgps3725 logged in!
+[04-08 00:17:37]: [FINE] OChinBo logged in!
+[04-08 00:17:54]: [FINE] YuShiou logged in!
+[04-08 00:18:01]: [FINE] apple logged in!
+[04-08 01:58:41]: [FINE] appa1423 registered 27.242.73.27
+[04-08 01:58:41]: [FINE] appa1423 logged in!
+[04-08 02:14:08]: [FINE] PowerPU logged in!
+[04-08 02:41:05]: [FINE] OChinBo logged in!
+[04-08 02:54:42]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-08 03:43:52]: [INFO] SQLite Setup finished
+[04-08 03:43:53]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-08 03:43:53]: [INFO] Hooked successfully into Essentials
+[04-08 03:43:53]: [INFO] Hooked successfully into Multiverse-Core
+[04-08 03:43:53]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-08 03:43:53]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-08 03:43:53]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-08 03:43:54]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-08 03:43:54]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-08 03:43:54]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-08 03:43:54]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3670/1725266705.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-08 07:37:38]: [FINE] mogoo logged in!
+[04-08 09:04:00]: [FINE] OChinBo logged in!
+[04-08 09:50:22]: [FINE] OChinBo logged in!
+[04-08 09:53:10]: [FINE] OChinBo logged in!
+[04-08 10:04:13]: [FINE] OChinBo logged in!
+[04-08 10:34:20]: [FINE] OChinBo logged in!
+[04-08 12:14:06]: [FINE] appa1423 logged in!
+[04-08 12:45:15]: [FINE] OChinBo logged in!
+[04-08 12:51:35]: [FINE] pig registered 114.45.154.12
+[04-08 12:51:35]: [FINE] pig logged in!
+[04-08 13:24:53]: [FINE] apple logged in!
