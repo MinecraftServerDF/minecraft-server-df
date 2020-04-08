@@ -343,6 +343,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2020-04-08 20:26:35 +0800",
       "rotten_flesh": "2020-04-03 22:04:32 +0800"
     },
     "done": false
@@ -1153,6 +1154,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-07 21:11:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-04-08 20:37:13 +0800"
     },
     "done": true
   },

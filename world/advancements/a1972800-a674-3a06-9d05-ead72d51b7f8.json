@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-08 20:12:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-04 21:40:24 +0800"
@@ -917,6 +923,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-04 20:05:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-08 20:20:10 +0800"
     },
     "done": true
   },
@@ -1785,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-08 20:20:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-04 20:05:37 +0800"
@@ -1902,6 +1920,7 @@
       "minecraft:lukewarm_ocean": "2020-04-07 23:43:03 +0800",
       "minecraft:wooded_hills": "2020-04-04 20:13:10 +0800",
       "minecraft:stone_shore": "2020-04-04 21:20:31 +0800",
+      "minecraft:wooded_badlands_plateau": "2020-04-08 19:58:19 +0800",
       "minecraft:swamp": "2020-04-05 12:08:52 +0800",
       "minecraft:savanna": "2020-04-04 20:29:12 +0800",
       "minecraft:plains": "2020-04-04 20:07:21 +0800"
