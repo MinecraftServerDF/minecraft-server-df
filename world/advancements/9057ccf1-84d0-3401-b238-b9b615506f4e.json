@@ -1311,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-04-08 10:14:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2020-04-07 23:30:02 +0800"
@@ -2357,6 +2363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-04-08 10:14:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-04-08 01:35:52 +0800"
@@ -2762,6 +2774,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2020-04-08 10:25:10 +0800",
+      "textures/entity/cat/white.png": "2020-04-08 10:24:46 +0800",
       "textures/entity/cat/black.png": "2020-04-08 00:00:47 +0800",
       "textures/entity/cat/siamese.png": "2020-04-08 09:19:14 +0800",
       "textures/entity/cat/ragdoll.png": "2020-04-07 23:32:27 +0800",
