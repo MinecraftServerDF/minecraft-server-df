@@ -1089,3 +1089,74 @@
 [18:54:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18100 tiles rendered (217.17 msec/tile, 157.44 msec per render)
 [18:54:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18200 tiles rendered (217.46 msec/tile, 157.76 msec per render)
 [18:55:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18300 tiles rendered (217.68 msec/tile, 158.01 msec per render)
+[18:55:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18400 tiles rendered (217.86 msec/tile, 158.24 msec per render)
+[18:56:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18500 tiles rendered (217.98 msec/tile, 158.42 msec per render)
+[18:56:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18600 tiles rendered (218.01 msec/tile, 158.47 msec per render)
+[18:57:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18700 tiles rendered (218.11 msec/tile, 158.61 msec per render)
+[18:57:10] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[18:57:15] [Server thread/INFO]: Villager EntityVillager['Cartographer'/2052, uuid='3fc4f18e-0ca6-46ae-8bb3-e938e5505283', l='world', x=585.41, y=64.00, z=678.43, cx=36, cz=42, tl=134532, v=true, d=false] died, message: 'Cartographer was slain by Zombie'
+[18:57:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18800 tiles rendered (218.09 msec/tile, 158.66 msec per render)
+[18:57:34] [Server thread/INFO]: Villager EntityVillager['Mason'/2051, uuid='1b008daa-af38-42ef-9bb2-7fc805c32177', l='world', x=586.38, y=64.00, z=695.17, cx=36, cz=43, tl=132735, v=true, d=false] died, message: 'Mason was slain by Zombie'
+[18:57:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 18900 tiles rendered (217.88 msec/tile, 158.52 msec per render)
+[18:57:56] [Async Chat Thread - #1/INFO]: []<apple> 以前蓋過超大西瓜塔
+[18:57:56] [Server thread/INFO]: Villager EntityVillager['Armorer'/2053, uuid='4d2d6ca5-291f-49c7-90d0-ed08144d8971', l='world', x=589.21, y=70.00, z=670.63, cx=36, cz=41, tl=135457, v=true, d=false] died, message: 'Armorer was slain by Zombie'
+[18:58:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19000 tiles rendered (217.75 msec/tile, 158.49 msec per render)
+[18:58:05] [Server thread/INFO]: Villager EntityVillager['Librarian'/2054, uuid='6284e407-3c30-4dcc-aa1e-d98cd2fff40a', l='world', x=578.26, y=65.00, z=678.26, cx=36, cz=42, tl=621381, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[18:58:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19100 tiles rendered (217.38 msec/tile, 158.23 msec per render)
+[18:58:26] [Async Chat Thread - #1/INFO]: []<apple> 對了你可以用 /top傳送到地面
+[18:58:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19200 tiles rendered (217.05 msec/tile, 158.03 msec per render)
+[18:58:41] [Async Chat Thread - #1/INFO]: []<OChinBo> 那有設定home的指令嗎
+[18:58:45] [Async Chat Thread - #1/INFO]: []<OChinBo> 可以直接傳回自己家
+[18:58:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19300 tiles rendered (216.62 msec/tile, 157.73 msec per render)
+[18:58:55] [Async Chat Thread - #1/INFO]: []<apple> 有睡覺 就是home呀
+[18:59:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19400 tiles rendered (216.35 msec/tile, 157.59 msec per render)
+[18:59:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19500 tiles rendered (216.04 msec/tile, 157.39 msec per render)
+[18:59:31] [Server thread/INFO]: apple issued server command: /top
+[18:59:31] [Server thread/WARN]: apple moved too quickly! -0.19999998807907104,51.0,0.19999998807907104
+[18:59:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19600 tiles rendered (215.75 msec/tile, 157.22 msec per render)
+[18:59:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19700 tiles rendered (215.54 msec/tile, 157.13 msec per render)
+[19:00:05] [Server thread/INFO]: apple issued server command: /top
+[19:00:05] [Server thread/WARN]: apple moved too quickly! 0.13031271044837922,21.0,0.19999998807907104
+[19:00:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19800 tiles rendered (215.52 msec/tile, 157.19 msec per render)
+[19:00:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 19900 tiles rendered (215.46 msec/tile, 157.19 msec per render)
+[19:00:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20000 tiles rendered (215.35 msec/tile, 157.13 msec per render)
+[19:01:00] [Server thread/INFO]: apple issued server command: /top
+[19:01:10] [Server thread/INFO]: apple issued server command: /top
+[19:01:10] [Server thread/WARN]: apple moved too quickly! -0.19999998807907104,36.0,0.19999998807907104
+[19:01:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20100 tiles rendered (215.24 msec/tile, 157.08 msec per render)
+[19:01:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20200 tiles rendered (215.33 msec/tile, 157.21 msec per render)
+[19:02:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20300 tiles rendered (215.37 msec/tile, 157.27 msec per render)
+[19:02:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20400 tiles rendered (215.41 msec/tile, 157.34 msec per render)
+[19:02:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20500 tiles rendered (215.48 msec/tile, 157.42 msec per render)
+[19:03:07] [Server thread/INFO]: OChinBo issued server command: /top
+[19:03:07] [Server thread/WARN]: OChinBo moved too quickly! -0.4837904512359046,54.0,0.3522444720929343
+[19:03:11] [Server thread/INFO]: OChinBo issued server command: /home
+[19:03:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20600 tiles rendered (215.71 msec/tile, 157.67 msec per render)
+[19:03:25] [Server thread/INFO]: OChinBo issued server command: /sethome
+[19:03:29] [User Authenticator #5/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[19:03:30] [Server thread/INFO]: RocKog[/111.251.26.49:51793] logged in with entity id 8316 at ([world]66.31999989083225, 95.5, 795.9199722383695)
+[19:03:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20700 tiles rendered (215.88 msec/tile, 157.84 msec per render)
+[19:03:56] [Craft Scheduler Thread - 105/INFO]: [AuthMe] RocKog logged in!
+[19:04:04] [Server thread/INFO]: apple issued server command: /kill apple
+[19:04:04] [Server thread/INFO]: apple died
+[19:04:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20800 tiles rendered (216.03 msec/tile, 158.00 msec per render)
+[19:04:27] [Server thread/INFO]: apple issued server command: /fly
+[19:04:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 20900 tiles rendered (216.26 msec/tile, 158.25 msec per render)
+[19:05:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21000 tiles rendered (216.42 msec/tile, 158.44 msec per render)
+[19:05:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21100 tiles rendered (216.51 msec/tile, 158.56 msec per render)
+[19:05:37] [Server thread/INFO]: OChinBo issued server command: /home
+[19:05:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21200 tiles rendered (216.57 msec/tile, 158.63 msec per render)
+[19:05:58] [Server thread/INFO]: RocKog fell from a high place
+[19:06:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21300 tiles rendered (216.76 msec/tile, 158.82 msec per render)
+[19:06:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21400 tiles rendered (216.83 msec/tile, 158.90 msec per render)
+[19:07:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21500 tiles rendered (216.81 msec/tile, 158.92 msec per render)
+[19:07:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21600 tiles rendered (216.78 msec/tile, 158.93 msec per render)
+[19:07:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21700 tiles rendered (216.82 msec/tile, 158.98 msec per render)
+[19:08:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21800 tiles rendered (217.05 msec/tile, 159.25 msec per render)
+[19:08:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 21900 tiles rendered (217.25 msec/tile, 159.48 msec per render)
+[19:09:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 22000 tiles rendered (217.47 msec/tile, 159.76 msec per render)
+[19:09:37] [Server thread/WARN]: apple moved too quickly! -15.144508032056663,-0.01007153876089717,17.832918056491053
+[19:09:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 22100 tiles rendered (217.93 msec/tile, 160.17 msec per render)
+[19:10:13] [Server thread/INFO]: apple lost connection: Disconnected
+[19:10:13] [Server thread/INFO]: apple left the game
+[19:10:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'cave' of 'world' in progress - 22200 tiles rendered (218.55 msec/tile, 160.84 msec per render)
