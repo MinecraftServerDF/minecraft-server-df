@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-04-09 01:31:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2020-04-09 00:08:57 +0800"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-04-09 00:41:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2020-04-08 23:19:45 +0800"
@@ -235,6 +247,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2020-04-09 00:52:36 +0800",
+      "baked_potato": "2020-04-09 01:02:45 +0800",
+      "apple": "2020-04-09 01:27:24 +0800",
       "bread": "2020-04-09 00:37:58 +0800",
       "suspicious_stew": "2020-04-08 23:19:45 +0800",
       "cooked_chicken": "2020-04-08 22:53:50 +0800"
@@ -361,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-04-09 00:44:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-09 00:37:21 +0800"
@@ -413,6 +434,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-08 23:34:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-04-09 00:57:58 +0800"
     },
     "done": true
   },
