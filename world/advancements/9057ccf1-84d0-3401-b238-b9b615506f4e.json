@@ -149,6 +149,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-08 19:44:20 +0800",
+      "diamond_helmet": "2020-04-08 19:44:20 +0800",
+      "diamond_chestplate": "2020-04-08 19:44:20 +0800",
+      "diamond_boots": "2020-04-08 19:44:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-05 17:29:59 +0800"
@@ -2144,6 +2153,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-04-05 12:11:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": "2020-04-08 21:15:43 +0800"
     },
     "done": true
   },

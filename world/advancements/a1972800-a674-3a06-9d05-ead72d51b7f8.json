@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-08 20:12:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-04 21:40:24 +0800"
@@ -461,6 +467,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-04 20:53:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-08 20:59:27 +0800"
     },
     "done": true
   },
@@ -920,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-08 20:20:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-04 20:53:40 +0800"
@@ -977,6 +995,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2020-04-08 00:11:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-08 20:58:47 +0800"
     },
     "done": true
   },
@@ -1263,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-08 20:59:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-04 20:13:21 +0800"
@@ -1386,6 +1416,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-04-05 11:33:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-08 20:58:47 +0800"
     },
     "done": true
   },
@@ -1713,6 +1749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-08 20:58:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-04-04 20:14:05 +0800"
@@ -1782,6 +1824,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-04 21:40:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-08 20:20:10 +0800"
     },
     "done": true
   },
@@ -1902,6 +1950,7 @@
       "minecraft:lukewarm_ocean": "2020-04-07 23:43:03 +0800",
       "minecraft:wooded_hills": "2020-04-04 20:13:10 +0800",
       "minecraft:stone_shore": "2020-04-04 21:20:31 +0800",
+      "minecraft:wooded_badlands_plateau": "2020-04-08 19:58:19 +0800",
       "minecraft:swamp": "2020-04-05 12:08:52 +0800",
       "minecraft:savanna": "2020-04-04 20:29:12 +0800",
       "minecraft:plains": "2020-04-04 20:07:21 +0800"
@@ -2088,6 +2137,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2020-04-08 20:58:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-04-04 20:21:42 +0800"
@@ -2139,6 +2194,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-04-05 17:32:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-08 20:59:27 +0800"
     },
     "done": true
   },
