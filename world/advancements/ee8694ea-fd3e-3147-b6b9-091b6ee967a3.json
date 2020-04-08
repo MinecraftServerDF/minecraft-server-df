@@ -1160,15 +1160,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2020-04-07 20:40:42 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2020-04-07 20:12:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-04-07 20:40:42 +0800"
     },
     "done": true
   },
