@@ -13,18 +13,18 @@
 config-version: 12
 settings:
   debug: false
-  bungeecord: false
   save-user-cache-on-stop-only: false
   sample-count: 12
+  netty-threads: 4
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
-  netty-threads: 4
+  moved-wrongly-threshold: 0.0625
+  log-villager-deaths: true
+  moved-too-quickly-multiplier: 10.0
+  bungeecord: false
   player-shuffle: 0
   user-cache-size: 1000
-  moved-too-quickly-multiplier: 10.0
-  log-villager-deaths: true
-  moved-wrongly-threshold: 0.0625
   attribute:
     maxHealth:
       max: 2048.0
@@ -39,18 +39,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  log: true
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  spam-exclusions:
-  - /skill
-  tab-complete: 0
-  send-namespaced: true
-  silent-commandblock-console: false
 stats:
   disable-saving: false
   forced-stats: {}
@@ -58,18 +46,24 @@ advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+commands:
+  silent-commandblock-console: false
+  tab-complete: 0
+  send-namespaced: true
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 world-settings:
+  worldeditregentempworld:
+    verbose: false
   default:
-    max-entity-collisions: 8
     verbose: true
     view-distance: default
-    item-despawn-rate: 6000
-    hanging-tick-frequency: 100
-    wither-spawn-sound-radius: 0
-    arrow-despawn-rate: 1200
-    trident-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
-    dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-desert: 14357617
     seed-igloo: 14357618
@@ -80,23 +74,22 @@ world-settings:
     seed-ocean: 14357621
     seed-outpost: 165745296
     seed-slime: 987234911
-    zombie-aggressive-towards-villager: true
-    mob-spawn-range: 6
-    hopper-amount: 1
-    max-tnt-per-tick: 100
+    dragon-death-sound-radius: 0
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    item-despawn-rate: 6000
+    arrow-despawn-rate: 1200
+    trident-despawn-rate: 1200
     nerf-spawner-mobs: false
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    mob-spawn-range: 8
+    max-tnt-per-tick: 100
+    hopper-amount: 1
+    max-entity-collisions: 8
     merge-radius:
       item: 2.5
       exp: 3.0
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -114,18 +107,20 @@ world-settings:
       bamboo-modifier: 100
       sweetberry-modifier: 100
       kelp-modifier: 100
-    entity-activation-range:
-      water: 16
-      animals: 32
-      monsters: 32
-      raiders: 48
-      misc: 16
-      tick-inactive-villagers: true
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     max-tick-time:
       tile: 50
       entity: 50
     squid-spawn-range:
       min: 45.0
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 1
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -134,5 +129,10 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
-  worldeditregentempworld:
-    verbose: false
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      raiders: 48
+      misc: 16
+      water: 16
+      tick-inactive-villagers: true
