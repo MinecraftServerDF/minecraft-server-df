@@ -2156,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": "2020-04-08 21:15:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-04-05 12:46:51 +0800"
