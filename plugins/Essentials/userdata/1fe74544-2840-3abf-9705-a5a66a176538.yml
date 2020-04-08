@@ -2,7 +2,7 @@ lastAccountName: RocKog
 timestamps:
   login: 1586343810105
   lastteleport: 1586350010414
-  logout: 1586272614716
+  logout: 1586354113306
 ipAddress: 111.251.26.49
 lastlocation:
   world: world
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 6.60021
 logoutlocation:
   world: world
-  x: 66.31999989083225
-  y: 95.5
-  z: 795.9199722383695
-  yaw: -17.582031
-  pitch: 2.1000433
+  x: 67.59792400770743
+  y: 90.5
+  z: 796.7550565436592
+  yaw: 264.51074
+  pitch: 19.050367
 homes:
   home:
     world: world
@@ -26,4 +26,4 @@ homes:
     z: 797.4865178003814
     yaw: -356.19055
     pitch: 12.300203
-afk: true
+afk: false

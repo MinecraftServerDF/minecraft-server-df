@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2020-04-08 22:50:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-07 11:27:04 +0800"
@@ -417,6 +423,7 @@
     "criteria": {
       "cooked_mutton": "2020-04-07 12:49:20 +0800",
       "sweet_berries": "2020-04-08 00:05:20 +0800",
+      "cooked_cod": "2020-04-08 22:40:30 +0800",
       "bread": "2020-04-07 11:17:20 +0800",
       "melon_slice": "2020-04-07 11:02:21 +0800",
       "cooked_chicken": "2020-04-07 12:48:36 +0800",
@@ -478,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-08 22:27:36 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 12:58:26 +0800"
@@ -499,6 +512,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2020-04-08 21:45:46 +0800"
     },
     "done": true
   },
@@ -720,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-08 23:07:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-04-07 11:29:51 +0800"
@@ -816,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-08 22:27:36 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-04-07 11:02:21 +0800"
@@ -861,6 +892,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-07 17:33:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-08 22:50:32 +0800"
     },
     "done": true
   },
@@ -969,6 +1006,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-07 15:18:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-08 21:49:44 +0800"
     },
     "done": true
   },
@@ -1512,6 +1555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-04-08 21:49:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-04-07 13:35:28 +0800"
@@ -1662,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-08 22:50:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
@@ -1753,11 +1808,13 @@
       "minecraft:desert": "2020-04-07 11:22:01 +0800",
       "minecraft:jungle": "2020-04-07 10:32:20 +0800",
       "minecraft:birch_forest": "2020-04-07 16:45:12 +0800",
+      "minecraft:deep_lukewarm_ocean": "2020-04-08 22:08:25 +0800",
       "minecraft:badlands": "2020-04-07 11:24:01 +0800",
       "minecraft:savanna_plateau": "2020-04-07 21:28:13 +0800",
       "minecraft:beach": "2020-04-07 10:08:39 +0800",
       "minecraft:dark_forest": "2020-04-07 16:20:22 +0800",
       "minecraft:river": "2020-04-07 10:32:25 +0800",
+      "minecraft:lukewarm_ocean": "2020-04-08 22:07:24 +0800",
       "minecraft:birch_forest_hills": "2020-04-07 16:45:47 +0800",
       "minecraft:wooded_mountains": "2020-04-07 17:16:42 +0800",
       "minecraft:wooded_hills": "2020-04-07 16:23:59 +0800",
@@ -1928,6 +1985,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-04-08 20:57:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-08 22:27:36 +0800"
     },
     "done": true
   },
