@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-08 23:15:14 +0800"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-04-06 23:55:20 +0800"
@@ -411,6 +423,7 @@
     "criteria": {
       "cooked_mutton": "2020-04-09 15:08:21 +0800",
       "sweet_berries": "2020-04-05 23:43:51 +0800",
+      "cooked_beef": "2020-04-09 19:09:07 +0800",
       "baked_potato": "2020-04-08 23:10:57 +0800",
       "apple": "2020-04-09 15:08:24 +0800",
       "cooked_cod": "2020-04-05 23:18:56 +0800",
@@ -619,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
@@ -684,6 +703,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-08 22:22:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
     },
     "done": true
   },
@@ -1351,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-04-09 18:55:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-04-06 23:55:20 +0800"
@@ -1748,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-09 14:37:55 +0800"
@@ -1947,6 +1984,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-04-05 23:34:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
     },
     "done": true
   },
