@@ -416,6 +416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-04-10 01:26:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
@@ -527,6 +533,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-09 17:12:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2020-04-10 00:58:57 +0800"
     },
     "done": true
   },
@@ -752,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-04-10 00:59:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-04-09 17:05:58 +0800"
@@ -846,6 +864,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-04-09 18:00:44 +0800",
       "minecraft:creeper": "2020-04-09 21:02:04 +0800",
+      "minecraft:phantom": "2020-04-10 00:43:21 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:zombie": "2020-04-09 17:16:48 +0800"
     },
@@ -932,6 +951,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-09 22:39:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-04-10 01:26:13 +0800"
     },
     "done": true
   },
@@ -1086,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2020-04-10 00:58:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-04-09 17:07:21 +0800"
@@ -1221,6 +1252,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-04-10 00:58:55 +0800"
     },
     "done": true
   },
@@ -1380,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-10 00:59:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-09 17:06:42 +0800"
@@ -1525,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2020-04-10 00:58:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-09 19:51:27 +0800"
@@ -1612,6 +1661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-04-10 00:59:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
@@ -1654,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2020-04-10 00:58:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-09 17:05:58 +0800"
@@ -1687,6 +1748,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-04-10 01:26:13 +0800"
     },
     "done": true
   },
@@ -1804,6 +1871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-10 01:25:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-04-09 19:51:27 +0800"
@@ -1834,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-04-10 00:58:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-04-09 19:22:15 +0800"
@@ -1849,6 +1928,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-10 01:25:10 +0800"
     },
     "done": true
   },

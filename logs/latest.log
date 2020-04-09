@@ -6,3 +6,166 @@
 [00:05:28] [Server thread/INFO]: [Server] 有阿  可是是系統規則  村民問題 依舊
 [00:06:06] [Server thread/INFO]: apple lost connection: Disconnected
 [00:06:06] [Server thread/INFO]: apple left the game
+[00:06:50] [Server thread/INFO]: [Server] 明天去爬山 估計晚上才能測試 研究插件  爬五寮尖
+[00:08:40] [User Authenticator #5/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[00:08:40] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:08:40] [Server thread/INFO]: YuShiou[/1.34.17.118:5864] logged in with entity id 14627 at ([world]514.8054325785997, 88.0, 814.3000000119209)
+[00:08:49] [Craft Scheduler Thread - 59/INFO]: [AuthMe] YuShiou logged in!
+[00:11:01] [Server thread/INFO]: RocKog fell from a high place
+[00:11:06] [Server thread/INFO]: RocKog issued server command: /back
+[00:11:06] [Server thread/WARN]: RocKog moved too quickly! -537.0,-32.0,-381.0
+[00:13:34] [Server thread/INFO]: Caber588 issued server command: /HOME
+[00:15:18] [Server thread/INFO]: basic_balion fell from a high place
+[00:15:21] [Server thread/INFO]: basic_balion issued server command: /back
+[00:15:43] [Server thread/INFO]: basic_balion issued server command: /home
+[00:17:56] [Server thread/INFO]: RocKog issued server command: /home
+[00:20:27] [Server thread/INFO]: biteyou74 issued server command: /home
+[00:21:41] [Server thread/INFO]: RocKog was shot by Skeleton
+[00:21:46] [Server thread/INFO]: RocKog issued server command: /back
+[00:21:46] [Server thread/WARN]: RocKog moved too quickly! -792.0,-34.0,-255.0
+[00:23:55] [Server thread/INFO]: Caber588 issued server command: /HOME
+[00:23:55] [Server thread/WARN]: Caber588 moved too quickly! -46.457677593159445,25.0,-43.87485100648064
+[00:25:07] [Server thread/INFO]: RocKog issued server command: /home
+[00:25:07] [Server thread/WARN]: RocKog moved too quickly! 51.19423014655527,57.0,64.83169994954073
+[00:30:40] [Server thread/INFO]: basic_balion fell from a high place
+[00:30:44] [Server thread/INFO]: basic_balion issued server command: /back
+[00:30:44] [Server thread/WARN]: basic_balion moved too quickly! 392.0,-47.0000002,99.0
+[00:31:45] [Server thread/INFO]: RocKog was pricked to death
+[00:31:51] [Server thread/INFO]: RocKog issued server command: /back
+[00:31:57] [Server thread/INFO]: RocKog issued server command: /homes
+[00:32:00] [Server thread/INFO]: RocKog lost connection: Disconnected
+[00:32:00] [Server thread/INFO]: RocKog left the game
+[00:34:20] [Server thread/INFO]: basic_balion issued server command: /home
+[00:35:03] [Server thread/INFO]: biteyou74 issued server command: /home
+[00:35:54] [Server thread/INFO]: Caber588 issued server command: /home
+[00:37:07] [Server thread/INFO]: Caber588 issued server command: /home
+[00:38:33] [Server thread/INFO]: Caber588 issued server command: /home
+[00:39:24] [Server thread/INFO]: Caber588 issued server command: /home
+[00:39:32] [Server thread/WARN]: biteyou74 moved wrongly!
+[00:48:17] [User Authenticator #6/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[00:48:18] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:48:18] [Server thread/INFO]: apple[/127.0.0.1:7744] logged in with entity id 31475 at ([world]-234.19760597679547, 120.0, -1066.1317013470978)
+[00:48:40] [Craft Scheduler Thread - 75/INFO]: [AuthMe] apple logged in!
+[00:48:46] [Server thread/INFO]: apple issued server command: /tp Caber588
+[00:48:46] [Server thread/WARN]: apple moved too quickly! 41.69760597679547,-41.0,-14.36829865290224
+[00:49:01] [Server thread/INFO]: apple issued server command: /fly
+[00:49:39] [Async Chat Thread - #5/INFO]: []<apple> 0.0
+[00:49:45] [Async Chat Thread - #5/INFO]: []<YuShiou> 1.1
+[00:49:49] [Async Chat Thread - #5/INFO]: []<Caber588> 2.2
+[00:49:51] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[00:50:04] [Async Chat Thread - #5/INFO]: []<biteyou74> 4.778
+[00:50:15] [Async Chat Thread - #5/INFO]: []<Caber588> 3.14159265
+[00:51:01] [Server thread/INFO]: Caber588 issued server command: /home
+[00:51:01] [Server thread/WARN]: Caber588 moved too quickly! -42.59015046460982,24.125,-5.521877016083863
+[00:51:28] [Server thread/INFO]: apple issued server command: /fly YuShiou
+[00:51:44] [Server thread/INFO]: apple issued server command: /flyspeed 10
+[00:51:55] [Server thread/INFO]: apple issued server command: /flyspeed Yushiou 10
+[00:52:11] [Server thread/INFO]: apple issued server command: /flyspeed 10 YuShiou
+[00:53:06] [Server thread/INFO]: apple issued server command: /flyspeed 10 YuShiou
+[00:53:11] [Server thread/INFO]: apple issued server command: /flyspeed 1 10 YuShiou
+[00:55:21] [Server thread/INFO]: apple issued server command: /flyspeed 10 YuShiou 10
+[00:55:28] [Server thread/INFO]: apple issued server command: /flyspeed 10 10 YuShiou
+[00:56:29] [Server thread/INFO]: apple issued server command: /flyspeed 10 10 YuShiou
+[00:57:05] [Server thread/INFO]: apple issued server command: /flyspeed info
+[00:57:09] [Server thread/INFO]: apple issued server command: /flyspeed help
+[00:58:47] [Server thread/INFO]: apple issued server command: /flyspeed
+[00:59:17] [Server thread/INFO]: apple issued server command: /flyspeed 10
+[00:59:34] [Server thread/INFO]: apple issued server command: /flyspeed 10 YuShiou
+[00:59:41] [Server thread/INFO]: apple issued server command: /flyspeed 1 10 YuShiou
+[00:59:45] [Server thread/INFO]: apple issued server command: /flyspeed 0 10 YuShiou
+[01:00:18] [Server thread/INFO]: apple issued server command: /speed 10
+[01:00:23] [Server thread/INFO]: apple issued server command: /speed
+[01:00:35] [Server thread/INFO]: apple issued server command: /speed 10 YuShou
+[01:01:06] [Server thread/INFO]: apple issued server command: /speed fly 10 YuShou
+[01:01:14] [Server thread/INFO]: apple issued server command: /speed fly 10 YuShiou
+[01:01:19] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[01:02:01] [Server thread/INFO]: apple issued server command: /speed fly 10 YuShou
+[01:02:09] [Async Chat Thread - #6/INFO]: []<apple> 霏霏看ㄎ
+[01:02:19] [Server thread/INFO]: Caber588 issued server command: /fly
+[01:02:19] [Server thread/INFO]: [Essentials] Caber588 被拒絕使用命令
+[01:02:21] [Async Chat Thread - #6/INFO]: []<apple> 飛飛看？
+[01:02:28] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[01:02:30] [Async Chat Thread - #6/INFO]: []<YuShiou> 速度真快..
+[01:02:40] [Async Chat Thread - #6/INFO]: []<apple> 火箭升空
+[01:03:23] [Server thread/INFO]: apple issued server command: /fly basic_balion
+[01:03:30] [Server thread/INFO]: apple issued server command: /fly biteyou74
+[01:03:34] [Server thread/INFO]: apple issued server command: /fly Caber588
+[01:03:43] [Server thread/INFO]: apple issued server command: /speed fly 10 basic_balion
+[01:03:48] [Server thread/INFO]: apple issued server command: /speed fly 10 biteyou74
+[01:03:52] [Server thread/INFO]: apple issued server command: /speed fly 10 Caber588
+[01:03:54] [Async Chat Thread - #7/INFO]: []<biteyou74> 我得到超能力了
+[01:04:06] [Async Chat Thread - #7/INFO]: []<apple> XDDD
+[01:04:08] [Async Chat Thread - #7/INFO]: []<Caber588> 這是什麼火箭超能力
+[01:04:17] [Server thread/INFO]: apple issued server command: /tp Caber588
+[01:04:22] [Async Chat Thread - #7/INFO]: []<biteyou74> 我控制不了自己的力量
+[01:04:44] [Async Chat Thread - #7/INFO]: []<apple> XDDD
+[01:04:56] [Async Chat Thread - #7/INFO]: []<apple> 火箭太強了
+[01:05:04] [Server thread/INFO]: apple drowned
+[01:05:54] [Server thread/INFO]: basic_balion issued server command: /home
+[01:06:14] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[01:06:24] [Server thread/WARN]: apple moved wrongly!
+[01:06:28] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[01:06:36] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[01:06:46] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[01:06:47] [Server thread/WARN]: apple moved too quickly! 145.0,-43.12161948153654,-34.0
+[01:07:10] [Async Chat Thread - #8/INFO]: []<apple> 竟然有熊貓
+[01:07:23] [Async Chat Thread - #8/INFO]: []<basic_balion> 怎個遷
+[01:07:47] [Async Chat Thread - #8/INFO]: []<apple> 我看我官衣一關大家的能力哈哈 玩一下就好
+[01:08:22] [Async Chat Thread - #8/INFO]: []<apple> 能力太誇張 哈啊
+[01:08:33] [Server thread/INFO]: apple issued server command: /fly basic_balion
+[01:08:39] [Server thread/INFO]: apple issued server command: /fly biteyou74
+[01:08:40] [Async Chat Thread - #8/INFO]: []<Caber588> 全部一起飛伺服器應該會炸..
+[01:08:46] [Server thread/INFO]: apple issued server command: /fly Caber588
+[01:08:49] [Async Chat Thread - #8/INFO]: []<apple> YuShiou
+[01:08:55] [Server thread/INFO]: apple issued server command: /fly YuShiou
+[01:08:55] [Async Chat Thread - #8/INFO]: []<YuShiou> 恩
+[01:09:10] [Async Chat Thread - #8/INFO]: []<apple> 對呀 這刷地圖太誇張了
+[01:09:59] [Async Chat Thread - #8/INFO]: []<apple> 只要有個屁還給我一直飛 就好笑了哈哈
+[01:12:14] [Server thread/INFO]: apple lost connection: Disconnected
+[01:12:14] [Server thread/INFO]: apple left the game
