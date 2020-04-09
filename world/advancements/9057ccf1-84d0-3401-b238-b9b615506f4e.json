@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-09 22:18:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-05 03:53:04 +0800"
@@ -1732,9 +1738,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-05 04:17:24 +0800",
+      "chicken": "2020-04-09 22:25:05 +0800",
       "baked_potato": "2020-04-05 17:44:14 +0800",
+      "beef": "2020-04-09 22:24:55 +0800",
       "apple": "2020-04-05 04:04:48 +0800",
       "potato": "2020-04-05 04:06:04 +0800",
+      "mutton": "2020-04-09 22:24:48 +0800",
       "bread": "2020-04-05 11:27:27 +0800",
       "rotten_flesh": "2020-04-05 04:59:14 +0800",
       "cookie": "2020-04-07 12:16:17 +0800",

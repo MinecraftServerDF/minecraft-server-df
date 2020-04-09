@@ -441,6 +441,7 @@
     "criteria": {
       "cooked_mutton": "2020-04-07 12:49:20 +0800",
       "sweet_berries": "2020-04-08 00:05:20 +0800",
+      "cooked_beef": "2020-04-09 22:26:19 +0800",
       "cooked_cod": "2020-04-08 22:40:30 +0800",
       "bread": "2020-04-07 11:17:20 +0800",
       "salmon": "2020-04-09 20:22:37 +0800",
@@ -591,6 +592,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-07 17:33:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-04-09 22:30:05 +0800"
     },
     "done": true
   },
@@ -1499,6 +1506,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-04-07 11:25:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-04-09 22:30:05 +0800"
     },
     "done": true
   },

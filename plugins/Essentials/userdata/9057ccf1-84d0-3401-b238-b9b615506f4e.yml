@@ -1,23 +1,23 @@
 lastAccountName: OChinBo
 timestamps:
   login: 1586434427335
-  logout: 1586416607987
-  lastteleport: 1586439686459
+  logout: 1586442488596
+  lastteleport: 1586442192956
 ipAddress: 123.194.137.234
 logoutlocation:
   world: world
-  x: 602.6999999880791
-  y: 63.0
-  z: 668.3000000119209
-  yaw: -271.08298
-  pitch: 28.049799
+  x: 589.158428419711
+  y: 62.0
+  z: 668.4194411370501
+  yaw: 112.442184
+  pitch: 6.3002224
 lastlocation:
   world: world_nether
-  x: -346.69999998807907
-  y: 14.0
-  z: 442.02307525799625
-  yaw: -154.66515
-  pitch: 22.649202
+  x: -270.1922907891383
+  y: 75.875
+  z: 591.3117021025356
+  yaw: 329.0564
+  pitch: 22.050745
 afk: false
 homes:
   home:
