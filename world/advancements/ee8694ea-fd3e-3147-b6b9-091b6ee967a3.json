@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-04-09 21:24:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-05 10:00:47 +0800"
@@ -664,6 +670,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2020-04-09 21:17:58 +0800",
       "minecraft:cow": "2020-04-08 20:39:43 +0800"
     },
     "done": false
