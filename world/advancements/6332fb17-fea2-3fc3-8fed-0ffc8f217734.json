@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-04-09 18:07:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-09 17:16:48 +0800"
@@ -364,6 +370,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2020-04-09 18:00:44 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:zombie": "2020-04-09 17:16:48 +0800"
     },
@@ -398,6 +405,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-09 17:06:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-04-09 18:00:46 +0800"
     },
     "done": true
   },
