@@ -396,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-04-09 01:18:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-05 21:30:30 +0800"
@@ -435,6 +441,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-05 21:34:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-08 23:45:31 +0800"
     },
     "done": true
   },
@@ -517,9 +529,11 @@
       "minecraft:vindicator": "2020-04-08 00:29:37 +0800",
       "minecraft:spider": "2020-04-05 14:55:10 +0800",
       "minecraft:creeper": "2020-04-05 15:00:19 +0800",
+      "minecraft:slime": "2020-04-08 22:57:11 +0800",
       "minecraft:phantom": "2020-04-05 21:19:08 +0800",
       "minecraft:witch": "2020-04-07 21:04:35 +0800",
       "minecraft:cave_spider": "2020-04-07 21:15:29 +0800",
+      "minecraft:enderman": "2020-04-08 23:47:16 +0800",
       "minecraft:zombie": "2020-04-05 14:54:37 +0800",
       "minecraft:drowned": "2020-04-05 21:55:39 +0800",
       "minecraft:zombie_villager": "2020-04-05 17:24:11 +0800"
@@ -838,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-04-09 00:45:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-07 23:21:49 +0800"
@@ -982,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-08 22:57:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-05 15:03:10 +0800"
@@ -1002,8 +1028,10 @@
       "minecraft:mountains": "2020-04-05 15:02:52 +0800",
       "minecraft:badlands_plateau": "2020-04-07 20:56:01 +0800",
       "minecraft:taiga": "2020-04-05 14:32:52 +0800",
+      "minecraft:desert_hills": "2020-04-08 23:02:21 +0800",
       "minecraft:deep_cold_ocean": "2020-04-05 20:32:59 +0800",
       "minecraft:snowy_tundra": "2020-04-06 22:57:03 +0800",
+      "minecraft:taiga_hills": "2020-04-09 00:29:04 +0800",
       "minecraft:desert": "2020-04-05 20:19:05 +0800",
       "minecraft:frozen_river": "2020-04-06 22:57:50 +0800",
       "minecraft:deep_frozen_ocean": "2020-04-05 22:47:40 +0800",
@@ -1464,6 +1492,7 @@
       "cooked_porkchop": "2020-04-05 16:48:13 +0800",
       "cooked_beef": "2020-04-05 15:04:07 +0800",
       "beef": "2020-04-05 15:02:50 +0800",
+      "baked_potato": "2020-04-08 22:43:10 +0800",
       "apple": "2020-04-05 17:10:01 +0800",
       "cooked_cod": "2020-04-05 17:45:54 +0800",
       "rotten_flesh": "2020-04-05 14:54:45 +0800",
@@ -1744,6 +1773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-09 00:48:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-05 15:54:58 +0800"
@@ -1906,6 +1941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-08 22:57:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-05 21:30:30 +0800"
@@ -1915,6 +1956,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-04-06 00:32:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-04-09 00:48:14 +0800"
     },
     "done": true
   },
@@ -1945,6 +1992,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-04-07 00:56:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-08 23:43:57 +0800"
     },
     "done": true
   },
@@ -2158,6 +2211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-08 22:57:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-05 14:43:53 +0800"
@@ -2203,6 +2262,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2020-04-05 16:18:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-09 00:48:14 +0800"
     },
     "done": true
   },
@@ -2263,6 +2328,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-04-07 21:02:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-08 23:43:57 +0800"
     },
     "done": true
   },
