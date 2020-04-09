@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-08 23:15:14 +0800"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-04-09 17:12:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-09 14:37:55 +0800"
@@ -320,6 +332,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-04-08 22:22:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
     },
     "done": true
   },
@@ -405,6 +423,7 @@
     "criteria": {
       "cooked_mutton": "2020-04-09 15:08:21 +0800",
       "sweet_berries": "2020-04-05 23:43:51 +0800",
+      "cooked_beef": "2020-04-09 19:09:07 +0800",
       "baked_potato": "2020-04-08 23:10:57 +0800",
       "apple": "2020-04-09 15:08:24 +0800",
       "cooked_cod": "2020-04-05 23:18:56 +0800",
@@ -613,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
@@ -678,6 +703,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-08 22:22:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
     },
     "done": true
   },
@@ -891,6 +922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-04-09 17:29:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
@@ -972,6 +1009,7 @@
       "minecraft:witch": "2020-04-07 01:25:14 +0800",
       "minecraft:cave_spider": "2020-04-08 22:35:49 +0800",
       "minecraft:enderman": "2020-04-09 16:02:12 +0800",
+      "minecraft:silverfish": "2020-04-09 19:55:18 +0800",
       "minecraft:zombie": "2020-04-07 00:54:55 +0800",
       "minecraft:drowned": "2020-04-06 23:55:57 +0800",
       "minecraft:zombie_villager": "2020-04-09 15:31:16 +0800"
@@ -987,6 +1025,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-04-09 14:03:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-04-09 17:27:37 +0800"
     },
     "done": true
   },
@@ -1330,6 +1374,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-04-05 23:20:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-04-09 18:55:01 +0800"
     },
     "done": true
   },
@@ -1730,6 +1780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-09 14:37:55 +0800"
@@ -1932,6 +1988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-04-09 18:54:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-04-05 23:27:40 +0800"
@@ -1989,6 +2051,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-04-08 22:22:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-04-09 19:51:49 +0800"
     },
     "done": true
   },
@@ -2067,6 +2135,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-04-08 22:22:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-04-09 17:29:26 +0800"
     },
     "done": true
   },
