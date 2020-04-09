@@ -171,3 +171,34 @@
 [13:20:22] [User Authenticator #31/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
 [13:20:22] [Server thread/INFO]: OChinBo[/123.194.137.234:6713] logged in with entity id 312665 at ([world]593.09183659728, 62.0, 674.5610918852519)
 [13:20:31] [Craft Scheduler Thread - 561/INFO]: [AuthMe] OChinBo logged in!
+[13:28:17] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[13:28:17] [Server thread/INFO]: OChinBo left the game
+[13:29:18] [User Authenticator #32/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:29:18] [Server thread/INFO]: OChinBo[/123.194.137.234:7223] logged in with entity id 314777 at ([world]590.5184089139905, 62.0, 673.2229643570533)
+[13:29:29] [Craft Scheduler Thread - 568/INFO]: [AuthMe] OChinBo logged in!
+[13:37:56] [Server thread/INFO]: basic_balion fell from a high place
+[13:39:03] [Server thread/INFO]: Villager EntityVillager['Farmer'/314874, uuid='bdc47198-b4c0-43ca-92ab-7ac5ed5a53ac', l='world', x=581.99, y=64.00, z=773.00, cx=36, cz=48, tl=660731, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[13:46:25] [Server thread/INFO]: OChinBo issued server command: /fly
+[13:47:39] [User Authenticator #33/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[13:47:40] [Server thread/INFO]: Caber588[/219.70.214.164:50017] logged in with entity id 320336 at ([world]-221.96264307030268, 105.1875, -1069.8208016131402)
+[13:47:46] [Craft Scheduler Thread - 578/INFO]: [AuthMe] Caber588 logged in!
+[13:50:21] [Server thread/INFO]: basic_balion has made the advancement [Ice Bucket Challenge]
+[13:51:25] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[13:51:25] [Server thread/INFO]: basic_balion left the game
+[13:53:14] [User Authenticator #34/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[13:53:14] [Server thread/INFO]: basic_balion[/36.232.10.211:7835] logged in with entity id 322788 at ([world]-224.72320368284198, 104.0, -1072.116167421312)
+[13:53:26] [Craft Scheduler Thread - 585/INFO]: [AuthMe] basic_balion logged in!
+[13:54:44] [Server thread/INFO]: basic_balion has made the advancement [We Need to Go Deeper]
+[13:57:02] [Server thread/INFO]: Villager EntityVillager['Villager'/317229, uuid='56ca7331-a09b-447a-b79e-6d8f713d3dcb', l='world', x=-244.76, y=71.00, z=-890.30, cx=-16, cz=-56, tl=94065, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[14:01:31] [Server thread/INFO]: basic_balion has completed the challenge [Return to Sender]
+[14:03:16] [Server thread/INFO]: Caber588 has made the advancement [We Need to Go Deeper]
+[14:13:51] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[14:13:51] [Server thread/INFO]: Caber588 left the game
+[14:15:51] [User Authenticator #35/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[14:15:51] [Server thread/INFO]: Selina[/180.217.113.196:59139] logged in with entity id 333310 at ([world]370.57291646385164, 64.0, 784.3053737946835)
+[14:16:06] [Craft Scheduler Thread - 597/INFO]: [AuthMe] Selina logged in!
+[14:21:12] [User Authenticator #36/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[14:21:12] [Server thread/INFO]: Caber588[/219.70.214.164:50772] logged in with entity id 335141 at ([world]-229.98796721473295, 104.0, -1067.094709374819)
+[14:21:16] [Craft Scheduler Thread - 602/INFO]: [AuthMe] Caber588 logged in!
+[14:25:23] [Server thread/INFO]: basic_balion fell from a high place
+[14:27:26] [Server thread/WARN]: basic_balion moved wrongly!
