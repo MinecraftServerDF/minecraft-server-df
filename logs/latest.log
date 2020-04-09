@@ -154,3 +154,20 @@
 [12:24:44] [Server thread/INFO]: OChinBo[/123.194.137.234:4207] logged in with entity id 299878 at ([world]584.8636003945574, 62.0, 669.3735630699338)
 [12:24:45] [Server thread/INFO]: basic_balion fell from a high place
 [12:24:54] [Craft Scheduler Thread - 528/INFO]: [AuthMe] OChinBo logged in!
+[12:39:41] [Server thread/WARN]: basic_balion moved wrongly!
+[12:42:30] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[12:42:30] [Server thread/INFO]: basic_balion left the game
+[12:43:29] [User Authenticator #29/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[12:43:30] [Server thread/INFO]: basic_balion[/36.232.10.211:7414] logged in with entity id 305078 at ([world]-201.14409492365357, 20.0, -1059.0125060394862)
+[12:43:34] [Server thread/INFO]: OChinBo issued server command: /fly
+[12:43:43] [Craft Scheduler Thread - 539/INFO]: [AuthMe] basic_balion logged in!
+[12:47:30] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[12:47:30] [Server thread/INFO]: OChinBo left the game
+[13:05:00] [User Authenticator #30/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:05:00] [Server thread/INFO]: OChinBo[/123.194.137.234:5979] logged in with entity id 309175 at ([world]587.3890945103257, 62.0, 670.0298599167047)
+[13:05:13] [Craft Scheduler Thread - 551/INFO]: [AuthMe] OChinBo logged in!
+[13:13:57] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[13:13:57] [Server thread/INFO]: OChinBo left the game
+[13:20:22] [User Authenticator #31/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:20:22] [Server thread/INFO]: OChinBo[/123.194.137.234:6713] logged in with entity id 312665 at ([world]593.09183659728, 62.0, 674.5610918852519)
+[13:20:31] [Craft Scheduler Thread - 561/INFO]: [AuthMe] OChinBo logged in!
