@@ -1,0 +1,1 @@
+[文檔連結](https://github.com/MinecraftServerDF/minecraft-server-df/wiki)

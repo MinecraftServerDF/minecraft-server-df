@@ -733,3 +733,33 @@
 [19:25:54] [User Authenticator #6/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
 [19:25:54] [Server thread/INFO]: aforward3326[/1.34.110.242:50124] logged in with entity id 37009 at ([world]547.0417607717319, 68.0, -198.69999998807907)
 [19:26:05] [Craft Scheduler Thread - 75/INFO]: [AuthMe] aforward3326 logged in!
+[19:37:13] [User Authenticator #7/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[19:37:13] [Server thread/INFO]: rgps3725[/118.167.173.137:61695] logged in with entity id 44320 at ([world]-134.42171875831988, 80.0, -1099.8681529556911)
+[19:37:21] [Craft Scheduler Thread - 82/INFO]: [AuthMe] rgps3725 logged in!
+[19:37:32] [Server thread/INFO]: Made apple no longer a server operator
+[19:37:36] [Async Chat Thread - #7/INFO]: []<wolf> ...
+[19:37:38] [Server thread/INFO]: rgps3725 issued server command: /tpa Caber588
+[19:37:50] [Server thread/INFO]: Nothing changed. The player is not an operator
+[19:37:52] [Server thread/INFO]: Caber588 issued server command: /tpaccept
+[19:37:58] [Server thread/INFO]: rgps3725 issued server command: /home
+[19:37:58] [Server thread/WARN]: rgps3725 moved too quickly! -190.74289348229559,85.0,68.80000001192093
+[19:38:23] [Server thread/INFO]: Nothing changed. The player is not an operator
+[19:38:28] [Server thread/INFO]: Made Yugo a server operator
+[19:38:35] [Server thread/INFO]: Made Yugo no longer a server operator
+[19:40:11] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[19:40:11] [Server thread/INFO]: rgps3725 left the game
+[19:54:09] [User Authenticator #8/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[19:54:09] [Server thread/INFO]: YuShiou[/1.34.17.118:4754] logged in with entity id 52297 at ([world]370.6806251513102, 64.0, 785.6147750616416)
+[19:54:16] [Craft Scheduler Thread - 92/INFO]: [AuthMe] YuShiou logged in!
+[20:09:10] [Server thread/INFO]: FredYea has made the advancement [The Parrots and the Bats]
+[20:13:46] [User Authenticator #9/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[20:13:47] [Server thread/INFO]: OChinBo[/123.194.137.234:8789] logged in with entity id 63922 at ([world]602.6999999880791, 63.0, 668.3000000119209)
+[20:14:03] [Craft Scheduler Thread - 101/INFO]: [AuthMe] OChinBo logged in!
+[20:14:11] [Async Chat Thread - #8/INFO]: []<OChinBo> 早安
+[20:14:17] [Async Chat Thread - #8/INFO]: []<YuShiou> 早安
+[20:14:20] [Async Chat Thread - #8/INFO]: []<wolf> 早
+[20:17:40] [Server thread/INFO]: OChinBo issued server command: /fly
+[20:21:20] [Server thread/INFO]: FredYea has made the advancement [A Seedy Place]
+[20:22:55] [Server thread/INFO]: Caber588 issued server command: /home
+[20:24:19] [Server thread/WARN]: aforward3326 moved wrongly!
+[20:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
