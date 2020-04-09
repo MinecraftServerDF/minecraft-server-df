@@ -214,3 +214,66 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [04:21:50] [Server thread/INFO]: OChinBo issued server command: /home
 [04:22:14] [Server thread/INFO]: OChinBo lost connection: Disconnected
 [04:22:14] [Server thread/INFO]: OChinBo left the game
+[04:55:16] [User Authenticator #8/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[04:55:16] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[04:55:16] [Server thread/INFO]: OChinBo[/123.194.137.234:14888] logged in with entity id 56119 at ([world]592.793030087021, 62.0, 673.0068060136183)
+[04:55:46] [Server thread/INFO]: OChinBo lost connection: 【AuthMe】超過登入時間，請再試一次
+[04:55:46] [Server thread/INFO]: OChinBo left the game
+[04:55:46] [Server thread/WARN]: handleDisconnection() called twice
+[04:56:45] [User Authenticator #9/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[04:56:46] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[04:56:46] [Server thread/INFO]: OChinBo[/123.194.137.234:14965] logged in with entity id 56425 at ([world]592.793030087021, 62.0, 673.0068060136183)
+[04:56:53] [Craft Scheduler Thread - 162/INFO]: [AuthMe] OChinBo logged in!
+[04:57:21] [Server thread/INFO]: OChinBo issued server command: /gamemode creative
+[04:59:23] [Server thread/INFO]: OChinBo issued server command: /flyspeed 10
+[05:01:37] [Server thread/INFO]: OChinBo issued server command: /wand
+[05:01:41] [Server thread/INFO]: OChinBo issued server command: //wand
+[05:05:40] [Server thread/INFO]: OChinBo issued server command: //wand
+[05:08:14] [Server thread/INFO]: OChinBo issued server command: /set 0
+[05:08:26] [Server thread/INFO]: OChinBo issued server command: //set 0

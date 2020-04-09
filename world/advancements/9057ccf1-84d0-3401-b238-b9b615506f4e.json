@@ -548,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-04-10 05:17:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 15:14:33 +0800"
@@ -984,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-04-10 05:17:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-04-05 05:20:16 +0800"
@@ -1186,6 +1198,7 @@
       "minecraft:taiga_hills": "2020-04-05 10:54:37 +0800",
       "minecraft:desert": "2020-04-05 03:48:58 +0800",
       "minecraft:jungle": "2020-04-06 19:15:51 +0800",
+      "minecraft:birch_forest": "2020-04-10 05:00:00 +0800",
       "minecraft:jungle_hills": "2020-04-06 19:15:52 +0800",
       "minecraft:badlands": "2020-04-05 10:59:14 +0800",
       "minecraft:beach": "2020-04-05 03:46:38 +0800",
@@ -2255,6 +2268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-04-10 05:10:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-05 17:29:59 +0800"
@@ -2450,6 +2469,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-04-05 05:53:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-04-10 05:17:14 +0800"
     },
     "done": true
   },
