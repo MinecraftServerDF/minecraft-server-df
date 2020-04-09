@@ -112,3 +112,111 @@
 [01:53:51] [Server thread/INFO]: [Server] 就覺得地圖不連貫 很怪
 [02:16:38] [Server thread/INFO]: vu06m6 lost connection: Disconnected
 [02:16:38] [Server thread/INFO]: vu06m6 left the game
+[09:49:12] [User Authenticator #24/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[09:49:12] [Server thread/INFO]: OChinBo[/123.194.137.234:11254] logged in with entity id 268673 at ([world]591.3103084966887, 62.0, 673.0592687712891)
+[09:49:22] [Craft Scheduler Thread - 461/INFO]: [AuthMe] OChinBo logged in!
+[09:49:26] [Server thread/INFO]: OChinBo issued server command: /fly
+[09:49:51] [User Authenticator #24/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[09:49:52] [Server thread/INFO]: basic_balion[/36.232.10.211:3258] logged in with entity id 269059 at ([world]-228.08024448402188, 104.0, -1067.0771276155542)
+[09:50:00] [Async Chat Thread - #19/INFO]: []<OChinBo> 早安
+[09:50:04] [Craft Scheduler Thread - 465/INFO]: [AuthMe] basic_balion logged in!
+[09:50:20] [Async Chat Thread - #19/INFO]: []<basic_balion> 早安~
+[09:54:30] [Server thread/INFO]: basic_balion fell from a high place
+[09:54:41] [Server thread/INFO]: basic_balion fell from a high place
+[09:54:47] [Server thread/INFO]: basic_balion fell from a high place
+[10:00:14] [Server thread/INFO]: Villager EntityVillager['Cleric'/268745, uuid='fd39fdd3-e256-4b92-ba90-39766142fe2a', l='world', x=607.45, y=64.00, z=722.64, cx=37, cz=45, tl=354404, v=true, d=false] died, message: 'Cleric was slain by Zombie'
+[10:01:49] [Server thread/INFO]: Villager EntityVillager['Farmer'/268750, uuid='6ee3c540-1cf7-4855-b8e6-385513730493', l='world', x=620.19, y=64.00, z=743.25, cx=38, cz=46, tl=461156, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[10:18:54] [Server thread/WARN]: basic_balion moved wrongly!
+[10:18:58] [Server thread/WARN]: basic_balion moved wrongly!
+[10:19:19] [Server thread/WARN]: basic_balion moved wrongly!
+[10:39:29] [Server thread/INFO]: Villager EntityVillager['Librarian'/268772, uuid='479a3d05-6c31-4b5b-9bca-c5572f8254fe', l='world', x=635.59, y=67.00, z=742.35, cx=39, cz=46, tl=1009990, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[11:09:01] [Server thread/INFO]: [Server] 早安
+[11:24:19] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[11:24:19] [Server thread/INFO]: basic_balion left the game
+[11:27:04] [Server thread/INFO]: OChinBo issued server command: /top
+[11:30:47] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[11:30:47] [Server thread/INFO]: OChinBo left the game
+[11:45:41] [User Authenticator #25/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[11:45:41] [Server thread/INFO]: basic_balion[/36.232.10.211:3953] logged in with entity id 294148 at ([world]-231.57358358209356, 35.0, -1065.675549978431)
+[11:45:51] [Craft Scheduler Thread - 501/INFO]: [AuthMe] basic_balion logged in!
+[11:47:30] [User Authenticator #26/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[11:47:30] [Server thread/INFO]: OChinBo[/123.194.137.234:2263] logged in with entity id 294593 at ([world]588.3739550217399, 62.0, 667.6212711141472)
+[11:47:36] [Craft Scheduler Thread - 507/INFO]: [AuthMe] OChinBo logged in!
+[11:48:39] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[11:48:39] [Server thread/INFO]: OChinBo left the game
+[12:01:56] [User Authenticator #27/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[12:01:56] [Server thread/INFO]: OChinBo[/123.194.137.234:2996] logged in with entity id 297020 at ([world]590.8545224941414, 62.0, 673.6659534385947)
+[12:02:04] [Craft Scheduler Thread - 517/INFO]: [AuthMe] OChinBo logged in!
+[12:05:25] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[12:05:25] [Server thread/INFO]: OChinBo left the game
+[12:24:27] [Server thread/INFO]: basic_balion fell from a high place
+[12:24:44] [User Authenticator #28/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[12:24:44] [Server thread/INFO]: OChinBo[/123.194.137.234:4207] logged in with entity id 299878 at ([world]584.8636003945574, 62.0, 669.3735630699338)
+[12:24:45] [Server thread/INFO]: basic_balion fell from a high place
+[12:24:54] [Craft Scheduler Thread - 528/INFO]: [AuthMe] OChinBo logged in!
+[12:39:41] [Server thread/WARN]: basic_balion moved wrongly!
+[12:42:30] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[12:42:30] [Server thread/INFO]: basic_balion left the game
+[12:43:29] [User Authenticator #29/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[12:43:30] [Server thread/INFO]: basic_balion[/36.232.10.211:7414] logged in with entity id 305078 at ([world]-201.14409492365357, 20.0, -1059.0125060394862)
+[12:43:34] [Server thread/INFO]: OChinBo issued server command: /fly
+[12:43:43] [Craft Scheduler Thread - 539/INFO]: [AuthMe] basic_balion logged in!
+[12:47:30] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[12:47:30] [Server thread/INFO]: OChinBo left the game
+[13:05:00] [User Authenticator #30/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:05:00] [Server thread/INFO]: OChinBo[/123.194.137.234:5979] logged in with entity id 309175 at ([world]587.3890945103257, 62.0, 670.0298599167047)
+[13:05:13] [Craft Scheduler Thread - 551/INFO]: [AuthMe] OChinBo logged in!
+[13:13:57] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[13:13:57] [Server thread/INFO]: OChinBo left the game
+[13:20:22] [User Authenticator #31/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:20:22] [Server thread/INFO]: OChinBo[/123.194.137.234:6713] logged in with entity id 312665 at ([world]593.09183659728, 62.0, 674.5610918852519)
+[13:20:31] [Craft Scheduler Thread - 561/INFO]: [AuthMe] OChinBo logged in!
+[13:28:17] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[13:28:17] [Server thread/INFO]: OChinBo left the game
+[13:29:18] [User Authenticator #32/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[13:29:18] [Server thread/INFO]: OChinBo[/123.194.137.234:7223] logged in with entity id 314777 at ([world]590.5184089139905, 62.0, 673.2229643570533)
+[13:29:29] [Craft Scheduler Thread - 568/INFO]: [AuthMe] OChinBo logged in!
+[13:37:56] [Server thread/INFO]: basic_balion fell from a high place
+[13:39:03] [Server thread/INFO]: Villager EntityVillager['Farmer'/314874, uuid='bdc47198-b4c0-43ca-92ab-7ac5ed5a53ac', l='world', x=581.99, y=64.00, z=773.00, cx=36, cz=48, tl=660731, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[13:46:25] [Server thread/INFO]: OChinBo issued server command: /fly
+[13:47:39] [User Authenticator #33/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[13:47:40] [Server thread/INFO]: Caber588[/219.70.214.164:50017] logged in with entity id 320336 at ([world]-221.96264307030268, 105.1875, -1069.8208016131402)
+[13:47:46] [Craft Scheduler Thread - 578/INFO]: [AuthMe] Caber588 logged in!
+[13:50:21] [Server thread/INFO]: basic_balion has made the advancement [Ice Bucket Challenge]
+[13:51:25] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[13:51:25] [Server thread/INFO]: basic_balion left the game
+[13:53:14] [User Authenticator #34/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[13:53:14] [Server thread/INFO]: basic_balion[/36.232.10.211:7835] logged in with entity id 322788 at ([world]-224.72320368284198, 104.0, -1072.116167421312)
+[13:53:26] [Craft Scheduler Thread - 585/INFO]: [AuthMe] basic_balion logged in!
+[13:54:44] [Server thread/INFO]: basic_balion has made the advancement [We Need to Go Deeper]
+[13:57:02] [Server thread/INFO]: Villager EntityVillager['Villager'/317229, uuid='56ca7331-a09b-447a-b79e-6d8f713d3dcb', l='world', x=-244.76, y=71.00, z=-890.30, cx=-16, cz=-56, tl=94065, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[14:01:31] [Server thread/INFO]: basic_balion has completed the challenge [Return to Sender]
+[14:03:16] [Server thread/INFO]: Caber588 has made the advancement [We Need to Go Deeper]
+[14:13:51] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[14:13:51] [Server thread/INFO]: Caber588 left the game
+[14:15:51] [User Authenticator #35/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[14:15:51] [Server thread/INFO]: Selina[/180.217.113.196:59139] logged in with entity id 333310 at ([world]370.57291646385164, 64.0, 784.3053737946835)
+[14:16:06] [Craft Scheduler Thread - 597/INFO]: [AuthMe] Selina logged in!
+[14:21:12] [User Authenticator #36/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[14:21:12] [Server thread/INFO]: Caber588[/219.70.214.164:50772] logged in with entity id 335141 at ([world]-229.98796721473295, 104.0, -1067.094709374819)
+[14:21:16] [Craft Scheduler Thread - 602/INFO]: [AuthMe] Caber588 logged in!
+[14:25:23] [Server thread/INFO]: basic_balion fell from a high place
+[14:27:26] [Server thread/WARN]: basic_balion moved wrongly!
+[14:39:27] [Server thread/INFO]: OChinBo issued server command: /top
+[14:40:39] [Server thread/INFO]: basic_balion fell from a high place
+[14:52:03] [Server thread/INFO]: basic_balion fell from a high place
+[14:52:24] [Server thread/INFO]: OChinBo issued server command: /tp2p basic_balion
+[14:54:30] [Server thread/INFO]: Villager EntityVillager['Fletcher'/340282, uuid='181c37d8-86c0-444a-b7d5-5ca8a7bb7e84', l='world', x=573.08, y=57.00, z=1278.66, cx=35, cz=79, tl=94222, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
+[14:54:45] [Server thread/INFO]: OChinBo issued server command: /home
+[14:59:15] [Server thread/INFO]: Villager EntityVillager['Armorer'/350079, uuid='d0281158-a4e0-471d-8874-b7e67c252202', l='world', x=623.01, y=64.00, z=749.74, cx=38, cz=46, tl=617934, v=true, d=false] died, message: 'Armorer was slain by Zombie'
+[15:10:30] [Server thread/INFO]: Selina has made the advancement [We Need to Go Deeper]
+[15:16:47] [Server thread/INFO]: OChinBo lost connection: Disconnected
+[15:16:48] [Server thread/INFO]: OChinBo left the game
+[15:17:11] [Server thread/INFO]: basic_balion fell from a high place
+[15:30:37] [Server thread/INFO]: basic_balion has made the advancement [Diamonds!]
+[15:32:09] [Server thread/WARN]: Selina moved wrongly!
+[15:46:39] [Server thread/WARN]: 0a4703a9-5c72-49a0-901c-178996a3907f (vehicle of Selina) moved wrongly!
+[15:46:40] [Server thread/WARN]: 0a4703a9-5c72-49a0-901c-178996a3907f (vehicle of Selina) moved wrongly!
+[16:07:41] [Server thread/INFO]: Selina lost connection: Disconnected
+[16:07:41] [Server thread/INFO]: Selina left the game
+[16:16:53] [Server thread/INFO]: basic_balion has made the advancement [Enchanter]
