@@ -763,3 +763,23 @@
 [20:22:55] [Server thread/INFO]: Caber588 issued server command: /home
 [20:24:19] [Server thread/WARN]: aforward3326 moved wrongly!
 [20:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[20:28:10] [User Authenticator #10/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[20:28:11] [Server thread/INFO]: apple[/127.0.0.1:4397] logged in with entity id 73764 at ([world]-500.85831160300324, 156.1926536759045, -1204.7275844684088)
+[20:28:20] [Server thread/INFO]: apple issued server command: /logind25776565
+[20:28:25] [Craft Scheduler Thread - 109/INFO]: [AuthMe] apple logged in!
+[20:28:33] [Server thread/INFO]: apple issued server command: /fly
+[20:28:33] [Server thread/INFO]: [Essentials] apple 被拒絕使用命令
+[20:28:39] [Server thread/INFO]: Made apple a server operator
+[20:28:44] [Server thread/INFO]: apple issued server command: /fly
+[20:30:08] [Server thread/INFO]: OChinBo issued server command: /flyspeed 1
+[20:30:32] [Server thread/INFO]: OChinBo issued server command: /flyspeed 2
+[20:31:43] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[20:31:43] [Server thread/WARN]: apple moved too quickly! 32.50430374667599,22.956348981064338,129.83197138641071
+[20:32:17] [Server thread/INFO]: aforward3326 has made the advancement [The Parrots and the Bats]
+[20:33:03] [Server thread/INFO]: apple issued server command: /tp wolf
+[20:34:17] [Async Chat Thread - #9/INFO]: []<wolf> ...
+[20:34:17] [Server thread/INFO]: apple tried to swim in lava
+[20:34:50] [Server thread/INFO]: apple lost connection: Disconnected
+[20:34:50] [Server thread/INFO]: apple left the game
+[20:40:04] [Server thread/INFO]: FredYea lost connection: Disconnected
+[20:40:04] [Server thread/INFO]: FredYea left the game
