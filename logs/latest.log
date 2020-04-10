@@ -646,3 +646,88 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [13:11:42] [Server thread/INFO]: RocKog issued server command: /bACK
 [13:11:42] [Server thread/WARN]: RocKog moved too quickly! -591.0,-54.0,288.0
 [13:12:16] [Server thread/WARN]: wolf moved too quickly! 17.502761953294737,0.0,-6.290725997320351
+[13:20:48] [Server thread/INFO]: rgps3725 issued server command: /home
+[13:20:48] [Server thread/WARN]: rgps3725 moved too quickly! 2.872460646571568,92.0,-5.012499988079071
+[13:20:48] [Server thread/WARN]: rgps3725 moved too quickly! 2.872460646571568,92.0,-5.012499988079071
+[13:21:41] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[13:22:18] [Server thread/INFO]: RocKog issued server command: /HOME
+[13:22:32] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[13:23:39] [Server thread/INFO]: OChinBo issued server command: //set iron
+[13:23:44] [Server thread/INFO]: OChinBo issued server command: //set minecraft:iron_block
+[13:24:01] [Server thread/INFO]: OChinBo issued server command: //set minecraft:iron_block
+[13:24:20] [Server thread/INFO]: RocKog issued server command: /BACK
+[13:26:19] [Server thread/INFO]: OChinBo issued server command: //move -s 1 forward
+[13:27:30] [Server thread/INFO]: OChinBo issued server command: //set minecraft:iron_block
+[13:27:51] [Server thread/INFO]: RocKog was shot by Skeleton
+[13:27:55] [Server thread/INFO]: RocKog issued server command: /BACK
+[13:27:55] [Server thread/WARN]: RocKog moved too quickly! -562.0,-59.0,277.0
+[13:30:31] [Server thread/INFO]: basic_balion fell from a high place
+[13:30:43] [Server thread/INFO]: basic_balion issued server command: /B
+[13:30:52] [Server thread/INFO]: basic_balion issued server command: /back
+[13:33:37] [Server thread/INFO]: OChinBo issued server command: //set 0
+[13:34:23] [Server thread/INFO]: OChinBo issued server command: //set 0
+[13:36:10] [Server thread/INFO]: basic_balion issued server command: /home
+[13:36:34] [Async Chat Thread - #15/INFO]: []<wolf> ....
+[13:36:58] [User Authenticator #18/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[13:36:59] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[13:36:59] [Server thread/INFO]: LRIC[/123.194.147.86:49968] logged in with entity id 145580 at ([world]-687.5836488046245, 62.0, 152.08963535924406)
+[13:37:05] [Craft Scheduler Thread - 333/INFO]: [AuthMe] LRIC logged in!
+[13:37:07] [Server thread/INFO]: RocKog issued server command: /HOME
+[13:37:07] [Server thread/WARN]: RocKog moved too quickly! -183.27528722612033,47.0,-433.9181253434431
+[13:40:20] [Server thread/INFO]: basic_balion burned to death
+[13:40:24] [Server thread/INFO]: basic_balion issued server command: /back
+[13:40:27] [Server thread/INFO]: basic_balion issued server command: /home
+[13:40:31] [Server thread/INFO]: rgps3725 issued server command: /home
+[13:40:36] [Server thread/INFO]: RocKog was shot by Skeleton
+[13:47:21] [Server thread/INFO]: RocKog issued server command: /HOME
+[13:50:30] [Server thread/INFO]: basic_balion issued server command: /home
+[13:53:29] [Server thread/INFO]: rgps3725 issued server command: /home
+[13:53:29] [Server thread/WARN]: rgps3725 moved too quickly! -32.46964943484443,25.0,7.256214651071787
+[13:55:04] [Server thread/INFO]: OChinBo issued server command: //set 0
+[13:55:35] [Server thread/INFO]: OChinBo issued server command: /flyspeed 5
+[13:55:45] [Server thread/INFO]: OChinBo issued server command: //set 0
+[13:56:38] [Server thread/INFO]: OChinBo issued server command: //set 0
+[13:58:08] [Server thread/INFO]: RocKog issued server command: /HOME
+[14:00:03] [Server thread/INFO]: RocKog issued server command: /BACK
+[14:01:49] [Server thread/INFO]: rgps3725 issued server command: /home
+[14:02:01] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[14:02:01] [Server thread/INFO]: rgps3725 left the game
+[14:02:23] [Server thread/INFO]: OChinBo issued server command: //set 0
+[14:04:21] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[14:04:24] [Server thread/INFO]: LRIC issued server command: /back
+[14:04:24] [Server thread/WARN]: LRIC moved too quickly! -552.8026140795188,-51.0,514.9662171218969
+[14:06:10] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[14:07:09] [Server thread/INFO]: basic_balion issued server command: /home
+[14:07:22] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[14:08:02] [Server thread/INFO]: OChinBo issued server command: //set 0
+[14:09:24] [Server thread/INFO]: biteyou74 issued server command: /home
+[14:09:24] [Server thread/WARN]: biteyou74 moved too quickly! 42.71777054154197,-13.0,-61.078108255081816
+[14:09:43] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[14:09:50] [Server thread/INFO]: RocKog issued server command: /HOME
+[14:11:46] [Server thread/INFO]: LRIC was slain by Zombie
+[14:11:58] [Server thread/INFO]: LRIC issued server command: /back
+[14:12:30] [Server thread/INFO]: LRIC issued server command: /back
+[14:12:49] [Server thread/INFO]: OChinBo issued server command: //set 0
