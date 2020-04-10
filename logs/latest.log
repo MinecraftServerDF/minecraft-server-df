@@ -822,3 +822,106 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [15:03:26] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
 [15:10:48] [Server thread/INFO]: wolf has made the advancement [A Terrible Fortress]
 [15:11:12] [Server thread/INFO]: LRIC has made the advancement [Hot Stuff]
+[15:19:01] [Server thread/INFO]: wolf has made the advancement [Into Fire]
+[15:19:24] [Server thread/INFO]: OChinBo issued server command: //set minecraft:iron_block
+[15:19:55] [Server thread/INFO]: RocKog issued server command: /home
+[15:19:55] [Server thread/WARN]: RocKog moved too quickly! 3.849377267064483,20.0,-41.622045052681756
+[15:20:57] [Server thread/INFO]: RocKog issued server command: /gamemode 1
+[15:21:53] [Server thread/INFO]: RocKog issued server command: /gamemode 0
+[15:22:16] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:23:26] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:23:32] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:23:37] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:26:12] [Server thread/INFO]: OChinBo issued server command: //stack 10 forward
+[15:26:33] [Server thread/INFO]: LRIC was shot by Skeleton
+[15:26:41] [Server thread/INFO]: LRIC issued server command: /back
+[15:26:56] [Async Chat Thread - #16/INFO]: []<wolf> 疙瘩居然被挖光了www
+[15:27:00] [Server thread/INFO]: OChinBo issued server command: //stack 10 forward
+[15:27:46] [Server thread/INFO]: OChinBo issued server command: //stack 3 forward
+[15:29:02] [Server thread/INFO]: OChinBo issued server command: //stack 3 forward
+[15:29:56] [Server thread/INFO]: OChinBo issued server command: //stack 20 forward
+[15:30:25] [Server thread/INFO]: OChinBo issued server command: //stack 3 forward
+[15:31:17] [Server thread/INFO]: OChinBo issued server command: //stack 4 forward
+[15:32:04] [Server thread/INFO]: OChinBo issued server command: //stack 16 forward
+[15:35:06] [Server thread/INFO]: OChinBo issued server command: //stack 1 forward
+[15:35:31] [Server thread/INFO]: OChinBo issued server command: //move -s 1 forward
+[15:35:56] [Server thread/INFO]: RocKog lost connection: Disconnected
+[15:35:56] [Server thread/INFO]: RocKog left the game
+[15:36:21] [User Authenticator #21/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[15:36:21] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[15:36:21] [Server thread/INFO]: RocKog[/111.251.26.49:56411] logged in with entity id 213649 at ([world]73.02203947647874, 87.0, 783.1217407400343)
+[15:36:39] [Craft Scheduler Thread - 385/INFO]: [AuthMe] RocKog logged in!
+[15:37:11] [Server thread/INFO]: OChinBo issued server command: //stack 1 forward
+[15:37:53] [Server thread/INFO]: OChinBo issued server command: //move -s 1 forward
+[15:38:34] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:39:10] [Server thread/INFO]: OChinBo issued server command: //stack 4 forward
+[15:40:35] [Server thread/INFO]: OChinBo issued server command: //stack 6 forward
+[15:43:03] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:43:46] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:43:57] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:44:33] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[15:59:20] [Server thread/INFO]: Villager EntityVillager['Villager'/208149, uuid='34e1a691-2b6c-4b41-a83d-89680bf040e8', l='world', x=-1400.82, y=66.00, z=609.82, cx=-88, cz=38, tl=112577, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[15:59:35] [Server thread/INFO]: Villager EntityVillager['Villager'/208145, uuid='464a4d9c-04be-4094-b58e-284cc8d93211', l='world', x=-1419.00, y=66.94, z=586.52, cx=-89, cz=36, tl=113157, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[15:59:43] [Server thread/INFO]: Villager EntityVillager['Villager'/208148, uuid='b16f7948-8d8e-4de4-8619-1e12d21a99d5', l='world', x=-1421.05, y=66.00, z=596.93, cx=-89, cz=37, tl=113270, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[15:59:59] [Server thread/INFO]: Villager EntityVillager['Villager'/208146, uuid='a3f892c9-538b-4c06-9836-b26f5dabbc61', l='world', x=-1419.83, y=65.94, z=596.30, cx=-89, cz=37, tl=113588, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[16:00:11] [Server thread/INFO]: Villager EntityVillager['Librarian'/208160, uuid='b72de579-2d16-4c67-868a-e984a931157d', l='world', x=-1435.85, y=65.00, z=595.62, cx=-90, cz=37, tl=81886, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[16:04:17] [Server thread/INFO]: wolf lost connection: Disconnected
+[16:04:17] [Server thread/INFO]: wolf left the game
+[16:05:40] [Server thread/INFO]: RocKog issued server command: /gamemode 1
+[16:07:07] [Server thread/INFO]: RocKog lost connection: Disconnected
+[16:07:07] [Server thread/INFO]: RocKog left the game
+[16:07:41] [User Authenticator #22/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[16:07:41] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[16:07:42] [Server thread/INFO]: RocKog[/111.251.26.49:56725] logged in with entity id 226642 at ([world]8.208818834453732, 110.0, 785.6130608399321)
+[16:07:58] [Craft Scheduler Thread - 401/INFO]: [AuthMe] RocKog logged in!
+[16:08:10] [Server thread/INFO]: RocKog issued server command: /GAMEMODE 1
+[16:08:12] [Server thread/INFO]: OChinBo issued server command: //set 0
+[16:09:45] [Server thread/INFO]: RocKog issued server command: /GAMEMODE 0
+[16:12:33] [Server thread/INFO]: RocKog issued server command: /home
+[16:12:44] [Server thread/INFO]: RocKog issued server command: /back
