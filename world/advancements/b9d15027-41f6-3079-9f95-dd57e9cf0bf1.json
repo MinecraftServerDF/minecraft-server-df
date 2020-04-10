@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-10 20:22:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 00:00:55 +0800"
@@ -230,6 +236,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-07 00:40:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-10 20:21:39 +0800"
     },
     "done": true
   },
@@ -700,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-04-10 20:09:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-04-06 00:35:25 +0800"
@@ -775,6 +793,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-04-07 01:04:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-10 20:09:47 +0800"
     },
     "done": true
   },
@@ -964,6 +988,7 @@
       "minecraft:deep_frozen_ocean": "2020-04-05 23:24:24 +0800",
       "minecraft:jungle": "2020-04-10 01:02:34 +0800",
       "minecraft:birch_forest": "2020-04-07 01:32:41 +0800",
+      "minecraft:jungle_hills": "2020-04-10 20:14:03 +0800",
       "minecraft:snowy_beach": "2020-04-05 23:34:24 +0800",
       "minecraft:bamboo_jungle": "2020-04-10 01:04:50 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-05 22:55:40 +0800",
@@ -975,6 +1000,7 @@
       "minecraft:snowy_taiga": "2020-04-06 00:53:59 +0800",
       "minecraft:birch_forest_hills": "2020-04-07 01:33:11 +0800",
       "minecraft:wooded_mountains": "2020-04-07 01:26:15 +0800",
+      "minecraft:bamboo_jungle_hills": "2020-04-10 20:17:30 +0800",
       "minecraft:wooded_hills": "2020-04-07 01:22:38 +0800",
       "minecraft:stone_shore": "2020-04-05 23:25:51 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-05 23:38:11 +0800",
@@ -1149,6 +1175,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-04-10 01:03:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-04-10 20:23:12 +0800"
     },
     "done": true
   },
@@ -1703,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-10 20:22:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-05 22:47:52 +0800"
@@ -1937,6 +1975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-10 20:22:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-04-06 23:55:59 +0800"
@@ -2066,6 +2110,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-06 23:55:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-04-10 20:23:12 +0800"
     },
     "done": true
   },
