@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-04-10 23:28:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-04-03 20:03:35 +0800"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2020-04-05 00:56:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-04-10 23:28:27 +0800"
     },
     "done": true
   },
@@ -593,6 +605,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2020-04-07 21:46:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-04-10 23:28:27 +0800"
     },
     "done": true
   },
@@ -1608,6 +1626,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2020-04-04 18:53:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-10 23:28:26 +0800"
     },
     "done": true
   },

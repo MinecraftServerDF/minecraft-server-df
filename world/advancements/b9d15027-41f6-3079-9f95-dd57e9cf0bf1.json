@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-10 23:04:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2020-04-10 21:15:40 +0800"
@@ -1003,15 +1009,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2020-04-10 22:30:56 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-10 21:26:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-10 22:30:56 +0800"
     },
     "done": true
   },
@@ -1962,7 +1968,8 @@
     "criteria": {
       "minecraft:turtle": "2020-04-07 01:05:19 +0800",
       "minecraft:sheep": "2020-04-09 14:52:26 +0800",
-      "minecraft:cow": "2020-04-09 14:52:07 +0800"
+      "minecraft:cow": "2020-04-09 14:52:07 +0800",
+      "minecraft:bee": "2020-04-10 23:02:21 +0800"
     },
     "done": false
   },
