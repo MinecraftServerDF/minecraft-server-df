@@ -294,3 +294,42 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [05:48:05] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
 [05:49:02] [Server thread/INFO]: OChinBo lost connection: Disconnected
 [05:49:02] [Server thread/INFO]: OChinBo left the game
+[08:44:02] [User Authenticator #10/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[08:44:02] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[08:44:02] [Server thread/INFO]: wolf[/115.165.203.20:59470] logged in with entity id 66975 at ([world]262.6814031467834, 63.0, 1417.3252637842932)
+[08:44:12] [Craft Scheduler Thread - 229/INFO]: [AuthMe] wolf logged in!
+[08:51:04] [Server thread/INFO]: wolf tried to swim in lava
+[08:51:14] [Server thread/INFO]: wolf issued server command: /back
+[09:00:42] [Server thread/INFO]: wolf issued server command: /tp wolf 183.64.128
+[09:00:50] [Server thread/INFO]: wolf issued server command: /tp 183.64.128
+[09:01:04] [Server thread/INFO]: wolf issued server command: /tp wolf 183.64.128
+[09:02:35] [Server thread/INFO]: wolf issued server command: /tp wolf wolf 180.64.228
+[09:02:47] [Server thread/INFO]: wolf issued server command: /tpa wolf 180.64.228
+[09:03:13] [Server thread/INFO]: wolf issued server command: /tp wolf to 164.64.228
+[09:04:16] [Server thread/INFO]: wolf issued server command: /tp wolf 180 64 228
+[09:05:31] [Server thread/INFO]: [Server] 有沒有這麼早起
+[09:05:41] [Async Chat Thread - #10/INFO]: []<wolf> 休假
+[09:05:53] [Server thread/INFO]: [Server] 原來如此
