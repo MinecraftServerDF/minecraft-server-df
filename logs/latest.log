@@ -368,3 +368,97 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [10:58:48] [Server thread/INFO]: wolf lost connection: Disconnected
 [10:58:48] [Server thread/INFO]: wolf left the game
 [11:00:03] [Server thread/INFO]: basic_balion has made the advancement [Hot Stuff]
+[11:16:38] [User Authenticator #12/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[11:16:38] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[11:16:38] [Server thread/INFO]: OChinBo[/123.194.137.234:14094] logged in with entity id 89263 at ([world]691.2645691504107, 73.5356531130163, 826.730144856991)
+[11:16:49] [Craft Scheduler Thread - 277/INFO]: [AuthMe] OChinBo logged in!
+[11:16:56] [Server thread/INFO]: basic_balion has made the advancement [The Parrots and the Bats]
+[11:16:59] [Server thread/INFO]: OChinBo issued server command: /gamemode creative
+[11:30:19] [Server thread/INFO]: OChinBo issued server command: /effect give OChinBo minecraft:night_vision 99999
+[11:30:19] [Server thread/INFO]: [OChinBo: Applied effect Night Vision to OChinBo]
+[11:34:15] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:34:42] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:35:39] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:36:13] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:37:29] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:38:01] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:38:16] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:42:08] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:45:55] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:46:05] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:46:13] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:46:45] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:48:24] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:48:30] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:49:01] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:50:34] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:51:02] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:51:51] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:53:01] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:53:07] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:53:13] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
+[11:53:30] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:55:07] [Server thread/INFO]: OChinBo issued server command: //expand 10 N
+[11:55:25] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:56:24] [Server thread/INFO]: OChinBo issued server command: //set qu
+[11:56:28] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[11:57:46] [User Authenticator #13/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[11:57:47] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[11:57:47] [Server thread/INFO]: wolf[/115.165.203.20:57985] logged in with entity id 97525 at ([world]309.15346460790715, 9.0, 1487.3179333200128)
+[11:57:55] [Craft Scheduler Thread - 291/INFO]: [AuthMe] wolf logged in!
+[11:58:43] [Server thread/INFO]: OChinBo issued server command: //set 0
+[11:59:05] [Server thread/INFO]: OChinBo issued server command: //set 0
+[12:00:49] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[12:01:04] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[12:02:28] [Server thread/INFO]: OChinBo issued server command: //set 0
+[12:03:05] [Server thread/INFO]: OChinBo issued server command: //set 0
+[12:03:44] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[12:04:58] [Server thread/INFO]: OChinBo issued server command: //expand 10 north
+[12:05:03] [Server thread/INFO]: OChinBo issued server command: //set 0
+[12:06:19] [Server thread/INFO]: OChinBo issued server command: //set minecraft:black_wool
