@@ -648,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-10 13:28:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2020-04-05 06:20:11 +0800"
@@ -741,6 +747,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-07 15:52:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-10 13:28:26 +0800"
     },
     "done": true
   },
@@ -1360,6 +1372,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-05 04:57:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-10 13:28:26 +0800"
     },
     "done": true
   },
