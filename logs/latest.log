@@ -1001,3 +1001,10 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [16:37:59] [Craft Scheduler Thread - 419/INFO]: [AuthMe] appa1423 logged in!
 [16:39:25] [Server thread/INFO]: LRIC issued server command: /back
 [16:39:25] [Server thread/WARN]: LRIC moved too quickly! 720.8792063646588,-10.0,-403.5874305361309
+[17:25:52] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[17:25:52] [Server thread/INFO]: appa1423 left the game
+[17:43:36] [Server thread/INFO]: LRIC issued server command: /back
+[17:45:51] [Server thread/INFO]: LRIC was shot by Skeleton
+[17:45:58] [Server thread/INFO]: LRIC issued server command: /back
+[17:53:04] [Server thread/INFO]: LRIC issued server command: /back
+[18:07:17] [Server thread/WARN]: LRIC moved wrongly!

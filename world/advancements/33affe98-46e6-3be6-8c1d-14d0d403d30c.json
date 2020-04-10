@@ -1002,6 +1002,7 @@
       "minecraft:desert_hills": "2020-04-06 21:30:11 +0800",
       "minecraft:desert": "2020-04-03 21:53:38 +0800",
       "minecraft:jungle": "2020-04-05 19:54:46 +0800",
+      "minecraft:jungle_hills": "2020-04-10 18:08:13 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-03 22:43:37 +0800",
       "minecraft:badlands": "2020-04-03 22:43:29 +0800",
       "minecraft:beach": "2020-04-03 20:04:02 +0800",
@@ -1158,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-10 18:07:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2020-04-04 21:05:59 +0800"
@@ -1221,6 +1228,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-03 22:22:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-10 18:07:20 +0800"
     },
     "done": true
   },
@@ -1419,6 +1432,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-04-04 20:35:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-10 17:59:24 +0800"
     },
     "done": true
   },
@@ -1680,6 +1699,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-04-03 22:44:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-10 17:59:24 +0800"
     },
     "done": true
   },
