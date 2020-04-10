@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-10 11:23:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-08 23:34:53 +0800"
@@ -438,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-10 11:00:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-09 00:23:29 +0800"
@@ -531,6 +543,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-04-08 22:55:45 +0800",
+      "minecraft:zombie_pigman": "2020-04-10 11:23:58 +0800",
       "minecraft:ghast": "2020-04-09 14:01:31 +0800",
       "minecraft:magma_cube": "2020-04-09 13:56:43 +0800",
       "minecraft:spider": "2020-04-08 22:54:28 +0800",
@@ -591,6 +604,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 00:46:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-04-10 11:22:40 +0800"
     },
     "done": true
   },
@@ -1136,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-04-10 10:52:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-04-09 15:30:37 +0800"
@@ -1223,6 +1248,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2020-04-09 11:13:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-04-10 11:22:40 +0800"
     },
     "done": true
   },
@@ -1636,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-04-10 11:22:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 00:46:23 +0800"
@@ -1653,6 +1690,14 @@
       "has_sand": "2020-04-09 10:06:05 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2020-04-10 11:16:56 +0800",
+      "minecraft:cow": "2020-04-10 11:17:34 +0800",
+      "minecraft:chicken": "2020-04-10 11:23:23 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -1915,6 +1960,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 00:46:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-10 11:23:59 +0800"
     },
     "done": true
   },
@@ -2419,6 +2470,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-04-09 00:20:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-10 11:16:56 +0800"
     },
     "done": true
   },

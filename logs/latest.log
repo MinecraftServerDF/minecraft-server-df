@@ -333,3 +333,38 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [09:05:31] [Server thread/INFO]: [Server] Τ⊿Τ硂或Ν癬
 [09:05:41] [Async Chat Thread - #10/INFO]: []<wolf> ヰ安
 [09:05:53] [Server thread/INFO]: [Server] ㄓ
+[09:18:18] [Server thread/INFO]: [Server] и祇瞷肚癳 案τ穦Τ祘Α絏岿粇
+[09:18:27] [Async Chat Thread - #11/INFO]: []<wolf> ?
+[09:18:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[09:18:57] [Server thread/INFO]: [Server]  1.15.2  痷琌 糛岿粇
+[09:36:28] [Async Chat Thread - #12/INFO]: []<wolf> тぃ办璶峨= =
+[10:47:16] [User Authenticator #11/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[10:47:16] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[10:47:16] [Server thread/INFO]: basic_balion[/36.232.7.58:6758] logged in with entity id 82855 at ([world]-230.33259429351713, 104.5, -1065.254020648376)
+[10:47:30] [Craft Scheduler Thread - 264/INFO]: [AuthMe] basic_balion logged in!
+[10:58:48] [Server thread/INFO]: wolf lost connection: Disconnected
+[10:58:48] [Server thread/INFO]: wolf left the game
+[11:00:03] [Server thread/INFO]: basic_balion has made the advancement [Hot Stuff]
