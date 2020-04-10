@@ -580,6 +580,7 @@
     "criteria": {
       "minecraft:pillager": "2020-04-05 16:22:35 +0800",
       "minecraft:skeleton": "2020-04-05 15:07:45 +0800",
+      "minecraft:ghast": "2020-04-10 21:05:43 +0800",
       "minecraft:vindicator": "2020-04-08 00:29:37 +0800",
       "minecraft:spider": "2020-04-05 14:55:10 +0800",
       "minecraft:creeper": "2020-04-05 15:00:19 +0800",
@@ -1451,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-04-10 21:01:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-04-05 14:43:53 +0800"
@@ -2049,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-04-10 21:01:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-05 20:23:13 +0800"
@@ -2280,6 +2293,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-07 20:52:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-04-10 21:02:10 +0800"
     },
     "done": true
   },

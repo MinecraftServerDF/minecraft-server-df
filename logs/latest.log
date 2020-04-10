@@ -1242,3 +1242,251 @@ org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register tas
 [20:03:27] [Server thread/INFO]: LRIC[/123.194.147.86:53850] logged in with entity id 303776 at ([world]-1786.3963052305394, 63.0, -983.3614549040852)
 [20:03:33] [Craft Scheduler Thread - 497/INFO]: [AuthMe] LRIC logged in!
 [20:07:58] [Server thread/WARN]: LRIC moved wrongly!
+[20:18:42] [Server thread/INFO]: LRIC lost connection: Disconnected
+[20:18:42] [Server thread/INFO]: LRIC left the game
+[20:27:35] [Server thread/WARN]: Caber588 moved wrongly!
+[20:28:20] [Server thread/WARN]: Caber588 moved wrongly!
+[20:29:07] [Server thread/WARN]: Caber588 moved wrongly!
+[20:32:23] [User Authenticator #30/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[20:32:23] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[20:32:23] [Server thread/INFO]: apple[/127.0.0.1:11661] logged in with entity id 320344 at ([world]495.1050209611905, 94.69899148960734, 804.0193533453071)
+[20:32:43] [Craft Scheduler Thread - 510/INFO]: [AuthMe] apple logged in!
+[20:32:49] [Server thread/INFO]: apple issued server command: /tp aforward3326
+[20:33:16] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[20:39:41] [User Authenticator #31/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[20:39:41] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[20:39:41] [Server thread/INFO]: biteyou74[/36.230.75.242:1890] logged in with entity id 323590 at ([world]-178.2365513489356, 78.0, -1009.274545398664)
+[20:39:55] [Craft Scheduler Thread - 514/INFO]: [AuthMe] biteyou74 logged in!
+[20:40:12] [Server thread/WARN]: Caber588 moved wrongly!
+[20:41:25] [Server thread/WARN]: Caber588 moved wrongly!
+[20:42:56] [Server thread/WARN]: Caber588 moved wrongly!
+[20:43:21] [Async Chat Thread - #17/INFO]: []<biteyou74> 你燒掉的房子甚麼時候才要修阿
+[20:43:48] [User Authenticator #32/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[20:43:48] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[20:43:48] [Server thread/INFO]: rgps3725[/59.115.169.191:60789] logged in with entity id 325644 at ([world]-211.53825991809416, 102.0, -1056.9753663755896)
+[20:43:53] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[20:43:53] [Server thread/INFO]: aforward3326 left the game
+[20:43:57] [Craft Scheduler Thread - 519/INFO]: [AuthMe] rgps3725 logged in!
+[20:46:08] [Async Chat Thread - #18/INFO]: []<apple> sa回家真好
+[20:46:23] [Async Chat Thread - #18/INFO]: []<apple> 誰燒房子
+[20:46:44] [Async Chat Thread - #18/INFO]: []<Caber588> 工安意外
+[20:46:44] [Async Chat Thread - #18/INFO]: []<biteyou74> 有某個笨蛋 岩漿放自己家旁邊
+[20:47:06] [Async Chat Thread - #18/INFO]: []<biteyou74> 他沒有核可的建築執照
+[20:47:22] [Async Chat Thread - #18/INFO]: []<apple> 哈哈阿 我以前也是蓋了一個木屋 想說拿岩漿當護城河 結果勒 剩下石頭階梯
+[20:47:40] [Async Chat Thread - #18/INFO]: []<rgps3725> 岩漿護城河 哈哈哈哈哈
+[20:47:40] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[20:47:46] [Async Chat Thread - #18/INFO]: []<biteyou74> 被自己人燒了
+[20:47:59] [Server thread/INFO]: apple tried to swim in lava
+[20:48:05] [Server thread/INFO]: apple issued server command: /clean apple
+[20:48:16] [Server thread/INFO]: apple issued server command: /tp rgps3725
+[20:48:35] [Async Chat Thread - #18/INFO]: []<apple> 這是在炫富？
+[20:48:57] [Async Chat Thread - #18/INFO]: []<rgps3725> 沒阿 只是想說要用的話直接挖
+[20:49:11] [Async Chat Thread - #18/INFO]: []<biteyou74> 整個村莊的財富都在那邊了
+[20:49:22] [Server thread/WARN]: apple moved wrongly!
+[20:49:38] [Server thread/INFO]: apple lost connection: Disconnected
+[20:49:38] [Server thread/INFO]: apple left the game
+[20:49:39] [Server thread/INFO]: Caber588 issued server command: /home
+[20:52:52] [User Authenticator #33/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[20:52:52] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[20:52:52] [Server thread/INFO]: Andy[/220.135.139.86:49481] logged in with entity id 329013 at ([world]-313.3993665222337, 70.0, -439.5524952819057)
+[20:52:59] [Craft Scheduler Thread - 527/INFO]: [AuthMe] Andy logged in!
+[20:53:01] [Server thread/WARN]: rgps3725 moved wrongly!
+[20:55:36] [User Authenticator #34/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[20:55:36] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[20:55:36] [Server thread/INFO]: OChinBo[/123.194.137.234:9214] logged in with entity id 330044 at ([world]706.7159249808288, 68.0, 772.5269513096869)
+[20:55:44] [Craft Scheduler Thread - 530/INFO]: [AuthMe] OChinBo logged in!
+[20:55:49] [Server thread/INFO]: OChinBo issued server command: /gamemode creative
+[20:58:15] [Server thread/INFO]: OChinBo issued server command: /effect give OChinBo minecraft:night_vision 999999
+[20:58:15] [Server thread/INFO]: [OChinBo: Applied effect Night Vision to OChinBo]
+[20:58:49] [Server thread/INFO]: OChinBo issued server command: //stack 4 up
+[21:01:20] [Server thread/INFO]: rgps3725 has made the advancement [We Need to Go Deeper]
+[21:07:19] [Server thread/INFO]: rgps3725 issued server command: /home
+[21:07:40] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[21:07:40] [Server thread/INFO]: rgps3725 left the game
+[21:07:57] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[21:12:44] [Server thread/INFO]: OChinBo issued server command: //move 1 up minecraft:dirt
+[21:14:02] [Server thread/INFO]: RocKog lost connection: Disconnected
+[21:14:02] [Server thread/INFO]: RocKog left the game
+[21:14:14] [Server thread/INFO]: OChinBo issued server command: //set minecraft:dirt
+[21:14:26] [Server thread/INFO]: OChinBo issued server command: //set 0
+[21:14:33] [Server thread/INFO]: OChinBo issued server command: //undo
+[21:14:50] [Server thread/INFO]: OChinBo issued server command: //set 0
+[21:15:40] [Server thread/INFO]: Caber588 has completed the challenge [Return to Sender]
+[21:15:46] [Server thread/INFO]: OChinBo issued server command: //set minecraft:quartz_block
+[21:18:55] [Server thread/INFO]: Caber588 has made the advancement [A Terrible Fortress]
+[21:19:17] [Server thread/INFO]: Caber588 has made the advancement [Into Fire]
+[21:19:55] [Server thread/INFO]: OChinBo issued server command: //move 1 forward
+[21:39:25] [Server thread/INFO]: Villager EntityVillager['Nitwit'/349309, uuid='d08b2e71-7f3f-48dc-aea6-6214ac7dd559', l='world', x=146.19, y=66.00, z=-900.73, cx=9, cz=-57, tl=65206, v=true, d=false] died, message: 'Nitwit was slain by Zombie'
+[21:45:47] [Server thread/INFO]: OChinBo issued server command: //set 0
+[21:46:48] [Server thread/INFO]: Caber588 issued server command: /home
+[21:51:38] [Server thread/INFO]: Caber588 issued server command: /home
+[21:52:46] [Server thread/INFO]: Caber588 issued server command: /hoem
+[21:52:49] [Server thread/INFO]: Caber588 issued server command: /home
+[21:52:49] [Server thread/WARN]: Caber588 moved too quickly! -5.585510981732227,92.0,3.358608803558809
+[21:52:56] [Server thread/INFO]: Villager EntityVillager['Farmer'/330185, uuid='ae8a57e5-bd8b-43ba-abed-96c6dd66b38d', l='world', x=618.65, y=64.00, z=738.68, cx=38, cz=46, tl=1639589, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[21:53:53] [Server thread/INFO]: Villager EntityVillager['Villager'/299410, uuid='f7cfb51b-0918-4d7d-9fcf-e49b0132c22e', l='world', x=-181.50, y=66.94, z=-869.67, cx=-12, cz=-55, tl=144710, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[21:54:55] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
+[21:55:21] [Server thread/INFO]: biteyou74 issued server command: /tpac
+[21:55:32] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
+[21:56:45] [Server thread/INFO]: Caber588 issued server command: /home
+[21:58:17] [Server thread/INFO]: Caber588 issued server command: /home
+[22:01:32] [Server thread/INFO]: OChinBo issued server command: /afk
+[22:01:46] [Server thread/INFO]: Andy has made the advancement [Not Today, Thank You]
+[22:03:37] [User Authenticator #35/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[22:03:37] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to EssentialsSpawn v2.17.2.0
+org.bukkit.plugin.IllegalPluginAccessException: Plugin attempted to register task while disabled
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.validate(CraftScheduler.java:518) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:221) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskTimerAsynchronously(CraftScheduler.java:217) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskLaterAsynchronously(CraftScheduler.java:168) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.runTaskAsynchronously(CraftScheduler.java:137) ~[patched_1.15.2.jar:git-Paper-162]
+	at com.earth2me.essentials.Essentials.runTaskAsynchronously(Essentials.java:798) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.onPlayerJoin(EssentialsSpawnPlayerListener.java:64) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn.lambda$onEnable$1(EssentialsSpawn.java:50) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawn$$Lambda$3381/1076428430.execute(Unknown Source) ~[?:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.15.2.jar:git-Paper-162]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:607) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.PlayerList.a(PlayerList.java:192) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.c(LoginListener.java:174) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.LoginListener.tick(LoginListener.java:65) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:256) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.ServerConnection.c(ServerConnection.java:139) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1269) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-162]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-162]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[22:03:37] [Server thread/INFO]: LRIC[/123.194.147.86:54894] logged in with entity id 363028 at ([world]-2404.240253231043, 64.0, -2236.557394296121)
+[22:03:44] [Craft Scheduler Thread - 556/INFO]: [AuthMe] LRIC logged in!
+[22:11:03] [Server thread/INFO]: LRIC issued server command: /back
+[22:11:39] [Server thread/INFO]: LRIC issued server command: /back
+[22:14:19] [Server thread/INFO]: Caber588 issued server command: /home
+[22:15:24] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
+[22:15:39] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
+[22:17:20] [Server thread/INFO]: LRIC was slain by Zombie
+[22:19:18] [Server thread/INFO]: LRIC issued server command: /back
+[22:20:30] [Server thread/INFO]: Caber588 issued server command: /hom3
+[22:20:32] [Server thread/INFO]: Caber588 issued server command: /hom3
+[22:20:34] [Server thread/INFO]: Caber588 issued server command: /home
+[22:21:03] [Server thread/INFO]: LRIC issued server command: /back
+[22:21:42] [Server thread/INFO]: Caber588 issued server command: /home
+[22:22:33] [Server thread/INFO]: Caber588 has made the advancement [Bee Our Guest]
+[22:26:00] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
+[22:26:05] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
+[22:27:22] [Server thread/INFO]: Caber588 issued server command: /home
