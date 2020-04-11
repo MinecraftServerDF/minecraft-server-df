@@ -547,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-04-11 13:00:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
@@ -1447,6 +1453,7 @@
       "cooked_mutton": "2020-04-07 12:49:20 +0800",
       "sweet_berries": "2020-04-08 00:05:20 +0800",
       "cooked_beef": "2020-04-09 22:26:19 +0800",
+      "baked_potato": "2020-04-11 12:37:49 +0800",
       "cooked_cod": "2020-04-08 22:40:30 +0800",
       "bread": "2020-04-07 11:17:20 +0800",
       "salmon": "2020-04-09 20:22:37 +0800",
@@ -1936,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-04-11 12:51:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
@@ -2269,6 +2282,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-04-09 20:28:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-04-11 12:51:22 +0800"
     },
     "done": true
   },
