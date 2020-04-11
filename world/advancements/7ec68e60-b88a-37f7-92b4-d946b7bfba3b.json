@@ -745,6 +745,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-04-11 18:52:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-04-11 17:23:17 +0800"
@@ -1132,6 +1138,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-04-11 00:57:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-04-11 18:52:23 +0800"
     },
     "done": true
   },
