@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-11 20:47:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2020-04-10 13:55:30 +0800"
@@ -642,6 +648,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-04-10 11:22:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-11 20:47:16 +0800"
     },
     "done": true
   },
@@ -1301,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-11 20:47:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-04-09 11:13:48 +0800"
@@ -1346,6 +1364,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 00:23:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-11 20:47:23 +0800"
     },
     "done": true
   },
@@ -2702,6 +2726,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-04-08 23:34:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-11 20:47:16 +0800"
     },
     "done": true
   },

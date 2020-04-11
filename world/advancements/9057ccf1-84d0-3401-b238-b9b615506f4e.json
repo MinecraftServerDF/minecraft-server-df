@@ -296,6 +296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-04-11 20:46:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 04:16:38 +0800"
@@ -630,6 +636,7 @@
       "minecraft:witch": "2020-04-08 09:32:56 +0800",
       "minecraft:wither_skeleton": "2020-04-08 01:36:42 +0800",
       "minecraft:husk": "2020-04-05 11:58:13 +0800",
+      "minecraft:cave_spider": "2020-04-11 20:48:53 +0800",
       "minecraft:enderman": "2020-04-05 10:03:59 +0800",
       "minecraft:zombie": "2020-04-05 03:57:13 +0800",
       "minecraft:zombie_villager": "2020-04-07 16:53:34 +0800"
@@ -2272,6 +2279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-04-11 20:46:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-05 17:29:59 +0800"
@@ -2846,6 +2859,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 04:16:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-04-11 20:46:42 +0800"
     },
     "done": true
   },
