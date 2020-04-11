@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-04-11 23:39:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-07 23:33:37 +0800"
@@ -478,7 +484,8 @@
       "minecraft:pig": "2020-04-11 16:20:51 +0800",
       "minecraft:sheep": "2020-04-07 22:38:25 +0800",
       "minecraft:cow": "2020-04-11 18:11:07 +0800",
-      "minecraft:wolf": "2020-04-11 15:48:16 +0800"
+      "minecraft:wolf": "2020-04-11 15:48:16 +0800",
+      "minecraft:bee": "2020-04-11 23:24:07 +0800"
     },
     "done": false
   },
@@ -743,6 +750,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-11 23:37:33 +0800",
       "minecraft:skeleton": "2020-04-08 22:18:59 +0800",
       "minecraft:spider": "2020-04-04 22:54:55 +0800",
       "minecraft:zombie": "2020-04-04 22:53:59 +0800",
@@ -1408,6 +1416,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-06 22:04:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-11 23:37:33 +0800"
     },
     "done": true
   },

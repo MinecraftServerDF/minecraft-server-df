@@ -1,7 +1,7 @@
 lastAccountName: taiwankeiki
 timestamps:
-  login: 1586615302038
-  logout: 1586615331977
+  login: 1586616747945
+  logout: 1586616766341
 ipAddress: 114.43.93.80
 lastlocation:
   world: world
@@ -15,5 +15,6 @@ logoutlocation:
   x: 219.012414337923
   y: 69.0
   z: 265.93729199355784
-  yaw: 118.13625
-  pitch: 22.349983
+  yaw: 172.73639
+  pitch: 15.599979
+afk: false

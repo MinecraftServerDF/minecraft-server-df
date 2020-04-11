@@ -435,6 +435,7 @@
       "porkchop": "2020-04-04 20:35:04 +0800",
       "potato": "2020-04-09 21:25:14 +0800",
       "cooked_cod": "2020-04-07 21:08:53 +0800",
+      "pumpkin_pie": "2020-04-11 22:51:22 +0800",
       "bread": "2020-04-04 21:57:41 +0800",
       "rotten_flesh": "2020-04-04 21:59:09 +0800",
       "beetroot": "2020-04-04 21:11:00 +0800",
@@ -1511,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-04-11 22:59:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-04 20:53:40 +0800"
@@ -1950,6 +1957,7 @@
       "minecraft:dark_forest": "2020-04-08 00:11:49 +0800",
       "minecraft:river": "2020-04-04 20:03:57 +0800",
       "minecraft:lukewarm_ocean": "2020-04-07 23:43:03 +0800",
+      "minecraft:wooded_mountains": "2020-04-11 22:51:48 +0800",
       "minecraft:wooded_hills": "2020-04-04 20:13:10 +0800",
       "minecraft:stone_shore": "2020-04-04 21:20:31 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-08 19:58:19 +0800",

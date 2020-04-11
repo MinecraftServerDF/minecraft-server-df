@@ -516,6 +516,7 @@
       "minecraft:skeleton": "2020-04-07 12:46:06 +0800",
       "minecraft:spider": "2020-04-07 10:26:21 +0800",
       "minecraft:creeper": "2020-04-07 13:39:18 +0800",
+      "minecraft:slime": "2020-04-11 23:32:49 +0800",
       "minecraft:phantom": "2020-04-08 20:17:21 +0800",
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
       "minecraft:zombie": "2020-04-07 10:31:27 +0800",
@@ -538,6 +539,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-04-10 23:28:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
     },
     "done": true
   },
@@ -964,6 +971,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-07 12:37:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-11 23:32:54 +0800"
     },
     "done": true
   },
@@ -1523,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-07 17:54:49 +0800"
@@ -1727,6 +1746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-07 10:29:53 +0800"
@@ -1796,6 +1821,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2020-04-07 10:34:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
     },
     "done": true
   },
@@ -1898,6 +1929,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-04-09 20:28:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-11 23:32:54 +0800"
     },
     "done": true
   },
@@ -2171,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-11 23:32:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-07 10:33:04 +0800"
@@ -2219,9 +2262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-08 22:50:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
     },
     "done": true
   },
@@ -2360,6 +2415,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-04-07 13:35:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-04-11 23:37:10 +0800"
     },
     "done": true
   },
