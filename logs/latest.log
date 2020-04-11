@@ -157,3 +157,18 @@
 [05:29:49] [Async Chat Thread - #29/INFO]: []<SpyCat005> apple
 [05:30:25] [Server thread/INFO]: SpyCat005 tried to swim in lava
 [05:33:59] [Async Chat Thread - #30/INFO]: []<SpyCat005> 0.0
+[05:43:02] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[05:43:02] [Server thread/INFO]: SpyCat005 left the game
+[05:45:20] [User Authenticator #70/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[05:45:20] [Server thread/INFO]: SpyCat005[/115.165.227.248:9288] logged in with entity id 592123 at ([world_survive]88.43816530965641, 64.0, 263.6681841778103)
+[05:45:29] [Craft Scheduler Thread - 906/INFO]: [AuthMe] SpyCat005 logged in!
+[05:46:07] [Server thread/INFO]: Villager EntityVillager['Farmer'/466968, uuid='e55dfe1b-039f-49d5-9913-17d35ebc7c9a', l='world', x=-357.19, y=67.00, z=-501.09, cx=-23, cz=-32, tl=542448, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[05:49:16] [Async Chat Thread - #31/INFO]: []<SpyCat005> hi
+[05:49:22] [Async Chat Thread - #31/INFO]: []<SpyCat005> 你在幹嘛
+[05:52:06] [Server thread/INFO]: SpyCat005 was blown up by Creeper
+[05:52:12] [Server thread/INFO]: SpyCat005 issued server command: /back
+[06:10:13] [Server thread/INFO]: SpyCat005 has made the advancement [Take Aim]
+[06:18:31] [Server thread/INFO]: SpyCat005 has made the advancement [Diamonds!]
+[06:21:28] [Server thread/INFO]: SpyCat005 issued server command: /op
+[06:21:40] [Server thread/INFO]: SpyCat005 issued server command: /gamemode 2
+[06:21:40] [Server thread/INFO]: [Essentials] SpyCat005 被拒絕使用命令
