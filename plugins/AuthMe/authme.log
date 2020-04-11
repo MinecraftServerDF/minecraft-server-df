@@ -2788,3 +2788,179 @@
 [04-09 19:26:05]: [FINE] aforward3326 logged in!
 [04-09 19:37:21]: [FINE] rgps3725 logged in!
 [04-09 19:54:16]: [FINE] YuShiou logged in!
+[04-09 20:14:03]: [FINE] OChinBo logged in!
+[04-09 20:28:25]: [FINE] apple logged in!
+[04-09 21:21:04]: [FINE] mogoo logged in!
+[04-09 21:26:20]: [FINE] LRIC logged in!
+[04-09 21:46:31]: [FINE] Andy logged in!
+[04-09 21:58:57]: [FINE] Tofu_Ivan logged in!
+[04-09 22:04:00]: [FINE] LRIC logged in!
+[04-09 22:07:03]: [FINE] Caber588 logged in!
+[04-09 22:07:46]: [FINE] rgps3725 logged in!
+[04-09 22:27:12]: [FINE] basic_balion logged in!
+[04-09 22:27:59]: [FINE] LRIC logged in!
+[04-09 22:47:40]: [FINE] LRIC logged in!
+[04-09 22:57:22]: [FINE] RocKog logged in!
+[04-09 23:04:30]: [FINE] RocKog used the wrong password
+[04-09 23:04:40]: [FINE] RocKog logged in!
+[04-09 23:25:20]: [FINE] LRIC logged in!
+[04-09 23:29:37]: [FINE] appa1423 logged in!
+[04-09 23:33:32]: [FINE] apple logged in!
+[04-09 23:38:12]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-09 23:38:17]: [INFO] SQLite Setup finished
+[04-09 23:38:17]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-09 23:38:17]: [INFO] Hooked successfully into Essentials
+[04-09 23:38:17]: [INFO] Hooked successfully into Multiverse-Core
+[04-09 23:38:17]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-09 23:38:17]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-09 23:38:19]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-09 23:38:19]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-09 23:38:19]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-09 23:38:19]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-09 23:38:19]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$5195/1217347987.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-09 23:38:19]: [FINE] Caber588 logged in!
+[04-09 23:38:43]: [FINE] basic_balion logged in!
+[04-09 23:38:46]: [FINE] LRIC logged in!
+[04-09 23:38:55]: [FINE] biteyou74 logged in!
+[04-09 23:39:09]: [INFO] Essentials has been disabled: unhooking
+[04-09 23:39:11]: [FINE] RocKog logged in!
+[04-09 23:40:44]: [FINE] apple logged in!
+[04-09 23:41:29]: [INFO] Essentials has been disabled: unhooking
+[04-09 23:41:29]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-09 23:42:33]: [INFO] SQLite Setup finished
+[04-09 23:42:33]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-09 23:42:34]: [INFO] Hooked successfully into Essentials
+[04-09 23:42:34]: [INFO] Hooked successfully into Multiverse-Core
+[04-09 23:42:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-09 23:42:34]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-09 23:42:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-09 23:42:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-09 23:42:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-09 23:42:35]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-09 23:42:35]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3687/2041592455.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-09 23:42:45]: [FINE] Caber588 logged in!
+[04-09 23:42:46]: [FINE] LRIC logged in!
+[04-09 23:43:00]: [FINE] apple logged in!
+[04-09 23:43:01]: [FINE] RocKog logged in!
+[04-09 23:43:23]: [FINE] appa1423 logged in!
+[04-09 23:43:31]: [FINE] biteyou74 logged in!
+[04-09 23:44:51]: [FINE] basic_balion logged in!
+[04-09 23:46:33]: [INFO] Essentials has been disabled: unhooking
+[04-09 23:48:28]: [INFO] Essentials has been disabled: unhooking
+[04-09 23:53:49]: [INFO] Essentials has been disabled: unhooking
+[04-09 23:54:01]: [INFO] Essentials has been disabled: unhooking
+[04-10 00:08:49]: [FINE] YuShiou logged in!
+[04-10 00:48:40]: [FINE] apple logged in!
+[04-10 04:05:44]: [FINE] OChinBo logged in!
+[04-10 04:56:53]: [FINE] OChinBo logged in!
+[04-10 08:44:12]: [FINE] wolf logged in!
+[04-10 10:47:30]: [FINE] basic_balion logged in!
+[04-10 11:16:49]: [FINE] OChinBo logged in!
+[04-10 11:57:55]: [FINE] wolf logged in!
+[04-10 12:26:54]: [FINE] RocKog logged in!
+[04-10 12:45:54]: [FINE] biteyou74 logged in!
+[04-10 12:50:53]: [FINE] rgps3725 logged in!
+[04-10 13:03:09]: [FINE] basic_balion logged in!
+[04-10 13:37:05]: [FINE] LRIC logged in!
+[04-10 14:31:11]: [FINE] rgps3725 logged in!
+[04-10 14:48:30]: [FINE] biteyou74 logged in!
+[04-10 15:36:39]: [FINE] RocKog logged in!
+[04-10 16:07:58]: [FINE] RocKog logged in!
+[04-10 16:14:11]: [FINE] basic_balion logged in!
+[04-10 16:37:59]: [FINE] appa1423 logged in!
+[04-10 18:14:13]: [FINE] RocKog logged in!
+[04-10 18:47:39]: [FINE] LRIC logged in!
+[04-10 18:51:11]: [FINE] aforward3326 logged in!
+[04-10 19:54:09]: [FINE] Caber588 used the wrong password
+[04-10 19:54:19]: [FINE] Caber588 logged in!
+[04-10 20:03:23]: [FINE] LRIC used the wrong password
+[04-10 20:03:33]: [FINE] LRIC logged in!
+[04-10 20:32:43]: [FINE] apple logged in!
+[04-10 20:39:55]: [FINE] biteyou74 logged in!
+[04-10 20:43:57]: [FINE] rgps3725 logged in!
+[04-10 20:52:59]: [FINE] Andy logged in!
+[04-10 20:55:44]: [FINE] OChinBo logged in!
+[04-10 22:03:44]: [FINE] LRIC logged in!
+[04-10 23:05:09]: [FINE] YuShiou logged in!
+[04-10 23:07:55]: [FINE] rgps3725 logged in!
+[04-10 23:13:24]: [FINE] Caber588 logged in!
+[04-10 23:14:17]: [FINE] apple logged in!
+[04-10 23:35:44]: [INFO] Essentials has been disabled: unhooking
+[04-10 23:35:45]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-10 23:40:02]: [INFO] SQLite Setup finished
+[04-10 23:40:02]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-10 23:40:02]: [INFO] Hooked successfully into Essentials
+[04-10 23:40:02]: [INFO] Hooked successfully into Multiverse-Core
+[04-10 23:40:02]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-10 23:40:02]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-10 23:40:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-10 23:40:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-10 23:40:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-10 23:40:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-10 23:40:03]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3652/1470146435.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-10 23:57:57]: [FINE] biteyou74 logged in!
+[04-10 23:58:04]: [FINE] Andy logged in!
+[04-10 23:58:28]: [FINE] OChinBo logged in!
+[04-11 00:02:04]: [FINE] basic_balion logged in!
+[04-11 00:07:08]: [FINE] JerryU29 registered 49.159.80.132
+[04-11 00:07:08]: [FINE] JerryU29 logged in!
+[04-11 00:18:38]: [FINE] rgps3725 logged in!
+[04-11 00:20:11]: [FINE] JerryU29 logged in!
+[04-11 00:25:25]: [FINE] Caber588 logged in!
+[04-11 00:31:35]: [FINE] OChinBo logged in!
+[04-11 01:01:21]: [FINE] basic_balion logged in!
+[04-11 01:05:04]: [FINE] rgps3725 logged in!
+[04-11 03:44:30]: [FINE] aforward3326 logged in!
+[04-11 04:06:10]: [FINE] appa1423 logged in!
+[04-11 08:19:09]: [FINE] wolf logged in!
+[04-11 08:37:21]: [FINE] basic_balion logged in!
+[04-11 08:38:33]: [FINE] basic_balion logged in!
+[04-11 08:41:18]: [FINE] basic_balion logged in!
+[04-11 08:42:49]: [FINE] basic_balion used the wrong password
+[04-11 08:43:00]: [FINE] basic_balion logged in!
+[04-11 09:58:48]: [FINE] wolf logged in!
