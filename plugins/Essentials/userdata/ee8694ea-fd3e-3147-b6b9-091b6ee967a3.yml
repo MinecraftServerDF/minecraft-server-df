@@ -4,7 +4,7 @@ timestamps:
   logout: 1586569639613
   lastteleport: 1586479874885
 ipAddress: 115.165.203.20
-afk: false
+afk: true
 logoutlocation:
   world: world
   x: -157.69999998807907
