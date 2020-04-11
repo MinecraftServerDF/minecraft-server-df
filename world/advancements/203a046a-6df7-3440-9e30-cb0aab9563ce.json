@@ -203,9 +203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-04-11 17:02:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-04-08 02:28:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-04-11 16:59:41 +0800"
     },
     "done": true
   },
@@ -375,6 +387,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-08 02:26:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-04-11 17:06:57 +0800"
     },
     "done": true
   },
@@ -640,6 +658,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-04-08 02:06:01 +0800",
       "minecraft:spider": "2020-04-10 16:50:29 +0800",
+      "minecraft:creeper": "2020-04-11 17:04:35 +0800",
       "minecraft:husk": "2020-04-08 02:06:46 +0800",
       "minecraft:zombie": "2020-04-10 16:56:17 +0800"
     },
@@ -672,6 +691,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-04-08 02:16:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-04-11 17:02:45 +0800"
     },
     "done": true
   },
@@ -873,9 +898,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-04-11 16:54:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-10 16:40:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2020-04-11 17:02:45 +0800"
     },
     "done": true
   },
@@ -984,6 +1021,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-10 16:41:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-04-11 16:47:20 +0800"
     },
     "done": true
   },
@@ -1133,6 +1176,7 @@
       "minecraft:desert_hills": "2020-04-08 02:06:19 +0800",
       "minecraft:taiga_hills": "2020-04-08 01:59:56 +0800",
       "minecraft:desert": "2020-04-08 02:06:09 +0800",
+      "minecraft:birch_forest": "2020-04-11 17:13:48 +0800",
       "minecraft:beach": "2020-04-08 01:56:33 +0800",
       "minecraft:dark_forest": "2020-04-08 02:23:09 +0800",
       "minecraft:river": "2020-04-08 01:59:30 +0800",
@@ -1217,6 +1261,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-08 12:29:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-11 17:06:38 +0800"
     },
     "done": true
   },

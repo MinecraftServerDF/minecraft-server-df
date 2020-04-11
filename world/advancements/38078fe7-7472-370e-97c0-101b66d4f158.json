@@ -263,9 +263,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-11 16:15:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-08 23:34:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-04-11 16:34:15 +0800"
     },
     "done": true
   },
@@ -625,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-04-11 16:34:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2020-04-08 23:06:40 +0800",
@@ -796,6 +814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-11 16:33:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-04-10 00:32:53 +0800"
@@ -853,6 +877,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-09 10:06:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-11 16:33:51 +0800"
     },
     "done": true
   },
@@ -1051,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-04-11 16:33:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-09 13:23:43 +0800"
@@ -1104,6 +1140,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-04-09 00:23:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-11 16:33:51 +0800"
     },
     "done": true
   },
@@ -1176,6 +1218,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2020-04-10 10:52:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-04-11 16:34:15 +0800"
     },
     "done": true
   },
@@ -1317,6 +1365,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-04-11 16:31:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-04-11 16:33:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-09 14:29:48 +0800"
@@ -1338,6 +1398,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-09 11:13:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-04-11 16:31:10 +0800"
     },
     "done": true
   },
@@ -1669,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-04-11 16:31:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-04-08 23:34:53 +0800"
@@ -1776,6 +1848,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-04-09 11:13:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-11 16:15:19 +0800"
     },
     "done": true
   },
@@ -1992,6 +2070,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-04-08 23:43:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-04-11 16:33:27 +0800"
     },
     "done": true
   },

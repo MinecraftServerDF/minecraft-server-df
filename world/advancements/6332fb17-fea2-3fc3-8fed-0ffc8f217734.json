@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-11 16:23:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2020-04-09 17:11:28 +0800"
