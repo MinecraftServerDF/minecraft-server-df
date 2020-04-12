@@ -1,0 +1,15 @@
+#> This is the configuration of Light Cleaner, in here you can enable or disable features as you please
+
+# The minimum amount of memory (in MB) allowed while processing chunk lighting
+# If the remaining free memory drops below this value, measures are taken to reduce it
+# Memory will be Garbage Collected and all worlds will be saved to free memory
+# The process will be stalled for so long free memory is below this value
+minFreeMemory: 400
+
+# Sets whether lighting is cleaned up for newly generated chunks
+# This will eliminate dark shadows during world generation
+autoCleanEnabled: false
+
+# How many chunks are asynchronously loaded at the same time
+# Setting this value too high may overflow the internal queues. Too low and it will idle too much.
+asyncLoadConcurrency: 50

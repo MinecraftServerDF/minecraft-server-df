@@ -59,6 +59,7 @@ messages:
     flying-vehicle: Flying is not enabled on this server
 world-settings:
   default:
+    light-queue-size: 20
     mob-spawner-tick-rate: 2
     disable-thunder: false
     keep-spawn-loaded-range: 10
