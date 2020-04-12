@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-12 17:27:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -397,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-12 20:52:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-10 13:42:57 +0800"
@@ -406,6 +418,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -523,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2020-04-03 23:05:55 +0800"
@@ -531,6 +555,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-12 21:27:53 +0800",
       "minecraft:skeleton": "2020-04-05 16:51:12 +0800",
       "minecraft:spider": "2020-04-05 18:18:51 +0800",
       "minecraft:husk": "2020-04-06 23:05:24 +0800",
@@ -543,6 +568,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-04-04 21:42:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-04-12 17:29:57 +0800"
     },
     "done": true
   },
@@ -621,6 +652,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-03 22:04:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-12 21:28:06 +0800"
     },
     "done": true
   },
@@ -858,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-12 17:27:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-04-04 21:04:28 +0800"
@@ -1053,10 +1096,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-04-10 18:51:53 +0800",
+      "minecraft:cold_ocean": "2020-04-12 18:34:36 +0800",
       "minecraft:forest": "2020-04-03 21:04:20 +0800",
       "minecraft:mountains": "2020-04-03 21:07:45 +0800",
       "minecraft:taiga": "2020-04-06 21:10:38 +0800",
       "minecraft:desert_hills": "2020-04-06 21:30:11 +0800",
+      "minecraft:deep_cold_ocean": "2020-04-12 19:08:59 +0800",
       "minecraft:taiga_hills": "2020-04-10 19:06:59 +0800",
       "minecraft:desert": "2020-04-03 21:53:38 +0800",
       "minecraft:jungle": "2020-04-05 19:54:46 +0800",
@@ -1176,6 +1221,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -1383,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-12 17:27:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-04-03 22:04:55 +0800"
@@ -1497,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -1524,6 +1587,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-03 20:22:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -1572,6 +1641,8 @@
       "apple": "2020-04-05 18:17:32 +0800",
       "bread": "2020-04-09 23:25:28 +0800",
       "rotten_flesh": "2020-04-10 16:59:45 +0800",
+      "melon_slice": "2020-04-12 22:37:18 +0800",
+      "beetroot": "2020-04-12 21:24:15 +0800",
       "cooked_rabbit": "2020-04-05 17:09:39 +0800",
       "cooked_chicken": "2020-04-07 23:09:28 +0800",
       "mushroom_stew": "2020-04-05 17:10:03 +0800"
@@ -1785,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-03 22:22:09 +0800"
@@ -1965,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-09 23:24:07 +0800"
@@ -1974,6 +2057,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -2043,6 +2132,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-04-12 17:21:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-04-03 22:33:27 +0800"
@@ -2058,6 +2153,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-09 23:35:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -2130,6 +2231,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2020-04-03 22:04:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },
@@ -2457,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-04-12 19:18:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-04-03 22:04:55 +0800"
@@ -2538,6 +2651,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-04-08 23:08:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-04-12 17:21:16 +0800"
     },
     "done": true
   },

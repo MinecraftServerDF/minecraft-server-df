@@ -625,6 +625,7 @@
       "minecraft:phantom": "2020-04-08 20:17:21 +0800",
       "minecraft:wither_skeleton": "2020-04-12 01:38:21 +0800",
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
+      "minecraft:enderman": "2020-04-12 15:14:31 +0800",
       "minecraft:zombie": "2020-04-07 10:31:27 +0800",
       "minecraft:drowned": "2020-04-08 20:59:00 +0800"
     },
@@ -906,9 +907,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-04-12 16:18:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-07 17:54:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-04-12 16:17:56 +0800"
     },
     "done": true
   },
@@ -2483,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-04-12 15:17:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-04-07 21:36:30 +0800"
@@ -2702,6 +2721,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-07 10:29:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-12 16:05:24 +0800"
     },
     "done": true
   },

@@ -305,6 +305,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-12 16:21:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-12 20:24:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2020-04-04 19:00:53 +0800"
@@ -320,6 +332,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-04 19:03:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-12 16:40:55 +0800"
     },
     "done": true
   },
@@ -595,6 +613,7 @@
       "minecraft:creeper": "2020-04-08 20:13:17 +0800",
       "minecraft:slime": "2020-04-06 21:25:38 +0800",
       "minecraft:phantom": "2020-04-07 20:06:52 +0800",
+      "minecraft:wither_skeleton": "2020-04-12 16:22:43 +0800",
       "minecraft:cave_spider": "2020-04-11 08:53:13 +0800",
       "minecraft:enderman": "2020-04-07 20:46:22 +0800",
       "minecraft:zombie": "2020-04-04 19:32:15 +0800",
@@ -614,9 +633,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-04-04 18:59:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-04-12 16:46:08 +0800"
     },
     "done": true
   },
@@ -1178,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-05 09:00:14 +0800"
@@ -1215,6 +1252,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-04-05 12:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-12 20:39:02 +0800"
     },
     "done": true
   },
@@ -1449,6 +1492,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-04-04 19:00:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
     },
     "done": true
   },
@@ -2018,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-12 16:21:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-04 19:00:17 +0800"
@@ -2243,6 +2298,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-07 20:40:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-12 20:24:26 +0800"
     },
     "done": true
   },
@@ -2630,6 +2691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-12 18:14:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-04-04 19:02:29 +0800"
@@ -2657,6 +2724,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-10 15:19:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-12 16:41:21 +0800"
     },
     "done": true
   },
@@ -2702,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-04-12 20:03:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-04-04 19:02:29 +0800"
@@ -2711,6 +2790,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-04 18:55:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-12 15:36:44 +0800"
     },
     "done": true
   },
