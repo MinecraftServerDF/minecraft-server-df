@@ -77,9 +77,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-04-12 22:09:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2020-04-07 22:47:27 +0800",
+      "minecraft:desert_hills": "2020-04-12 21:51:16 +0800",
       "minecraft:desert": "2020-04-07 22:52:31 +0800",
       "minecraft:beach": "2020-04-07 22:46:15 +0800",
       "minecraft:river": "2020-04-07 22:52:25 +0800",
@@ -121,6 +128,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2020-04-11 18:30:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-12 22:39:16 +0800"
     },
     "done": true
   },
@@ -276,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-12 22:39:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-07 22:55:00 +0800"
@@ -291,6 +310,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-07 22:54:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-12 22:39:16 +0800"
     },
     "done": true
   },
@@ -315,6 +340,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-04-07 22:52:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-04-12 21:49:18 +0800"
     },
     "done": true
   },
