@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-04-12 18:22:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-04-03 21:58:40 +0800"
@@ -985,6 +991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-12 18:09:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-03 21:56:54 +0800"
@@ -1369,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-12 18:09:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-04-03 21:57:15 +0800"
@@ -1714,6 +1732,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-04-03 21:57:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-12 18:09:09 +0800"
     },
     "done": true
   },
@@ -2127,7 +2151,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/jellie.png": "2020-04-11 13:29:16 +0800"
+      "textures/entity/cat/jellie.png": "2020-04-11 13:29:16 +0800",
+      "textures/entity/cat/persian.png": "2020-04-12 18:09:14 +0800"
     },
     "done": false
   },
@@ -2248,6 +2273,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-07 21:33:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-04-12 18:22:07 +0800"
     },
     "done": true
   },

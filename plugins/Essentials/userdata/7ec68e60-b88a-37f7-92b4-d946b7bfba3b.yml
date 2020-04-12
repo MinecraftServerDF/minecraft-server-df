@@ -1,6 +1,6 @@
 lastAccountName: JerryU29
 timestamps:
-  login: 1586684430345
+  login: 1586688013447
   logout: 1586685525216
   lastteleport: 1586680261044
 ipAddress: 49.159.80.132
@@ -26,4 +26,4 @@ homes:
     z: -1074.19670952962
     yaw: 256.95004
     pitch: 5.2499957
-afk: false
+afk: true
