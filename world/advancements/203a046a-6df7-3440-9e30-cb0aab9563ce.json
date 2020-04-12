@@ -392,6 +392,7 @@
       "bread": "2020-04-08 02:11:55 +0800",
       "rotten_flesh": "2020-04-08 23:34:33 +0800",
       "salmon": "2020-04-08 12:41:23 +0800",
+      "melon_slice": "2020-04-12 14:26:30 +0800",
       "beetroot": "2020-04-08 12:43:44 +0800",
       "carrot": "2020-04-12 01:49:27 +0800"
     },
@@ -1154,6 +1155,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-12 13:35:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-04-12 13:58:43 +0800"
     },
     "done": true
   },

@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-04-12 13:50:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-11 16:45:37 +0800"
@@ -576,6 +582,14 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2020-04-12 14:36:54 +0800",
+      "iron_leggings": "2020-04-12 14:36:54 +0800",
+      "iron_helmet": "2020-04-12 14:36:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-11 15:35:54 +0800"
@@ -819,6 +833,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-04-11 16:27:19 +0800",
+      "minecraft:creeper": "2020-04-12 14:31:59 +0800",
       "minecraft:zombie": "2020-04-11 17:31:36 +0800",
       "minecraft:drowned": "2020-04-11 20:06:45 +0800"
     },
