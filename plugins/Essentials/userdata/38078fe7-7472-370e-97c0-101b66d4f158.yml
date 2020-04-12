@@ -2,15 +2,15 @@ lastAccountName: basic_balion
 timestamps:
   login: 1586649991616
   logout: 1586617057150
-  lastteleport: 1586657519256
+  lastteleport: 1586662300019
 ipAddress: 36.232.7.58
 lastlocation:
-  world: world_nether
-  x: -72.30000001192093
-  y: 43.0
-  z: -90.03464927267237
-  yaw: 330.18066
-  pitch: 32.399475
+  world: world
+  x: -88.69999998807907
+  y: 33.0
+  z: -1104.3185747473196
+  yaw: 3.1683655
+  pitch: -19.350088
 logoutlocation:
   world: world
   x: -216.2262213946138
