@@ -1,182 +1,222 @@
-[00:01:50] [User Authenticator #2/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[00:01:51] [Server thread/INFO]: basic_balion[/36.232.7.58:10588] logged in with entity id 9486 at ([world]-230.79783393453852, 100.5, -1060.970041218233)
-[00:02:04] [Craft Scheduler Thread - 32/INFO]: [AuthMe] basic_balion logged in!
-[00:06:22] [User Authenticator #3/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:06:22] [Server thread/INFO]: JerryU29[/49.159.80.132:53078] logged in with entity id 10801 at ([world]214.5, 68.0, 265.5)
-[00:06:22] [pool-14-thread-1/INFO]: [Essentials] 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\7ec68e60-b88a-37f7-92b4-d946b7bfba3b.yml
-[00:06:23] [Server thread/INFO]: JerryU29 has made the advancement [Getting an Upgrade]
-[00:06:52] [Server thread/INFO]: JerryU29 lost connection: 【AuthMe】超過登入時間，請再試一次
-[00:06:52] [Server thread/INFO]: JerryU29 left the game
-[00:06:52] [Server thread/WARN]: handleDisconnection() called twice
-[00:06:56] [User Authenticator #3/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:06:56] [Server thread/INFO]: JerryU29[/49.159.80.132:53079] logged in with entity id 11085 at ([world]219.5, 69.0, 265.5)
-[00:07:08] [Server thread/INFO]: [AuthMe] JerryU29 registered 49.159.80.132
-[00:07:08] [Craft Scheduler Thread - 37/INFO]: [AuthMe] JerryU29 logged in!
-[00:08:55] [Server thread/INFO]: OChinBo lost connection: Disconnected
-[00:08:55] [Server thread/INFO]: OChinBo left the game
-[00:09:27] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:09:44] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:09:52] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:10:30] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:10:33] [Server thread/INFO]: basic_balion issued server command: /tpaccept basic_balion
-[00:10:45] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:11:19] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:11:23] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:11:32] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:18:31] [User Authenticator #4/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[00:18:31] [Server thread/INFO]: rgps3725[/223.137.162.125:8587] logged in with entity id 16934 at ([world]-100.56611320694599, 13.5, -1121.079878402108)
-[00:18:38] [Craft Scheduler Thread - 47/INFO]: [AuthMe] rgps3725 logged in!
-[00:18:39] [Server thread/WARN]: 73dd6555-d4d4-4f45-9749-fe1ca7193553 (vehicle of JerryU29) moved wrongly!
-[00:18:57] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:19:08] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[00:19:38] [Server thread/WARN]: JerryU29 moved wrongly!
-[00:19:40] [Server thread/INFO]: rgps3725 issued server command: /tpa basic_balion
-[00:19:52] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[00:19:52] [Server thread/INFO]: JerryU29 left the game
-[00:20:00] [User Authenticator #5/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:20:00] [Server thread/INFO]: JerryU29[/49.159.80.132:53087] logged in with entity id 18040 at ([world]565.3000000119209, 64.0, -604.1465050394503)
-[00:20:11] [Craft Scheduler Thread - 51/INFO]: [AuthMe] JerryU29 logged in!
-[00:20:21] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:21:38] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:21:44] [Server thread/INFO]: biteyou74 issued server command: /tpa rgps3725
-[00:22:19] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:22:29] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:25:01] [Server thread/INFO]: rgps3725 issued server command: /home
-[00:25:15] [User Authenticator #6/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[00:25:16] [Server thread/INFO]: Caber588[/219.70.214.164:57467] logged in with entity id 20976 at ([world]-210.03197473014382, 121.0, -1060.5303012967704)
-[00:25:25] [Craft Scheduler Thread - 55/INFO]: [AuthMe] Caber588 logged in!
-[00:26:14] [Server thread/INFO]: Andy was shot by Skeleton
-[00:28:05] [Server thread/INFO]: rgps3725 issued server command: /tpa JerryU29
-[00:28:19] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:29:00] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:29:06] [Server thread/INFO]: rgps3725 issued server command: /tpa JerryU29
-[00:30:16] [Server thread/INFO]: Caber588 fell from a high place
-[00:30:59] [Server thread/INFO]: Caber588 issued server command: /home
-[00:30:59] [Server thread/WARN]: Caber588 moved too quickly! -1.1491928122174784,20.5,6.702101461324901
-[00:31:28] [User Authenticator #7/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
-[00:31:29] [Server thread/INFO]: OChinBo[/123.194.137.234:14356] logged in with entity id 24401 at ([creative]51.29098263948862, 107.03203783941966, 455.02366851348535)
-[00:31:35] [Craft Scheduler Thread - 60/INFO]: [AuthMe] OChinBo logged in!
-[00:31:40] [Server thread/INFO]: OChinBo issued server command: /gamemode creative
-[00:31:54] [Server thread/INFO]: OChinBo issued server command: /flyspeed 15
-[00:32:59] [Server thread/INFO]: Caber588 issued server command: /home
-[00:33:27] [Server thread/INFO]: OChinBo issued server command: //paste
-[00:34:09] [Server thread/INFO]: rgps3725 issued server command: /home
-[00:37:10] [Server thread/INFO]: JerryU29 has made the advancement [Acquire Hardware]
-[00:39:39] [Server thread/INFO]: JerryU29 has made the advancement [Stone Age]
-[00:42:13] [Server thread/INFO]: OChinBo lost connection: Disconnected
-[00:42:13] [Server thread/INFO]: OChinBo left the game
-[00:43:06] [Server thread/INFO]: Villager EntityVillager['Villager'/7873, uuid='99bfb40d-c229-4140-8e21-05450ad6ce06', l='world', x=-215.84, y=65.00, z=-846.79, cx=-14, cz=-53, tl=85549, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[00:43:13] [Server thread/INFO]: JerryU29 fell from a high place
-[00:43:22] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:43:22] [Server thread/WARN]: JerryU29 moved too quickly! -15.901424270961286,-25.5625,-6.42950920695921
-[00:43:22] [Server thread/INFO]: Villager EntityVillager['Villager'/32705, uuid='467ee0f8-db17-4504-9a97-2e9b67f5920b', l='world', x=-248.53, y=66.00, z=-817.72, cx=-16, cz=-52, tl=44799, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[00:43:26] [Server thread/INFO]: Villager EntityVillager['Villager'/7870, uuid='274b9594-d4e0-4675-9887-13036a1da997', l='world', x=-245.58, y=67.00, z=-850.65, cx=-16, cz=-54, tl=58066, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[00:43:49] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:45:06] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
-[00:45:15] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
-[00:46:11] [Server thread/INFO]: Caber588 issued server command: /home
-[00:48:48] [Server thread/INFO]: JerryU29 has made the advancement [A Seedy Place]
-[00:50:44] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[00:50:44] [Server thread/INFO]: basic_balion left the game
-[00:53:04] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[00:53:04] [Server thread/WARN]: biteyou74 moved too quickly! 869.3753326858682,1.0,822.5483869412828
-[00:53:20] [Server thread/INFO]: rgps3725 issued server command: /spawn
-[00:53:27] [Server thread/INFO]: rgps3725 issued server command: /back
-[01:00:14] [Server thread/INFO]: Andy lost connection: Disconnected
-[01:00:14] [Server thread/INFO]: Andy left the game
-[01:00:53] [User Authenticator #8/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[01:00:54] [Server thread/INFO]: basic_balion[/36.232.7.58:12925] logged in with entity id 40905 at ([world]-221.22431355808658, 104.0, -1082.0026118038777)
-[01:01:08] [Server thread/INFO]: basic_balion issued server command: /logout basicbalion
-[01:01:21] [Craft Scheduler Thread - 78/INFO]: [AuthMe] basic_balion logged in!
-[01:03:11] [Server thread/INFO]: biteyou74 issued server command: /home
-[01:03:11] [Server thread/WARN]: biteyou74 moved too quickly! -875.2017044394277,25.0,-1902.662276390612
-[01:03:52] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[01:03:52] [Server thread/INFO]: rgps3725 left the game
-[01:04:57] [User Authenticator #9/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[01:04:58] [Server thread/INFO]: rgps3725[/223.137.162.125:8788] logged in with entity id 41981 at ([world]-220.01342024201418, 104.0, -1083.61767359654)
-[01:05:04] [Craft Scheduler Thread - 84/INFO]: [AuthMe] rgps3725 logged in!
-[01:08:08] [Server thread/INFO]: JerryU29 has made the advancement [Monster Hunter]
-[01:12:27] [Server thread/INFO]: Caber588 issued server command: /spawn
-[01:18:35] [Server thread/INFO]: JerryU29 has made the advancement [Ice Bucket Challenge]
-[01:27:01] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[01:27:01] [Server thread/INFO]: biteyou74 left the game
-[01:30:44] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[01:30:44] [Server thread/INFO]: JerryU29 left the game
-[01:31:00] [Server thread/INFO]: Caber588 issued server command: /home
-[01:33:22] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[01:33:22] [Server thread/INFO]: Caber588 left the game
-[01:34:40] [Server thread/INFO]: rgps3725 issued server command: /home
-[01:34:48] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[01:34:48] [Server thread/INFO]: rgps3725 left the game
-[02:12:15] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[02:12:15] [Server thread/INFO]: basic_balion left the game
-[03:44:16] [User Authenticator #10/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
-[03:44:16] [Server thread/INFO]: aforward3326[/1.34.110.242:60979] logged in with entity id 55450 at ([world]546.6012063846545, 68.0, -197.80338543077764)
-[03:44:30] [Craft Scheduler Thread - 140/INFO]: [AuthMe] aforward3326 logged in!
-[03:58:33] [Server thread/INFO]: aforward3326 lost connection: Disconnected
-[03:58:33] [Server thread/INFO]: aforward3326 left the game
-[04:06:03] [User Authenticator #11/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
-[04:06:03] [Server thread/INFO]: appa1423[/27.242.5.15:3772] logged in with entity id 57057 at ([world]867.1736953074347, 68.0, 1258.4992344349835)
-[04:06:10] [Craft Scheduler Thread - 152/INFO]: [AuthMe] appa1423 logged in!
-[04:35:55] [Server thread/INFO]: appa1423 has made the advancement [The Parrots and the Bats]
-[04:38:38] [Server thread/INFO]: appa1423 lost connection: Disconnected
-[04:38:38] [Server thread/INFO]: appa1423 left the game
-[08:19:00] [User Authenticator #12/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[08:19:01] [Server thread/INFO]: wolf[/115.165.203.20:50091] logged in with entity id 61291 at ([world]262.9648827386188, 63.0, 1418.0668157011844)
-[08:19:09] [Craft Scheduler Thread - 225/INFO]: [AuthMe] wolf logged in!
-[08:37:05] [User Authenticator #13/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:37:06] [Server thread/INFO]: basic_balion[/36.232.7.58:13752] logged in with entity id 63495 at ([world]-215.36454667266275, 15.0, -1064.300000011921)
-[08:37:21] [Craft Scheduler Thread - 234/INFO]: [AuthMe] basic_balion logged in!
-[08:38:14] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[08:38:14] [Server thread/INFO]: basic_balion left the game
-[08:38:16] [User Authenticator #14/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:38:16] [Server thread/INFO]: basic_balion[/36.232.7.58:13758] logged in with entity id 64093 at ([world]-229.37252611914806, 12.0, -1066.775223941207)
-[08:38:23] [Server thread/INFO]: basic_balion issued server command: /l
-[08:38:33] [Craft Scheduler Thread - 236/INFO]: [AuthMe] basic_balion logged in!
-[08:39:03] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[08:39:03] [Server thread/INFO]: basic_balion left the game
-[08:41:07] [User Authenticator #15/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:41:07] [Server thread/INFO]: basic_balion[/36.232.7.58:1775] logged in with entity id 64767 at ([world]-228.07493867623384, 93.0, -1069.4693787844833)
-[08:41:18] [Craft Scheduler Thread - 246/INFO]: [AuthMe] basic_balion logged in!
-[08:42:40] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[08:42:40] [Server thread/INFO]: basic_balion left the game
-[08:42:41] [User Authenticator #16/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:42:41] [Server thread/INFO]: basic_balion[/36.232.7.58:1871] logged in with entity id 65494 at ([world]-206.81596534382578, 97.0, -1062.4795857086222)
-[08:42:47] [Async Chat Thread - #0/INFO]: []<wolf> ........
-[08:42:49] [Craft Scheduler Thread - 248/INFO]: [AuthMe] basic_balion used the wrong password
-[08:42:49] [Server thread/INFO]: basic_balion lost connection: 【AuthMe】密碼錯誤!
-[08:42:49] [Server thread/INFO]: basic_balion left the game
-[08:42:49] [Server thread/WARN]: handleDisconnection() called twice
-[08:42:52] [User Authenticator #16/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:42:52] [Server thread/INFO]: basic_balion[/36.232.7.58:1872] logged in with entity id 65847 at ([world]-206.81596534382578, 97.0, -1062.4795857086222)
-[08:43:00] [Craft Scheduler Thread - 248/INFO]: [AuthMe] basic_balion logged in!
-[08:43:11] [Async Chat Thread - #0/INFO]: []<basic_balion> 當機正常?
-[08:43:27] [Async Chat Thread - #0/INFO]: []<wolf> 我這正常
-[08:43:56] [Async Chat Thread - #0/INFO]: []<basic_balion> 我不能放東西跟開箱
-[08:44:15] [Async Chat Thread - #0/INFO]: []<wolf> 你沒輸入密碼?
-[08:44:25] [Async Chat Thread - #0/INFO]: []<basic_balion> 有
-[08:44:51] [Async Chat Thread - #0/INFO]: []<basic_balion> 不知道為蛇ㄇ
-[08:45:10] [Async Chat Thread - #0/INFO]: []<wolf> 可能要問apple了
-[08:45:29] [Async Chat Thread - #0/INFO]: []<basic_balion> 那我晚點再上好ㄌ
-[08:45:35] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[08:45:35] [Server thread/INFO]: basic_balion left the game
-[09:47:19] [Server thread/INFO]: wolf lost connection: Disconnected
-[09:47:19] [Server thread/INFO]: wolf left the game
-[09:58:41] [User Authenticator #17/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[09:58:41] [Server thread/INFO]: wolf[/115.165.203.20:50727] logged in with entity id 74357 at ([world]-157.69999998807907, 65.0, 1626.678742678292)
-[09:58:48] [Craft Scheduler Thread - 278/INFO]: [AuthMe] wolf logged in!
-[10:13:42] [Server thread/INFO]: [WEB] 61.230.0.78: 早
-[10:15:20] [Async Chat Thread - #1/INFO]: []<wolf> yee
-[10:24:36] [Server thread/INFO]: [Server] 神奇 不知道為啥他有這樣的問題
-[10:24:48] [Async Chat Thread - #2/INFO]: []<wolf> 不知道
-[10:25:18] [Server thread/INFO]: [Server] 我在想要不要把防詐關了  讓大家ˋ詐得稀巴爛
-[10:25:24] [Async Chat Thread - #2/INFO]: []<wolf> 好喔w
-[10:25:38] [Server thread/INFO]: [Server] 你認真喔  我以為大家很奢望這功能
-[10:25:56] [Async Chat Thread - #2/INFO]: []<wolf> 比較想要防噴w
-[10:26:02] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[10:26:15] [Server thread/INFO]: [Server] 那我關防詐
-[10:26:20] [Async Chat Thread - #2/INFO]: []<wolf> 恩
-[10:26:21] [Server thread/INFO]: [Server] 開房噴
-[10:27:02] [Server thread/INFO]: Gamerule mobGriefing is now set to: true
-[10:27:14] [Server thread/INFO]: Gamerule keepInventory is now set to: true
-[10:27:29] [Server thread/INFO]: [Server] 好了
+[00:07:44] [Server thread/INFO]: rgps3725 issued server command: /home
+[00:19:51] [Server thread/INFO]: rgps3725 issued server command: /home
+[00:26:29] [Server thread/INFO]: Selina has made the advancement [Diamonds!]
+[00:27:40] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:31:31] [Server thread/INFO]: biteyou74 issued server command: /home
+[00:31:31] [Server thread/WARN]: biteyou74 moved too quickly! -39.89725843223623,24.0,49.602088110093746
+[00:35:28] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:35:40] [Server thread/INFO]: Selina has made the advancement [Ice Bucket Challenge]
+[00:36:48] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:48] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:48] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:48] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:49] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:50] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:50] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:50] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:36:50] [Server thread/WARN]: b3f27888-e8f0-444c-9814-8018054f6847 (vehicle of rgps3725) moved wrongly!
+[00:37:27] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:37:51] [Server thread/WARN]: biteyou74 moved wrongly!
+[00:38:18] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:38:32] [Server thread/INFO]: YuShiou has made the advancement [Cover Me With Diamonds]
+[00:38:45] [Server thread/WARN]: biteyou74 moved wrongly!
+[00:39:34] [Server thread/WARN]: 7144c5a4-f500-4e38-86e6-5b347ba10a0a (vehicle of rgps3725) moved wrongly!
+[00:39:34] [Server thread/WARN]: 7144c5a4-f500-4e38-86e6-5b347ba10a0a (vehicle of rgps3725) moved wrongly!
+[00:39:34] [Server thread/WARN]: 7144c5a4-f500-4e38-86e6-5b347ba10a0a (vehicle of rgps3725) moved wrongly!
+[00:39:34] [Server thread/WARN]: 7144c5a4-f500-4e38-86e6-5b347ba10a0a (vehicle of rgps3725) moved wrongly!
+[00:39:37] [Server thread/WARN]: 7144c5a4-f500-4e38-86e6-5b347ba10a0a (vehicle of rgps3725) moved wrongly!
+[00:39:45] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:40:25] [Server thread/WARN]: 1b66048e-a0e0-4e21-a277-3de007aa6f60 (vehicle of biteyou74) moved wrongly!
+[00:40:25] [Server thread/WARN]: 1b66048e-a0e0-4e21-a277-3de007aa6f60 (vehicle of biteyou74) moved wrongly!
+[00:42:21] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:43:32] [Server thread/WARN]: biteyou74 moved wrongly!
+[00:43:44] [Server thread/WARN]: rgps3725 moved wrongly!
+[00:44:33] [Server thread/WARN]: biteyou74 moved wrongly!
+[00:47:42] [Server thread/INFO]: Villager EntityVillager['Farmer'/497791, uuid='1a5f6d3b-334a-4b5c-b552-540ad8274b5a', l='world', x=-344.32, y=64.00, z=-425.58, cx=-22, cz=-27, tl=53462, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[00:48:42] [Server thread/INFO]: rgps3725 issued server command: /home
+[00:54:46] [Server thread/INFO]: biteyou74 issued server command: /home
+[00:54:46] [Server thread/WARN]: biteyou74 moved too quickly! -157.23285652861864,24.0,126.29107523163657
+[00:56:53] [Server thread/INFO]: rgps3725 issued server command: /home
+[00:56:56] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[00:56:56] [Server thread/INFO]: rgps3725 left the game
+[00:57:07] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[00:57:07] [Server thread/INFO]: biteyou74 left the game
+[01:01:02] [Server thread/INFO]: RocKog issued server command: /back
+[01:02:55] [Async Chat Thread - #18/INFO]: []<Selina> 你家也...太高...懼高的怎辦ㄏ哈
+[01:03:36] [Async Chat Thread - #18/INFO]: []<YuShiou> 無所畏懼 ! 請服用信仰之躍
+[01:03:46] [Async Chat Thread - #18/INFO]: []<Selina> XD
+[01:04:33] [Server thread/INFO]: Andy lost connection: Disconnected
+[01:04:33] [Server thread/INFO]: Andy left the game
+[01:06:21] [Server thread/INFO]: RocKog lost connection: Disconnected
+[01:06:21] [Server thread/INFO]: RocKog left the game
+[01:07:00] [User Authenticator #64/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[01:07:01] [Server thread/INFO]: RocKog[/1.171.143.251:64330] logged in with entity id 525902 at ([world]-17.008236999367, 119.0, 822.1869148630964)
+[01:07:11] [Craft Scheduler Thread - 793/INFO]: [AuthMe] RocKog logged in!
+[01:08:56] [Server thread/INFO]: YuShiou has made the advancement [We Need to Go Deeper]
+[01:23:32] [Server thread/INFO]: YuShiou has completed the challenge [Return to Sender]
+[01:32:56] [Server thread/INFO]: YuShiou has made the advancement [A Terrible Fortress]
+[01:34:00] [Server thread/INFO]: Selina issued server command: /tell YuShiou 我怎麼 讓黑曜石激活地獄門呀? 點火嗎? 怎麼點火XD
+[01:34:40] [Server thread/INFO]: YuShiou issued server command: /tell s
+[01:35:07] [Server thread/INFO]: YuShiou issued server command: /tell Selina 4*5黑曜石 然後點火
+[01:35:28] [Server thread/INFO]: Selina issued server command: /tell YuShiou 好
+[01:37:02] [User Authenticator #65/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[01:37:03] [Server thread/INFO]: appa1423[/27.242.5.15:1462] logged in with entity id 537656 at ([world]831.2979528724494, 82.0, 1251.7378903753765)
+[01:37:11] [Craft Scheduler Thread - 805/INFO]: [AuthMe] appa1423 logged in!
+[01:38:56] [Server thread/INFO]: YuShiou has made the advancement [Into Fire]
+[01:39:07] [Server thread/INFO]: RocKog fell from a high place
+[01:39:13] [Server thread/INFO]: RocKog issued server command: /back
+[01:39:13] [Server thread/WARN]: RocKog moved too quickly! -798.0,-20.0,-136.0
+[01:46:23] [Server thread/INFO]: Selina issued server command: /tp 369.421 64 786.775
+[01:49:21] [Server thread/INFO]: RocKog lost connection: Disconnected
+[01:49:21] [Server thread/INFO]: RocKog left the game
+[01:59:44] [Async Chat Thread - #19/INFO]: []<Selina> 請問...地獄門是 不管是誰的地獄門 都會傳送到同一個地方嗎?
+[02:00:14] [Async Chat Thread - #19/INFO]: []<YuShiou> 彼此們距離遠一點 好像不同?
+[02:02:12] [Async Chat Thread - #20/INFO]: []<Selina> 怎麼說呢
+[02:02:44] [Async Chat Thread - #20/INFO]: []<Selina> 我前幾天因為好奇...所以用了 FredYea家旁邊的地獄門第一次進去
+[02:03:15] [Async Chat Thread - #20/INFO]: []<YuShiou> 在X坐標和Z坐標都相距1024個方塊內的主世界傳送門在初始建成後幾乎總是連接到同一個地獄傳送門
+[02:03:16] [Async Chat Thread - #20/INFO]: []<Selina> 結過現在我在我家用地獄門 我會傳送到同一個地方...然後用那邊的地獄門 會傳到他加
+[02:04:58] [Async Chat Thread - #21/INFO]: []<Selina> ㄚㄚ所以看起來 這樣是正常的OAO
+[02:05:10] [Async Chat Thread - #21/INFO]: []<YuShiou> 需要協助... 有人可以傳來地獄 幫我看一下座標嗎 ..
+[02:05:20] [Async Chat Thread - #21/INFO]: []<YuShiou> 迷路了 xD
+[02:05:40] [Async Chat Thread - #21/INFO]: []<Selina> 我在門這
+[02:05:49] [Async Chat Thread - #21/INFO]: []<YuShiou> F3 幫看個座標
+[02:05:54] [Async Chat Thread - #21/INFO]: []<Selina> 做標是 10.860 81 180.621
+[02:06:27] [Async Chat Thread - #21/INFO]: []<Selina> 有嗎?
+[02:06:44] [Async Chat Thread - #21/INFO]: []<YuShiou> 慢慢走
+[02:07:15] [Async Chat Thread - #21/INFO]: []<Selina> 在地獄迷路感覺挺可怕
+[02:08:38] [Async Chat Thread - #22/INFO]: []<Selina> 你還走真遠
+[02:09:44] [Server thread/INFO]: Selina issued server command: /tp 369.421 64 786.775
+[02:09:53] [Async Chat Thread - #23/INFO]: []<YuShiou> 找堡壘打烈焰桿
+[02:18:33] [Server thread/INFO]: YuShiou tried to swim in lava
+[02:19:30] [Async Chat Thread - #24/INFO]: []<YuShiou> 慘..全部都噴光了 XD
+[02:19:41] [Async Chat Thread - #24/INFO]: []<Selina> 也太悲劇><
+[02:19:53] [Server thread/INFO]: appa1423 issued server command: /跑到附近的村子看
+[02:20:03] [Server thread/INFO]: [WEB] appa1423: 跑到附近的村子看
+[02:20:10] [Server thread/INFO]: [WEB] appa1423: 竟然完全沒村民...
+[02:20:26] [Async Chat Thread - #24/INFO]: []<Selina> 我上次有去都是樹林的那個村子
+[02:20:39] [Async Chat Thread - #24/INFO]: []<Selina> 半個人都沒有
+[02:20:45] [Server thread/INFO]: [WEB] appa1423: 應該就是我現在這個
+[02:21:16] [Async Chat Thread - #24/INFO]: []<YuShiou> 我應該是第一個到那邊的 那時候還有村民
+[02:21:18] [Async Chat Thread - #24/INFO]: []<Selina> 這樣正常嗎XD
+[02:21:26] [Async Chat Thread - #24/INFO]: []<Selina> 貓咪好難控制喔
+[02:21:54] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[02:21:54] [Server thread/INFO]: appa1423 left the game
+[02:22:10] [Async Chat Thread - #24/INFO]: []<YuShiou> 你甚麼時候產生貓咪能控制的錯覺
+[02:22:45] [Async Chat Thread - #24/INFO]: []<Selina> 他拿魚也叫不來...我只是不想她們亂跑
+[02:22:56] [Async Chat Thread - #24/INFO]: []<Selina> 阿和現實中的貓一樣 難控制...
+[02:26:09] [Async Chat Thread - #25/INFO]: []<Selina> 你如果從地獄傳回來
+[02:26:22] [Async Chat Thread - #25/INFO]: []<Selina> 也是在你加嗎?
+[02:26:42] [Async Chat Thread - #25/INFO]: []<YuShiou> try it
+[02:27:25] [Async Chat Thread - #25/INFO]: []<YuShiou> 不是
+[02:27:50] [Async Chat Thread - #25/INFO]: []<Selina> GOOD 我只是想確定我自己沒問題
+[02:27:57] [Async Chat Thread - #25/INFO]: []<Selina> 謝啦XD
+[02:28:55] [Server thread/INFO]: Selina issued server command: /tell 藥不要我把你傳到我加
+[02:29:11] [Server thread/INFO]: Selina issued server command: /tell YuShiou 藥不要我把你傳到我加OAO
+[02:29:36] [Server thread/INFO]: YuShiou issued server command: /tell Selina how
+[02:29:57] [Server thread/INFO]: Selina issued server command: /tp YuShiou 369.421 64 786.775
+[02:29:57] [Server thread/WARN]: YuShiou moved too quickly! 153.999889054701,1.0,-650.5070253836172
+[02:30:27] [Server thread/INFO]: YuShiou issued server command: /tell Selina 有TP指令 ?
+[02:30:32] [Server thread/INFO]: Selina issued server command: /tell YuShiou OAO 博維有給我管理原
+[02:30:58] [Async Chat Thread - #26/INFO]: []<Selina> 因為之前我想要在火車第圖用傳的哈哈
+[02:31:21] [Async Chat Thread - #26/INFO]: []<YuShiou> 柏瑋哥 現在是防爆+沒防噴嗎 ?
+[02:32:43] [Async Chat Thread - #27/INFO]: []<Selina> 感覺你用DisCord問比較好 他好想不依定會在
+[02:32:51] [Async Chat Thread - #27/INFO]: []<Selina> 我先去睡惹掰掰~
+[02:32:56] [Async Chat Thread - #27/INFO]: []<YuShiou> 88
+[02:33:01] [Server thread/INFO]: Selina lost connection: Disconnected
+[02:33:01] [Server thread/INFO]: Selina left the game
+[02:33:43] [Server thread/INFO]: YuShiou lost connection: Disconnected
+[02:33:43] [Server thread/INFO]: YuShiou left the game
+[03:04:22] [User Authenticator #66/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[03:04:22] [Server thread/INFO]: aforward3326[/1.34.110.242:59386] logged in with entity id 564673 at ([world]604.585129628129, 63.0, -199.42616555992015)
+[03:04:34] [Craft Scheduler Thread - 840/INFO]: [AuthMe] aforward3326 logged in!
+[03:25:14] [Server thread/INFO]: aforward3326 has made the advancement [Fishy Business]
+[03:27:00] [Server thread/INFO]: aforward3326 has made the advancement [Best Friends Forever]
+[03:33:52] [User Authenticator #67/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[03:33:52] [Server thread/INFO]: appa1423[/27.242.5.15:3674] logged in with entity id 570559 at ([world]581.9871731040009, 64.875, 1282.804785903286)
+[03:33:58] [Craft Scheduler Thread - 852/INFO]: [AuthMe] appa1423 logged in!
+[03:51:53] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[03:51:53] [Server thread/INFO]: appa1423 left the game
+[03:52:46] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[03:52:46] [Server thread/INFO]: aforward3326 left the game
+[04:10:32] [Server thread/INFO]: Villager EntityVillager['Farmer'/485196, uuid='688149e9-6eb0-44c5-9b99-1bc89cae2dfb', l='world', x=-352.45, y=70.00, z=-463.72, cx=-23, cz=-29, tl=323658, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[04:15:25] [User Authenticator #68/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[04:15:25] [Server thread/INFO]: aforward3326[/1.34.110.242:51213] logged in with entity id 578692 at ([world]545.0457591232093, 68.0, -196.13605749339678)
+[04:15:36] [Craft Scheduler Thread - 871/INFO]: [AuthMe] aforward3326 logged in!
+[04:23:11] [Server thread/WARN]: aforward3326 moved wrongly!
+[04:33:31] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[04:33:31] [Server thread/INFO]: aforward3326 left the game
+[05:22:38] [User Authenticator #69/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[05:22:38] [Server thread/INFO]: SpyCat005[/115.165.227.248:8773] logged in with entity id 586979 at ([world_survive]-281.30000001192093, 68.0, 257.90211750487083)
+[05:22:50] [Craft Scheduler Thread - 894/INFO]: [AuthMe] SpyCat005 logged in!
+[05:27:34] [Async Chat Thread - #28/INFO]: []<SpyCat005> hi
+[05:29:49] [Async Chat Thread - #29/INFO]: []<SpyCat005> apple
+[05:30:25] [Server thread/INFO]: SpyCat005 tried to swim in lava
+[05:33:59] [Async Chat Thread - #30/INFO]: []<SpyCat005> 0.0
+[05:43:02] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[05:43:02] [Server thread/INFO]: SpyCat005 left the game
+[05:45:20] [User Authenticator #70/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[05:45:20] [Server thread/INFO]: SpyCat005[/115.165.227.248:9288] logged in with entity id 592123 at ([world_survive]88.43816530965641, 64.0, 263.6681841778103)
+[05:45:29] [Craft Scheduler Thread - 906/INFO]: [AuthMe] SpyCat005 logged in!
+[05:46:07] [Server thread/INFO]: Villager EntityVillager['Farmer'/466968, uuid='e55dfe1b-039f-49d5-9913-17d35ebc7c9a', l='world', x=-357.19, y=67.00, z=-501.09, cx=-23, cz=-32, tl=542448, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[05:49:16] [Async Chat Thread - #31/INFO]: []<SpyCat005> hi
+[05:49:22] [Async Chat Thread - #31/INFO]: []<SpyCat005> 你在幹嘛
+[05:52:06] [Server thread/INFO]: SpyCat005 was blown up by Creeper
+[05:52:12] [Server thread/INFO]: SpyCat005 issued server command: /back
+[06:10:13] [Server thread/INFO]: SpyCat005 has made the advancement [Take Aim]
+[06:18:31] [Server thread/INFO]: SpyCat005 has made the advancement [Diamonds!]
+[06:21:28] [Server thread/INFO]: SpyCat005 issued server command: /op
+[06:21:40] [Server thread/INFO]: SpyCat005 issued server command: /gamemode 2
+[06:21:40] [Server thread/INFO]: [Essentials] SpyCat005 被拒絕使用命令
+[07:05:21] [Async Chat Thread - #32/INFO]: []<SpyCat005> 0.0
+[07:07:53] [Async Chat Thread - #33/INFO]: []<SpyCat005> = =沒有喔
+[07:24:05] [Server thread/INFO]: CommandBlock at -183,63,207 issued server command: /tp @p 51 63 264
+[07:24:07] [Server thread/INFO]: CommandBlock at -183,63,207 issued server command: /tp @p 51 63 264
+[07:29:04] [Server thread/INFO]: SpyCat005 has made the advancement [Enchanter]
+[07:44:54] [Server thread/INFO]: SpyCat005 has made the advancement [The Parrots and the Bats]
+[08:06:31] [User Authenticator #71/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[08:06:31] [Server thread/INFO]: basic_balion[/36.232.7.58:10448] logged in with entity id 620049 at ([world]-216.2262213946138, 15.0, -1065.878972374334)
+[08:06:41] [Craft Scheduler Thread - 947/INFO]: [AuthMe] basic_balion logged in!
+[08:06:42] [Server thread/INFO]: basic_balion issued server command: /
+[08:06:50] [Async Chat Thread - #34/INFO]: []<basic_balion> 早ㄤ
+[08:07:04] [Async Chat Thread - #34/INFO]: []<SpyCat005> 早安
+[08:11:45] [Server thread/INFO]: basic_balion fell from a high place
+[08:11:52] [Async Chat Thread - #35/INFO]: []<SpyCat005> .
+[08:15:17] [Server thread/INFO]: basic_balion issued server command: /home
+[08:23:59] [Server thread/INFO]: basic_balion issued server command: /home
+[08:30:51] [Server thread/INFO]: basic_balion has made the advancement [What a Deal!]
+[08:31:26] [Async Chat Thread - #36/INFO]: []<SpyCat005> ?
+[08:31:35] [Async Chat Thread - #36/INFO]: []<SpyCat005> 你跟誰交易壓
+[08:33:37] [Server thread/INFO]: basic_balion issued server command: /home
+[08:33:50] [Async Chat Thread - #37/INFO]: []<basic_balion> 村名
+[08:34:00] [Async Chat Thread - #37/INFO]: []<SpyCat005> =口=!!有喔
+[08:34:06] [Async Chat Thread - #37/INFO]: []<basic_balion> 有阿
+[08:35:31] [Async Chat Thread - #38/INFO]: []<SpyCat005> 很遠嗎
+[08:36:02] [Async Chat Thread - #38/INFO]: []<basic_balion> 有阿
+[08:36:12] [Async Chat Thread - #38/INFO]: []<basic_balion> 看你那有沒有村莊阿
+[08:36:29] [Async Chat Thread - #38/INFO]: []<SpyCat005> 你在哪個地圖
+[08:49:20] [Async Chat Thread - #39/INFO]: []<basic_balion> 新的
+[08:50:26] [User Authenticator #72/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[08:50:26] [Server thread/INFO]: wolf[/115.165.203.20:65186] logged in with entity id 635128 at ([world]263.4048199670249, 63.0, 1423.1100373571924)
+[08:50:35] [Craft Scheduler Thread - 962/INFO]: [AuthMe] wolf logged in!
+[08:50:38] [Async Chat Thread - #40/INFO]: []<wolf> yee
+[08:50:50] [Async Chat Thread - #40/INFO]: []<SpyCat005> YEE~
+[09:00:32] [Server thread/INFO]: Villager EntityVillager['Villager'/630075, uuid='3ef7b482-857c-4310-8103-62e033795e49', l='world', x=-342.22, y=80.00, z=-1048.86, cx=-22, cz=-66, tl=32066, v=true, d=false] died, message: 'Villager was slain by basic_balion'
+[09:03:06] [Async Chat Thread - #41/INFO]: []<basic_balion> 新的
+[09:03:10] [Server thread/INFO]: basic_balion issued server command: /home
+[09:20:33] [Async Chat Thread - #42/INFO]: []<SpyCat005> =口=""
+[09:20:44] [Async Chat Thread - #42/INFO]: []<SpyCat005> 好猛喔這誰蓋的
+[09:20:47] [Async Chat Thread - #42/INFO]: []<wolf> ?
+[09:21:23] [Async Chat Thread - #42/INFO]: []<SpyCat005> 476.97.222
+[09:22:35] [Async Chat Thread - #43/INFO]: []<SpyCat005> 0.0裡面沒東西
+[09:23:51] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[09:23:51] [Server thread/INFO]: SpyCat005 left the game
+[09:26:25] [Server thread/INFO]: basic_balion issued server command: /home
+[09:26:45] [Server thread/INFO]: basic_balion issued server command: /home
+[09:27:05] [Server thread/INFO]: basic_balion issued server command: /home
+[09:28:07] [Server thread/INFO]: basic_balion issued server command: /home
+[09:28:07] [Server thread/WARN]: basic_balion moved too quickly! 74.06273783690386,25.0,-31.87224821912332

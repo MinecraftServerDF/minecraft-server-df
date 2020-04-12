@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2020-04-11 16:06:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-04-06 20:48:34 +0800"
@@ -529,6 +535,7 @@
       "minecraft:spider": "2020-04-05 18:18:51 +0800",
       "minecraft:husk": "2020-04-06 23:05:24 +0800",
       "minecraft:zombie": "2020-04-05 20:18:07 +0800",
+      "minecraft:drowned": "2020-04-11 16:06:27 +0800",
       "minecraft:zombie_villager": "2020-04-10 19:22:27 +0800"
     },
     "done": false
@@ -1759,8 +1766,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-04-11 16:37:23 +0800",
       "minecraft:sheep": "2020-04-10 23:25:08 +0800",
-      "minecraft:cow": "2020-04-10 23:24:57 +0800"
+      "minecraft:cow": "2020-04-10 23:24:57 +0800",
+      "minecraft:chicken": "2020-04-11 14:41:31 +0800"
     },
     "done": false
   },
@@ -1881,6 +1890,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-03 20:35:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-04-11 21:56:56 +0800"
     },
     "done": true
   },
@@ -2319,6 +2334,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-09 23:27:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-04-11 21:56:56 +0800"
     },
     "done": true
   },

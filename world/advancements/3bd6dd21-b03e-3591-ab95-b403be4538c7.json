@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-11 17:36:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-08 19:37:49 +0800"
@@ -297,7 +303,8 @@
     "criteria": {
       "cooked_porkchop": "2020-04-07 19:22:55 +0800",
       "sweet_berries": "2020-04-07 20:27:45 +0800",
-      "cooked_beef": "2020-04-07 19:34:39 +0800"
+      "cooked_beef": "2020-04-07 19:34:39 +0800",
+      "bread": "2020-04-11 17:36:00 +0800"
     },
     "done": false
   },

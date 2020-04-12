@@ -1,20 +1,29 @@
 lastAccountName: JerryU29
 timestamps:
-  login: 1586535600681
-  logout: 1586539844400
-  lastteleport: 1586537002603
+  login: 1586615686621
+  logout: 1586616329241
+  lastteleport: 1586614875147
 ipAddress: 49.159.80.132
 lastlocation:
   world: world
-  x: -214.5985757290387
-  y: 104.5625
-  z: -1070.0704907930408
-  yaw: -141.75003
-  pitch: 25.950003
+  x: -256.5193772691159
+  y: 80.0
+  z: -1016.4213818628806
+  yaw: 78.7566
+  pitch: 18.30012
 logoutlocation:
   world: world
-  x: -219.98489841894548
-  y: 104.0
-  z: -1088.8335872880423
-  yaw: -5.930664
-  pitch: 13.799767
+  x: -220.96376349381862
+  y: 104.5
+  z: -1098.0388246456987
+  yaw: -215.37805
+  pitch: 34.649517
+homes:
+  home:
+    world: world
+    x: -221.40575554153514
+    y: 104.0
+    z: -1074.19670952962
+    yaw: 256.95004
+    pitch: 5.2499957
+afk: false
