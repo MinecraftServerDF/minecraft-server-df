@@ -1,21 +1,21 @@
 lastAccountName: LRIC
 timestamps:
-  login: 1586669578869
-  logout: 1586659331294
-  lastteleport: 1586693765087
+  login: 1586697130607
+  logout: 1586696000185
+  lastteleport: 1586698781254
 ipAddress: 123.194.147.86
 logoutlocation:
   world: world
-  x: -686.6499027613122
-  y: 61.0
-  z: 147.21341077216832
-  yaw: 359.15405
-  pitch: 21.299057
+  x: 707.5
+  y: 63.0
+  z: -437.5
+  yaw: 90.11726
+  pitch: 42.149197
 lastlocation:
   world: world
-  x: 1412.9061650280491
-  y: 11.0
-  z: -739.6314570145851
-  yaw: -49.38525
-  pitch: 18.749943
+  x: 936.9750142536806
+  y: 64.0
+  z: -145.71018731448
+  yaw: -106.40692
+  pitch: 8.70013
 afk: false

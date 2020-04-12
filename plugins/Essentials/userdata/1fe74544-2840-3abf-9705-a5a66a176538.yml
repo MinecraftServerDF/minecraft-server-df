@@ -1,23 +1,23 @@
 lastAccountName: RocKog
 timestamps:
-  login: 1586695239913
-  lastteleport: 1586690663095
-  logout: 1586690877321
+  login: 1586698793291
+  lastteleport: 1586695436052
+  logout: 1586696775250
 ipAddress: 1.171.143.251
 lastlocation:
-  world: world_nether
-  x: 38.60935568017727
-  y: 97.0
-  z: 281.4254839177279
-  yaw: 172.70166
-  pitch: 2.40011
+  world: world
+  x: 803.5
+  y: 85.0
+  z: 951.5
+  yaw: -19.650002
+  pitch: 14.25
 logoutlocation:
   world: world
-  x: 28.828690637530684
-  y: 110.0
-  z: 810.9854842004679
-  yaw: -97.16016
-  pitch: 15.450286
+  x: 7.764439654782137
+  y: 120.0
+  z: 831.7785228770035
+  yaw: 290.8858
+  pitch: 17.250051
 homes:
   home:
     world: world

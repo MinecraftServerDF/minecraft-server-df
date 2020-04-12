@@ -403,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-12 20:52:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-10 13:42:57 +0800"
@@ -549,6 +555,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-12 21:27:53 +0800",
       "minecraft:skeleton": "2020-04-05 16:51:12 +0800",
       "minecraft:spider": "2020-04-05 18:18:51 +0800",
       "minecraft:husk": "2020-04-06 23:05:24 +0800",
@@ -645,6 +652,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-03 22:04:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-12 21:28:06 +0800"
     },
     "done": true
   },
@@ -1628,6 +1641,7 @@
       "apple": "2020-04-05 18:17:32 +0800",
       "bread": "2020-04-09 23:25:28 +0800",
       "rotten_flesh": "2020-04-10 16:59:45 +0800",
+      "beetroot": "2020-04-12 21:24:15 +0800",
       "cooked_rabbit": "2020-04-05 17:09:39 +0800",
       "cooked_chicken": "2020-04-07 23:09:28 +0800",
       "mushroom_stew": "2020-04-05 17:10:03 +0800"

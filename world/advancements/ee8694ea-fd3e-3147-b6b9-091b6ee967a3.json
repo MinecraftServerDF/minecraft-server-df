@@ -633,6 +633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-04-04 18:59:10 +0800"
@@ -1203,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-04-05 09:00:14 +0800"
@@ -1240,6 +1252,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-04-05 12:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-12 20:39:02 +0800"
     },
     "done": true
   },
@@ -1474,6 +1492,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-04-04 19:00:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-12 20:39:54 +0800"
     },
     "done": true
   },
