@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-04-12 16:03:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-04-11 17:56:47 +0800"
@@ -847,6 +853,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-04-11 16:27:19 +0800",
       "minecraft:creeper": "2020-04-12 14:31:59 +0800",
+      "minecraft:phantom": "2020-04-12 15:53:51 +0800",
       "minecraft:zombie": "2020-04-11 17:31:36 +0800",
       "minecraft:drowned": "2020-04-11 20:06:45 +0800"
     },
@@ -867,6 +874,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-04-11 15:38:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-04-12 16:00:50 +0800"
     },
     "done": true
   },
@@ -1236,6 +1249,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2020-04-12 16:08:09 +0800",
+      "has_golden_chestplate": "2020-04-12 16:08:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2020-04-11 18:04:37 +0800"
@@ -1572,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-04-12 16:00:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2020-04-11 15:33:10 +0800",
@@ -1808,6 +1834,19 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-11 18:04:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-04-12 16:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2020-04-12 16:08:09 +0800",
+      "has_golden_chestplate": "2020-04-12 16:08:09 +0800"
     },
     "done": true
   },

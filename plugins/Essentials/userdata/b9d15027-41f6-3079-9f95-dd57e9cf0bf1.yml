@@ -2,15 +2,15 @@ lastAccountName: Caber588
 timestamps:
   login: 1586668874293
   logout: 1586540002651
-  lastteleport: 1586677195207
+  lastteleport: 1586680273065
 ipAddress: 219.70.214.164
 lastlocation:
-  world: world
-  x: -153.4110682163559
-  y: 64.0
-  z: -1078.8693274716331
-  yaw: 46.76233
-  pitch: -55.800064
+  world: world_nether
+  x: 65.78996124921487
+  y: 69.0
+  z: -597.7737963599252
+  yaw: -161.88867
+  pitch: 53.10148
 logoutlocation:
   world: world
   x: -219.9853394268665
