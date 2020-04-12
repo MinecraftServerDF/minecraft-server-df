@@ -220,3 +220,267 @@
 [09:27:05] [Server thread/INFO]: basic_balion issued server command: /home
 [09:28:07] [Server thread/INFO]: basic_balion issued server command: /home
 [09:28:07] [Server thread/WARN]: basic_balion moved too quickly! 74.06273783690386,25.0,-31.87224821912332
+[09:53:11] [User Authenticator #73/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[09:53:11] [Server thread/INFO]: LRIC[/123.194.147.86:49983] logged in with entity id 661413 at ([world]-687.5185473232805, 62.0, 150.91116870551184)
+[09:53:21] [Craft Scheduler Thread - 984/INFO]: [AuthMe] LRIC logged in!
+[09:59:18] [Server thread/INFO]: apple issued server command: /tp LRIC
+[10:00:49] [Server thread/INFO]: apple issued server command: /tp wolf
+[10:00:49] [Server thread/WARN]: apple moved too quickly! 1605.615509030955,-67.90568258062169,2238.1619528077867
+[10:03:46] [Server thread/INFO]: apple lost connection: Disconnected
+[10:03:46] [Server thread/INFO]: apple left the game
+[10:11:33] [Server thread/INFO]: basic_balion fell from a high place
+[10:11:44] [Server thread/INFO]: basic_balion issued server command: /back
+[10:11:59] [Server thread/INFO]: basic_balion issued server command: /home
+[10:27:38] [Server thread/INFO]: wolf lost connection: Disconnected
+[10:27:38] [Server thread/INFO]: wolf left the game
+[10:28:23] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:29:59] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:30:48] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:30:48] [Server thread/WARN]: LRIC moved too quickly! 38.329387154197434,-2.0,52.05991225070396
+[10:35:57] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:35:57] [Server thread/WARN]: LRIC moved too quickly! -34.19992983460145,2.0,-65.82802834254872
+[10:39:12] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:39:12] [Server thread/WARN]: LRIC moved too quickly! 29.18892840037654,-1.0,63.783281484733024
+[10:42:11] [Server thread/INFO]: LRIC lost connection: Disconnected
+[10:42:11] [Server thread/INFO]: LRIC left the game
+[10:52:56] [Server thread/INFO]: basic_balion issued server command: /home
+[10:56:40] [Server thread/INFO]: basic_balion issued server command: /home
+[10:58:25] [Server thread/INFO]: basic_balion issued server command: /home
+[11:00:21] [Server thread/INFO]: basic_balion issued server command: /home
+[11:17:31] [Server thread/INFO]: basic_balion issued server command: /home
+[11:22:07] [Server thread/INFO]: basic_balion issued server command: /home
+[11:31:40] [Server thread/INFO]: basic_balion issued server command: /home
+[11:54:35] [User Authenticator #74/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[11:54:35] [Server thread/INFO]: wolf[/115.165.203.20:50914] logged in with entity id 689372 at ([world]262.9464622482909, 63.0, 1417.4604312272193)
+[11:54:42] [Craft Scheduler Thread - 1026/INFO]: [AuthMe] wolf logged in!
+[11:55:25] [User Authenticator #74/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[11:55:25] [Server thread/INFO]: YuShiou[/1.34.17.118:10832] logged in with entity id 689919 at ([world]513.4090241960059, 88.0, 804.9791554772061)
+[11:55:32] [Craft Scheduler Thread - 1030/INFO]: [AuthMe] YuShiou logged in!
+[12:18:57] [Server thread/WARN]: YuShiou moved wrongly!
+[12:27:10] [Server thread/INFO]: Incorrect argument for command
+[12:27:10] [Server thread/INFO]: ...ifficulty 3<--[HERE]
+[12:27:17] [Server thread/INFO]: The difficulty has been set to Hard
+[12:27:24] [Async Chat Thread - #44/INFO]: []<wolf> !?
+[12:27:33] [Async Chat Thread - #44/INFO]: []<YuShiou> ?
+[12:28:37] [Server thread/INFO]: [Server] 怎麼了
+[12:28:57] [Server thread/INFO]: Villager EntityVillager['Nitwit'/702223, uuid='4ca3519d-a8a8-4d6f-a53d-ffb28abbaa2b', l='world', x=179.10, y=68.00, z=2466.34, cx=11, cz=154, tl=6811, v=true, d=false] died, message: 'Nitwit was slain by Zombie'
+[12:29:08] [Async Chat Thread - #45/INFO]: []<wolf> 不是本來就困難了嗎w
+[12:29:49] [Server thread/INFO]: [Server] 在確認一次  因為我改了差件 我怕讀取的難度沒讀到
+[12:30:16] [Server thread/INFO]: [Server] 換了插件  會換讀另一個設定黨
+[12:32:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/702219, uuid='29a1aee4-4aee-4ac5-b55c-acdfa8f956f8', l='world', x=162.10, y=68.00, z=2433.53, cx=10, cz=152, tl=11055, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[12:32:33] [Server thread/INFO]: Villager EntityVillager['Farmer'/702221, uuid='0dd4b124-564b-49f2-955d-3334773c2193', l='world', x=161.12, y=70.00, z=2412.72, cx=10, cz=150, tl=11088, v=true, d=false] died, message: 'Farmer was slain by Husk'
+[12:33:09] [Server thread/WARN]: YuShiou moved wrongly!
+[12:34:00] [Server thread/WARN]: 994e5158-203a-40a2-9658-e905cf9cfb18 (vehicle of YuShiou) moved wrongly!
+[12:34:20] [Async Chat Thread - #46/INFO]: []<wolf> 看到蜂窩卻沒蜜蜂
+[12:35:32] [Server thread/WARN]: YuShiou moved wrongly!
+[12:38:03] [User Authenticator #75/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[12:38:03] [Server thread/INFO]: aforward3326[/1.34.110.242:49973] logged in with entity id 707907 at ([world]551.0108681915793, 68.0, -207.29446314278803)
+[12:38:13] [Craft Scheduler Thread - 1044/INFO]: [AuthMe] aforward3326 logged in!
+[12:40:45] [Server thread/INFO]: [Server] XDDD
+[12:41:55] [Async Chat Thread - #47/INFO]: []<wolf> 會被狼殺掉嗎?
+[12:45:46] [Server thread/INFO]: wolf lost connection: Disconnected
+[12:45:46] [Server thread/INFO]: wolf left the game
+[12:51:36] [Server thread/INFO]: aforward3326 was slain by Iron Golem
+[12:57:41] [User Authenticator #76/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[12:57:42] [Server thread/INFO]: Andy[/220.135.139.86:49689] logged in with entity id 716004 at ([world]-314.700000025332, 70.0000002, -439.700000025332)
+[12:57:47] [Craft Scheduler Thread - 1056/INFO]: [AuthMe] Andy logged in!
+[12:58:23] [User Authenticator #76/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[12:58:23] [Server thread/INFO]: rgps3725[/223.137.162.125:7397] logged in with entity id 716887 at ([world]-226.45328734906693, 104.0, -1070.0993687435573)
+[12:58:28] [Craft Scheduler Thread - 1060/INFO]: [AuthMe] rgps3725 logged in!
+[12:59:43] [Server thread/WARN]: YuShiou moved wrongly!
+[13:03:18] [User Authenticator #77/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[13:03:18] [Server thread/INFO]: appa1423[/27.242.5.15:4856] logged in with entity id 720276 at ([world]831.299999974668, 82.01357301295272, 1253.299999974668)
+[13:03:25] [Craft Scheduler Thread - 1065/INFO]: [AuthMe] appa1423 logged in!
+[13:05:17] [Server thread/INFO]: YuShiou was impaled by Drowned
+[13:07:38] [Server thread/WARN]: YuShiou moved wrongly!
+[13:08:18] [User Authenticator #78/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[13:08:19] [Server thread/INFO]: Selina[/180.217.119.158:35715] logged in with entity id 724398 at ([world]372.299999974668, 64.0000002, 785.299999974668)
+[13:08:35] [Server thread/WARN]: YuShiou moved wrongly!
+[13:08:36] [Craft Scheduler Thread - 1070/INFO]: [AuthMe] Selina logged in!
+[13:13:16] [Server thread/WARN]: YuShiou moved wrongly!
+[13:17:40] [Server thread/INFO]: rgps3725 issued server command: /home
+[13:20:00] [Server thread/INFO]: basic_balion issued server command: /home
+[13:21:14] [User Authenticator #79/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[13:21:14] [Server thread/INFO]: Caber588[/219.70.214.164:49985] logged in with entity id 735099 at ([world]-219.9853394268665, 104.0, -1084.766222585512)
+[13:21:24] [Craft Scheduler Thread - 1078/INFO]: [AuthMe] Caber588 logged in!
+[13:21:53] [Server thread/INFO]: rgps3725 lost connection: Timed out
+[13:21:53] [Server thread/INFO]: rgps3725 left the game
+[13:22:28] [User Authenticator #80/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[13:22:28] [Server thread/INFO]: rgps3725[/59.115.165.106:51392] logged in with entity id 736213 at ([world]-230.66537711882972, 111.0, -1064.313126826142)
+[13:22:34] [Craft Scheduler Thread - 1084/INFO]: [AuthMe] rgps3725 logged in!
+[13:26:24] [Server thread/INFO]: Caber588 went up in flames
+[13:29:42] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[13:29:42] [Server thread/INFO]: basic_balion left the game
+[13:29:43] [User Authenticator #81/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[13:29:43] [Server thread/INFO]: basic_balion[/36.232.7.58:12912] logged in with entity id 742117 at ([world]-217.18506845920305, 14.875, -1065.5592221629238)
+[13:29:54] [Craft Scheduler Thread - 1089/INFO]: [AuthMe] basic_balion logged in!
+[13:30:11] [Server thread/INFO]: Caber588 issued server command: /home
+[13:32:34] [Server thread/WARN]: Caber588 moved too quickly! -2.488675311963135,-32.84270956326678,-3.69988422416759
+[13:32:58] [User Authenticator #82/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[13:32:58] [Server thread/INFO]: LRIC[/123.194.147.86:52022] logged in with entity id 744451 at ([world]-686.6499027613122, 61.0, 147.21341077216832)
+[13:33:07] [Craft Scheduler Thread - 1095/INFO]: [AuthMe] LRIC logged in!
+[13:33:40] [Server thread/INFO]: LRIC issued server command: /back
+[13:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[13:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[13:36:18] [Server thread/WARN]: rgps3725 moved wrongly!
+[13:36:51] [Server thread/WARN]: YuShiou moved wrongly!
+[13:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[13:38:22] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[13:38:22] [Server thread/INFO]: aforward3326 left the game
+[13:38:23] [User Authenticator #83/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[13:38:24] [Server thread/INFO]: aforward3326[/1.34.110.242:50760] logged in with entity id 750236 at ([world]741.5640941918416, 62.07326407144582, -255.33226006113904)
+[13:38:30] [Craft Scheduler Thread - 1099/INFO]: [AuthMe] aforward3326 logged in!
+[13:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[13:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[13:46:07] [User Authenticator #84/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[13:46:07] [Server thread/INFO]: SpyCat005[/115.165.227.248:2360] logged in with entity id 757984 at ([world_survive]552.0750876749076, 65.0, 335.6482420640111)
+[13:46:10] [Server thread/INFO]: Caber588 issued server command: /home
+[13:46:22] [Craft Scheduler Thread - 1106/INFO]: [AuthMe] SpyCat005 logged in!
+[13:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[13:47:24] [Async Chat Thread - #48/INFO]: []<SpyCat005> 現在死掉會噴裝嗎
+[13:47:30] [User Authenticator #85/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[13:47:30] [Server thread/INFO]: Keisari1313[/111.248.203.207:60122] logged in with entity id 759272 at ([world]-226.22836371713134, 99.0, -1058.19587831256)
+[13:47:33] [Async Chat Thread - #48/INFO]: []<rgps3725> no
+[13:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5034ms or 100 ticks behind
+[13:47:49] [Async Chat Thread - #48/INFO]: []<YuShiou> 主世界不會 地獄會
+[13:47:50] [Async Chat Thread - #48/INFO]: []<basic_balion> 會
+[13:47:53] [Craft Scheduler Thread - 1110/INFO]: [AuthMe] Keisari1313 logged in!
+[13:48:03] [Async Chat Thread - #48/INFO]: []<basic_balion> 只有地域會?
+[13:48:20] [Async Chat Thread - #48/INFO]: []<SpyCat005> 我跑太遠 我不知道家在哪了= =
+[13:48:21] [Async Chat Thread - #48/INFO]: []<YuShiou> 昨天我就在地獄噴光了 XD 剛剛主世界死掉沒事
+[13:48:34] [Server thread/WARN]: YuShiou moved wrongly!
+[13:48:50] [Async Chat Thread - #48/INFO]: []<SpyCat005> 能跟我說一下座標嗎
+[13:48:53] [Async Chat Thread - #48/INFO]: []<basic_balion> 剛剛去地獄會噴
+[13:48:58] [Async Chat Thread - #48/INFO]: []<SpyCat005> 我想回去
+[13:49:00] [Async Chat Thread - #48/INFO]: []<YuShiou> 地域會噴沒錯
+[13:49:15] [Server thread/WARN]: YuShiou moved wrongly!
+[13:49:27] [Server thread/INFO]: Caber588 issued server command: /home
+[13:49:36] [Server thread/WARN]: YuShiou moved wrongly!
+[13:50:19] [Server thread/WARN]: rgps3725 moved wrongly!
+[13:50:30] [Server thread/WARN]: rgps3725 moved wrongly!
+[13:50:46] [Async Chat Thread - #49/INFO]: []<YuShiou> spycat 你在其他張地圖中 不是主世界
+[13:51:10] [Server thread/INFO]: SpyCat005 was blown up by Creeper
+[13:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[13:51:22] [Server thread/INFO]: SpyCat005 issued server command: /back
+[13:51:22] [Server thread/WARN]: rgps3725 moved wrongly!
+[13:51:40] [Server thread/INFO]: SpyCat005 was shot by Skeleton
+[13:51:45] [Server thread/INFO]: SpyCat005 issued server command: /back
+[13:52:11] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[13:52:11] [Server thread/INFO]: SpyCat005 left the game
+[13:52:21] [AWT-Windows/INFO]: ***WARNING: SWT requires comctl32.dll version 5.80 or greater
+[13:52:21] [AWT-Windows/INFO]: ***WARNING: Detected: 0.0
+[13:52:22] [Server thread/INFO]: YuShiou issued server command: /tell SpyCat005 往西邊走
+[13:52:32] [Server thread/INFO]: [Server] SpyCat005 沒有問卷記錄
+[13:53:01] [Server thread/INFO]: [Server] 結果他下線了...
+[13:53:58] [User Authenticator #86/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[13:53:58] [Server thread/INFO]: JerryU29[/49.159.80.132:49750] logged in with entity id 765392 at ([world]-220.96376349381862, 104.5, -1098.0388246456987)
+[13:54:07] [Craft Scheduler Thread - 1117/INFO]: [AuthMe] JerryU29 logged in!
+[13:54:37] [Server thread/INFO]: Keisari1313 issued server command: /tpa rgps3725
+[13:56:52] [Server thread/WARN]: 3152d44d-f157-4953-8235-8a1cedd18bd5 (vehicle of Keisari1313) moved wrongly!
+[13:56:52] [Server thread/WARN]: 3152d44d-f157-4953-8235-8a1cedd18bd5 (vehicle of Keisari1313) moved wrongly!
+[13:56:52] [Server thread/WARN]: 3152d44d-f157-4953-8235-8a1cedd18bd5 (vehicle of Keisari1313) moved wrongly!
+[13:56:52] [Server thread/WARN]: 3152d44d-f157-4953-8235-8a1cedd18bd5 (vehicle of Keisari1313) moved wrongly!
+[13:56:53] [Server thread/WARN]: 3152d44d-f157-4953-8235-8a1cedd18bd5 (vehicle of Keisari1313) moved wrongly!
+[13:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[13:59:56] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:00:21] [Server thread/WARN]: Keisari1313 moved wrongly!
+[14:00:29] [Server thread/INFO]: Keisari1313 issued server command: /home
+[14:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[14:01:36] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[14:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[14:04:20] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[14:05:25] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:05:51] [Server thread/INFO]: Keisari1313 issued server command: /home
+[14:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[14:07:22] [Server thread/INFO]: Caber588 issued server command: /home
+[14:07:49] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:07:52] [Server thread/INFO]: Keisari1313 was shot by Skeleton
+[14:08:28] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:11:04] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:11:09] [Server thread/INFO]: Caber588 issued server command: /home
+[14:11:41] [Server thread/INFO]: Selina has made the advancement [Take Aim]
+[14:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+[14:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12177ms or 243 ticks behind
+[14:13:05] [User Authenticator #87/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[14:13:05] [Server thread/INFO]: apple[/127.0.0.1:12822] logged in with entity id 782874 at ([world]-284.05974350406456, 117.89213045501485, 1829.9200220596715)
+[14:13:06] [Server thread/INFO]: [Essentials] Set god mode to false for apple because they had it enabled without permission.
+[14:13:13] [Craft Scheduler Thread - 1127/INFO]: [AuthMe] apple logged in!
+[14:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8705ms or 174 ticks behind
+[14:13:31] [Server thread/INFO]: apple issued server command: /fly
+[14:13:37] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[14:13:46] [Server thread/INFO]: apple issued server command: /top
+[14:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[14:15:39] [Async Chat Thread - #50/INFO]: []<apple> 村民繁殖機好像真的有用耶
+[14:15:50] [Async Chat Thread - #50/INFO]: []<Selina> 我今天有看到小村民
+[14:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[14:16:08] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[14:16:16] [Server thread/INFO]: Caber588 issued server command: /home
+[14:16:19] [Async Chat Thread - #50/INFO]: []<apple> 0.0
+[14:16:31] [Async Chat Thread - #50/INFO]: []<YuShiou> 藏寶圖真的很難看 Q
+[14:16:47] [Async Chat Thread - #50/INFO]: []<apple> i see see
+[14:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[14:17:33] [Async Chat Thread - #50/INFO]: []<apple> 就點開而已嘛
+[14:17:48] [Async Chat Thread - #50/INFO]: []<apple> 沒其他功能了？
+[14:17:50] [Async Chat Thread - #50/INFO]: []<YuShiou> 放到手上就有地圖可以看
+[14:18:17] [Async Chat Thread - #50/INFO]: []<apple> 還你
+[14:18:22] [Async Chat Thread - #50/INFO]: []<YuShiou> 然後要挖附近的地 找寶藏
+[14:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[14:18:37] [Async Chat Thread - #50/INFO]: []<apple> 我以為可以放大縮小之類的
+[14:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[14:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[14:22:16] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:22:24] [Server thread/INFO]: rgps3725 issued server command: /home
+[14:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[14:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[14:24:12] [Async Chat Thread - #51/INFO]: []<apple> 真低看不出來
+[14:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[14:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[14:27:02] [Server thread/INFO]: LRIC issued server command: /back
+[14:27:15] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[14:27:15] [Server thread/INFO]: appa1423 left the game
+[14:27:31] [Server thread/INFO]: LRIC issued server command: /back
+[14:27:53] [Server thread/INFO]: LRIC issued server command: /back
+[14:28:25] [Server thread/INFO]: LRIC issued server command: /back
+[14:28:44] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:29:14] [Server thread/INFO]: LRIC issued server command: /back
+[14:29:40] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:31:38] [Server thread/INFO]: apple issued server command: /god
+[14:32:52] [Server thread/WARN]: rgps3725 moved wrongly!
+[14:33:52] [User Authenticator #88/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[14:33:52] [Server thread/INFO]: RocKog[/1.171.143.251:60253] logged in with entity id 800723 at ([world]27.34044179569618, 120.0, 810.5998170823784)
+[14:34:06] [Craft Scheduler Thread - 1138/INFO]: [AuthMe] RocKog logged in!
+[14:35:01] [Server thread/INFO]: RocKog issued server command: /home
+[14:35:07] [Async Chat Thread - #52/INFO]: []<RocKog> 好多人
+[14:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[14:35:21] [Server thread/INFO]: LRIC was blown up by Creeper
+[14:35:32] [Server thread/INFO]: LRIC issued server command: /back
+[14:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[14:36:10] [Server thread/INFO]: Keisari1313 was slain by Enderman
+[14:36:16] [Async Chat Thread - #53/INFO]: []<LRIC> 又一個洞了T^T
+[14:36:54] [Server thread/INFO]: Keisari1313 has made the advancement [Suit Up]
+[14:36:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[14:37:44] [Server thread/INFO]: Keisari1313 issued server command: /back
+[14:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[14:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[14:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[14:41:21] [Server thread/INFO]: rgps3725 issued server command: /home
+[14:41:26] [Server thread/INFO]: Caber588 issued server command: /home
+[14:41:26] [Server thread/INFO]: JerryU29 has made the advancement [Suit Up]
+[14:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[14:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[14:43:03] [Server thread/INFO]: RocKog issued server command: /home
+[14:43:28] [Server thread/INFO]: Caber588 issued server command: /home
+[14:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[14:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[14:46:25] [Server thread/INFO]: RocKog lost connection: Disconnected
+[14:46:25] [Server thread/INFO]: RocKog left the game
+[14:47:11] [Server thread/INFO]: Caber588 issued server command: /home
+[14:48:08] [Server thread/INFO]: apple lost connection: Disconnected
+[14:48:08] [Server thread/INFO]: apple left the game
+[14:48:37] [Server thread/INFO]: Selina hit the ground too hard whilst trying to escape Phantom
+[14:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
