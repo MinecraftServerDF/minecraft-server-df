@@ -220,3 +220,22 @@
 [09:27:05] [Server thread/INFO]: basic_balion issued server command: /home
 [09:28:07] [Server thread/INFO]: basic_balion issued server command: /home
 [09:28:07] [Server thread/WARN]: basic_balion moved too quickly! 74.06273783690386,25.0,-31.87224821912332
+[09:53:11] [User Authenticator #73/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[09:53:11] [Server thread/INFO]: LRIC[/123.194.147.86:49983] logged in with entity id 661413 at ([world]-687.5185473232805, 62.0, 150.91116870551184)
+[09:53:21] [Craft Scheduler Thread - 984/INFO]: [AuthMe] LRIC logged in!
+[09:59:18] [Server thread/INFO]: apple issued server command: /tp LRIC
+[10:00:49] [Server thread/INFO]: apple issued server command: /tp wolf
+[10:00:49] [Server thread/WARN]: apple moved too quickly! 1605.615509030955,-67.90568258062169,2238.1619528077867
+[10:03:46] [Server thread/INFO]: apple lost connection: Disconnected
+[10:03:46] [Server thread/INFO]: apple left the game
+[10:11:33] [Server thread/INFO]: basic_balion fell from a high place
+[10:11:44] [Server thread/INFO]: basic_balion issued server command: /back
+[10:11:59] [Server thread/INFO]: basic_balion issued server command: /home
+[10:27:38] [Server thread/INFO]: wolf lost connection: Disconnected
+[10:27:38] [Server thread/INFO]: wolf left the game
+[10:28:23] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:29:59] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:30:48] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:30:48] [Server thread/WARN]: LRIC moved too quickly! 38.329387154197434,-2.0,52.05991225070396
+[10:35:57] [Server thread/INFO]: LRIC issued server command: /BACK
+[10:35:57] [Server thread/WARN]: LRIC moved too quickly! -34.19992983460145,2.0,-65.82802834254872
