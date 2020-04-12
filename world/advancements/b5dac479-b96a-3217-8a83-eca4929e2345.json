@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-12 07:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2020-04-05 15:44:14 +0800"
@@ -283,9 +289,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2020-04-12 08:40:40 +0800",
       "bread": "2020-04-05 15:34:58 +0800",
       "rotten_flesh": "2020-04-12 05:53:42 +0800",
-      "salmon": "2020-04-05 15:47:15 +0800"
+      "salmon": "2020-04-05 15:47:15 +0800",
+      "carrot": "2020-04-12 08:19:52 +0800"
     },
     "done": false
   },
@@ -553,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2020-04-12 07:44:54 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:41:14 +0800"
@@ -618,6 +632,7 @@
       "minecraft:forest": "2020-04-12 05:26:41 +0800",
       "minecraft:taiga": "2020-04-05 15:29:44 +0800",
       "minecraft:snowy_tundra": "2020-04-12 05:26:44 +0800",
+      "minecraft:desert": "2020-04-12 08:21:24 +0800",
       "minecraft:frozen_river": "2020-04-12 05:26:43 +0800",
       "minecraft:jungle": "2020-04-05 15:30:29 +0800",
       "minecraft:beach": "2020-04-05 15:26:25 +0800",
@@ -744,6 +759,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:41:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-04-12 08:16:21 +0800"
     },
     "done": true
   },
@@ -921,6 +942,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-12 05:40:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-12 07:44:54 +0800"
     },
     "done": true
   },
