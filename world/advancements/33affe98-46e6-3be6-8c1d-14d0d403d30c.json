@@ -1088,6 +1088,7 @@
       "minecraft:mountains": "2020-04-03 21:07:45 +0800",
       "minecraft:taiga": "2020-04-06 21:10:38 +0800",
       "minecraft:desert_hills": "2020-04-06 21:30:11 +0800",
+      "minecraft:deep_cold_ocean": "2020-04-12 19:08:59 +0800",
       "minecraft:taiga_hills": "2020-04-10 19:06:59 +0800",
       "minecraft:desert": "2020-04-03 21:53:38 +0800",
       "minecraft:jungle": "2020-04-05 19:54:46 +0800",
@@ -2545,6 +2546,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-04-10 18:52:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-04-12 19:18:05 +0800"
     },
     "done": true
   },

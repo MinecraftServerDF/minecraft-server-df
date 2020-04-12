@@ -2,15 +2,15 @@ lastAccountName: JerryU29
 timestamps:
   login: 1586688013447
   logout: 1586685525216
-  lastteleport: 1586680261044
+  lastteleport: 1586691596583
 ipAddress: 49.159.80.132
 lastlocation:
-  world: world_nether
-  x: 65.89076830303706
-  y: 69.0
-  z: -413.35234225855277
-  yaw: -185.25394
-  pitch: 13.350045
+  world: world
+  x: -65.28818405021948
+  y: 16.0
+  z: -1090.8897987161813
+  yaw: -350.86414
+  pitch: 11.850041
 logoutlocation:
   world: world
   x: -218.7826797067319
@@ -26,4 +26,4 @@ homes:
     z: -1074.19670952962
     yaw: 256.95004
     pitch: 5.2499957
-afk: true
+afk: false
