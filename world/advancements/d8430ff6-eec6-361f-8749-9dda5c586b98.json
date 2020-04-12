@@ -625,6 +625,7 @@
       "minecraft:phantom": "2020-04-08 20:17:21 +0800",
       "minecraft:wither_skeleton": "2020-04-12 01:38:21 +0800",
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
+      "minecraft:enderman": "2020-04-12 15:14:31 +0800",
       "minecraft:zombie": "2020-04-07 10:31:27 +0800",
       "minecraft:drowned": "2020-04-08 20:59:00 +0800"
     },
@@ -2480,6 +2481,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-07 17:54:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-04-12 15:17:51 +0800"
     },
     "done": true
   },

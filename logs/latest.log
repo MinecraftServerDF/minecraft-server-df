@@ -484,3 +484,126 @@
 [14:48:08] [Server thread/INFO]: apple left the game
 [14:48:37] [Server thread/INFO]: Selina hit the ground too hard whilst trying to escape Phantom
 [14:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[14:53:39] [Server thread/INFO]: Added Andy to the whitelist
+[14:53:53] [AWT-EventQueue-0/WARN]: Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.Component.findUnderMouseInWindow(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.Component.getMousePosition(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at com.destroystokyo.paper.gui.RAMGraph.paint(RAMGraph.java:121)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paintChildren(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paint(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paintChildren(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paint(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paintToOffscreen(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager.paint(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent._paintImmediately(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.JComponent.paintImmediately(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager$4.run(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager$4.run(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager.access$1300(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventQueue.access$500(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.security.AccessController.doPrivileged(Native Method)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[14:53:53] [AWT-EventQueue-0/WARN]: 	at java.awt.EventDispatchThread.run(Unknown Source)
+[14:54:29] [Server thread/INFO]: Added YuShiou to the whitelist
+[14:54:47] [Server thread/INFO]: LRIC issued server command: /back
+[14:54:53] [Server thread/INFO]: Added rgps3725 to the whitelist
+[14:55:10] [Server thread/INFO]: Added basic_balion to the whitelist
+[14:55:30] [Server thread/INFO]: Added aforward3326 to the whitelist
+[14:55:45] [Server thread/INFO]: Added JerryU29 to the whitelist
+[14:55:53] [Server thread/INFO]: Added LRIC to the whitelist
+[14:56:10] [Server thread/INFO]: Added Caber588 to the whitelist
+[14:56:35] [Server thread/INFO]: JerryU29 issued server command: /tpa Keisar1313
+[14:56:47] [Server thread/INFO]: JerryU29 issued server command: /tpa Keisari1313
+[14:56:50] [Server thread/INFO]: Added Keisari1313 to the whitelist
+[14:56:59] [Server thread/INFO]: Keisari1313 issued server command: /tpaccept
+[14:57:03] [Server thread/INFO]: Added Selina to the whitelist
+[14:57:07] [Server thread/INFO]: Added wolf to the whitelist
+[14:57:10] [Server thread/INFO]: Added apple to the whitelist
+[14:57:39] [Server thread/INFO]: Added RocKog to the whitelist
+[14:58:01] [Server thread/INFO]: There are 13 whitelisted players: YuShiou, basic_balion, LRIC, apple, JerryU29, wolf, Selina, aforward3326, Andy, Caber588, rgps3725, Keisari1313, RocKog
+[14:58:46] [Server thread/INFO]: Incorrect argument for command
+[14:58:46] [Server thread/INFO]: ...list add  OChinBo<--[HERE]
+[14:59:04] [Server thread/INFO]: Added OChinBo to the whitelist
+[14:59:04] [Server thread/INFO]: Keisari1313 was blown up by Creeper
+[14:59:13] [Server thread/INFO]: Keisari1313 issued server command: /back
+[14:59:54] [Server thread/INFO]: Andy was blown up by Creeper
+[15:00:01] [Server thread/INFO]: Andy issued server command: /BACK
+[15:01:16] [Server thread/INFO]: JerryU29 issued server command: /home
+[15:02:10] [Server thread/INFO]: [WEB] 114.136.211.248: 人也太多XDDDD
+[15:02:17] [Server thread/INFO]: [WEB] 114.136.211.248: 喔我是Allen
+[15:02:24] [Async Chat Thread - #54/INFO]: []<Andy> 有沒有人有蜜蜂可以給兩隻....我辛苦找到的蜜蜂被苦力怕炸了
+[15:02:24] [Server thread/INFO]: Selina issued server command: /list
+[15:03:40] [Server thread/INFO]: JerryU29 issued server command: /back
+[15:04:04] [Server thread/INFO]: Andy issued server command: /HOME
+[15:04:11] [Server thread/INFO]: Andy issued server command: /BACK
+[15:04:28] [Server thread/INFO]: Andy issued server command: /sethome
+[15:04:35] [Server thread/INFO]: Andy issued server command: /BACK
+[15:08:51] [Server thread/INFO]: Andy issued server command: /HOME
+[15:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[15:09:58] [Server thread/INFO]: LRIC was shot by Skeleton
+[15:10:06] [Server thread/INFO]: LRIC issued server command: /back
+[15:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[15:10:51] [Server thread/INFO]: Andy was slain by Zombie
+[15:11:14] [Server thread/INFO]: Nothing changed. The player is not an operator
+[15:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[15:11:32] [Server thread/INFO]: Nothing changed. The player is not an operator
+[15:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[15:12:03] [Server thread/INFO]: Keisari1313 issued server command: /home
+[15:12:11] [User Authenticator #89/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[15:12:12] [Server thread/INFO]: biteyou74[/120.102.191.141:3446] logged in with entity id 838130 at ([world]-234.73309988171545, 105.0, -1066.634461693717)
+[15:12:21] [Craft Scheduler Thread - 1155/INFO]: [AuthMe] biteyou74 logged in!
+[15:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[15:13:37] [Server thread/WARN]: YuShiou moved wrongly!
+[15:14:13] [Server thread/INFO]: Added biteyou74 to the whitelist
+[15:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[15:14:49] [Server thread/INFO]: Incorrect argument for command
+[15:14:49] [Server thread/INFO]: whitelist vu06m6<--[HERE]
+[15:14:58] [Server thread/INFO]: LRIC drowned
+[15:15:00] [Server thread/INFO]: Added vu06m6 to the whitelist
+[15:15:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[15:16:37] [Server thread/WARN]: YuShiou moved wrongly!
+[15:16:56] [Server thread/WARN]: YuShiou moved wrongly!
+[15:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[15:19:11] [Server thread/INFO]: Caber588 issued server command: /home
+[15:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[15:20:47] [Server thread/INFO]: Keisari1313 issued server command: /home
+[15:23:59] [Server thread/INFO]: JerryU29 has made the advancement [Diamonds!]
+[15:24:40] [Server thread/WARN]: YuShiou moved wrongly!
+[15:25:43] [Server thread/WARN]: YuShiou moved wrongly!
+[15:26:30] [Server thread/INFO]: Caber588 issued server command: /home
+[15:26:51] [Server thread/INFO]: JerryU29 issued server command: /homes
+[15:27:51] [Server thread/INFO]: Keisari1313 issued server command: /home
+[15:29:14] [User Authenticator #90/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[15:29:14] [Server thread/INFO]: wolf[/115.165.203.20:53353] logged in with entity id 853881 at ([world]263.3068058223356, 63.0, 1417.3236999404112)
+[15:29:20] [Craft Scheduler Thread - 1163/INFO]: [AuthMe] wolf logged in!
+[15:29:49] [Server thread/INFO]: JerryU29 issued server command: /back
+[15:30:03] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[15:30:03] [Server thread/INFO]: aforward3326 left the game
+[15:33:09] [Server thread/WARN]: YuShiou moved wrongly!
+[15:36:44] [Server thread/INFO]: wolf has made the advancement [Take Aim]
+[15:36:52] [User Authenticator #91/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[15:36:52] [Server thread/INFO]: RocKog[/1.171.143.251:60463] logged in with entity id 861401 at ([world]28.650255982383406, 89.0, 814.1828131495305)
+[15:37:02] [Craft Scheduler Thread - 1172/INFO]: [AuthMe] RocKog logged in!
+[15:37:23] [Async Chat Thread - #55/INFO]: []<wolf> 草，一晚十幾隻夜魅
+[15:37:48] [Async Chat Thread - #55/INFO]: []<Selina> 我剛被5支殺死...
+[15:38:01] [Async Chat Thread - #55/INFO]: []<wolf> ...
+[15:38:05] [Async Chat Thread - #55/INFO]: []<biteyou74> 他來逞罰我們這些不睡覺的壞小孩了
+[15:38:18] [Async Chat Thread - #55/INFO]: []<wolf> 人多想睡覺也難啊www
