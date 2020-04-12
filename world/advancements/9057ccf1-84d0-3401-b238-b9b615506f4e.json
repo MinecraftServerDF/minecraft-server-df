@@ -638,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-05 03:56:14 +0800"
@@ -736,6 +742,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-04-07 22:52:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-04-13 00:48:17 +0800"
     },
     "done": true
   },
@@ -1045,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-04-08 00:44:54 +0800"
@@ -1201,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-04-13 00:48:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-05 17:33:06 +0800"
@@ -1210,6 +1234,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-12 21:49:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
     },
     "done": true
   },
@@ -1789,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-04-05 03:53:04 +0800"
@@ -2066,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-12 21:49:05 +0800"
@@ -2252,6 +2294,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-05 12:11:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-04-13 00:48:17 +0800"
     },
     "done": true
   },
@@ -2597,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-04-05 12:07:53 +0800"
@@ -2678,6 +2732,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 15:14:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
     },
     "done": true
   },
@@ -3186,6 +3246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2020-04-13 00:11:23 +0800"
@@ -3267,6 +3333,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-13 00:11:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-13 00:51:29 +0800"
     },
     "done": true
   },
