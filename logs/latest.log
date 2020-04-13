@@ -664,3 +664,9 @@
 [13:45:05] [User Authenticator #2/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
 [13:45:05] [Server thread/INFO]: rgps3725[/59.115.165.150:63304] logged in with entity id 3881 at ([world]-227.17105684303434, 104.0, -1068.753769913994)
 [13:45:11] [Craft Scheduler Thread - 53/INFO]: [AuthMe] rgps3725 logged in!
+[14:33:30] [Server thread/INFO]: rgps3725 issued server command: /home
+[14:36:31] [AWT-Windows/INFO]: ***WARNING: SWT requires comctl32.dll version 5.80 or greater
+[14:36:31] [AWT-Windows/INFO]: ***WARNING: Detected: 0.0
+[14:36:42] [Server thread/INFO]: [Server] 不錯 原本有報錯 又沒報錯了
+[14:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9159ms or 183 ticks behind
+[14:49:19] [Server thread/WARN]: biteyou74 moved too quickly! 8.636222132222542,0.9215999984741217,5.119895299349082
