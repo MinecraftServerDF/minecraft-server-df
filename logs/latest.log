@@ -672,3 +672,51 @@
 [14:49:19] [Server thread/WARN]: biteyou74 moved too quickly! 8.636222132222542,0.9215999984741217,5.119895299349082
 [14:59:21] [Server thread/INFO]: rgps3725 issued server command: /home
 [15:40:16] [Server thread/INFO]: rgps3725 issued server command: /home
+[16:59:58] [Server thread/INFO]: biteyou74 was slain by Zombie
+[17:00:23] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[17:00:23] [Paper Watchdog Thread/ERROR]: The server has not responded for 14 seconds! Creating thread dump
+[17:00:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:00:23] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[17:00:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:00:23] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[17:00:23] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[17:00:23] [Paper Watchdog Thread/ERROR]: 	Stack:
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamOpFlag.fromCharacteristics(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.StreamSupport.stream(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.Collection.stream(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PathfinderGoalSelector.lambda$doTick$5(PathfinderGoalSelector.java:99)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PathfinderGoalSelector$$Lambda$3991/1094251122.test(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.Iterator.forEachRemaining(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.forEach(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PathfinderGoalSelector.doTick(PathfinderGoalSelector.java:108)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityInsentient.doTick(EntityInsentient.java:686)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityLiving.movementTick(EntityLiving.java:2596)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityInsentient.movementTick(EntityInsentient.java:525)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityMonster.movementTick(EntityMonster.java:23)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntitySkeletonAbstract.movementTick(EntitySkeletonAbstract.java:85)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityLiving.tick(EntityLiving.java:2383)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityInsentient.tick(EntityInsentient.java:288)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:769)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$3984/603209768.accept(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:862)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:504)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[17:00:23] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[17:00:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:00:23] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[17:00:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:00:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14704ms or 294 ticks behind
+[17:20:15] [Server thread/INFO]: rgps3725 issued server command: /home
+[17:20:36] [Server thread/INFO]: rgps3725 issued server command: /back
+[17:20:50] [Server thread/INFO]: rgps3725 issued server command: /home

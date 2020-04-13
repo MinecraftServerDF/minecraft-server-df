@@ -2787,7 +2787,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/siamese.png": "2020-04-12 18:29:41 +0800"
+      "textures/entity/cat/siamese.png": "2020-04-12 18:29:41 +0800",
+      "textures/entity/cat/british_shorthair.png": "2020-04-13 17:11:30 +0800"
     },
     "done": false
   },
