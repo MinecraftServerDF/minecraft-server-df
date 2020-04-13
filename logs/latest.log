@@ -658,3 +658,9 @@
 [12:19:57] [Craft Scheduler Thread - 24/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [12:19:57] [Craft Scheduler Thread - 24/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
 [12:19:57] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[13:30:39] [User Authenticator #1/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[13:30:39] [Server thread/INFO]: biteyou74[/120.102.191.141:10974] logged in with entity id 1529 at ([world]-175.2810730501223, 79.0, -1066.8737616979001)
+[13:30:53] [Craft Scheduler Thread - 46/INFO]: [AuthMe] biteyou74 logged in!
+[13:45:05] [User Authenticator #2/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[13:45:05] [Server thread/INFO]: rgps3725[/59.115.165.150:63304] logged in with entity id 3881 at ([world]-227.17105684303434, 104.0, -1068.753769913994)
+[13:45:11] [Craft Scheduler Thread - 53/INFO]: [AuthMe] rgps3725 logged in!
