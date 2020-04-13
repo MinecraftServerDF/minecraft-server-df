@@ -776,3 +776,326 @@
 [19:07:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [19:07:58] [Paper Watchdog Thread/ERROR]: ------------------------------
 [19:35:39] [User Authenticator #5/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[19:35:39] [Server thread/INFO]: aforward3326[/1.34.110.242:50738] logged in with entity id 61860 at ([world]549.6999999880791, 68.0, -196.69999998807907)
+[19:35:49] [Craft Scheduler Thread - 173/INFO]: [AuthMe] aforward3326 logged in!
+[19:43:56] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[19:43:56] [Server thread/INFO]: aforward3326 left the game
+[19:53:22] [User Authenticator #6/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[19:53:22] [Server thread/INFO]: FredYea[/124.6.23.53:49699] logged in with entity id 66908 at ([world]257.1465213770466, 63.0, 1467.538911881193)
+[19:53:30] [Craft Scheduler Thread - 185/INFO]: [AuthMe] FredYea logged in!
+[20:35:06] [User Authenticator #7/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[20:35:06] [Server thread/INFO]: RocKog[/1.171.143.251:50761] logged in with entity id 81582 at ([world]48.43452072486343, 158.0, 804.8352329402114)
+[20:35:14] [Craft Scheduler Thread - 199/INFO]: [AuthMe] RocKog logged in!
+[20:36:43] [Server thread/INFO]: RocKog issued server command: /home
+[20:36:56] [Server thread/INFO]: RocKog issued server command: /back
+[20:36:56] [Server thread/WARN]: RocKog moved too quickly! -35.387127750698085,74.5,-22.451656644434024
+[20:39:28] [Server thread/INFO]: RocKog issued server command: /home
+[20:39:35] [Server thread/INFO]: RocKog issued server command: /back
+[20:41:04] [Server thread/INFO]: RocKog issued server command: /home
+[20:42:33] [Server thread/INFO]: RocKog issued server command: /back
+[20:45:16] [Server thread/INFO]: RocKog lost connection: Disconnected
+[20:45:16] [Server thread/INFO]: RocKog left the game
+[20:46:04] [User Authenticator #8/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[20:46:04] [Server thread/INFO]: RocKog[/1.171.143.251:50852] logged in with entity id 85882 at ([world]7.345366727227245, 155.0, 810.4563024335589)
+[20:46:12] [Craft Scheduler Thread - 207/INFO]: [AuthMe] RocKog logged in!
+[20:47:23] [Server thread/INFO]: wolf has made the advancement [Best Friends Forever]
+[20:53:33] [Server thread/INFO]: RocKog issued server command: /home
+[20:53:33] [Server thread/WARN]: RocKog moved too quickly! 79.16158683105114,-74.0,-50.85897916723957
+[20:53:42] [Server thread/INFO]: RocKog issued server command: /back
+[20:53:53] [Server thread/INFO]: wolf lost connection: Disconnected
+[20:53:53] [Server thread/INFO]: wolf left the game
+[21:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5285ms or 105 ticks behind
+[21:03:56] [Server thread/WARN]: biteyou74 moved too quickly! 14.640167766522552,-18.535840625044557,5.646951941543875
+[21:04:55] [Server thread/INFO]: biteyou74 issued server command: /home
+[21:05:38] [Server thread/INFO]: RocKog issued server command: /fly
+[21:06:10] [Async Chat Thread - #0/INFO]: []<RocKog> 受不了了 開飛行XD
+[21:11:48] [Server thread/INFO]: RocKog lost connection: Disconnected
+[21:11:48] [Server thread/INFO]: RocKog left the game
+[21:18:02] [User Authenticator #9/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[21:18:02] [Server thread/INFO]: RocKog[/1.171.143.251:51092] logged in with entity id 96685 at ([world]-33.51387271250936, 153.0, 810.6786202572916)
+[21:18:23] [Server thread/INFO]: RocKog issued server command: /lo9gin 1227001765
+[21:18:32] [Server thread/INFO]: RocKog lost connection: 【AuthMe】超過登入時間，請再試一次
+[21:18:32] [Server thread/INFO]: RocKog left the game
+[21:18:32] [Server thread/WARN]: handleDisconnection() called twice
+[21:18:35] [User Authenticator #9/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[21:18:35] [Server thread/INFO]: RocKog[/1.171.143.251:51097] logged in with entity id 96954 at ([world]-33.39112346806352, 153.0, 810.4106762665363)
+[21:18:42] [Craft Scheduler Thread - 226/INFO]: [AuthMe] RocKog logged in!
+[21:18:47] [Server thread/INFO]: RocKog fell from a high place
+[21:18:52] [Server thread/INFO]: RocKog issued server command: /back
+[21:18:57] [Server thread/INFO]: RocKog issued server command: /fly
+[21:20:19] [Server thread/INFO]: FredYea lost connection: Disconnected
+[21:20:19] [Server thread/INFO]: FredYea left the game
+[21:21:20] [Server thread/INFO]: biteyou74 has made the advancement [Take Aim]
+[21:21:52] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[21:21:52] [Server thread/INFO]: biteyou74 left the game
+[21:23:28] [Server thread/INFO]: RocKog was shot by Skeleton
+[21:23:38] [Server thread/INFO]: RocKog lost connection: Disconnected
+[21:23:38] [Server thread/INFO]: RocKog left the game
+[21:23:56] [User Authenticator #10/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[21:23:57] [Server thread/INFO]: biteyou74[/120.102.191.141:10867] logged in with entity id 98838 at ([world]-228.47534668270723, 84.0, -1037.8600583850432)
+[21:24:05] [Server thread/INFO]: biteyou74 issued server command: /login
+[21:24:14] [Craft Scheduler Thread - 238/INFO]: [AuthMe] biteyou74 logged in!
+[21:24:27] [User Authenticator #10/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[21:24:28] [Server thread/INFO]: LRIC[/123.194.147.86:50225] logged in with entity id 99299 at ([world]-686.0638925968225, 63.0, 161.74594450114222)
+[21:24:36] [Craft Scheduler Thread - 241/INFO]: [AuthMe] LRIC logged in!
+[21:51:05] [User Authenticator #11/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[21:51:05] [Server thread/INFO]: Andy[/220.135.139.86:58840] logged in with entity id 106199 at ([world]-314.700000025332, 70.0000002, -439.700000025332)
+[21:51:11] [Craft Scheduler Thread - 253/INFO]: [AuthMe] Andy logged in!
+[21:52:37] [Server thread/INFO]: LRIC issued server command: /back
+[21:52:52] [Server thread/INFO]: LRIC issued server command: /back
+[21:53:08] [User Authenticator #12/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[21:53:08] [Server thread/INFO]: Caber588[/219.70.214.164:49604] logged in with entity id 107664 at ([world]-166.11172718575952, 78.0, -1064.545232707764)
+[21:53:14] [Craft Scheduler Thread - 259/INFO]: [AuthMe] Caber588 logged in!
+[21:53:47] [User Authenticator #12/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
+[21:53:47] [Server thread/INFO]: OChinBo[/123.194.137.234:3486] logged in with entity id 107893 at ([world]588.357059926947, 62.0, 670.1484257882909)
+[21:53:58] [Craft Scheduler Thread - 263/INFO]: [AuthMe] OChinBo logged in!
+[21:55:44] [Server thread/INFO]: Caber588 issued server command: /home
+[21:55:53] [Server thread/INFO]: Caber588 issued server command: /home
+[21:59:32] [Server thread/INFO]: Villager EntityVillager['Fletcher'/108093, uuid='57bb4e39-6b5b-4969-bbc5-66223cc4ea7c', l='world', x=613.50, y=63.94, z=728.33, cx=38, cz=45, tl=2167504, v=true, d=false] died, message: 'Fletcher was slain by Zombie'
+[21:59:35] [User Authenticator #13/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[21:59:35] [Server thread/INFO]: YuShiou[/1.34.17.118:14707] logged in with entity id 110786 at ([world]512.2943359219025, 88.0, 816.8549301870582)
+[21:59:41] [Craft Scheduler Thread - 271/INFO]: [AuthMe] YuShiou logged in!
+[22:09:12] [Server thread/WARN]: YuShiou moved wrongly!
+[22:17:15] [Server thread/INFO]: Caber588 issued server command: /home
+[22:20:12] [Server thread/INFO]: Andy was slain by Zombie
+[22:20:20] [Server thread/INFO]: biteyou74 has made the advancement [Sticky Situation]
+[22:22:00] [Server thread/INFO]: Villager EntityVillager['Cleric'/108124, uuid='b6cadf3e-2af5-4fde-bbc4-601e4f154d4d', l='world', x=617.99, y=64.00, z=746.37, cx=38, cz=46, tl=2231767, v=true, d=false] died, message: 'Cleric was slain by Zombie'
+[22:22:14] [Server thread/INFO]: Caber588 issued server command: /home
+[22:22:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/108087, uuid='94ba58d8-14d5-4902-809e-002d1a47eebc', l='world', x=644.24, y=67.00, z=726.31, cx=40, cz=45, tl=2269732, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[22:22:38] [Server thread/INFO]: Villager EntityVillager['Mason'/108092, uuid='fbaab51d-c211-42d1-9f59-3c5973dce409', l='world', x=640.00, y=67.00, z=744.65, cx=39, cz=46, tl=2115081, v=true, d=false] died, message: 'Mason was slain by Zombie Villager'
+[22:23:18] [Server thread/INFO]: LRIC was slain by Phantom
+[22:25:19] [Server thread/INFO]: Andy was slain by Zombie
+[22:25:25] [Server thread/INFO]: Andy issued server command: /back
+[22:26:18] [Server thread/ERROR]: Block at -222, 101, -1,077 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityCampfire@4464c78f. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[22:27:38] [User Authenticator #14/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:27:39] [Server thread/INFO]: apple[/127.0.0.1:12051] logged in with entity id 127431 at ([world]-18.867880005706077, 103.06490923098744, -1149.227183290544)
+[22:27:59] [Craft Scheduler Thread - 292/INFO]: [AuthMe] apple used the wrong password
+[22:27:59] [Server thread/INFO]: apple lost connection: 【AuthMe】密碼錯誤!
+[22:27:59] [Server thread/INFO]: apple left the game
+[22:27:59] [Server thread/WARN]: handleDisconnection() called twice
+[22:28:14] [User Authenticator #14/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:28:14] [Server thread/INFO]: apple[/127.0.0.1:12063] logged in with entity id 127976 at ([world]-18.867880005706077, 71.0, -1149.227183290544)
+[22:28:20] [Craft Scheduler Thread - 293/INFO]: [AuthMe] apple used the wrong password
+[22:28:20] [Server thread/INFO]: apple lost connection: 【AuthMe】密碼錯誤!
+[22:28:20] [Server thread/INFO]: apple left the game
+[22:28:20] [Server thread/WARN]: handleDisconnection() called twice
+[22:28:24] [User Authenticator #14/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:28:24] [Server thread/INFO]: apple[/127.0.0.1:12064] logged in with entity id 128156 at ([world]-18.867880005706077, 71.0, -1149.227183290544)
+[22:28:29] [Craft Scheduler Thread - 293/INFO]: [AuthMe] apple logged in!
+[22:28:41] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[22:28:55] [Server thread/INFO]: apple was slain by OChinBo
+[22:29:00] [Async Chat Thread - #2/INFO]: []<OChinBo> ....
+[22:29:01] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[22:29:25] [Async Chat Thread - #2/INFO]: []<apple> 好快
+[22:29:45] [Server thread/INFO]: apple issued server command: /tp Andy
+[22:29:50] [Async Chat Thread - #2/INFO]: []<OChinBo> buff還是flyspeed
+[22:30:03] [Server thread/INFO]: apple was slain by Wolf
+[22:30:10] [Server thread/INFO]: apple issued server command: /tp Andy
+[22:30:10] [Server thread/WARN]: apple moved too quickly! -620.5876447709677,14.108586697798309,-870.6703490792287
+[22:30:21] [Async Chat Thread - #2/INFO]: []<apple> 狗不濟籌阿
+[22:30:30] [Async Chat Thread - #2/INFO]: []<Andy> 放家
+[22:30:38] [Server thread/INFO]: apple issued server command: /tp LRIC
+[22:30:38] [Async Chat Thread - #2/INFO]: []<Andy> 家狠窩多
+[22:30:42] [Server thread/INFO]: Caber588 issued server command: /home
+[22:30:45] [Async Chat Thread - #2/INFO]: []<apple> \喔喔
+[22:30:59] [User Authenticator #15/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[22:31:00] [Server thread/INFO]: rgps3725[/59.115.175.58:62719] logged in with entity id 129862 at ([world]-222.51857032112977, 111.0, -1076.058799329593)
+[22:31:13] [Craft Scheduler Thread - 298/INFO]: [AuthMe] rgps3725 logged in!
+[22:31:18] [Server thread/INFO]: apple was slain by LRIC
+[22:31:29] [Server thread/INFO]: apple issued server command: /tp Caber588
+[22:31:32] [Async Chat Thread - #2/INFO]: []<Andy> apple 討殺
+[22:31:39] [Async Chat Thread - #2/INFO]: []<LRIC> 殭屍都沒你好砍....
+[22:32:04] [Async Chat Thread - #2/INFO]: []<apple> 我以為我要死了... 原來有水
+[22:32:29] [Async Chat Thread - #2/INFO]: []<apple> 我就是不川裝 到處亂飄壓
+[22:32:36] [Async Chat Thread - #2/INFO]: []<Caber588> www
+[22:33:39] [Server thread/INFO]: apple issued server command: /tp biteyou74
+[22:34:29] [Async Chat Thread - #3/INFO]: []<apple> 挖靠 原來可以趴著
+[22:34:45] [Async Chat Thread - #3/INFO]: []<apple> 0.
+[22:34:48] [Async Chat Thread - #3/INFO]: []<apple> 0.0
+[22:34:54] [Async Chat Thread - #3/INFO]: []<rgps3725> XD
+[22:35:31] [Async Chat Thread - #3/INFO]: []<apple> 0.0 完這麼九第一天知道
+[22:35:58] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[22:36:16] [Async Chat Thread - #3/INFO]: []<YuShiou> 0.0
+[22:36:35] [Async Chat Thread - #3/INFO]: []<YuShiou> 在研究蓋個生怪塔
+[22:36:40] [Async Chat Thread - #3/INFO]: []<apple> 0.0
+[22:36:46] [Server thread/INFO]: OChinBo issued server command: /tp2p YuShiou
+[22:36:48] [Async Chat Thread - #3/INFO]: []<YuShiou> 刷經驗值用
+[22:36:49] [Server thread/INFO]: biteyou74 was shot by Caber588
+[22:37:23] [Async Chat Thread - #3/INFO]: []<apple> 生怪塔除了刷經驗我想不到其他功能 沙畜生也有阿 哈哈
+[22:37:42] [Async Chat Thread - #3/INFO]: []<YuShiou> 剛好有這個生怪鑽
+[22:37:42] [Server thread/INFO]: apple issued server command: /fly
+[22:38:14] [Async Chat Thread - #3/INFO]: []<apple> 我記得就算創造模式 生怪專 都要打指令
+[22:39:41] [Async Chat Thread - #4/INFO]: []<apple> 對了 我剛剛 喝了一貫伏特加 但這不重要 大家現在可以用 /fly 的指令 起飛
+[22:39:46] [Server thread/INFO]: OChinBo issued server command: /fly
+[22:39:49] [Server thread/INFO]: Caber588 issued server command: /fly
+[22:39:50] [Server thread/INFO]: LRIC issued server command: /fly
+[22:39:51] [Server thread/INFO]: rgps3725 issued server command: /fly
+[22:40:13] [Server thread/INFO]: OChinBo issued server command: /home
+[22:40:19] [Async Chat Thread - #4/INFO]: []<rgps3725> 伏特加這麼猛的嗎 可以讓其他人飛起來
+[22:40:21] [Async Chat Thread - #4/INFO]: []<Caber588> 伏特加帶大家飛
+[22:40:28] [Async Chat Thread - #4/INFO]: []<OChinBo> redbull給你一對翅膀
+[22:40:31] [Async Chat Thread - #4/INFO]: []<LRIC> 真的可以飛了
+[22:40:43] [Server thread/INFO]: Villager EntityVillager['Farmer'/126039, uuid='e20587e9-f3a4-4f7a-ab9b-dacf2703a677', l='world', x=-353.73, y=66.94, z=-500.60, cx=-23, cz=-32, tl=1050656, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[22:40:50] [Async Chat Thread - #4/INFO]: []<apple> 哈哈哈 伏特加給大家一雙翅膀
+[22:40:53] [Server thread/INFO]: apple was slain by Zombie
+[22:40:55] [Async Chat Thread - #4/INFO]: []<LRIC> 有航高限制嗎
+[22:41:03] [Async Chat Thread - #4/INFO]: []<apple> 就極限杯
+[22:41:12] [Async Chat Thread - #4/INFO]: []<apple> 繼續黑伏特加
+[22:41:41] [Async Chat Thread - #4/INFO]: []<apple> 大家的飛行速度不會太快 就是預設的 就是怕大家 把地圖刷爆
+[22:41:45] [Async Chat Thread - #4/INFO]: []<apple> XDD
+[22:41:50] [Server thread/INFO]: Andy issued server command: /fly
+[22:42:01] [Async Chat Thread - #4/INFO]: []<OChinBo> 目前飛到3000 沒事
+[22:42:04] [Async Chat Thread - #4/INFO]: []<LRIC> 划船就能了好嗎XD
+[22:42:16] [Async Chat Thread - #4/INFO]: []<Andy> 要怎麼關閉?
+[22:42:27] [Async Chat Thread - #4/INFO]: []<apple> 再打一次
+[22:42:50] [Server thread/INFO]: OChinBo issued server command: /fly
+[22:42:52] [Server thread/INFO]: OChinBo issued server command: /fly
+[22:43:11] [Async Chat Thread - #4/INFO]: []<apple> 不錯吧
+[22:43:21] [Async Chat Thread - #4/INFO]: []<OChinBo> 他們蓋那個圓環 不知道摔死多少次
+[22:43:24] [Async Chat Thread - #4/INFO]: []<apple> 我也是昨天 測試加上去的
+[22:43:31] [Async Chat Thread - #4/INFO]: []<OChinBo> ㄛㄛ
+[22:43:38] [Async Chat Thread - #4/INFO]: []<OChinBo> 喔喔
+[22:43:47] [Async Chat Thread - #4/INFO]: []<apple> 開 fly 似乎摔不死 會不會少一些樂趣
+[22:44:19] [Async Chat Thread - #4/INFO]: []<apple> 幹 ochin bo 明天約晚餐阿 反正你也回不去 哈哈
+[22:44:31] [Async Chat Thread - #4/INFO]: []<OChinBo> 禮拜二要開會
+[22:44:37] [Async Chat Thread - #4/INFO]: []<apple> ggggggggggggggg
+[22:44:46] [Server thread/INFO]: apple issued server command: /tp LRIC
+[22:44:48] [Async Chat Thread - #4/INFO]: []<OChinBo> 2 5不行 其他都OK
+[22:44:56] [Server thread/INFO]: apple was blown up by Creeper
+[22:45:14] [Async Chat Thread - #4/INFO]: []<apple> 那就 3 我明天計畫去爬 劍龍靈
+[22:45:24] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[22:45:45] [Async Chat Thread - #4/INFO]: []<OChinBo> OK
+[22:45:55] [Async Chat Thread - #4/INFO]: []<apple> 話說 伏特加 配 蔓越莓之很讚
+[22:46:05] [Async Chat Thread - #4/INFO]: []<Andy> 有沒有假日團 然後新手等級的爬山團
+[22:46:07] [Async Chat Thread - #4/INFO]: []<OChinBo> 好像有蔓越莓口味的伏特加 絕對伏特加
+[22:46:43] [Async Chat Thread - #4/INFO]: []<apple> 我剛剛買檸檬口味 絕對伏特加 + 蔓越莓之+雪碧 絕配
+[22:47:25] [Async Chat Thread - #4/INFO]: []<apple> 我都世代我媽爬 會摔死的那種.... 新手 沒興趣哈哈 尤其是假日 都是人 嚇死 武漢肺炎ㄛ
+[22:47:47] [Async Chat Thread - #4/INFO]: []<apple> 0.0
+[22:47:57] [Async Chat Thread - #4/INFO]: []<Andy> XD
+[22:48:02] [Async Chat Thread - #4/INFO]: []<LRIC> 蜂窩.
+[22:48:03] [Async Chat Thread - #4/INFO]: []<apple> 修擱在幹啥
+[22:48:15] [Async Chat Thread - #4/INFO]: []<YuShiou> 打到30等
+[22:48:22] [Async Chat Thread - #4/INFO]: []<apple> 哇靠
+[22:48:27] [Async Chat Thread - #4/INFO]: []<OChinBo> 打怪有點慢
+[22:48:37] [Async Chat Thread - #4/INFO]: []<OChinBo> 養牛殺牛蠻快的
+[22:48:38] [User Authenticator #16/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[22:48:39] [Server thread/INFO]: Hibiki182[/119.77.247.72:8237] logged in with entity id 142078 at ([world]-221.20136468891513, 112.0, -1071.8985368494116)
+[22:48:46] [Async Chat Thread - #4/INFO]: []<apple> 我就看你以 很彆扭的姿勢 蹲在那邊 扭阿扭 竟然刷到 30
+[22:48:51] [Async Chat Thread - #4/INFO]: []<OChinBo> 繁殖有經驗 殺牛也有經驗 還有皮革&牛肉
+[22:48:53] [Async Chat Thread - #4/INFO]: []<YuShiou> 原來如此
+[22:49:09] [Server thread/INFO]: Hibiki182 lost connection: 【AuthMe】超過登入時間，請再試一次
+[22:49:09] [Server thread/INFO]: Hibiki182 left the game
+[22:49:09] [Server thread/WARN]: handleDisconnection() called twice
+[22:49:10] [Async Chat Thread - #4/INFO]: []<Andy> 那邊本來有兩個蜂窩 一個被炸了
+[22:49:12] [User Authenticator #16/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[22:49:12] [Server thread/INFO]: Hibiki182[/119.77.247.72:8247] logged in with entity id 142449 at ([world]-221.02624637488844, 112.0, -1071.785685108332)
+[22:49:27] [Craft Scheduler Thread - 307/INFO]: [AuthMe] Hibiki182 logged in!
+[22:49:35] [Async Chat Thread - #4/INFO]: []<Andy> BTW 蜜蜂都被我引回來了
+[22:49:48] [Server thread/INFO]: Andy issued server command: /FLY
+[22:49:58] [Server thread/INFO]: rgps3725 issued server command: /home
+[22:50:10] [Async Chat Thread - #4/INFO]: []<OChinBo> 挖礦也蠻快的 地獄石英之類的
+[22:50:14] [Server thread/INFO]: Hibiki182 issued server command: /sethome
+[22:50:17] [Async Chat Thread - #4/INFO]: []<LRIC> 那這座真的不少
+[22:50:21] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[22:50:26] [Async Chat Thread - #4/INFO]: []<YuShiou> okok
+[22:53:49] [Server thread/INFO]: apple issued server command: /tp Caber588
+[22:54:38] [Server thread/INFO]: apple drowned
+[22:54:48] [Server thread/INFO]: apple issued server command: /tp Caber588
+[22:57:45] [Server thread/INFO]: Caber588 issued server command: /home
+[23:00:15] [Server thread/INFO]: apple was blown up by Creeper
+[23:00:45] [Server thread/INFO]: apple drowned
+[23:00:55] [Server thread/INFO]: apple issued server command: /tp biteyou74
+[23:01:23] [Server thread/INFO]: YuShiou was slain by Zombie
+[23:01:28] [Server thread/INFO]: biteyou74 issued server command: /fly
+[23:01:29] [Server thread/INFO]: YuShiou issued server command: /back
+[23:01:56] [Server thread/INFO]: apple issued server command: /tp LRIC
+[23:02:23] [Server thread/WARN]: Andy moved wrongly!
+[23:03:28] [Server thread/INFO]: apple was slain by LRIC
+[23:03:39] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[23:03:39] [Server thread/WARN]: apple moved too quickly! 383.65017534845947,2.0,412.6245548966981
+[23:04:00] [Async Chat Thread - #5/INFO]: []<apple> 五格
+[23:04:04] [Async Chat Thread - #5/INFO]: []<apple> 屌耶
+[23:04:13] [Async Chat Thread - #5/INFO]: []<OChinBo> 貫穿4
+[23:04:24] [Async Chat Thread - #5/INFO]: []<OChinBo> 可是應該沒強力痛
+[23:04:33] [Async Chat Thread - #5/INFO]: []<OChinBo> 只是能貫穿而以
+[23:04:57] [Server thread/INFO]: apple lost connection: Disconnected
+[23:04:57] [Server thread/INFO]: apple left the game
+[23:10:16] [Server thread/INFO]: Hibiki182 has made the advancement [Fishy Business]
+[23:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[23:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6734ms or 134 ticks behind
+[23:12:30] [User Authenticator #17/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[23:12:31] [Server thread/INFO]: apple[/127.0.0.1:12631] logged in with entity id 163074 at ([world]588.5705607386692, 62.0, 672.9715822990102)
+[23:12:46] [Craft Scheduler Thread - 331/INFO]: [AuthMe] apple logged in!
+[23:12:56] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[23:13:04] [Server thread/INFO]: apple issued server command: /fly
+[23:13:38] [Server thread/INFO]: apple tried to swim in lava
+[23:13:47] [Server thread/INFO]: apple issued server command: /tp YuShiou
+[23:15:50] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[23:16:10] [Server thread/INFO]: apple was poked to death by a sweet berry bush
+[23:16:14] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[23:16:14] [Async Chat Thread - #6/INFO]: []<OChinBo> wwww
+[23:16:22] [Async Chat Thread - #6/INFO]: []<apple> 0.0
+[23:16:26] [Async Chat Thread - #6/INFO]: []<OChinBo> 1.1
+[23:16:43] [Async Chat Thread - #6/INFO]: []<apple> 迷宮喔
+[23:16:54] [Async Chat Thread - #6/INFO]: []<OChinBo> ~
+[23:17:24] [Server thread/INFO]: apple was poked to death by a sweet berry bush
+[23:17:32] [Server thread/INFO]: Villager EntityVillager['Villager'/162154, uuid='aebe7285-5416-4b3d-9faf-9263849483c2', l='world', x=101.30, y=70.00, z=-860.05, cx=6, cz=-54, tl=108709, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[23:17:35] [Async Chat Thread - #6/INFO]: []<apple> 死亡迷宮
+[23:17:39] [Server thread/INFO]: apple issued server command: /tp Andy
+[23:17:45] [Server thread/INFO]: apple was slain by Wolf
+[23:17:50] [Server thread/INFO]: apple issued server command: /tp Andy
+[23:17:56] [Async Chat Thread - #6/INFO]: []<OChinBo> 超多怪
+[23:17:58] [Server thread/INFO]: apple was slain by Wolf
+[23:18:01] [Async Chat Thread - #6/INFO]: []<Andy> 幹啥
+[23:18:02] [Server thread/INFO]: apple issued server command: /tp Andy
+[23:18:06] [Server thread/INFO]: Villager EntityVillager['Cartographer'/147781, uuid='46c7c64d-dec0-41e5-9999-5d1a5c872e80', l='world', x=577.93, y=64.00, z=703.68, cx=36, cz=43, tl=2092290, v=true, d=false] died, message: 'Cartographer was slain by Zombie'
+[23:18:08] [Async Chat Thread - #6/INFO]: []<apple> 散步
+[23:18:08] [Server thread/INFO]: apple was slain by Wolf
+[23:18:11] [Async Chat Thread - #6/INFO]: []<apple> 散步
+[23:18:14] [Server thread/INFO]: apple issued server command: /tp Andy
+[23:18:21] [Server thread/INFO]: apple was slain by Wolf
+[23:18:29] [Server thread/INFO]: apple issued server command: /tp OChinBo
+[23:19:44] [Async Chat Thread - #7/INFO]: []<LRIC> 這溫室 水喔
+[23:19:48] [Server thread/INFO]: apple was slain by Zombie Pigman
+[23:19:54] [Server thread/INFO]: apple issued server command: /tp LRIC
+[23:20:13] [Server thread/INFO]: OChinBo issued server command: /tp2p LRIC
+[23:20:24] [Async Chat Thread - #7/INFO]: []<apple> 職業養蜂
+[23:21:35] [Async Chat Thread - #8/INFO]: []<LRIC> 阿狗 阿牛XD
+[23:21:59] [Async Chat Thread - #8/INFO]: []<biteyou74> 怎...怎麼了嗎 他們是阿狗跟阿牛阿
+[23:22:17] [Server thread/INFO]: apple issued server command: /tp LRIC
+[23:22:22] [Async Chat Thread - #8/INFO]: []<LRIC> 跟門票販售員打個招呼
+[23:22:37] [Async Chat Thread - #8/INFO]: []<LRIC> 今天沒帶罐罐 下次再補
+[23:22:55] [Async Chat Thread - #8/INFO]: []<biteyou74> 他只吃鑽石跟綠寶石
+[23:23:22] [Async Chat Thread - #8/INFO]: []<Hibiki182> 綠寶石貓
+[23:23:29] [Async Chat Thread - #8/INFO]: []<rgps3725> 你這有點過分了喔 餵牠煤炭就好了
+[23:23:29] [Async Chat Thread - #8/INFO]: []<apple> 阿龍
+[23:23:44] [Async Chat Thread - #8/INFO]: []<biteyou74> 還有閻羅王
+[23:23:50] [Async Chat Thread - #8/INFO]: []<apple> XDDDD
+[23:23:54] [Async Chat Thread - #8/INFO]: []<apple> 有梗
+[23:24:34] [Server thread/INFO]: apple issued server command: /tp LRIC
+[23:25:27] [Async Chat Thread - #9/INFO]: []<apple> 空手吼
+[23:25:40] [Server thread/INFO]: LRIC suffocated in a wall
+[23:25:41] [Server thread/INFO]: Attempt to teleport dead player LRIC restricted
+[23:26:03] [Async Chat Thread - #9/INFO]: []<LRIC> 之前我後院有兩隻 離奇消失XDDD
+[23:26:11] [Server thread/INFO]: LRIC issued server command: /back
+[23:26:16] [Async Chat Thread - #9/INFO]: []<apple> 妳窩流浪商人喔
+[23:26:25] [Async Chat Thread - #9/INFO]: []<apple> 都這樣阿
+[23:26:31] [Async Chat Thread - #9/INFO]: []<YuShiou> 我這邊有一隻 我把他關起來0.0
+[23:26:50] [Async Chat Thread - #9/INFO]: []<LRIC> 他拱手 看著我XD 但我沒把他關起來
+[23:27:21] [Async Chat Thread - #9/INFO]: []<apple> 可惡想吃泡麵了 滿漢大餐吃起來
+[23:27:22] [Async Chat Thread - #9/INFO]: []<LRIC> APPLE 怎麼下車
+[23:27:27] [Async Chat Thread - #9/INFO]: []<apple> shift
+[23:27:31] [Server thread/WARN]: LRIC moved wrongly!
+[23:27:33] [Server thread/INFO]: apple issued server command: /tp LRIC
+[23:29:01] [Async Chat Thread - #10/INFO]: []<biteyou74> 請問 需要什麼服務嗎
+[23:29:26] [Async Chat Thread - #10/INFO]: []<LRIC> 請問這個鈴有什麼功能
+[23:29:31] [Async Chat Thread - #10/INFO]: []<apple> 哈哈阿 我要環遊世界 長島冰茶
+[23:29:35] [Async Chat Thread - #10/INFO]: []<Hibiki182> 今日馬鈴薯買一送一參考看看
+[23:29:37] [Async Chat Thread - #10/INFO]: []<biteyou74> 呼叫櫃台人員
+[23:29:58] [Async Chat Thread - #10/INFO]: []<rgps3725> 沒甚麼功能 服務員會覺得幹而已
+[23:30:08] [Async Chat Thread - #10/INFO]: []<biteyou74> 那請至二樓找詢問處人員辦理
+[23:30:14] [Async Chat Thread - #10/INFO]: []<Hibiki182> 來杯野格炸彈
+[23:30:16] [Async Chat Thread - #10/INFO]: []<biteyou74> 下班了
+[23:30:27] [Async Chat Thread - #10/INFO]: []<LRIC> 對..被發現了 我正在看 告示牌到底在寫幾樓
+[23:30:42] [Async Chat Thread - #10/INFO]: []<apple> 喝都喝
+[23:31:08] [Async Chat Thread - #10/INFO]: []<apple> 天天都在買醉哈哈哈

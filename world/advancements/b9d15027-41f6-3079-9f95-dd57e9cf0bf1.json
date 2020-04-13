@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-04-13 23:13:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-04-05 22:49:08 +0800"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-10 22:21:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-13 23:13:18 +0800"
     },
     "done": true
   },
@@ -719,6 +731,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 22:21:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-13 23:13:18 +0800"
     },
     "done": true
   },
@@ -1867,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-04-13 23:12:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-10 21:26:25 +0800"
@@ -2108,6 +2132,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-04-13 23:04:58 +0800",
       "minecraft:turtle": "2020-04-07 01:05:19 +0800",
       "minecraft:sheep": "2020-04-09 14:52:26 +0800",
       "minecraft:cow": "2020-04-09 14:52:07 +0800",
@@ -2142,6 +2167,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-04-07 00:40:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-04-13 23:12:56 +0800"
     },
     "done": true
   },
@@ -2979,6 +3010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-04-13 23:13:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2020-04-10 22:12:01 +0800"
@@ -3109,6 +3146,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_pink_dye": "2020-04-09 22:20:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-13 23:13:18 +0800"
     },
     "done": true
   },

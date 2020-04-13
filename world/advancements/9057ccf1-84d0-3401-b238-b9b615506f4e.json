@@ -949,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-04-13 22:21:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-05 17:29:59 +0800"
@@ -2129,6 +2135,7 @@
     "criteria": {
       "cooked_porkchop": "2020-04-05 04:17:24 +0800",
       "chicken": "2020-04-09 22:25:05 +0800",
+      "sweet_berries": "2020-04-13 22:00:55 +0800",
       "baked_potato": "2020-04-05 17:44:14 +0800",
       "beef": "2020-04-09 22:24:55 +0800",
       "apple": "2020-04-05 04:04:48 +0800",
