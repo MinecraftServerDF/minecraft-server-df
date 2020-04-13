@@ -1,4 +1,14 @@
+#> This is the main configuration file of BKCommonLib
+#> Normally you should not have to make changes to this file
+#> Unused components of the library can be disabled to improve performance
+#> By default all components and features are enabled
+
 # Whether multiple item frames next to each other can merge to show one large display
 # This allows Map Displays to be displayed on multiple item frames at a larger resolution
 # The tiling detection logic poses some overhead on the server, and if unused, can be disabled
 enableItemFrameTiling: true
+
+# Whether the Map Display engine is enabled, running in the background to refresh and render maps
+# When enabled, the map item tracking may impose a slight overhead
+# If no plugin is using map displays, then this can be safely disabled to improve performance
+enableMapDisplays: true

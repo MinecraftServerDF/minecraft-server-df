@@ -62,6 +62,7 @@ world-settings:
   worldeditregentempworld:
     verbose: false
   default:
+    seed-endcity: 10387313
     verbose: true
     view-distance: default
     seed-village: 10387312
