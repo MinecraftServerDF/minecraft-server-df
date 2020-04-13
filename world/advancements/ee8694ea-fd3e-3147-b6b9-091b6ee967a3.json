@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-13 20:23:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-04 19:02:29 +0800"
@@ -609,6 +615,7 @@
     "criteria": {
       "minecraft:blaze": "2020-04-10 15:19:00 +0800",
       "minecraft:skeleton": "2020-04-04 19:34:45 +0800",
+      "minecraft:magma_cube": "2020-04-13 20:23:19 +0800",
       "minecraft:spider": "2020-04-07 19:39:03 +0800",
       "minecraft:creeper": "2020-04-08 20:13:17 +0800",
       "minecraft:slime": "2020-04-06 21:25:38 +0800",
