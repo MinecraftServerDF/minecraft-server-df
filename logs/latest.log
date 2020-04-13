@@ -170,3 +170,42 @@
 [01:17:16] [Server thread/INFO]: Caber588 left the game
 [01:19:20] [Server thread/INFO]: aforward3326 lost connection: Disconnected
 [01:19:20] [Server thread/INFO]: aforward3326 left the game
+[01:34:56] [Server thread/INFO]: rgps3725 issued server command: /home
+[01:38:03] [Server thread/INFO]: rgps3725 issued server command: /tpa Hibiki182
+[01:38:09] [Server thread/INFO]: Hibiki182 issued server command: /tpaccept
+[01:38:13] [Server thread/INFO]: rgps3725 issued server command: /tpa Hibiki182
+[01:38:20] [Server thread/INFO]: Hibiki182 issued server command: /tpaccept
+[01:39:10] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[01:39:23] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[01:41:50] [Server thread/INFO]: rgps3725 issued server command: /home
+[01:41:55] [Server thread/INFO]: Hibiki182 issued server command: /home
+[01:42:28] [Server thread/INFO]: Hibiki182 has made the advancement [Sweet Dreams]
+[01:42:53] [Server thread/INFO]: Hibiki182 issued server command: /back
+[01:49:50] [Server thread/INFO]: biteyou74 issued server command: /home
+[01:50:13] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[01:50:13] [Server thread/INFO]: rgps3725 left the game
+[01:51:01] [Server thread/INFO]: biteyou74 issued server command: /BACK
+[01:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11949ms or 238 ticks behind
+[01:59:01] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[01:59:01] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[01:59:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:59:01] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[01:59:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:59:01] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[01:59:01] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[01:59:01] [Paper Watchdog Thread/ERROR]: 	Stack:
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityInsentient.checkDespawn(EntityInsentient.java:643)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:490)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[01:59:01] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[01:59:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:59:01] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[01:59:01] [Paper Watchdog Thread/ERROR]: ------------------------------
+[01:59:01] [Server thread/WARN]: Hibiki182 moved wrongly!
+[02:11:22] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[02:11:22] [Server thread/INFO]: Hibiki182 left the game
+[02:12:24] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[02:12:24] [Server thread/INFO]: biteyou74 left the game

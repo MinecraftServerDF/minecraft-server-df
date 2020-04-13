@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-04-14 01:42:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2020-04-13 00:53:35 +0800"
@@ -950,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-04-14 01:47:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-04-13 22:53:09 +0800"
@@ -1046,6 +1058,7 @@
       "minecraft:badlands_plateau": "2020-04-14 00:03:10 +0800",
       "minecraft:taiga": "2020-04-13 00:53:23 +0800",
       "minecraft:taiga_hills": "2020-04-13 00:53:26 +0800",
+      "minecraft:desert": "2020-04-14 02:02:23 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-13 23:25:28 +0800",
       "minecraft:badlands": "2020-04-13 23:28:06 +0800",
       "minecraft:beach": "2020-04-13 00:47:55 +0800",
