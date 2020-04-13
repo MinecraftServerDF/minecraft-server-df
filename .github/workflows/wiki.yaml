@@ -1,17 +1,16 @@
 name: wiki
 
-on: [push]
+on: [gollum]
 
 jobs:
-  build:
-
+  wiki_teams_notification:
     runs-on: ubuntu-latest
-
+    name: Wiki Teams notification
     steps:
-    - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+    - uses: actions/checkout@v2
+      name: Checkout
+    - uses: ./.github/actions
+      name: Send notification
+      env:
+        # A webhook URL to a Teams channel you want notifications to be sent to.
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
