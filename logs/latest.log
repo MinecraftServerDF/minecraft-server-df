@@ -722,3 +722,56 @@
 [17:20:50] [Server thread/INFO]: rgps3725 issued server command: /home
 [17:35:50] [Server thread/INFO]: rgps3725 lost connection: Disconnected
 [17:35:50] [Server thread/INFO]: rgps3725 left the game
+[18:39:13] [User Authenticator #3/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[18:39:13] [Server thread/INFO]: RocKog[/1.171.143.251:49856] logged in with entity id 48852 at ([world]43.48308924466529, 87.0, 815.1402641571249)
+[18:39:22] [Craft Scheduler Thread - 149/INFO]: [AuthMe] RocKog used the wrong password
+[18:39:22] [Server thread/INFO]: RocKog lost connection: ¡iAuthMe¡j±K½X¿ù»~!
+[18:39:22] [Server thread/INFO]: RocKog left the game
+[18:39:23] [Server thread/WARN]: handleDisconnection() called twice
+[18:39:25] [User Authenticator #3/INFO]: UUID of player RocKog is 1fe74544-2840-3abf-9705-a5a66a176538
+[18:39:25] [Server thread/INFO]: RocKog[/1.171.143.251:49859] logged in with entity id 49024 at ([world]43.48308924466529, 87.0, 815.1402641571249)
+[18:39:32] [Craft Scheduler Thread - 146/INFO]: [AuthMe] RocKog logged in!
+[18:44:13] [Server thread/INFO]: RocKog issued server command: /HOME
+[18:53:09] [Server thread/INFO]: RocKog lost connection: Disconnected
+[18:53:09] [Server thread/INFO]: RocKog left the game
+[18:56:01] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[19:00:27] [User Authenticator #4/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[19:00:27] [Server thread/INFO]: wolf[/115.165.203.20:63751] logged in with entity id 53706 at ([world]301.55130853821385, 70.0, 1552.8622108850575)
+[19:00:33] [Craft Scheduler Thread - 163/INFO]: [AuthMe] wolf logged in!
+[19:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10473ms or 209 ticks behind
+[19:07:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[19:07:58] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[19:07:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:07:58] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:07:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:07:58] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:07:58] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[19:07:58] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VoxelShapes.a(VoxelShapes.java:331)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.VoxelShapes.c(VoxelShapes.java:160)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess$1.tryAdvance(ICollisionAccess.java:76)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		com.google.common.collect.CollectSpliterators$1FlatMapSpliterator.tryAdvance(CollectSpliterators.java:226)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.MatchOps$MatchOp.evaluateSequential(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.MatchOps$MatchOp.evaluateSequential(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.util.stream.ReferencePipeline.allMatch(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess.a(ICollisionAccess.java:46)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess.getCubes(ICollisionAccess.java:38)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityItemFrame.survives(EntityItemFrame.java:98)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.EntityHanging.tick(EntityHanging.java:98)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.entityJoinedWorld(WorldServer.java:769)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer$$Lambda$3984/603209768.accept(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.a(World.java:862)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:504)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[19:07:58] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[19:07:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:07:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:07:58] [Paper Watchdog Thread/ERROR]: ------------------------------
