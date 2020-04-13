@@ -652,3 +652,27 @@
 [05:15:09] [Craft Scheduler Thread - 22/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [05:15:09] [Craft Scheduler Thread - 22/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
 [05:15:09] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[09:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11125ms or 222 ticks behind
+[09:30:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[09:30:22] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:30:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:30:22] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[09:30:22] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[09:30:22] [Paper Watchdog Thread/ERROR]: 	Stack:
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.lambda$tickChunks$7(ChunkProviderServer.java:680)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer$$Lambda$3971/1786359257.accept(Unknown Source)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2ObjectLinkedOpenHashMap$1.forEach(Long2ObjectLinkedOpenHashMap.java:1661)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		com.google.common.collect.Iterables$UnmodifiableIterable.forEach(Iterables.java:105)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tickChunks(ChunkProviderServer.java:672)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tick(ChunkProviderServer.java:609)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:413)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[09:30:22] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[09:30:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
