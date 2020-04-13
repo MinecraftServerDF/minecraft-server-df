@@ -676,3 +676,26 @@
 [09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
 [09:30:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [09:30:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:43:45] [User Authenticator #1/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[10:43:46] [Server thread/INFO]: basic_balion[/36.232.7.58:3068] logged in with entity id 1821 at ([world]-219.30366073270258, 104.0, -1076.5430570482079)
+[10:43:55] [Craft Scheduler Thread - 117/INFO]: [AuthMe] basic_balion logged in!
+[10:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10934ms or 218 ticks behind
+[10:58:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[10:58:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[10:58:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:58:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[10:58:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:58:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[10:58:34] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[10:58:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[10:58:34] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[10:58:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[10:58:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[10:58:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:06:05] [User Authenticator #2/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
