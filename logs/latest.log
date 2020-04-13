@@ -209,3 +209,22 @@
 [02:11:22] [Server thread/INFO]: Hibiki182 left the game
 [02:12:24] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [02:12:24] [Server thread/INFO]: biteyou74 left the game
+[02:42:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[02:42:25] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[02:42:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:42:25] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[02:42:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:42:25] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[02:42:25] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: TIMED_WAITING
+[02:42:25] [Paper Watchdog Thread/ERROR]: 	Stack:
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IAsyncTaskHandler.bl(IAsyncTaskHandler.java:131)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:120)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1015)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:938)
+[02:42:25] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[02:42:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:42:25] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[02:42:25] [Paper Watchdog Thread/ERROR]: ------------------------------
+[02:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11723ms or 234 ticks behind
