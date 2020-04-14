@@ -690,3 +690,25 @@
 [12:59:32] [Paper Watchdog Thread/ERROR]: ------------------------------
 [13:07:41] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [13:07:41] [Server thread/INFO]: biteyou74 left the game
+[14:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15780ms or 315 ticks behind
+[14:44:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-162 (MC: 1.15.2) ---
+[14:44:08] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[14:44:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:44:08] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[14:44:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:44:08] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[14:44:08] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[14:44:08] [Paper Watchdog Thread/ERROR]: 	Stack:
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance$b.a(ChunkMapDistance.java:474)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkMapDistance.a(ChunkMapDistance.java:88)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tickDistanceManager(ChunkProviderServer.java:510)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.tick(ChunkProviderServer.java:605)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:413)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1245)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934)
+[14:44:08] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[14:44:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:44:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[14:44:08] [Paper Watchdog Thread/ERROR]: ------------------------------
