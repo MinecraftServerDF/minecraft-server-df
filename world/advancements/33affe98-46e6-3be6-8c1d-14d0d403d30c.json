@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-04-14 23:57:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -560,6 +566,8 @@
       "minecraft:spider": "2020-04-05 18:18:51 +0800",
       "minecraft:phantom": "2020-04-13 22:20:15 +0800",
       "minecraft:husk": "2020-04-06 23:05:24 +0800",
+      "minecraft:cave_spider": "2020-04-14 23:01:37 +0800",
+      "minecraft:enderman": "2020-04-14 21:55:25 +0800",
       "minecraft:zombie": "2020-04-05 20:18:07 +0800",
       "minecraft:drowned": "2020-04-11 16:06:27 +0800",
       "minecraft:zombie_villager": "2020-04-10 19:22:27 +0800"
@@ -863,6 +871,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-04-14 21:49:16 +0800"
     },
     "done": true
   },
@@ -1442,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-04-14 23:58:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-04-03 22:04:55 +0800"
@@ -1647,7 +1667,8 @@
       "beetroot": "2020-04-12 21:24:15 +0800",
       "cooked_rabbit": "2020-04-05 17:09:39 +0800",
       "cooked_chicken": "2020-04-07 23:09:28 +0800",
-      "mushroom_stew": "2020-04-05 17:10:03 +0800"
+      "mushroom_stew": "2020-04-05 17:10:03 +0800",
+      "carrot": "2020-04-14 21:43:48 +0800"
     },
     "done": false
   },

@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-14 22:28:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 19:22:15 +0800"
@@ -604,6 +610,7 @@
       "minecraft:witch": "2020-04-13 18:42:13 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:cave_spider": "2020-04-11 15:16:58 +0800",
+      "minecraft:enderman": "2020-04-14 23:09:20 +0800",
       "minecraft:zombie": "2020-04-09 17:16:48 +0800",
       "minecraft:drowned": "2020-04-11 15:02:01 +0800",
       "minecraft:zombie_villager": "2020-04-10 21:52:16 +0800"
@@ -1757,6 +1764,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-15 01:24:58 +0800",
       "cooked_beef": "2020-04-09 18:46:09 +0800",
       "baked_potato": "2020-04-09 17:35:16 +0800",
       "apple": "2020-04-09 17:18:34 +0800",
@@ -2022,6 +2030,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-04-10 21:23:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-14 22:28:22 +0800"
     },
     "done": true
   },
@@ -2544,6 +2558,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-04-14 23:48:53 +0800"
     },
     "done": true
   },

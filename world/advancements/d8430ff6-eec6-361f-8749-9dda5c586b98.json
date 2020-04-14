@@ -829,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-04-14 22:30:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-07 17:54:49 +0800"
@@ -1376,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2020-04-14 22:29:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-07 17:54:49 +0800"
@@ -1763,6 +1775,7 @@
       "cooked_cod": "2020-04-08 22:40:30 +0800",
       "bread": "2020-04-07 11:17:20 +0800",
       "salmon": "2020-04-09 20:22:37 +0800",
+      "dried_kelp": "2020-04-14 22:35:47 +0800",
       "melon_slice": "2020-04-07 11:02:21 +0800",
       "cooked_chicken": "2020-04-07 12:48:36 +0800",
       "cod": "2020-04-12 13:14:57 +0800",
@@ -2222,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2020-04-14 22:35:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-04-07 15:18:02 +0800"
@@ -2261,6 +2280,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-14 23:48:51 +0800"
     },
     "done": true
   },
@@ -2459,6 +2484,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-04-09 20:17:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-04-14 22:39:28 +0800"
     },
     "done": true
   },
@@ -2729,6 +2760,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-11 23:37:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-04-14 22:31:18 +0800"
     },
     "done": true
   },

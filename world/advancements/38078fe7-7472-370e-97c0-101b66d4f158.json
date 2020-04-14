@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-14 23:56:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 00:46:23 +0800"
@@ -606,7 +612,8 @@
       "minecraft:phantom": "2020-04-09 00:38:03 +0800",
       "minecraft:silverfish": "2020-04-11 19:44:53 +0800",
       "minecraft:zombie": "2020-04-08 22:54:37 +0800",
-      "minecraft:drowned": "2020-04-12 11:06:55 +0800"
+      "minecraft:drowned": "2020-04-12 11:06:55 +0800",
+      "minecraft:zombie_villager": "2020-04-15 00:10:16 +0800"
     },
     "done": false
   },
@@ -1371,6 +1378,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2020-04-12 23:32:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-04-15 01:04:32 +0800"
     },
     "done": true
   },
@@ -2454,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-04-15 01:04:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-04-09 00:23:29 +0800"
@@ -2679,6 +2698,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-08 22:49:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-15 00:08:52 +0800"
     },
     "done": true
   },
