@@ -1,17 +1,17 @@
 lastAccountName: wolf
 timestamps:
-  login: 1586686422538
-  logout: 1586696195254
+  login: 1586859671408
+  logout: 1586865735700
   lastteleport: 1586479874885
 ipAddress: 115.165.203.20
 afk: false
 logoutlocation:
   world: world
-  x: 301.55130853821385
+  x: 297.5162545986179
   y: 70.0
-  z: 1552.8622108850575
-  yaw: 307.04724
-  pitch: 5.850071
+  z: 1549.1712490056593
+  yaw: 10.282959
+  pitch: 12.59992
 lastlocation:
   world: world_nether
   x: 271.17834391689115

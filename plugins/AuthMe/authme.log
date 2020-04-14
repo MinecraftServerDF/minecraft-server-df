@@ -3345,3 +3345,181 @@
 
 [04-13 13:30:53]: [FINE] biteyou74 logged in!
 [04-13 13:45:11]: [FINE] rgps3725 logged in!
+[04-13 18:39:22]: [FINE] RocKog used the wrong password
+[04-13 18:39:32]: [FINE] RocKog logged in!
+[04-13 19:00:33]: [FINE] wolf logged in!
+[04-13 19:35:49]: [FINE] aforward3326 logged in!
+[04-13 19:53:30]: [FINE] FredYea logged in!
+[04-13 20:35:14]: [FINE] RocKog logged in!
+[04-13 20:46:12]: [FINE] RocKog logged in!
+[04-13 21:18:42]: [FINE] RocKog logged in!
+[04-13 21:24:14]: [FINE] biteyou74 logged in!
+[04-13 21:24:36]: [FINE] LRIC logged in!
+[04-13 21:51:11]: [FINE] Andy logged in!
+[04-13 21:53:14]: [FINE] Caber588 logged in!
+[04-13 21:53:58]: [FINE] OChinBo logged in!
+[04-13 21:59:41]: [FINE] YuShiou logged in!
+[04-13 22:27:59]: [FINE] apple used the wrong password
+[04-13 22:28:20]: [FINE] apple used the wrong password
+[04-13 22:28:29]: [FINE] apple logged in!
+[04-13 22:31:13]: [FINE] rgps3725 logged in!
+[04-13 22:49:27]: [FINE] Hibiki182 logged in!
+[04-13 23:12:46]: [FINE] apple logged in!
+[04-13 23:46:15]: [FINE] aforward3326 logged in!
+[04-14 00:06:40]: [FINE] vu06m6 logged in!
+[04-14 00:17:13]: [FINE] basic_balion logged in!
+[04-14 00:20:31]: [FINE] rgps3725 logged in!
+[04-14 00:35:35]: [FINE] biteyou74 logged in!
+[04-14 00:43:31]: [FINE] aforward3326 logged in!
+[04-14 01:00:47]: [FINE] biteyou74 logged in!
+[04-14 01:02:48]: [FINE] Hibiki182 logged in!
+[04-14 12:23:53]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-14 12:25:55]: [INFO] SQLite Setup finished
+[04-14 12:25:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-14 12:25:56]: [INFO] Hooked successfully into Essentials
+[04-14 12:25:56]: [INFO] Hooked successfully into Multiverse-Core
+[04-14 12:25:56]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-14 12:25:56]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-14 12:25:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-14 12:25:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-14 12:25:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-14 12:25:56]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-14 12:25:56]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3931/1353044624.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-14 12:26:06]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-14 12:27:42]: [INFO] SQLite Setup finished
+[04-14 12:27:42]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-14 12:27:42]: [INFO] Hooked successfully into Essentials
+[04-14 12:27:42]: [INFO] Hooked successfully into Multiverse-Core
+[04-14 12:27:42]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-14 12:27:42]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-14 12:27:42]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-14 12:27:42]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-14 12:27:42]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-14 12:27:42]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-14 12:27:42]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3895/798202325.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-14 12:28:38]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-14 12:29:45]: [INFO] SQLite Setup finished
+[04-14 12:29:45]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-14 12:29:45]: [INFO] Hooked successfully into Essentials
+[04-14 12:29:45]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-14 12:29:45]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-14 12:29:46]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-14 12:29:46]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-14 12:29:46]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-14 12:29:46]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-14 12:29:46]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3670/1126375657.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-14 12:30:41]: [FINE] biteyou74 logged in!
+[04-14 12:31:04]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-14 12:32:34]: [INFO] SQLite Setup finished
+[04-14 12:32:34]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-14 12:32:34]: [INFO] Hooked successfully into Essentials
+[04-14 12:32:34]: [INFO] Hooked successfully into Multiverse-Core
+[04-14 12:32:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-14 12:32:35]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-14 12:32:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-14 12:32:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-14 12:32:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-14 12:32:35]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-14 12:32:35]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3872/2011873406.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-14 12:32:38]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-14 12:33:37]: [INFO] SQLite Setup finished
+[04-14 12:33:37]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-14 12:33:37]: [INFO] Hooked successfully into Essentials
+[04-14 12:33:37]: [INFO] Hooked successfully into Multiverse-Core
+[04-14 12:33:37]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-14 12:33:37]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-14 12:33:38]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-14 12:33:38]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-14 12:33:38]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-14 12:33:38]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-14 12:33:38]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at fr.xephi.authme.service.GeoIpService$$Lambda$3961/201824551.run(Unknown Source)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-14 12:34:03]: [FINE] biteyou74 logged in!
+[04-14 16:06:13]: [FINE] biteyou74 logged in!
+[04-14 17:58:37]: [FINE] biteyou74 logged in!
+[04-14 18:21:18]: [FINE] wolf logged in!
+[04-14 18:36:32]: [FINE] Caber588 logged in!
+[04-14 18:51:24]: [FINE] aforward3326 logged in!
+[04-14 19:26:07]: [FINE] biteyou74 logged in!
+[04-14 19:34:20]: [FINE] YuShiou logged in!
+[04-14 19:38:22]: [FINE] FredYea logged in!
+[04-14 19:57:00]: [FINE] rgps3725 logged in!
+[04-14 20:14:05]: [FINE] OChinBo logged in!
+[04-14 20:30:43]: [FINE] Hibiki182 logged in!
+[04-14 21:03:21]: [FINE] biteyou74 logged in!
+[04-14 21:12:28]: [FINE] LRIC logged in!
+[04-14 21:17:05]: [FINE] Andy logged in!

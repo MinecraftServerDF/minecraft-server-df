@@ -1,21 +1,21 @@
 lastAccountName: aforward3326
 timestamps:
-  login: 1586717014202
-  logout: 1586717851467
+  login: 1586861470597
+  logout: 1586798360141
   lastteleport: 1586689943066
 ipAddress: 1.34.110.242
 logoutlocation:
   world: world
-  x: 549.6999999880791
+  x: 545.1191049210358
   y: 68.0
-  z: -196.69999998807907
-  yaw: 186.01337
-  pitch: 14.699972
-afk: false
+  z: -195.7728942350068
+  yaw: 48.1619
+  pitch: 34.649757
+afk: true
 lastlocation:
   world: world
-  x: 545.7495087187168
-  y: 68.0
-  z: -196.2717536407965
-  yaw: 93.000015
-  pitch: 38.399994
+  x: 888.64278761143
+  y: 63.0608766163011
+  z: -227.66107405393146
+  yaw: 24.112598
+  pitch: 9.149943

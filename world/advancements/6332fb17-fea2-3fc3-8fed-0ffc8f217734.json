@@ -601,6 +601,7 @@
       "minecraft:spider": "2020-04-10 12:53:24 +0800",
       "minecraft:creeper": "2020-04-09 21:02:04 +0800",
       "minecraft:phantom": "2020-04-10 00:43:21 +0800",
+      "minecraft:witch": "2020-04-13 18:42:13 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:cave_spider": "2020-04-11 15:16:58 +0800",
       "minecraft:zombie": "2020-04-09 17:16:48 +0800",
@@ -672,6 +673,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-04-13 20:20:47 +0800"
     },
     "done": true
   },
@@ -841,6 +848,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-04-14 16:59:18 +0800"
     },
     "done": true
   },
@@ -1176,6 +1189,7 @@
       "minecraft:mountains": "2020-04-09 17:32:00 +0800",
       "minecraft:taiga": "2020-04-09 17:29:46 +0800",
       "minecraft:desert_hills": "2020-04-09 17:11:34 +0800",
+      "minecraft:deep_cold_ocean": "2020-04-14 20:56:47 +0800",
       "minecraft:taiga_hills": "2020-04-09 17:31:44 +0800",
       "minecraft:desert": "2020-04-09 17:08:27 +0800",
       "minecraft:badlands": "2020-04-11 23:30:10 +0800",
@@ -1315,6 +1329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2020-04-13 22:21:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
@@ -1387,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2020-04-13 20:20:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2020-04-09 19:51:27 +0800"
@@ -1420,6 +1446,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-13 02:37:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-04-13 20:20:47 +0800"
     },
     "done": true
   },
@@ -1534,6 +1566,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-04-09 23:30:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-04-13 19:57:31 +0800"
     },
     "done": true
   },
@@ -1690,6 +1728,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-09 23:34:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-04-13 21:50:51 +0800"
     },
     "done": true
   },
@@ -1887,6 +1931,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-04-10 20:52:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-04-13 20:20:47 +0800"
     },
     "done": true
   },
@@ -2215,6 +2265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-04-13 22:16:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
@@ -2449,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2020-04-13 20:20:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
@@ -2611,6 +2673,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-04-13 22:20:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-09 22:26:59 +0800"
@@ -2674,6 +2742,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-09 17:05:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-13 21:21:20 +0800"
     },
     "done": true
   },

@@ -2,7 +2,7 @@ worlds:
   world_china:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_china
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -49,7 +49,7 @@ worlds:
   world_comic_world:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_comic_world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -96,7 +96,7 @@ worlds:
   world_yucsh:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_yucsh
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -143,7 +143,7 @@ worlds:
   world_MaoMao:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_MaoMao
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -190,7 +190,7 @@ worlds:
   world_old:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_old
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -237,14 +237,14 @@ worlds:
   creative:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: creative
     color: WHITE
     style: NORMAL
     pvp: 'true'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: HARD
+    difficulty: PEACEFUL
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -284,7 +284,7 @@ worlds:
   world_the_end:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_the_end
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -331,7 +331,7 @@ worlds:
   world:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -378,7 +378,7 @@ worlds:
   world_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_nether
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -425,7 +425,7 @@ worlds:
   world_ken:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_ken
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -519,7 +519,7 @@ worlds:
   world_survive:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world_survive
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -566,7 +566,7 @@ worlds:
   world-1-8:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world-1-8
     color: WHITE
     style: NORMAL
     pvp: 'true'
