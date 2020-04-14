@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-04-15 01:45:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-13 01:14:29 +0800"
@@ -483,6 +489,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 01:09:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-15 01:51:28 +0800"
     },
     "done": true
   },
@@ -630,6 +642,7 @@
       "minecraft:spider": "2020-04-13 03:12:49 +0800",
       "minecraft:creeper": "2020-04-13 03:13:41 +0800",
       "minecraft:cave_spider": "2020-04-14 21:11:46 +0800",
+      "minecraft:silverfish": "2020-04-15 01:38:26 +0800",
       "minecraft:zombie": "2020-04-13 01:14:39 +0800"
     },
     "done": false
