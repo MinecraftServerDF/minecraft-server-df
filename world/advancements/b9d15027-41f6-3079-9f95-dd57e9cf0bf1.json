@@ -1935,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-16 01:40:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-10 21:26:25 +0800"
@@ -1980,6 +1986,7 @@
       "apple": "2020-04-09 15:08:24 +0800",
       "cooked_cod": "2020-04-05 23:18:56 +0800",
       "poisonous_potato": "2020-04-13 02:51:46 +0800",
+      "mutton": "2020-04-16 02:07:30 +0800",
       "bread": "2020-04-08 23:21:34 +0800",
       "dried_kelp": "2020-04-06 00:27:09 +0800",
       "cooked_rabbit": "2020-04-07 00:25:11 +0800",
@@ -2223,6 +2230,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-04-07 00:40:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-16 01:41:43 +0800"
     },
     "done": true
   },
