@@ -643,3 +643,12 @@
 [11:26:58] [Server thread/INFO]: basic_balion[/36.235.254.23:8152] logged in with entity id 14852 at ([world]-215.24677623875792, 92.0, -1035.8802951894531)
 [11:27:07] [Craft Scheduler Thread - 50/INFO]: [AuthMe] basic_balion logged in!
 [11:32:20] [Server thread/INFO]: basic_balion issued server command: /fly
+[13:13:02] [User Authenticator #4/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[13:13:03] [Server thread/INFO]: biteyou74[/120.102.191.141:8500] logged in with entity id 31428 at ([world]-216.4934993481756, 105.0625, -1071.2195231725727)
+[13:13:12] [Craft Scheduler Thread - 74/INFO]: [AuthMe] biteyou74 logged in!
+[13:16:12] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[13:16:12] [Server thread/INFO]: biteyou74 left the game
+[13:20:38] [User Authenticator #5/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[13:20:39] [Server thread/INFO]: biteyou74[/120.102.191.141:11225] logged in with entity id 32526 at ([world]-212.67550437547746, 105.5, -1070.1119824837317)
+[13:20:47] [Craft Scheduler Thread - 80/INFO]: [AuthMe] biteyou74 logged in!
+[13:21:21] [Server thread/INFO]: biteyou74 issued server command: /fly
