@@ -1,7 +1,7 @@
 lastAccountName: basic_balion
 timestamps:
   login: 1586921218456
-  logout: 1586921205673
+  logout: 1586937252051
   lastteleport: 1586880423948
 ipAddress: 36.235.254.23
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 63.450592
 logoutlocation:
   world: world
-  x: -215.24677623875792
-  y: 92.0
-  z: -1035.8802951894531
-  yaw: 117.579834
-  pitch: 43.049614
+  x: -292.688668500227
+  y: 123.67512800508065
+  z: -956.0578153774351
+  yaw: -207.74927
+  pitch: 38.999508
 homes:
   home:
     world: world
@@ -26,4 +26,4 @@ homes:
     z: -1069.5917115877085
     yaw: -82.44745
     pitch: 27.149954
-afk: true
+afk: false
