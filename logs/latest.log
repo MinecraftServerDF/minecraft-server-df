@@ -623,3 +623,11 @@
 [09:13:26] [Craft Scheduler Thread - 15/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [09:13:26] [Craft Scheduler Thread - 15/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
 [09:13:26] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:00:39] [User Authenticator #1/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[10:00:40] [Server thread/INFO]: basic_balion[/36.235.254.23:7355] logged in with entity id 1373 at ([world]-298.099109860453, 76.0, -976.5044999246651)
+[10:00:54] [Server thread/INFO]: basic_balion issued server command: /logout basicbalion
+[10:01:03] [Craft Scheduler Thread - 27/INFO]: [AuthMe] basic_balion logged in!
+[10:01:16] [Server thread/INFO]: basic_balion issued server command: /fly
+[10:08:24] [Server thread/INFO]: Villager EntityVillager['Villager'/1453, l='world', x=-324.54, y=81.00, z=-1058.32] died, message: 'Villager was slain by Zombie'
+[10:13:22] [Server thread/INFO]: [Server] 換一個 內河應該會好很多
+[10:13:30] [Server thread/INFO]: [Server] 昨天你們是玩到斷線嗎?
