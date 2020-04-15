@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-15 23:41:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-04-09 20:31:56 +0800"
@@ -675,7 +681,8 @@
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
       "minecraft:enderman": "2020-04-12 15:14:31 +0800",
       "minecraft:zombie": "2020-04-07 10:31:27 +0800",
-      "minecraft:drowned": "2020-04-08 20:59:00 +0800"
+      "minecraft:drowned": "2020-04-08 20:59:00 +0800",
+      "minecraft:zombie_villager": "2020-04-15 23:56:08 +0800"
     },
     "done": false
   },
@@ -1012,6 +1019,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-07 17:33:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-15 23:41:01 +0800"
     },
     "done": true
   },
@@ -1553,6 +1566,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-07 17:33:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-15 23:41:01 +0800"
     },
     "done": true
   },
