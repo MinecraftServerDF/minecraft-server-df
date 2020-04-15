@@ -776,3 +776,40 @@
 [22:00:56] [Server thread/INFO]: Villager EntityVillager['Villager'/132555, l='world', x=-278.45, y=85.00, z=-1026.69] died, message: 'Villager was slain by basic_balion'
 [22:01:06] [Server thread/INFO]: Villager EntityVillager['Villager'/132556, l='world', x=-288.14, y=85.00, z=-1032.30] died, message: 'Villager was slain by basic_balion'
 [22:01:08] [Server thread/INFO]: Villager EntityVillager['Villager'/132549, l='world', x=-288.50, y=85.00, z=-1026.33] died, message: 'Villager was slain by basic_balion'
+[22:26:56] [User Authenticator #16/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[22:26:57] [Server thread/INFO]: biteyou74[/120.102.191.141:6893] logged in with entity id 167031 at ([world]-181.36513901178185, 79.0, -1074.6578347227905)
+[22:27:05] [Craft Scheduler Thread - 230/INFO]: [AuthMe] biteyou74 logged in!
+[22:30:17] [User Authenticator #17/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[22:30:17] [Server thread/INFO]: Selina[/180.217.241.70:18503] logged in with entity id 168893 at ([world]372.299999974668, 64.0000002, 785.299999974668)
+[22:30:27] [Craft Scheduler Thread - 234/INFO]: [AuthMe] Selina logged in!
+[22:30:43] [Server thread/INFO]: Selina issued server command: /list
+[22:31:27] [Server thread/INFO]: Selina issued server command: /tell YuShiou 0.0²{¦b¬O³Ð³y¼Ò¦¡¶Ü?
+[22:35:46] [Server thread/INFO]: Andy issued server command: /HOME
+[22:37:42] [Server thread/INFO]: YuShiou issued server command: /tell Selina §A¶Ü ?
+[22:38:10] [Server thread/INFO]: Selina issued server command: /tell YuShiou ¨S¨Æ §Ú¬Ý¿ù·SXD §Ú§â°t¤è¬Ý¦¨³Ð³y¼Ò¦¡
+[22:38:12] [Server thread/INFO]: YuShiou issued server command: /tell Selina ¥Ø«e¤£¬O³Ð³y¼Ò¦¡¡A ¤£¹L¥i¥H¥´«ü¥O­¸¤Ñ
+[22:38:21] [Server thread/INFO]: YuShiou issued server command: /tell Selina ok
+[22:48:05] [Server thread/INFO]: basic_balion issued server command: /homeS
+[22:49:22] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m]<biteyou74> ½c¤l©O[m
+[22:49:30] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m]<basic_balion> ?[m
+[22:49:52] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m]<biteyou74> ¨S¤F¶Ü ¤§«e¬ÝÁÙ¦³¥b²Õªº[m
+[22:49:53] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m]<basic_balion> ³Q®³¨«£{£t[m
+[22:50:01] [Async Chat Thread - #2/INFO]: [[0;37;1mworld[0;37;1m]<biteyou74> ¦n§a[m
+[22:50:14] [Server thread/INFO]: Andy was shot by Skeleton
+[22:50:30] [Server thread/INFO]: Andy issued server command: /back
+[22:56:35] [Server thread/INFO]: Andy issued server command: /home
+[22:56:52] [Server thread/INFO]: Villager EntityVillager['Villager'/156568, l='world', x=-312.44, y=79.00, z=-1041.11] died, message: 'Villager was slain by basic_balion'
+[22:56:56] [Server thread/INFO]: Villager EntityVillager['Villager'/151426, l='world', x=-330.54, y=80.00, z=-1050.70] died, message: 'Villager was slain by basic_balion'
+[22:57:01] [Server thread/INFO]: Villager EntityVillager['Villager'/151772, l='world', x=-314.24, y=80.00, z=-1052.50] died, message: 'Villager was slain by basic_balion'
+[23:01:14] [Server thread/WARN]: YuShiou moved wrongly!
+[23:03:23] [Server thread/WARN]: YuShiou moved wrongly!
+[23:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[23:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7642ms or 152 ticks behind
+[23:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[23:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[23:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6008ms or 120 ticks behind
+[23:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12588ms or 251 ticks behind
+[23:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7601ms or 152 ticks behind
+[23:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:09:56] [Server thread/WARN]: YuShiou moved wrongly!
+[23:16:04] [Server thread/INFO]: Villager EntityVillager['Villager'/181850, l='world', x=-328.22, y=67.00, z=-486.19] died, message: 'Villager was slain by Zombie'

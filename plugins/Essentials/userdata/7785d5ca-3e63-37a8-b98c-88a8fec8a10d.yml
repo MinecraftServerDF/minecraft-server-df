@@ -1,8 +1,8 @@
 lastAccountName: apple
 timestamps:
-  login: 1586949236269
+  login: 1586964785896
   logout: 1586950250428
-  lastteleport: 1586949254548
+  lastteleport: 1586965275444
 ipAddress: 127.0.0.1
 logoutlocation:
   world: world
@@ -14,11 +14,11 @@ logoutlocation:
 afk: false
 lastlocation:
   world: world
-  x: -241.59963337174284
-  y: 74.0
-  z: -1087.1842393794414
-  yaw: -246.59996
-  pitch: 77.55002
+  x: -223.94999998807907
+  y: 111.0
+  z: -1060.012499988079
+  yaw: -232.65001
+  pitch: 62.549976
 homes:
   apple:
     world: world
