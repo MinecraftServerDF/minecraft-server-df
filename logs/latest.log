@@ -663,3 +663,23 @@
 [15:21:01] [Server thread/INFO]: Villager EntityVillager['Villager'/748, l='world_old', x=120.73, y=63.00, z=57.73] died, message: 'Villager was pricked to death'
 [15:54:12] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [15:54:12] [Server thread/INFO]: basic_balion left the game
+[18:16:37] [User Authenticator #7/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[18:16:37] [Server thread/INFO]: basic_balion[/36.235.254.23:9316] logged in with entity id 55272 at ([world]-292.688668500227, 123.67512800508065, -956.0578153774351)
+[18:16:49] [Craft Scheduler Thread - 147/INFO]: [AuthMe] basic_balion logged in!
+[18:17:17] [Server thread/INFO]: basic_balion issued server command: /fly
+[18:20:13] [User Authenticator #8/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[18:20:13] [Server thread/INFO]: rgps3725[/220.141.29.237:51334] logged in with entity id 56150 at ([world]-227.04639087509355, 104.0, -1069.8551382299602)
+[18:20:17] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[18:20:17] [Server thread/INFO]: basic_balion left the game
+[18:20:19] [Craft Scheduler Thread - 150/INFO]: [AuthMe] rgps3725 logged in!
+[18:20:26] [Server thread/INFO]: rgps3725 issued server command: /fly
+[18:20:49] [User Authenticator #9/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[18:20:49] [Server thread/INFO]: basic_balion[/36.235.254.23:9505] logged in with entity id 56571 at ([world]-301.01208419008657, 91.49390748022948, -972.5083834002972)
+[18:21:00] [Craft Scheduler Thread - 149/INFO]: [AuthMe] basic_balion logged in!
+[18:21:07] [Server thread/INFO]: basic_balion issued server command: /fly
+[18:25:47] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[18:25:47] [Server thread/INFO]: basic_balion left the game
+[18:26:24] [User Authenticator #10/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[18:26:25] [Server thread/INFO]: basic_balion[/36.235.254.23:9591] logged in with entity id 58416 at ([world]-299.3328253780876, 117.99816214147826, -977.3569401910378)
+[18:26:38] [Craft Scheduler Thread - 155/INFO]: [AuthMe] basic_balion logged in!
+[18:26:43] [Server thread/INFO]: basic_balion issued server command: /fly
