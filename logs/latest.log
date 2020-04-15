@@ -724,3 +724,25 @@
 [20:14:56] [User Authenticator #14/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
 [20:14:56] [Server thread/INFO]: YuShiou[/1.34.17.118:2401] logged in with entity id 88977 at ([world]514.6251096772232, 88.0, 819.5359059826764)
 [20:15:01] [Craft Scheduler Thread - 189/INFO]: [AuthMe] YuShiou logged in!
+[20:29:38] [Server thread/INFO]: wolf lost connection: Disconnected
+[20:29:38] [Server thread/INFO]: wolf left the game
+[20:44:48] [Server thread/WARN]: YuShiou moved wrongly!
+[20:50:39] [Server thread/INFO]: aforward3326 was burnt to a crisp whilst fighting Skeleton
+[20:56:28] [Server thread/INFO]: aforward3326 was shot by Skeleton
+[20:56:38] [Server thread/INFO]: aforward3326 issued server command: /back
+[21:04:22] [Server thread/WARN]: YuShiou moved wrongly!
+[21:05:52] [User Authenticator #15/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[21:05:53] [Server thread/INFO]: Andy[/220.135.139.86:49545] logged in with entity id 116784 at ([world]-310.2113272841061, 70.0, -439.30000001192093)
+[21:05:58] [Craft Scheduler Thread - 205/INFO]: [AuthMe] Andy logged in!
+[21:08:01] [Server thread/INFO]: Andy fell from a high place
+[21:08:07] [Server thread/INFO]: Andy issued server command: /back
+[21:10:25] [Server thread/INFO]: aforward3326 was shot by Skeleton
+[21:10:39] [Server thread/INFO]: Villager EntityVillager['Villager'/69225, l='world', x=-335.94, y=82.00, z=-1059.43] died, message: 'Villager was slain by Zombie'
+[21:10:59] [Server thread/INFO]: Villager EntityVillager['Villager'/68922, l='world', x=-333.37, y=78.00, z=-1037.99] died, message: 'Villager was slain by Zombie Villager'
+[21:11:57] [Server thread/INFO]: Andy was shot by Skeleton
+[21:12:06] [Server thread/INFO]: Andy issued server command: /back
+[21:12:50] [Server thread/INFO]: basic_balion issued server command: /home
+[21:13:49] [Server thread/WARN]: basic_balion moved too quickly! -15.795622122070199,0.0,-7.350670634179551
+[21:14:16] [Server thread/INFO]: Andy was blown up by Creeper
+[21:14:48] [Server thread/INFO]: Andy issued server command: /back
+[21:18:28] [Server thread/INFO]: basic_balion issued server command: /home
