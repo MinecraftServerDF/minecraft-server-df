@@ -626,6 +626,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-04-16 08:48:07 +0800",
       "minecraft:skeleton": "2020-04-08 22:55:45 +0800",
       "minecraft:zombie_pigman": "2020-04-10 11:23:58 +0800",
       "minecraft:ghast": "2020-04-09 14:01:31 +0800",
@@ -634,7 +635,9 @@
       "minecraft:creeper": "2020-04-09 15:18:17 +0800",
       "minecraft:slime": "2020-04-11 19:49:00 +0800",
       "minecraft:phantom": "2020-04-09 00:38:03 +0800",
+      "minecraft:wither_skeleton": "2020-04-16 08:48:01 +0800",
       "minecraft:silverfish": "2020-04-11 19:44:53 +0800",
+      "minecraft:enderman": "2020-04-16 08:46:56 +0800",
       "minecraft:zombie": "2020-04-08 22:54:37 +0800",
       "minecraft:drowned": "2020-04-12 11:06:55 +0800",
       "minecraft:zombie_villager": "2020-04-15 00:10:16 +0800"
@@ -857,6 +860,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-08 23:19:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-16 08:48:14 +0800"
     },
     "done": true
   },
@@ -1456,6 +1465,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2020-04-15 01:04:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-04-16 09:09:17 +0800"
     },
     "done": true
   },
@@ -2203,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-04-16 09:09:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-04-09 00:05:29 +0800"
@@ -2749,6 +2770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-16 08:48:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-04-08 23:19:56 +0800"
@@ -2788,6 +2815,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_the_recipe": "2020-04-08 23:43:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-16 08:48:14 +0800"
     },
     "done": true
   },
