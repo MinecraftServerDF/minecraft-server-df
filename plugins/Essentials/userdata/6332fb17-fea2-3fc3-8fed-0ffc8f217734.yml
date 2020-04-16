@@ -2,15 +2,15 @@ lastAccountName: biteyou74
 timestamps:
   login: 1587028414341
   logout: 1587028388440
-  lastteleport: 1587026948598
+  lastteleport: 1587031224699
 ipAddress: 120.102.191.141
 lastlocation:
   world: world
-  x: -222.69999998807907
-  y: 111.0625
-  z: -1095.0129348864598
-  yaw: -7.649529
-  pitch: 27.45001
+  x: 445.1954060399924
+  y: 66.0
+  z: -546.5725256529731
+  yaw: -188.95941
+  pitch: 2.9994411
 logoutlocation:
   world: world
   x: -100.70988456266254
@@ -18,7 +18,7 @@ logoutlocation:
   z: -1122.1828617749138
   yaw: 254.37729
   pitch: -12.750777
-afk: false
+afk: true
 homes:
   home:
     world: world
