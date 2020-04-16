@@ -185,6 +185,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-16 19:14:11 +0800",
+      "diamond_helmet": "2020-04-16 19:14:11 +0800",
+      "diamond_chestplate": "2020-04-16 19:14:11 +0800",
+      "diamond_boots": "2020-04-16 19:14:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-07 20:40:42 +0800"
@@ -1818,7 +1827,8 @@
       "apple": "2020-04-04 19:22:33 +0800",
       "mutton": "2020-04-04 19:00:20 +0800",
       "bread": "2020-04-04 20:12:31 +0800",
-      "cooked_salmon": "2020-04-10 10:01:23 +0800"
+      "cooked_salmon": "2020-04-10 10:01:23 +0800",
+      "carrot": "2020-04-16 19:23:22 +0800"
     },
     "done": false
   },
