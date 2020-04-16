@@ -86,3 +86,9 @@
 [03:54:54] [Server thread/INFO]: aforward3326 issued server command: /back
 [04:30:57] [Server thread/INFO]: aforward3326 lost connection: Disconnected
 [04:30:57] [Server thread/INFO]: aforward3326 left the game
+[08:00:54] [User Authenticator #26/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[08:00:54] [Server thread/INFO]: basic_balion[/36.235.254.23:12116] logged in with entity id 297097 at ([world]-100.01924789266053, 13.0, -1120.762499988079)
+[08:01:04] [Server thread/INFO]: basic_balion issued server command: /login
+[08:01:11] [Craft Scheduler Thread - 384/INFO]: [AuthMe] basic_balion logged in!
+[08:02:22] [Server thread/INFO]: basic_balion issued server command: /home
+[08:04:02] [Server thread/INFO]: basic_balion issued server command: /fly
