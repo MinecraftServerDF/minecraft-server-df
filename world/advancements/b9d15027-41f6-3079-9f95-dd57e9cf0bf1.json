@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/break_diamond_hoe": {
+    "criteria": {
+      "broke_hoe": "2020-04-17 01:42:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2020-04-09 22:33:34 +0800"
