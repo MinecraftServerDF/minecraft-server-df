@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-17 00:18:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 21:58:46 +0800"
@@ -491,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-17 00:18:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-04-05 00:44:09 +0800"
@@ -554,6 +566,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-04-05 00:54:58 +0800",
+      "minecraft:zombie_pigman": "2020-04-17 00:37:21 +0800",
       "minecraft:ghast": "2020-04-12 15:49:22 +0800",
       "minecraft:magma_cube": "2020-04-12 16:00:29 +0800",
       "minecraft:spider": "2020-04-05 23:27:14 +0800",
@@ -1186,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-04-17 00:19:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-04-08 21:46:08 +0800"
@@ -1213,6 +1232,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-04-08 21:48:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-17 00:18:37 +0800"
     },
     "done": true
   },
@@ -1465,6 +1490,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-04 23:39:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-04-17 00:25:46 +0800"
     },
     "done": true
   },
