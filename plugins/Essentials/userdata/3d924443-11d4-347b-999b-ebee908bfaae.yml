@@ -1,15 +1,15 @@
 lastAccountName: Selina
 timestamps:
-  login: 1587042070847
-  logout: 1586968479584
+  login: 1587047490618
+  logout: 1587047431936
 ipAddress: 180.217.119.174
 logoutlocation:
   world: world
-  x: 371.299999974668
-  y: 64.0000002
-  z: 786.299999974668
-  yaw: 310.5791
-  pitch: 0.0
+  x: 372.13749998807907
+  y: 68.0
+  z: 780.1374999880791
+  yaw: 212.22339
+  pitch: -63.600002
 lastlocation:
   world: world
   x: 370.62493937477757
@@ -17,4 +17,4 @@ lastlocation:
   z: 775.2816167549555
   yaw: 197.17169
   pitch: 25.80001
-afk: true
+afk: false
