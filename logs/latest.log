@@ -620,3 +620,7 @@
 [07:24:11] [Craft Scheduler Thread - 16/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [07:24:11] [Craft Scheduler Thread - 16/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [07:24:11] [Craft Scheduler Thread - 16/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[08:13:25] [User Authenticator #1/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[08:13:26] [Server thread/INFO]: wolf[/115.165.203.20:52292] logged in with entity id 1377 at ([world]298.7145281491369, 70.0, 1552.4592305693259)
+[08:13:37] [Craft Scheduler Thread - 28/INFO]: [AuthMe] wolf logged in!
+[08:14:32] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
