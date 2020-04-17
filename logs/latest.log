@@ -1,0 +1,39 @@
+[00:06:48] [Server thread/INFO]: Andy issued server command: /sethome
+[00:07:23] [Server thread/INFO]: YuShiou was shot by Skeleton
+[00:13:13] [Server thread/INFO]: Villager EntityVillager['Shepherd'/193718, l='world', x=618.70, y=64.00, z=737.92] died, message: 'Shepherd was slain by Zombie'
+[00:18:40] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[00:18:40] [Server thread/INFO]: biteyou74 left the game
+[00:21:24] [Server thread/INFO]: LRIC lost connection: Disconnected
+[00:21:24] [Server thread/INFO]: LRIC left the game
+[00:29:39] [User Authenticator #20/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[00:29:39] [Server thread/INFO]: aforward3326[/1.34.110.242:51207] logged in with entity id 224047 at ([world]588.3061952772695, 63.0, -218.1450852551858)
+[00:29:50] [Craft Scheduler Thread - 292/INFO]: [AuthMe] aforward3326 logged in!
+[00:32:36] [Server thread/INFO]: Andy issued server command: /home
+[00:34:19] [Server thread/INFO]: Andy issued server command: /fly
+[00:36:20] [Server thread/INFO]: Villager EntityVillager['Fletcher'/193730, l='world', x=608.54, y=64.00, z=744.72] died, message: 'Fletcher was slain by Zombie'
+[00:39:38] [Server thread/INFO]: Andy issued server command: /home
+[00:41:35] [Server thread/INFO]: Andy issued server command: /fly
+[00:41:41] [Server thread/INFO]: Andy lost connection: Disconnected
+[00:41:41] [Server thread/INFO]: Andy left the game
+[00:50:03] [Server thread/INFO]: YuShiou lost connection: Disconnected
+[00:50:03] [Server thread/INFO]: YuShiou left the game
+[00:50:41] [Server thread/INFO]: [WEB] YuShiou: 村莊內有 神職、武器、防具 大師  
+[00:50:47] [Async Chat Thread - #6/INFO]: [world]<SpyCat005> OK
+[01:04:18] [User Authenticator #21/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[01:04:19] [Server thread/INFO]: Hibiki182[/119.77.247.72:8379] logged in with entity id 238956 at ([world]-226.70000002533197, 111.0000002, -1086.700000025332)
+[01:04:19] [User Authenticator #22/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[01:04:19] [Server thread/INFO]: Caber588[/219.70.214.164:58567] logged in with entity id 239226 at ([world]-218.96568743665378, 105.17291429705664, -1077.531845049796)
+[01:04:25] [Craft Scheduler Thread - 305/INFO]: [AuthMe] Caber588 logged in!
+[01:04:36] [Craft Scheduler Thread - 305/INFO]: [AuthMe] Hibiki182 logged in!
+[01:04:39] [Server thread/INFO]: Caber588 issued server command: /fly
+[01:04:48] [User Authenticator #23/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[01:04:48] [Server thread/INFO]: biteyou74[/27.247.44.109:21035] logged in with entity id 239533 at ([world]-210.21082384466754, 89.0, -1044.0032944067418)
+[01:04:55] [Server thread/INFO]: Hibiki182 issued server command: /fly
+[01:04:57] [Craft Scheduler Thread - 304/INFO]: [AuthMe] biteyou74 logged in!
+[01:05:17] [Server thread/INFO]: biteyou74 issued server command: /fly
+[01:06:22] [User Authenticator #24/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[01:06:22] [Server thread/INFO]: JerryU29[/49.159.80.132:55908] logged in with entity id 240459 at ([world]-225.19539459827254, 111.0, -1090.6415044459386)
+[01:06:30] [Server thread/INFO]: Caber588 issued server command: /home
+[01:06:31] [Craft Scheduler Thread - 308/INFO]: [AuthMe] JerryU29 logged in!
+[01:06:51] [Server thread/INFO]: JerryU29 issued server command: /fly
+[01:14:12] [Server thread/WARN]: JerryU29 moved too quickly! -0.06810912326079688,0.0,10.119580971899836

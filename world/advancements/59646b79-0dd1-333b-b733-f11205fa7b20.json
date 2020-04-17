@@ -706,6 +706,7 @@
       "minecraft:ghast": "2020-04-17 00:02:38 +0800",
       "minecraft:spider": "2020-04-13 03:12:49 +0800",
       "minecraft:creeper": "2020-04-13 03:13:41 +0800",
+      "minecraft:slime": "2020-04-18 01:09:50 +0800",
       "minecraft:witch": "2020-04-16 23:05:37 +0800",
       "minecraft:wither_skeleton": "2020-04-17 00:03:37 +0800",
       "minecraft:cave_spider": "2020-04-14 21:11:46 +0800",
@@ -773,6 +774,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2020-04-13 01:09:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 01:09:56 +0800"
     },
     "done": true
   },
@@ -1118,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 01:09:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-04-13 03:12:54 +0800"
@@ -1295,6 +1308,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-13 01:01:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 01:09:56 +0800"
     },
     "done": true
   },
