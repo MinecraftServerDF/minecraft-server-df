@@ -723,3 +723,16 @@
 [21:06:08] [Server thread/INFO]: LRIC issued server command: /back
 [21:12:33] [Server thread/INFO]: LRIC issued server command: /fly
 [21:13:02] [Server thread/INFO]: LRIC has made the advancement [We Need to Go Deeper]
+[21:30:25] [User Authenticator #13/INFO]: UUID of player PowerPU is 3cd0fc56-1610-3e1a-bc59-42406506f272
+[21:30:25] [Server thread/INFO]: PowerPU[/114.26.58.214:60228] logged in with entity id 120897 at ([world]536.27223032204, 64.0, 817.7273357254811)
+[21:30:36] [Craft Scheduler Thread - 231/INFO]: [AuthMe] PowerPU logged in!
+[21:45:11] [User Authenticator #14/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[21:45:11] [Server thread/INFO]: wolf[/115.165.203.20:58812] logged in with entity id 125864 at ([world]297.2769467764281, 70.0, 1550.847934923383)
+[21:45:18] [Craft Scheduler Thread - 237/INFO]: [AuthMe] wolf logged in!
+[21:59:30] [User Authenticator #15/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[21:59:30] [Server thread/INFO]: Andy[/220.135.139.86:50354] logged in with entity id 133494 at ([world]-385.05357165861466, 65.9375, -434.4556127587005)
+[21:59:38] [Craft Scheduler Thread - 240/INFO]: [AuthMe] Andy logged in!
+[21:59:46] [Server thread/INFO]: Andy issued server command: /home
+[22:00:02] [Server thread/INFO]: Andy issued server command: /back
+[22:17:16] [Server thread/INFO]: Andy issued server command: /home
+[22:17:19] [Server thread/INFO]: Andy was blown up by Creeper
