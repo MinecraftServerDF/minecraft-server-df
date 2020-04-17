@@ -1,13 +1,13 @@
 lastAccountName: PowerPU
 timestamps:
   login: 1587130225833
-  logout: 1586704524991
+  logout: 1587135169174
 ipAddress: 114.26.58.214
 logoutlocation:
   world: world
-  x: 536.27223032204
+  x: 332.6516182584099
   y: 64.0
-  z: 817.7273357254811
-  yaw: -109.81723
-  pitch: 14.099969
-afk: true
+  z: 696.3420622061342
+  yaw: 114.53027
+  pitch: 12.899542
+afk: false

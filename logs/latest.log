@@ -736,3 +736,25 @@
 [22:00:02] [Server thread/INFO]: Andy issued server command: /back
 [22:17:16] [Server thread/INFO]: Andy issued server command: /home
 [22:17:19] [Server thread/INFO]: Andy was blown up by Creeper
+[22:25:28] [Server thread/INFO]: wolf lost connection: Disconnected
+[22:25:28] [Server thread/INFO]: wolf left the game
+[22:44:49] [User Authenticator #16/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[22:44:50] [Server thread/INFO]: YuShiou[/1.34.17.118:5760] logged in with entity id 155722 at ([world]514.8323869283953, 88.0, 821.1933742065137)
+[22:44:58] [Craft Scheduler Thread - 253/INFO]: [AuthMe] YuShiou logged in!
+[22:51:35] [Server thread/INFO]: Andy issued server command: /home
+[22:51:47] [Server thread/INFO]: Andy issued server command: /back
+[22:52:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[22:52:31] [Server thread/INFO]: Andy was slain by Zombie
+[22:52:49] [Server thread/INFO]: PowerPU lost connection: Disconnected
+[22:52:49] [Server thread/INFO]: PowerPU left the game
+[22:54:18] [Server thread/WARN]: Andy moved wrongly!
+[22:54:21] [Server thread/ERROR]: Block at -963, 60, 62 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@4cd721ba. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[22:56:25] [Server thread/WARN]: Andy moved wrongly!
+[22:56:33] [Server thread/INFO]: LRIC was shot by Skeleton
+[22:57:04] [Server thread/INFO]: Andy suffocated in a wall
+[23:01:36] [Server thread/INFO]: LRIC was shot by Skeleton
+[23:06:34] [Server thread/INFO]: YuShiou was shot by Skeleton
+[23:06:42] [Server thread/INFO]: YuShiou issued server command: /back
+[23:13:10] [Server thread/INFO]: Andy was slain by Zombie
+[23:17:27] [Server thread/INFO]: LRIC was slain by Cave Spider
+[23:17:44] [Server thread/INFO]: LRIC issued server command: /back

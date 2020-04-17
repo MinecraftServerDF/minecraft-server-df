@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2020-04-17 23:33:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-04-06 20:48:34 +0800"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-04-17 22:49:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 20:38:21 +0800"
@@ -433,6 +445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-17 23:08:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -547,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-06 20:48:34 +0800"
@@ -576,6 +600,7 @@
       "minecraft:pillager": "2020-04-12 21:27:53 +0800",
       "minecraft:skeleton": "2020-04-05 16:51:12 +0800",
       "minecraft:spider": "2020-04-05 18:18:51 +0800",
+      "minecraft:slime": "2020-04-17 23:33:57 +0800",
       "minecraft:phantom": "2020-04-13 22:20:15 +0800",
       "minecraft:husk": "2020-04-06 23:05:24 +0800",
       "minecraft:cave_spider": "2020-04-14 23:01:37 +0800",
@@ -799,6 +824,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-04-04 20:40:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
     },
     "done": true
   },
@@ -1138,6 +1169,7 @@
       "minecraft:cold_ocean": "2020-04-12 18:34:36 +0800",
       "minecraft:forest": "2020-04-03 21:04:20 +0800",
       "minecraft:mountains": "2020-04-03 21:07:45 +0800",
+      "minecraft:badlands_plateau": "2020-04-17 23:13:07 +0800",
       "minecraft:taiga": "2020-04-06 21:10:38 +0800",
       "minecraft:desert_hills": "2020-04-06 21:30:11 +0800",
       "minecraft:deep_cold_ocean": "2020-04-12 19:08:59 +0800",
@@ -1321,6 +1353,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-08 22:34:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-17 23:08:28 +0800"
     },
     "done": true
   },
@@ -1510,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-17 23:08:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-03 20:35:26 +0800"
@@ -1579,6 +1623,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 20:38:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-17 23:08:28 +0800"
     },
     "done": true
   },
@@ -1732,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2020-04-06 21:07:37 +0800"
@@ -1741,6 +1797,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 20:38:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
     },
     "done": true
   },
@@ -2062,6 +2124,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 20:38:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-17 22:49:31 +0800"
     },
     "done": true
   },
@@ -2455,6 +2523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-04-17 22:51:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-03 22:47:01 +0800"
@@ -2548,6 +2622,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-04-04 21:55:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
     },
     "done": true
   },
@@ -2647,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 20:38:21 +0800"
@@ -2689,6 +2775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 20:37:53 +0800"
@@ -2704,6 +2796,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-04-10 23:24:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-17 22:51:42 +0800"
     },
     "done": true
   },
@@ -2740,6 +2838,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-08 22:34:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-04-17 23:08:28 +0800"
     },
     "done": true
   },
