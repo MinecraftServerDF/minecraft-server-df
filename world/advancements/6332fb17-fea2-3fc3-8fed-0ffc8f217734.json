@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-17 12:39:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-09 17:07:21 +0800"
@@ -626,13 +632,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-04-11 00:44:54 +0800",
+      "minecraft:blaze": "2020-04-17 12:40:11 +0800",
       "minecraft:skeleton": "2020-04-09 18:00:44 +0800",
       "minecraft:zombie_pigman": "2020-04-12 21:58:38 +0800",
       "minecraft:ghast": "2020-04-17 12:36:34 +0800",
+      "minecraft:magma_cube": "2020-04-17 12:39:26 +0800",
       "minecraft:spider": "2020-04-10 12:53:24 +0800",
       "minecraft:creeper": "2020-04-09 21:02:04 +0800",
       "minecraft:phantom": "2020-04-10 00:43:21 +0800",
       "minecraft:witch": "2020-04-13 18:42:13 +0800",
+      "minecraft:wither_skeleton": "2020-04-17 12:40:15 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:cave_spider": "2020-04-11 15:16:58 +0800",
       "minecraft:enderman": "2020-04-14 23:09:20 +0800",
@@ -868,6 +877,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-12 21:43:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-17 12:44:52 +0800"
     },
     "done": true
   },
@@ -2041,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-17 12:45:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
@@ -2750,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-04-17 12:45:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-04-09 17:06:36 +0800"
@@ -2789,6 +2816,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-04-09 17:11:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-17 12:44:52 +0800"
     },
     "done": true
   },
@@ -2837,6 +2870,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-09 22:26:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-17 12:44:52 +0800"
     },
     "done": true
   },
