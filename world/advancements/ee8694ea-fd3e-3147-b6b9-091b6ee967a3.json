@@ -1065,15 +1065,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2020-04-17 09:37:45 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2020-04-17 09:37:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-04-17 09:37:45 +0800"
     },
     "done": true
   },
@@ -2501,6 +2501,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-04 18:55:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-04-17 15:25:11 +0800"
     },
     "done": true
   },
