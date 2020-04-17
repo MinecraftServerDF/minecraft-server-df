@@ -673,3 +673,11 @@
 [15:21:55] [Server thread/INFO]: FredYea[/124.6.23.53:53243] logged in with entity id 50329 at ([world]255.7644777113148, 63.0, 1467.358585876632)
 [15:22:06] [Craft Scheduler Thread - 126/INFO]: [AuthMe] FredYea logged in!
 [15:26:50] [Async Chat Thread - #5/INFO]: [world]<FredYea> 0.0
+[16:19:11] [Server thread/INFO]: wolf issued server command: /help
+[16:19:25] [Server thread/INFO]: wolf issued server command: /help 2
+[16:19:32] [Server thread/INFO]: wolf issued server command: /help 3
+[16:19:47] [Server thread/INFO]: wolf issued server command: /help 5
+[16:55:15] [Server thread/INFO]: wolf lost connection: Disconnected
+[16:55:15] [Server thread/INFO]: wolf left the game
+[17:02:51] [Server thread/INFO]: FredYea lost connection: Disconnected
+[17:02:51] [Server thread/INFO]: FredYea left the game
