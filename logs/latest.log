@@ -688,3 +688,20 @@
 [17:48:07] [Server thread/INFO]: biteyou74 issued server command: /HOME
 [19:01:17] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [19:01:17] [Server thread/INFO]: biteyou74 left the game
+[19:32:32] [User Authenticator #8/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[19:32:32] [Server thread/INFO]: rgps3725[/220.141.24.79:58973] logged in with entity id 93440 at ([world]-221.93006472895678, 111.0625, -1092.490492388887)
+[19:32:38] [Craft Scheduler Thread - 188/INFO]: [AuthMe] rgps3725 logged in!
+[19:32:52] [Server thread/INFO]: rgps3725 issued server command: /fly
+[19:36:16] [User Authenticator #9/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[19:36:17] [Server thread/INFO]: biteyou74[/120.102.191.141:7732] logged in with entity id 94823 at ([world]-224.99147756977845, 104.0, -1073.1754493646065)
+[19:36:30] [Craft Scheduler Thread - 192/INFO]: [AuthMe] biteyou74 logged in!
+[19:36:35] [Server thread/INFO]: biteyou74 issued server command: /fly
+[19:43:53] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[19:43:53] [Server thread/INFO]: rgps3725 left the game
+[20:02:00] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[20:02:00] [Server thread/INFO]: biteyou74 left the game
+[20:06:47] [User Authenticator #10/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
+[20:06:48] [Server thread/INFO]: aforward3326[/1.34.110.242:50395] logged in with entity id 100001 at ([world]544.6478889524558, 68.0, -196.2950066456838)
+[20:07:02] [Craft Scheduler Thread - 204/INFO]: [AuthMe] aforward3326 logged in!
+[20:14:51] [Server thread/INFO]: aforward3326 was slain by Zombie
+[20:17:48] [Server thread/WARN]: aforward3326 moved wrongly!
