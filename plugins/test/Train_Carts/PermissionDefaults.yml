@@ -20,6 +20,10 @@ train:
     fixbugged:
       default: op
       description: The player can destroy all bugged minecarts on the server
+    upgradesavedtrains:
+      default: op
+      description: The player can upgrade all saved trains model positions to the
+        new TC version
     reroute:
       default: op
       description: The player can force path finding to re-calculate
@@ -42,9 +46,6 @@ train:
     settags:
       default: true
       description: The player can set the tags of his owned carts
-    mobenter:
-      default: true
-      description: The player can set if mobs can enter his owned carts
     setdestination:
       default: true
       description: The player can set destinations for his owned carts
@@ -62,19 +63,19 @@ train:
       description: The player can set if his owned trains can link to other trains
     keepchunksloaded:
       default: op
-      description: The player can if his owned trains keep nearby chunks loaded
+      description: The player can set if his owned trains keep nearby chunks loaded
     invincible:
       default: op
-      description: The player can if his owned trains make it invincible
+      description: The player can set if his owned trains are invincible
     pushing:
       default: true
-      description: The player can if his owned trains push away certain entities
+      description: The player can set if his owned trains push away certain entities
     slowdown:
       default: true
-      description: The player can if his owned trains slow down over time
+      description: The player can set if his owned trains slow down over time
     setcollide:
       default: true
-      description: The player can if his owned trains can collide
+      description: The player can set if his owned trains can collide
     setspeedlimit:
       default: true
       description: The player can set the maximum speed for his trains
@@ -82,6 +83,9 @@ train:
       default: true
       description: The player can set if a powered minecart is needed for his train
         to stay alive
+    default:
+      default: op
+      description: The player can apply default settings to his owned trains
     rename:
       default: true
       description: The player can rename his owned trains
@@ -116,13 +120,6 @@ train:
     changeblock:
       default: op
       description: Whether the player can alter the type of block displayed in a minecart
-    upgradesavedtrains:
-      default: op
-      description: The player can upgrade all saved trains model positions to the
-        new TC version
-    default:
-      default: op
-      description: The player can apply default settings to his owned trains
     changetick:
       default: op
       description: Whether the player can alter the global update tick rate of TrainCarts
@@ -248,6 +245,9 @@ train:
     effect:
       default: op
       description: The player can build a sign that can play an effect
+    sound:
+      default: op
+      description: The player can build a sign that can play a sound
     blockchanger:
       default: op
       description: The player can build a sign that alters the block displayed in
@@ -263,9 +263,6 @@ train:
       default: op
       description: The player can build a sign that can make nearby players/mobs enter
         a train
-    sound:
-      default: op
-      description: The player can build a sign that can play a sound
     skipper:
       default: op
       description: The player can build a sign that can tell a train or minecart to
@@ -300,13 +297,13 @@ train:
     hopper:
       default: true
       description: The player can build spawners which create minecarts with hoppers
-    spawner:
-      default: true
-      description: The player can build spawners which create minecarts with spawners
     command:
       default: false
       description: The player can build spawners which create minecarts with command
         blocks
+    spawner:
+      default: true
+      description: The player can build spawners which create minecarts with spawners
   place:
     minecart:
       default: true
@@ -318,9 +315,6 @@ train:
     self:
       default: true
       description: The player can break their own minecarts
-    other:
-      default: true
-      description: The player can break any cart except for invincible ones
     any:
       default: op
       description: The player can break all carts in the game
