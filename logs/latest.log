@@ -705,3 +705,21 @@
 [20:07:02] [Craft Scheduler Thread - 204/INFO]: [AuthMe] aforward3326 logged in!
 [20:14:51] [Server thread/INFO]: aforward3326 was slain by Zombie
 [20:17:48] [Server thread/WARN]: aforward3326 moved wrongly!
+[20:23:20] [User Authenticator #11/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[20:23:20] [Server thread/INFO]: Caber588[/219.70.214.164:53245] logged in with entity id 104452 at ([world]-223.71797966048214, 102.0, -1028.2904765040948)
+[20:23:27] [Craft Scheduler Thread - 210/INFO]: [AuthMe] Caber588 logged in!
+[20:23:37] [Server thread/INFO]: Caber588 issued server command: /fly
+[20:28:03] [Server thread/WARN]: Boat moved wrongly!
+[20:28:03] [Server thread/WARN]: Boat moved wrongly!
+[20:38:31] [Server thread/INFO]: aforward3326 lost connection: Disconnected
+[20:38:31] [Server thread/INFO]: aforward3326 left the game
+[20:40:26] [Server thread/INFO]: Caber588 issued server command: /home
+[20:43:37] [User Authenticator #12/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[20:43:37] [Server thread/INFO]: LRIC[/123.194.147.86:51877] logged in with entity id 112046 at ([world]-692.689206565075, 60.0, 147.66724700027228)
+[20:43:47] [Craft Scheduler Thread - 218/INFO]: [AuthMe] LRIC logged in!
+[20:44:12] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[20:44:12] [Server thread/INFO]: Caber588 left the game
+[20:59:25] [Server thread/INFO]: LRIC issued server command: /back
+[21:06:08] [Server thread/INFO]: LRIC issued server command: /back
+[21:12:33] [Server thread/INFO]: LRIC issued server command: /fly
+[21:13:02] [Server thread/INFO]: LRIC has made the advancement [We Need to Go Deeper]
