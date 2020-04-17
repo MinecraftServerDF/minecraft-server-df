@@ -389,6 +389,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-04-16 18:44:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/break_diamond_hoe": {
+    "criteria": {
+      "broke_hoe": "2020-04-17 01:42:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2020-04-09 22:33:34 +0800"
@@ -587,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-15 01:33:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-08 19:48:02 +0800"
@@ -608,6 +626,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 00:00:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2020-04-16 14:52:53 +0800"
     },
     "done": true
   },
@@ -651,10 +675,12 @@
     "criteria": {
       "minecraft:blaze": "2020-04-10 21:19:16 +0800",
       "minecraft:skeleton": "2020-04-05 22:50:09 +0800",
+      "minecraft:zombie_pigman": "2020-04-14 22:54:54 +0800",
       "minecraft:ghast": "2020-04-10 21:15:40 +0800",
       "minecraft:magma_cube": "2020-04-12 15:00:48 +0800",
       "minecraft:spider": "2020-04-06 01:18:52 +0800",
       "minecraft:creeper": "2020-04-09 16:02:30 +0800",
+      "minecraft:slime": "2020-04-16 01:37:26 +0800",
       "minecraft:phantom": "2020-04-09 16:03:19 +0800",
       "minecraft:witch": "2020-04-07 01:25:14 +0800",
       "minecraft:wither_skeleton": "2020-04-10 21:35:19 +0800",
@@ -771,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-15 01:33:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-10 21:26:25 +0800"
@@ -786,6 +818,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2020-04-10 21:26:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-15 01:33:08 +0800"
     },
     "done": true
   },
@@ -951,6 +989,18 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-16 15:25:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-15 01:33:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-06 01:07:56 +0800"
@@ -1002,6 +1052,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-04-05 23:50:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-04-16 18:44:57 +0800"
     },
     "done": true
   },
@@ -1270,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-16 01:37:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-07 00:40:46 +0800"
@@ -1435,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-04-16 16:45:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2020-04-12 16:58:24 +0800"
@@ -1546,6 +1614,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-04-10 01:03:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-04-15 01:58:15 +0800"
     },
     "done": true
   },
@@ -1861,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-04-16 15:27:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-05 22:47:52 +0800"
@@ -1894,6 +1974,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-04-13 23:12:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-16 01:40:54 +0800"
     },
     "done": true
   },
@@ -1942,6 +2028,7 @@
       "apple": "2020-04-09 15:08:24 +0800",
       "cooked_cod": "2020-04-05 23:18:56 +0800",
       "poisonous_potato": "2020-04-13 02:51:46 +0800",
+      "mutton": "2020-04-16 02:07:30 +0800",
       "bread": "2020-04-08 23:21:34 +0800",
       "dried_kelp": "2020-04-06 00:27:09 +0800",
       "cooked_rabbit": "2020-04-07 00:25:11 +0800",
@@ -1971,6 +2058,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 00:00:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-04-15 01:51:48 +0800"
     },
     "done": true
   },
@@ -2031,6 +2124,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-15 01:33:08 +0800"
     },
     "done": true
   },
@@ -2173,6 +2272,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-04-07 00:40:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-16 01:41:43 +0800"
     },
     "done": true
   },
@@ -2452,6 +2557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-16 01:37:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-10 22:21:47 +0800"
@@ -2584,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-15 01:33:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-09 14:37:55 +0800"
@@ -2659,6 +2776,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-10 22:21:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-04-17 01:00:59 +0800"
     },
     "done": true
   },
@@ -2779,6 +2902,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-07 00:40:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-16 01:37:41 +0800"
     },
     "done": true
   },

@@ -3,14 +3,14 @@
 #> Need help with this file? Please visit:
 #> http://dev.bukkit.org/server-mods/bkcommonlib/pages/general/localization/
 commands:
-  train:
-    description: Perform TrainCarts commands for complete trains
+  savedtrain:
+    description: Performs TrainCarts commands for trains that have been saved
     usage: See development or WIKI page of TrainCarts
   cart:
     description: Perform TrainCarts commands for single minecarts
     usage: See development or WIKI page of TrainCarts
-  savedtrain:
-    description: Performs TrainCarts commands for trains that have been saved
+  train:
+    description: Perform TrainCarts commands for complete trains
     usage: See development or WIKI page of TrainCarts
 command:
   about: TrainCarts %0% - See WIKI page for more information
@@ -18,19 +18,6 @@ command:
   animate:
     success: &aNow playing animation &e%0%&a at speed &e%1%&a with phase delay &e%2%
     failure: &cFailed to find animation &e%0%&c!
-ticket:
-  add: &f[Ticket System]&e You received %0% in your bank account!
-  check: &f[Ticket System]&e You currently have %0% in your bank account!
-  buyfail: &f[Ticket System]&c You can't afford a Ticket for %0%, sorry.
-  buy: &f[Ticket System]&e You bought a Ticket for %0%.
-  expired: &cYour ticket for %0% is expired
-  required: &cYou do not own a ticket for this train!
-  used: &aYou have used your &e%0%&a ticket!
-  conflict: &cYou own multiple tickets that can be used for this train. Please hold
-    the right ticket in your hand!
-  ownerconflict: &cThe train ticket %0% is not yours, it belongs to %1%!
-  typeconflict: &cThe train ticket %0% can not be used for this train!
-  buyowner: &f[Ticket System]&e %0% &ebought a Ticket for %1% on &f%2%&e.
 edit:
   noselect: &eYou haven't selected a train to edit yet!
   notallowed: &cYou are not allowed to own trains!
@@ -38,6 +25,19 @@ edit:
   notowned: &cYou do not own this train!
 select:
   destination: &eYou have selected &f%0%&e as your destination!
+ticket:
+  expired: &cYour ticket for %0% is expired
+  required: &cYou do not own a ticket for this train!
+  used: &aYou have used your &e%0%&a ticket!
+  conflict: &cYou own multiple tickets that can be used for this train. Please hold
+    the right ticket in your hand!
+  ownerconflict: &cThe train ticket %0% is not yours, it belongs to %1%!
+  typeconflict: &cThe train ticket %0% can not be used for this train!
+  add: &f[Ticket System]&e You received %0% in your bank account!
+  check: &f[Ticket System]&e You currently have %0% in your bank account!
+  buyfail: &f[Ticket System]&c You can't afford a Ticket for %0%, sorry.
+  buy: &f[Ticket System]&e You bought a Ticket for %0%.
+  buyowner: &f[Ticket System]&e %0% &ebought a Ticket for %1% on &f%2%&e.
 waiter:
   notfound: &cDidn't find a &e%0%&c sign on the track!
 pathfinding:

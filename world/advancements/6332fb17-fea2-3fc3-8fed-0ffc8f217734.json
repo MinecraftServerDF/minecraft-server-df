@@ -125,9 +125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-15 14:27:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-04-11 23:25:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-17 12:39:45 +0800"
     },
     "done": true
   },
@@ -140,6 +152,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-09 17:10:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-04-17 02:00:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 19:22:15 +0800"
@@ -254,6 +278,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-04-12 21:58:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-14 22:28:22 +0800"
     },
     "done": true
   },
@@ -386,6 +416,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 21:13:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -596,14 +632,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-04-11 00:44:54 +0800",
+      "minecraft:blaze": "2020-04-17 12:40:11 +0800",
       "minecraft:skeleton": "2020-04-09 18:00:44 +0800",
       "minecraft:zombie_pigman": "2020-04-12 21:58:38 +0800",
+      "minecraft:ghast": "2020-04-17 12:36:34 +0800",
+      "minecraft:magma_cube": "2020-04-17 12:39:26 +0800",
       "minecraft:spider": "2020-04-10 12:53:24 +0800",
       "minecraft:creeper": "2020-04-09 21:02:04 +0800",
       "minecraft:phantom": "2020-04-10 00:43:21 +0800",
       "minecraft:witch": "2020-04-13 18:42:13 +0800",
+      "minecraft:wither_skeleton": "2020-04-17 12:40:15 +0800",
       "minecraft:husk": "2020-04-09 17:25:20 +0800",
       "minecraft:cave_spider": "2020-04-11 15:16:58 +0800",
+      "minecraft:enderman": "2020-04-14 23:09:20 +0800",
       "minecraft:zombie": "2020-04-09 17:16:48 +0800",
       "minecraft:drowned": "2020-04-11 15:02:01 +0800",
       "minecraft:zombie_villager": "2020-04-10 21:52:16 +0800"
@@ -679,6 +720,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-04-13 20:20:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-15 14:27:15 +0800"
     },
     "done": true
   },
@@ -761,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-04-16 15:19:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
@@ -827,9 +880,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-17 12:44:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 21:13:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -860,6 +925,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-16 15:25:49 +0800"
     },
     "done": true
   },
@@ -980,6 +1051,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-04-11 23:56:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -1149,6 +1226,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-04-09 17:16:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -1587,6 +1670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-04-10 21:26:25 +0800"
@@ -1695,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-04-16 15:27:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-04-09 17:05:58 +0800"
@@ -1722,6 +1817,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-04-09 19:41:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-16 01:40:54 +0800"
     },
     "done": true
   },
@@ -1755,14 +1856,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-15 01:24:58 +0800",
       "cooked_beef": "2020-04-09 18:46:09 +0800",
       "baked_potato": "2020-04-09 17:35:16 +0800",
       "apple": "2020-04-09 17:18:34 +0800",
+      "potato": "2020-04-15 22:34:40 +0800",
       "bread": "2020-04-10 21:26:52 +0800",
       "golden_apple": "2020-04-10 21:32:14 +0800",
-      "cooked_rabbit": "2020-04-09 17:34:31 +0800"
+      "cooked_rabbit": "2020-04-09 17:34:31 +0800",
+      "carrot": "2020-04-16 16:10:08 +0800"
     },
     "done": false
   },
@@ -1904,6 +2014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2020-04-10 00:58:57 +0800"
@@ -1940,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-17 12:45:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
@@ -1966,6 +2088,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-04-17 18:12:35 +0800",
       "minecraft:turtle": "2020-04-12 19:59:52 +0800",
       "minecraft:cow": "2020-04-12 20:33:00 +0800"
     },
@@ -2025,6 +2148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-14 22:28:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 21:13:59 +0800"
@@ -2070,6 +2199,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-04-09 17:05:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -2361,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-04-09 17:07:21 +0800"
@@ -2439,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-04-17 12:38:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-09 20:39:14 +0800"
@@ -2466,6 +2613,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 22:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-04-17 01:01:02 +0800"
     },
     "done": true
   },
@@ -2502,6 +2655,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-04-09 18:07:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -2547,9 +2706,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-04-14 23:48:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-04-09 19:51:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-04-16 15:19:01 +0800"
     },
     "done": true
   },
@@ -2568,6 +2739,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-04-09 19:51:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
     },
     "done": true
   },
@@ -2592,6 +2769,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-09 22:39:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-04-17 12:45:14 +0800"
     },
     "done": true
   },
@@ -2634,6 +2817,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2020-04-09 17:11:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-17 12:44:52 +0800"
     },
     "done": true
   },
@@ -2682,6 +2871,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-09 22:26:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-17 12:44:52 +0800"
     },
     "done": true
   },
@@ -2853,6 +3048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-04-16 15:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-04-09 19:10:13 +0800"
@@ -2935,6 +3136,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-09 22:26:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-15 14:27:15 +0800"
     },
     "done": true
   },

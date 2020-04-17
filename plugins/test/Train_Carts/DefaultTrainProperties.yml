@@ -1,23 +1,30 @@
 default:
   soundEnabled: true
   displayName: ''
-  allowPlayerTake: true
+  allowPlayerTake: false
   requirePoweredMinecart: false
   trainCollision: true
+  collisionDamage: 1.0
   keepChunksLoaded: false
   speedLimit: 0.4
+  gravity: 1.0
+  waitDistance: 0.0
+  suffocation: true
+  killMessage: ''
+  banking:
+    strength: 0.0
+    smoothness: 10.0
   slowDown: true
   allowManualMovement: false
+  allowMobManualMovement: false
+  tickets: []
   collision:
     players: DEFAULT
     misc: PUSH
     train: LINK
-    passive: DEFAULT
-    neutral: DEFAULT
-    hostile: DEFAULT
-    tameable: DEFAULT
-    utility: DEFAULT
-    boss: DEFAULT
+    block: DEFAULT
+  blockTypes: ''
+  blockOffset: unset
   owners: []
   ownerPermissions: []
   tags: []
@@ -33,30 +40,37 @@ default:
     z: 0.0
   exitYaw: 0.0
   exitPitch: 0.0
-  blockBreakTypes: []
+  driveSound: ''
   destination: ''
   enterMessage: ''
   spawnItemDrops: true
 admin:
   soundEnabled: true
   displayName: ''
-  allowPlayerTake: true
+  allowPlayerTake: false
   requirePoweredMinecart: false
   trainCollision: true
+  collisionDamage: 1.0
   keepChunksLoaded: false
   speedLimit: 0.4
+  gravity: 1.0
+  waitDistance: 0.0
+  suffocation: true
+  killMessage: ''
+  banking:
+    strength: 0.0
+    smoothness: 10.0
   slowDown: true
   allowManualMovement: false
+  allowMobManualMovement: false
+  tickets: []
   collision:
     players: DEFAULT
     misc: PUSH
     train: LINK
-    passive: DEFAULT
-    neutral: DEFAULT
-    hostile: DEFAULT
-    tameable: DEFAULT
-    utility: DEFAULT
-    boss: DEFAULT
+    block: DEFAULT
+  blockTypes: ''
+  blockOffset: unset
   owners: []
   ownerPermissions: []
   tags: []
@@ -72,30 +86,37 @@ admin:
     z: 0.0
   exitYaw: 0.0
   exitPitch: 0.0
-  blockBreakTypes: []
+  driveSound: ''
   destination: ''
   enterMessage: ''
   spawnItemDrops: true
 spawner:
   soundEnabled: true
   displayName: ''
-  allowPlayerTake: true
+  allowPlayerTake: false
   requirePoweredMinecart: false
   trainCollision: true
+  collisionDamage: 1.0
   keepChunksLoaded: false
   speedLimit: 0.4
+  gravity: 1.0
+  waitDistance: 0.0
+  suffocation: true
+  killMessage: ''
+  banking:
+    strength: 0.0
+    smoothness: 10.0
   slowDown: true
   allowManualMovement: false
+  allowMobManualMovement: false
+  tickets: []
   collision:
     players: DEFAULT
     misc: PUSH
     train: LINK
-    passive: DEFAULT
-    neutral: DEFAULT
-    hostile: DEFAULT
-    tameable: DEFAULT
-    utility: DEFAULT
-    boss: DEFAULT
+    block: DEFAULT
+  blockTypes: ''
+  blockOffset: unset
   owners: []
   ownerPermissions: []
   tags: []
@@ -111,7 +132,7 @@ spawner:
     z: 0.0
   exitYaw: 0.0
   exitPitch: 0.0
-  blockBreakTypes: []
+  driveSound: ''
   destination: ''
   enterMessage: ''
   spawnItemDrops: true
