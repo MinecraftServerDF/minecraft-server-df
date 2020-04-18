@@ -170,3 +170,52 @@
 [09:39:36] [User Authenticator #27/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
 [09:39:36] [Server thread/INFO]: LRIC[/123.194.147.86:50750] logged in with entity id 432128 at ([world]-688.0727452562599, 62.0, 151.5332243324282)
 [09:39:43] [Craft Scheduler Thread - 437/INFO]: [AuthMe] LRIC logged in!
+[10:21:44] [Server thread/INFO]: LRIC lost connection: Timed out
+[10:21:44] [Server thread/INFO]: LRIC left the game
+[10:37:06] [Server thread/INFO]: SpyCat005 fell from a high place
+[10:58:27] [User Authenticator #28/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[10:58:28] [Server thread/INFO]: wolf[/115.165.203.20:62833] logged in with entity id 448282 at ([world]297.8303343658911, 70.0, 1553.677373909623)
+[10:58:41] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[10:58:41] [Server thread/INFO]: SpyCat005 left the game
+[10:58:54] [Craft Scheduler Thread - 456/INFO]: [AuthMe] wolf logged in!
+[10:59:07] [User Authenticator #29/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[10:59:07] [Server thread/INFO]: SpyCat005[/115.165.227.248:8577] logged in with entity id 448769 at ([world]590.4085201368607, 65.0, 839.5350091768364)
+[10:59:24] [Craft Scheduler Thread - 455/INFO]: [AuthMe] SpyCat005 logged in!
+[11:15:30] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> w
+[11:15:33] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> wolf
+[11:15:35] [Async Chat Thread - #11/INFO]: [world]<wolf> ?
+[11:15:46] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 喔喔 沒事以為你掛機
+[11:15:52] [Async Chat Thread - #11/INFO]: [world]<wolf> yee
+[11:16:04] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 你在幹嘛
+[11:16:14] [Async Chat Thread - #11/INFO]: [world]<wolf> 挖礦
+[11:16:39] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 你家在哪0.0村莊附近嗎
+[11:16:46] [Async Chat Thread - #11/INFO]: [world]<wolf> 沒
+[11:16:58] [Async Chat Thread - #11/INFO]: [world]<wolf> 目前在遠征
+[11:17:03] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 喔喔
+[11:38:03] [Server thread/INFO]: wolf lost connection: Disconnected
+[11:38:03] [Server thread/INFO]: wolf left the game
+[11:41:16] [Server thread/INFO]: SpyCat005 was shot by Skeleton
+[11:44:04] [User Authenticator #30/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[11:44:04] [Server thread/INFO]: Andy[/220.135.139.86:50055] logged in with entity id 487917 at ([world]-387.5, 68.0, -506.5)
+[11:44:11] [Craft Scheduler Thread - 468/INFO]: [AuthMe] Andy logged in!
+[11:50:31] [Server thread/INFO]: Andy issued server command: /home
+[11:51:01] [Server thread/INFO]: Andy issued server command: /back
+[11:52:20] [Server thread/INFO]: Andy issued server command: /back
+[11:53:02] [Server thread/INFO]: Andy issued server command: /back
+[11:58:49] [Server thread/INFO]: SpyCat005 issued server command: /back
+[12:02:40] [Server thread/INFO]: Andy issued server command: /home
+[12:03:30] [Server thread/INFO]: Andy issued server command: /
+[12:03:40] [Server thread/INFO]: Andy issued server command: /back
+[12:11:24] [Server thread/INFO]: Andy issued server command: /home
+[12:13:12] [Server thread/INFO]: Andy issued server command: /back
+[12:15:19] [Server thread/INFO]: Andy issued server command: /home
+[12:17:57] [Server thread/INFO]: SpyCat005 was slain by Zombie
+[12:18:10] [Server thread/INFO]: Andy issued server command: /back
+[12:18:56] [Server thread/INFO]: Andy was slain by Zombie
+[12:19:03] [Server thread/INFO]: Andy issued server command: /back
+[12:20:04] [Server thread/INFO]: Andy issued server command: /home
+[12:20:26] [Server thread/INFO]: Andy issued server command: /back
+[12:26:19] [Server thread/INFO]: Andy was slain by Zombie
+[12:26:39] [Server thread/INFO]: Andy issued server command: /back
+[12:30:29] [Server thread/INFO]: Andy issued server command: /home
+[12:31:43] [Server thread/INFO]: Andy issued server command: /back
