@@ -311,9 +311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-04-06 00:32:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-18 18:38:08 +0800"
     },
     "done": true
   },
@@ -422,6 +434,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2020-04-07 22:01:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
     },
     "done": true
   },
@@ -618,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-05 14:54:37 +0800"
@@ -786,6 +810,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-05 23:20:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
     },
     "done": true
   },
@@ -1380,6 +1410,7 @@
       "minecraft:river": "2020-04-05 14:38:52 +0800",
       "minecraft:lukewarm_ocean": "2020-04-05 16:27:28 +0800",
       "minecraft:snowy_taiga": "2020-04-05 21:21:02 +0800",
+      "minecraft:birch_forest_hills": "2020-04-18 17:41:00 +0800",
       "minecraft:wooded_mountains": "2020-04-05 20:21:10 +0800",
       "minecraft:wooded_hills": "2020-04-05 16:33:38 +0800",
       "minecraft:stone_shore": "2020-04-05 14:53:23 +0800",
@@ -1997,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-18 18:35:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-12 20:43:45 +0800"
@@ -2237,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-18 18:35:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-05 21:30:30 +0800"
@@ -2293,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-04-05 15:03:10 +0800"
@@ -2338,6 +2387,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-04-05 15:54:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-18 18:38:08 +0800"
     },
     "done": true
   },
@@ -2965,6 +3020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-04-18 16:52:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-07 20:52:27 +0800"
@@ -3022,6 +3083,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-07 20:52:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-04-18 18:35:01 +0800"
     },
     "done": true
   },
