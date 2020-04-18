@@ -237,3 +237,37 @@
 [13:28:47] [Server thread/INFO]: biteyou74[/120.102.191.141:13475] logged in with entity id 533860 at ([world]-232.7861339654427, 85.5, -1035.772795304163)
 [13:28:55] [Craft Scheduler Thread - 502/INFO]: [AuthMe] biteyou74 logged in!
 [13:32:15] [Server thread/INFO]: biteyou74 issued server command: /fly
+[13:34:14] [Server thread/INFO]: SpyCat005 burned to death
+[13:34:27] [Server thread/INFO]: SpyCat005 issued server command: /back
+[13:43:33] [User Authenticator #32/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[13:43:33] [Server thread/INFO]: LRIC[/123.194.147.86:51672] logged in with entity id 540512 at ([world]-686.3000000119209, 62.0, 149.92500001192093)
+[13:43:38] [Craft Scheduler Thread - 508/INFO]: [AuthMe] LRIC logged in!
+[13:51:37] [Server thread/INFO]: Andy issued server command: /back
+[13:53:39] [Server thread/INFO]: Andy issued server command: /home
+[13:56:21] [Server thread/INFO]: Andy issued server command: /back
+[13:59:31] [Server thread/INFO]: Andy was slain by Zombie
+[14:00:19] [Server thread/INFO]: Andy issued server command: /back
+[14:02:01] [Server thread/INFO]: SpyCat005 was slain by Zombie
+[14:02:05] [Server thread/INFO]: SpyCat005 issued server command: /back
+[14:02:13] [Server thread/INFO]: SpyCat005 issued server command: /back
+[14:02:48] [Server thread/INFO]: Andy was slain by Zombie
+[14:03:02] [Server thread/INFO]: Andy issued server command: /back
+[14:09:45] [Server thread/INFO]: Andy was slain by Cave Spider
+[14:10:46] [Server thread/INFO]: Andy issued server command: /back
+[14:10:52] [Server thread/INFO]: Andy issued server command: /home
+[14:11:21] [Server thread/INFO]: Andy issued server command: /back
+[14:13:03] [Server thread/INFO]: Andy issued server command: /home
+[14:13:51] [Server thread/INFO]: Andy issued server command: /back
+[14:14:07] [Server thread/INFO]: Andy was slain by Cave Spider
+[14:14:11] [Server thread/INFO]: Andy issued server command: /back
+[14:18:20] [Server thread/INFO]: Andy issued server command: /home
+[14:19:54] [Server thread/INFO]: Andy issued server command: /back
+[14:21:27] [Server thread/INFO]: Andy was shot by Skeleton
+[14:21:54] [Server thread/INFO]: Andy issued server command: /back
+[14:22:20] [Server thread/INFO]: LRIC issued server command: /fly
+[14:22:43] [User Authenticator #33/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[14:22:43] [Server thread/INFO]: basic_balion[/36.235.254.23:13981] logged in with entity id 568695 at ([world]-289.45245001914725, 79.0, -1034.4651905786122)
+[14:22:49] [Server thread/INFO]: basic_balion issued server command: /login
+[14:23:03] [Craft Scheduler Thread - 523/INFO]: [AuthMe] basic_balion logged in!
+[14:23:12] [Server thread/INFO]: basic_balion issued server command: /fly
+[14:27:59] [Server thread/ERROR]: Block at -952, 62, 61 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@1e3972e8. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.

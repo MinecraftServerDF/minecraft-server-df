@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-04-18 13:56:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-05 15:32:16 +0800"
@@ -632,6 +638,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-04-18 13:47:14 +0800",
       "minecraft:chicken": "2020-04-12 07:44:54 +0800",
       "minecraft:rabbit": "2020-04-12 16:16:44 +0800"
     },
@@ -754,6 +761,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-18 04:20:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-04-18 13:51:00 +0800"
     },
     "done": true
   },
@@ -1039,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-04-18 13:56:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2020-04-05 15:41:22 +0800"
@@ -1126,6 +1145,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-18 04:21:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-18 13:51:45 +0800"
     },
     "done": true
   },
@@ -1372,6 +1397,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-04-05 15:53:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-04-18 13:51:00 +0800"
     },
     "done": true
   },
@@ -1751,10 +1782,12 @@
       "minecraft:desert": "2020-04-12 08:21:24 +0800",
       "minecraft:frozen_river": "2020-04-12 05:26:43 +0800",
       "minecraft:jungle": "2020-04-05 15:30:29 +0800",
+      "minecraft:birch_forest": "2020-04-18 13:47:11 +0800",
       "minecraft:jungle_hills": "2020-04-12 09:03:09 +0800",
       "minecraft:beach": "2020-04-05 15:26:25 +0800",
       "minecraft:dark_forest": "2020-04-18 02:11:25 +0800",
       "minecraft:river": "2020-04-05 15:30:06 +0800",
+      "minecraft:birch_forest_hills": "2020-04-18 13:48:39 +0800",
       "minecraft:wooded_hills": "2020-04-17 23:53:28 +0800",
       "minecraft:swamp": "2020-04-05 15:44:59 +0800",
       "minecraft:plains": "2020-04-05 15:29:53 +0800"
@@ -1788,6 +1821,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-04-12 05:33:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-04-18 13:51:45 +0800"
     },
     "done": true
   },
@@ -1896,6 +1935,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-18 04:20:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-04-18 13:56:32 +0800"
     },
     "done": true
   },
