@@ -158,3 +158,15 @@
 [06:08:58] [Server thread/INFO]: Villager EntityVillager['Mason'/391891, l='world', x=634.80, y=66.94, z=734.24] died, message: 'Mason was slain by Zombie'
 [06:34:21] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [06:34:21] [Server thread/INFO]: biteyou74 left the game
+[08:22:44] [User Authenticator #26/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[08:22:44] [Server thread/INFO]: wolf[/115.165.203.20:61150] logged in with entity id 418239 at ([world]297.4538136111239, 70.0, 1553.1790289503099)
+[08:22:59] [Craft Scheduler Thread - 418/INFO]: [AuthMe] wolf logged in!
+[08:31:59] [Server thread/INFO]: wolf issued server command: /weather sun
+[09:16:40] [Server thread/WARN]: wolf moved wrongly!
+[09:17:43] [Server thread/INFO]: wolf lost connection: Disconnected
+[09:17:43] [Server thread/INFO]: wolf left the game
+[09:39:30] [Server thread/INFO]: SpyCat005 was shot by Skeleton
+[09:39:34] [Server thread/INFO]: SpyCat005 issued server command: /back
+[09:39:36] [User Authenticator #27/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[09:39:36] [Server thread/INFO]: LRIC[/123.194.147.86:50750] logged in with entity id 432128 at ([world]-688.0727452562599, 62.0, 151.5332243324282)
+[09:39:43] [Craft Scheduler Thread - 437/INFO]: [AuthMe] LRIC logged in!
