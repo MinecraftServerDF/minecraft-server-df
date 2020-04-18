@@ -516,6 +516,7 @@
       "minecraft:skeleton": "2020-04-08 22:18:59 +0800",
       "minecraft:spider": "2020-04-04 22:54:55 +0800",
       "minecraft:creeper": "2020-04-12 16:18:19 +0800",
+      "minecraft:slime": "2020-04-18 15:27:03 +0800",
       "minecraft:cave_spider": "2020-04-18 12:13:58 +0800",
       "minecraft:zombie": "2020-04-04 22:53:59 +0800",
       "minecraft:drowned": "2020-04-10 21:57:36 +0800",
@@ -978,6 +979,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-04-14 23:19:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 15:27:14 +0800"
     },
     "done": true
   },
@@ -1910,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 15:27:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-12 00:44:39 +0800"
@@ -2183,6 +2196,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-12 23:31:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-18 15:27:14 +0800"
     },
     "done": true
   },

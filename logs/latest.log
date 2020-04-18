@@ -271,3 +271,48 @@
 [14:23:03] [Craft Scheduler Thread - 523/INFO]: [AuthMe] basic_balion logged in!
 [14:23:12] [Server thread/INFO]: basic_balion issued server command: /fly
 [14:27:59] [Server thread/ERROR]: Block at -952, 62, 61 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@1e3972e8. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[14:34:25] [Server thread/INFO]: Andy issued server command: /home
+[14:35:48] [Server thread/INFO]: Andy issued server command: /back
+[14:39:44] [Server thread/INFO]: Andy issued server command: /home
+[14:45:45] [Server thread/INFO]: LRIC was slain by Phantom
+[14:57:59] [Server thread/INFO]: LRIC has reached the goal [Hired Help]
+[15:05:28] [User Authenticator #34/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[15:05:28] [Server thread/INFO]: Keisari1313[/111.248.203.214:55438] logged in with entity id 597767 at ([world]-223.296838630945, 104.0, -1076.3305268112779)
+[15:05:43] [Craft Scheduler Thread - 532/INFO]: [AuthMe] Keisari1313 logged in!
+[15:06:59] [Server thread/INFO]: Keisari1313 issued server command: /fly
+[15:08:59] [Server thread/INFO]: Keisari1313 has made the advancement [Best Friends Forever]
+[15:09:14] [User Authenticator #35/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[15:09:14] [Server thread/INFO]: rgps3725[/59.115.168.93:60971] logged in with entity id 600031 at ([world]-230.3864852829292, 122.0, -1083.503535786948)
+[15:09:20] [Craft Scheduler Thread - 536/INFO]: [AuthMe] rgps3725 logged in!
+[15:09:33] [Server thread/INFO]: rgps3725 issued server command: /fly
+[15:13:32] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[15:13:32] [Server thread/INFO]: basic_balion left the game
+[15:13:56] [User Authenticator #36/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[15:13:57] [Server thread/INFO]: basic_balion[/36.235.254.23:14782] logged in with entity id 603141 at ([world]-315.5120061680092, 77.4108395542985, -978.5240440560342)
+[15:14:03] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[15:14:03] [Server thread/INFO]: basic_balion left the game
+[15:14:34] [User Authenticator #37/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[15:14:34] [Server thread/INFO]: basic_balion[/36.235.254.23:14847] logged in with entity id 603526 at ([world]-315.5120061680092, 76.0, -978.5240440560342)
+[15:14:44] [Craft Scheduler Thread - 537/INFO]: [AuthMe] basic_balion logged in!
+[15:15:06] [Server thread/INFO]: basic_balion issued server command: /fly
+[15:16:27] [Server thread/INFO]: SpyCat005 has made the advancement [Suit Up]
+[15:17:18] [Server thread/INFO]: LRIC issued server command: /back
+[15:19:43] [Server thread/INFO]: Andy issued server command: /back
+[15:22:33] [Server thread/INFO]: Andy issued server command: /home
+[15:22:38] [Server thread/INFO]: LRIC issued server command: /back
+[15:23:12] [Server thread/INFO]: Andy issued server command: /back
+[15:23:42] [Server thread/INFO]: LRIC issued server command: /back
+[15:24:16] [Server thread/INFO]: LRIC has made the advancement [Best Friends Forever]
+[15:26:36] [Server thread/INFO]: SpyCat005 drowned
+[15:26:50] [Server thread/INFO]: LRIC issued server command: /back
+[15:27:52] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[15:27:52] [Server thread/INFO]: rgps3725 left the game
+[15:29:14] [User Authenticator #38/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[15:29:14] [Server thread/INFO]: rgps3725[/111.71.94.20:60409] logged in with entity id 617019 at ([world]-153.20942926732965, 84.5554307598092, -1054.2084500699752)
+[15:29:18] [Craft Scheduler Thread - 548/INFO]: [AuthMe] rgps3725 logged in!
+[15:29:25] [Server thread/INFO]: rgps3725 issued server command: /fly
+[15:33:15] [Server thread/INFO]: Andy issued server command: /home
+[15:33:30] [User Authenticator #39/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[15:33:31] [Server thread/INFO]: JerryU29[/49.159.80.132:57700] logged in with entity id 620298 at ([world]-225.13779771857668, 111.0, -1090.300000011921)
+[15:33:42] [Craft Scheduler Thread - 550/INFO]: [AuthMe] JerryU29 logged in!
+[15:33:51] [Server thread/INFO]: rgps3725 issued server command: /home

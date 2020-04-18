@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-04-18 14:57:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-03 20:35:02 +0800"
@@ -867,6 +873,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-08 22:34:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-18 15:24:16 +0800"
     },
     "done": true
   },
@@ -1825,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-04-18 14:40:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-03 22:25:49 +0800",
@@ -2374,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-04-18 14:53:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -2479,6 +2503,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-04-18 14:27:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-04-18 14:40:27 +0800"
     },
     "done": true
   },
@@ -2845,6 +2875,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-04-07 21:00:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-04-18 14:50:24 +0800"
     },
     "done": true
   },
