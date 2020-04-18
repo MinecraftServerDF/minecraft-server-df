@@ -219,3 +219,21 @@
 [12:26:39] [Server thread/INFO]: Andy issued server command: /back
 [12:30:29] [Server thread/INFO]: Andy issued server command: /home
 [12:31:43] [Server thread/INFO]: Andy issued server command: /back
+[12:38:10] [Server thread/INFO]: Villager EntityVillager['Farmer'/513989, l='world', x=623.99, y=64.00, z=718.44] died, message: 'Farmer was slain by Zombie'
+[12:38:45] [Server thread/INFO]: Villager EntityVillager['Cleric'/513920, l='world', x=571.14, y=64.00, z=728.83] died, message: 'Cleric was slain by Zombie Villager'
+[12:39:03] [Server thread/INFO]: Villager EntityVillager['Farmer'/513927, l='world', x=589.99, y=64.00, z=702.10] died, message: 'Farmer was slain by Zombie'
+[12:42:38] [Server thread/INFO]: Andy issued server command: /home
+[12:45:19] [Server thread/INFO]: Andy issued server command: /back
+[12:59:03] [Server thread/INFO]: Andy was burnt to a crisp whilst fighting Skeleton
+[12:59:26] [Server thread/INFO]: Andy issued server command: /back
+[13:00:25] [Server thread/INFO]: Andy issued server command: /home
+[13:05:52] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/513974, l='world', x=551.74, y=70.94, z=748.24] died, message: 'Toolsmith was slain by Zombie'
+[13:07:11] [Server thread/WARN]: SpyCat005 moved wrongly!
+[13:08:25] [Server thread/INFO]: SpyCat005 was slain by Zombie
+[13:09:30] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> A
+[13:09:34] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> Andy
+[13:09:43] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> 你那裏有西瓜嗎
+[13:28:47] [User Authenticator #31/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[13:28:47] [Server thread/INFO]: biteyou74[/120.102.191.141:13475] logged in with entity id 533860 at ([world]-232.7861339654427, 85.5, -1035.772795304163)
+[13:28:55] [Craft Scheduler Thread - 502/INFO]: [AuthMe] biteyou74 logged in!
+[13:32:15] [Server thread/INFO]: biteyou74 issued server command: /fly
