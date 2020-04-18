@@ -936,6 +936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-04-18 15:55:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-03 22:28:28 +0800"
@@ -1261,6 +1267,7 @@
       "minecraft:taiga_hills": "2020-04-10 19:06:59 +0800",
       "minecraft:desert": "2020-04-03 21:53:38 +0800",
       "minecraft:jungle": "2020-04-05 19:54:46 +0800",
+      "minecraft:birch_forest": "2020-04-18 15:47:09 +0800",
       "minecraft:jungle_hills": "2020-04-10 18:08:13 +0800",
       "minecraft:bamboo_jungle": "2020-04-10 19:50:37 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-03 22:43:37 +0800",
