@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-18 18:51:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-09 01:18:30 +0800"
@@ -693,15 +699,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-04-05 16:22:35 +0800",
+      "minecraft:blaze": "2020-04-18 18:51:40 +0800",
       "minecraft:skeleton": "2020-04-05 15:07:45 +0800",
       "minecraft:zombie_pigman": "2020-04-11 19:56:16 +0800",
+      "minecraft:ravager": "2020-04-18 19:06:33 +0800",
       "minecraft:ghast": "2020-04-10 21:05:43 +0800",
       "minecraft:vindicator": "2020-04-08 00:29:37 +0800",
       "minecraft:spider": "2020-04-05 14:55:10 +0800",
       "minecraft:creeper": "2020-04-05 15:00:19 +0800",
       "minecraft:slime": "2020-04-08 22:57:11 +0800",
+      "minecraft:evoker": "2020-04-18 19:10:46 +0800",
       "minecraft:phantom": "2020-04-05 21:19:08 +0800",
       "minecraft:witch": "2020-04-07 21:04:35 +0800",
+      "minecraft:wither_skeleton": "2020-04-18 18:50:18 +0800",
       "minecraft:cave_spider": "2020-04-07 21:15:29 +0800",
       "minecraft:enderman": "2020-04-08 23:47:16 +0800",
       "minecraft:silverfish": "2020-04-16 20:15:55 +0800",
@@ -966,6 +976,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-12 21:14:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-18 18:53:21 +0800"
     },
     "done": true
   },
@@ -1254,6 +1270,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:32:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-18 19:12:28 +0800"
     },
     "done": true
   },
@@ -2606,6 +2628,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-04-18 19:05:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-04-07 00:13:59 +0800"
@@ -3134,6 +3162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-18 18:53:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-04-12 21:14:18 +0800"
@@ -3173,6 +3207,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-04-05 21:19:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-18 18:53:21 +0800"
     },
     "done": true
   },

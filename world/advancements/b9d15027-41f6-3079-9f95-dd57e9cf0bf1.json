@@ -674,13 +674,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-04-10 21:19:16 +0800",
+      "minecraft:pillager": "2020-04-18 19:01:21 +0800",
       "minecraft:skeleton": "2020-04-05 22:50:09 +0800",
       "minecraft:zombie_pigman": "2020-04-14 22:54:54 +0800",
+      "minecraft:ravager": "2020-04-18 19:08:40 +0800",
       "minecraft:ghast": "2020-04-10 21:15:40 +0800",
+      "minecraft:vindicator": "2020-04-18 19:09:02 +0800",
       "minecraft:magma_cube": "2020-04-12 15:00:48 +0800",
       "minecraft:spider": "2020-04-06 01:18:52 +0800",
       "minecraft:creeper": "2020-04-09 16:02:30 +0800",
       "minecraft:slime": "2020-04-16 01:37:26 +0800",
+      "minecraft:evoker": "2020-04-18 19:11:14 +0800",
       "minecraft:phantom": "2020-04-09 16:03:19 +0800",
       "minecraft:witch": "2020-04-07 01:25:14 +0800",
       "minecraft:wither_skeleton": "2020-04-10 21:35:19 +0800",
@@ -794,6 +798,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-05 23:20:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-18 19:01:21 +0800"
     },
     "done": true
   },
@@ -1244,6 +1254,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 00:00:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-18 19:13:16 +0800"
     },
     "done": true
   },
@@ -1827,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-04-18 19:16:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-06 23:55:59 +0800"
@@ -1968,6 +1990,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-04-11 00:29:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-04-18 19:32:46 +0800"
     },
     "done": true
   },
@@ -2500,6 +2528,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2020-04-10 22:22:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-04-18 19:05:28 +0800"
     },
     "done": true
   },
@@ -3040,6 +3074,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-10 21:19:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-18 19:02:26 +0800"
     },
     "done": true
   },

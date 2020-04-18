@@ -721,8 +721,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-18 19:02:45 +0800",
       "minecraft:skeleton": "2020-04-11 19:28:58 +0800",
       "minecraft:ghast": "2020-04-12 23:34:11 +0800",
+      "minecraft:vindicator": "2020-04-18 19:08:06 +0800",
       "minecraft:spider": "2020-04-11 18:06:24 +0800",
       "minecraft:creeper": "2020-04-12 15:10:25 +0800",
       "minecraft:slime": "2020-04-12 14:23:52 +0800",
@@ -833,6 +835,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2020-04-11 00:37:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-18 19:08:06 +0800"
     },
     "done": true
   },
@@ -1031,6 +1039,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-11 21:15:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-18 18:39:31 +0800"
     },
     "done": true
   },
@@ -1284,6 +1298,12 @@
     "criteria": {
       "has_stick": "2020-04-11 00:37:10 +0800",
       "has_iron_ingot": "2020-04-11 00:37:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-18 19:20:04 +0800"
     },
     "done": true
   },
@@ -1879,6 +1899,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-04-18 19:16:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-11 21:15:50 +0800"
@@ -1996,6 +2022,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_red_dye": "2020-04-14 23:05:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-04-18 18:39:31 +0800"
     },
     "done": true
   },
@@ -2590,6 +2622,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2020-04-18 19:25:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-04-18 19:12:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-04-12 23:56:14 +0800"
@@ -3160,6 +3204,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-04-18 18:54:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2020-04-12 23:52:15 +0800"
@@ -3169,6 +3219,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-12 20:59:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-04-18 18:42:20 +0800"
     },
     "done": true
   },
@@ -3295,6 +3351,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2020-04-18 17:33:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-04-18 18:50:46 +0800"
     },
     "done": true
   },
