@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-18 20:21:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 01:09:34 +0800"
@@ -134,6 +140,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-04-17 00:13:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-18 20:21:59 +0800"
     },
     "done": true
   },
@@ -256,6 +268,7 @@
       "cooked_beef": "2020-04-16 22:19:26 +0800",
       "baked_potato": "2020-04-13 00:56:17 +0800",
       "bread": "2020-04-14 20:50:16 +0800",
+      "cooked_salmon": "2020-04-18 19:59:42 +0800",
       "carrot": "2020-04-16 21:58:57 +0800"
     },
     "done": false
@@ -422,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-18 20:27:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-13 01:14:29 +0800"
@@ -491,6 +510,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-13 01:11:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-18 20:21:59 +0800"
     },
     "done": true
   },
@@ -704,9 +729,11 @@
       "minecraft:skeleton": "2020-04-13 00:57:32 +0800",
       "minecraft:zombie_pigman": "2020-04-17 00:07:35 +0800",
       "minecraft:ghast": "2020-04-17 00:02:38 +0800",
+      "minecraft:magma_cube": "2020-04-18 20:37:05 +0800",
       "minecraft:spider": "2020-04-13 03:12:49 +0800",
       "minecraft:creeper": "2020-04-13 03:13:41 +0800",
       "minecraft:slime": "2020-04-18 01:09:50 +0800",
+      "minecraft:phantom": "2020-04-18 20:18:53 +0800",
       "minecraft:witch": "2020-04-16 23:05:37 +0800",
       "minecraft:wither_skeleton": "2020-04-17 00:03:37 +0800",
       "minecraft:cave_spider": "2020-04-14 21:11:46 +0800",
@@ -1179,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-04-18 20:27:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-04-15 00:06:21 +0800"
@@ -1212,6 +1245,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-13 02:46:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-04-18 20:08:31 +0800"
     },
     "done": true
   },
@@ -1308,6 +1347,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-13 01:01:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-04-18 20:12:44 +0800"
     },
     "done": true
   },
@@ -1495,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-04-18 20:21:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-04-13 02:46:23 +0800"
@@ -1528,6 +1579,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-13 01:05:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-04-18 20:21:59 +0800"
     },
     "done": true
   },

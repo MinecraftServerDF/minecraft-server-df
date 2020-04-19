@@ -1,754 +1,127 @@
-[00:06:48] [Server thread/INFO]: Andy issued server command: /sethome
-[00:07:23] [Server thread/INFO]: YuShiou was shot by Skeleton
-[00:13:13] [Server thread/INFO]: Villager EntityVillager['Shepherd'/193718, l='world', x=618.70, y=64.00, z=737.92] died, message: 'Shepherd was slain by Zombie'
-[00:18:40] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[00:18:40] [Server thread/INFO]: biteyou74 left the game
-[00:21:24] [Server thread/INFO]: LRIC lost connection: Disconnected
-[00:21:24] [Server thread/INFO]: LRIC left the game
-[00:29:39] [User Authenticator #20/INFO]: UUID of player aforward3326 is db071beb-bbd9-3849-9115-2dba8c71dbf7
-[00:29:39] [Server thread/INFO]: aforward3326[/1.34.110.242:51207] logged in with entity id 224047 at ([world]588.3061952772695, 63.0, -218.1450852551858)
-[00:29:50] [Craft Scheduler Thread - 292/INFO]: [AuthMe] aforward3326 logged in!
-[00:32:36] [Server thread/INFO]: Andy issued server command: /home
-[00:34:19] [Server thread/INFO]: Andy issued server command: /fly
-[00:36:20] [Server thread/INFO]: Villager EntityVillager['Fletcher'/193730, l='world', x=608.54, y=64.00, z=744.72] died, message: 'Fletcher was slain by Zombie'
-[00:39:38] [Server thread/INFO]: Andy issued server command: /home
-[00:41:35] [Server thread/INFO]: Andy issued server command: /fly
-[00:41:41] [Server thread/INFO]: Andy lost connection: Disconnected
-[00:41:41] [Server thread/INFO]: Andy left the game
-[00:50:03] [Server thread/INFO]: YuShiou lost connection: Disconnected
-[00:50:03] [Server thread/INFO]: YuShiou left the game
-[00:50:41] [Server thread/INFO]: [WEB] YuShiou: 村莊內有 神職、武器、防具 大師  
-[00:50:47] [Async Chat Thread - #6/INFO]: [world]<SpyCat005> OK
-[01:04:18] [User Authenticator #21/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
-[01:04:19] [Server thread/INFO]: Hibiki182[/119.77.247.72:8379] logged in with entity id 238956 at ([world]-226.70000002533197, 111.0000002, -1086.700000025332)
-[01:04:19] [User Authenticator #22/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[01:04:19] [Server thread/INFO]: Caber588[/219.70.214.164:58567] logged in with entity id 239226 at ([world]-218.96568743665378, 105.17291429705664, -1077.531845049796)
-[01:04:25] [Craft Scheduler Thread - 305/INFO]: [AuthMe] Caber588 logged in!
-[01:04:36] [Craft Scheduler Thread - 305/INFO]: [AuthMe] Hibiki182 logged in!
-[01:04:39] [Server thread/INFO]: Caber588 issued server command: /fly
-[01:04:48] [User Authenticator #23/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[01:04:48] [Server thread/INFO]: biteyou74[/27.247.44.109:21035] logged in with entity id 239533 at ([world]-210.21082384466754, 89.0, -1044.0032944067418)
-[01:04:55] [Server thread/INFO]: Hibiki182 issued server command: /fly
-[01:04:57] [Craft Scheduler Thread - 304/INFO]: [AuthMe] biteyou74 logged in!
-[01:05:17] [Server thread/INFO]: biteyou74 issued server command: /fly
-[01:06:22] [User Authenticator #24/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[01:06:22] [Server thread/INFO]: JerryU29[/49.159.80.132:55908] logged in with entity id 240459 at ([world]-225.19539459827254, 111.0, -1090.6415044459386)
-[01:06:30] [Server thread/INFO]: Caber588 issued server command: /home
-[01:06:31] [Craft Scheduler Thread - 308/INFO]: [AuthMe] JerryU29 logged in!
-[01:06:51] [Server thread/INFO]: JerryU29 issued server command: /fly
-[01:14:12] [Server thread/WARN]: JerryU29 moved too quickly! -0.06810912326079688,0.0,10.119580971899836
-[01:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
-[01:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[01:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[01:34:54] [Server thread/INFO]: Hibiki182 issued server command: /home
-[01:35:24] [Server thread/INFO]: Hibiki182 issued server command: /back
-[01:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5348ms or 106 ticks behind
-[01:49:03] [Server thread/INFO]: Caber588 issued server command: /home
-[01:49:17] [Server thread/INFO]: Caber588 issued server command: /back
-[01:53:52] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:57:54] [Server thread/INFO]: SpyCat005 was slain by Iron Golem
-[01:59:00] [Server thread/INFO]: Hibiki182 issued server command: /homes
-[01:59:33] [Server thread/WARN]: Hibiki182 moved too quickly! 4.543345780176651,0.0,-9.183309069190273
-[02:00:34] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:00:41] [Server thread/INFO]: JerryU29 issued server command: /back
-[02:00:56] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[02:04:34] [Server thread/WARN]: SpyCat005 moved too quickly! -1.0576916849950067,1.247796659746271,10.059140969687974
-[02:04:57] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:05:22] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:06:46] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:08:23] [Server thread/INFO]: Caber588 issued server command: /home
-[02:08:31] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:08:39] [Server thread/INFO]: Caber588 issued server command: /back
-[02:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[02:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[02:11:47] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:12:10] [Server thread/INFO]: Hibiki182 issued server command: /back
-[02:13:43] [Server thread/INFO]: biteyou74 issued server command: /BACK
-[02:13:47] [Server thread/INFO]: JerryU29 issued server command: /home
-[02:15:11] [Server thread/INFO]: aforward3326 was slain by Iron Golem
-[02:18:48] [Server thread/INFO]: biteyou74 has completed the challenge [Return to Sender]
-[02:19:43] [Server thread/WARN]: aforward3326 moved too quickly! -6.072972190699943,0.0,-8.088116740375483
-[02:22:08] [Server thread/INFO]: biteyou74 issued server command: /home
-[02:22:10] [Server thread/INFO]: JerryU29 issued server command: /back
-[02:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5704ms or 114 ticks behind
-[02:26:11] [Server thread/INFO]: SpyCat005 was shot by Skeleton
-[02:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5408ms or 108 ticks behind
-[02:30:49] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
-[02:30:49] [Server thread/INFO]: Hibiki182 left the game
-[02:32:21] [Server thread/INFO]: Caber588 issued server command: /home
-[02:33:13] [Server thread/INFO]: Villager EntityVillager['Villager'/314703, l='world', x=571.31, y=64.00, z=715.32] died, message: 'Villager was slain by Zombie'
-[02:33:33] [Server thread/INFO]: Villager EntityVillager['Farmer'/314710, l='world', x=598.24, y=64.00, z=728.76] died, message: 'Farmer was slain by Zombie'
-[02:33:39] [Server thread/INFO]: Villager EntityVillager['Villager'/319664, l='world', x=-3910.37, y=63.56, z=2557.28] died, message: 'Villager suffocated in a wall'
-[02:35:04] [Server thread/INFO]: Villager EntityVillager['Fletcher'/314720, l='world', x=632.80, y=66.00, z=757.75] died, message: 'Fletcher was slain by Zombie'
-[02:38:08] [Server thread/INFO]: Villager EntityVillager['Villager'/319740, l='world', x=-3912.82, y=63.00, z=2554.86] died, message: 'Villager was slain by Zombie'
-[02:41:30] [Server thread/INFO]: Caber588 issued server command: /home
-[02:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5142ms or 102 ticks behind
-[02:45:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5073ms or 101 ticks behind
-[02:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[02:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[02:47:18] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[02:47:18] [Server thread/INFO]: Caber588 left the game
-[02:51:31] [Server thread/INFO]: JerryU29 issued server command: /home
-[02:54:49] [Server thread/INFO]: Villager EntityVillager['Villager'/336376, l='world', x=612.17, y=63.94, z=723.17] died, message: 'Villager was slain by Zombie'
-[02:57:54] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[02:57:54] [Server thread/INFO]: JerryU29 left the game
-[03:18:39] [Server thread/INFO]: SpyCat005 was slain by Spider
-[03:37:09] [Server thread/INFO]: biteyou74 was blown up by Creeper
-[03:38:18] [Server thread/INFO]: aforward3326 was blown up by Creeper
-[03:40:17] [Server thread/INFO]: SpyCat005 issued server command: /back
-[03:55:08] [Server thread/INFO]: aforward3326 lost connection: Disconnected
-[03:55:08] [Server thread/INFO]: aforward3326 left the game
-[04:37:31] [Server thread/INFO]: SpyCat005 was slain by Zombie
-[04:40:06] [User Authenticator #25/INFO]: UUID of player OChinBo is 9057ccf1-84d0-3401-b238-b9b615506f4e
-[04:40:06] [Server thread/INFO]: OChinBo[/123.194.137.234:1379] logged in with entity id 378605 at ([creative]-634.1343842013661, 70.0, -114.91112509140288)
-[04:40:14] [Craft Scheduler Thread - 367/INFO]: [AuthMe] OChinBo logged in!
-[04:40:32] [Server thread/INFO]: OChinBo issued server command: /mv tp world
-[04:40:38] [Server thread/INFO]: OChinBo issued server command: /fly
-[04:41:23] [Server thread/INFO]: OChinBo issued server command: /gamemode adventure
-[04:41:33] [Server thread/INFO]: OChinBo issued server command: /gamemode creative
-[04:41:51] [Server thread/INFO]: OChinBo issued server command: /mv tp creative
-[04:42:01] [Server thread/INFO]: OChinBo issued server command: /mv tp world
-[04:42:09] [Server thread/INFO]: OChinBo issued server command: /fly
-[04:46:10] [Server thread/INFO]: [Server] 果然是假日.....
-[04:46:14] [Async Chat Thread - #7/INFO]: [world]<OChinBo> ~
-[04:46:28] [Async Chat Thread - #7/INFO]: [world]<SpyCat005> ?
-[04:46:28] [Server thread/INFO]: [Server] ?到家
-[04:46:47] [Async Chat Thread - #7/INFO]: [world]<OChinBo> WTF 快5點才剛到家
-[04:46:59] [Server thread/INFO]: [Server] 談生意太爽
-[04:47:05] [Server thread/INFO]: [Server] 哈哈哈
-[04:47:42] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 事業做這麼大
-[04:48:02] [Async Chat Thread - #7/INFO]: [world]<SpyCat005> 記得帶口罩?
-[04:48:03] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 求包養
-[04:48:07] [Server thread/INFO]: [Server] 失業一個月  今天談的 感覺可以底三個月
-[04:48:35] [Server thread/INFO]: [Server] 電腦都可以升級了
-[04:48:47] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 升起來
-[04:49:20] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 麥塊最近好像有RTX的改版
-[04:49:39] [Async Chat Thread - #7/INFO]: [world]<OChinBo> nvidia
-[04:49:41] [Server thread/INFO]: [Server] 那啥gpu?
-[04:49:47] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 恩
-[04:49:50] [Server thread/INFO]: [Server] cool
-[04:49:57] [Async Chat Thread - #7/INFO]: [world]<OChinBo> 其實就光影
-[04:50:13] [Server thread/WARN]: biteyou74 moved too quickly! -0.11999347054381815,-14.291148721789938,5.635431644348955
-[04:50:26] [Server thread/INFO]: [Server] 幹  我都挖礦的 挖礦都用 arm
-[04:51:00] [Server thread/INFO]: [Server] 回學校把 970 拔走
-[04:51:35] [Async Chat Thread - #8/INFO]: [world]<OChinBo> 你好多學校 你指哪一個
-[04:51:55] [Server thread/INFO]: [Server] 名船
-[04:51:58] [Async Chat Thread - #8/INFO]: [world]<OChinBo> mcu?
-[04:52:03] [Async Chat Thread - #8/INFO]: [world]<OChinBo> 喔喔
-[04:53:24] [Async Chat Thread - #9/INFO]: [world]<SpyCat005> =.=
-[04:53:28] [Server thread/INFO]: [Server] 明天 ochinbo搞啥呀
-[04:53:50] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 你的明天指的是18號還19號XD
-[04:54:09] [Server thread/INFO]: [Server] 今天好了
-[04:54:29] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 但其實我兩天都沒事
-[04:54:33] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 哈哈
-[04:55:08] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 上次上線跑去creative蓋房子
-[04:55:24] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 然後在創造模式下線
-[04:55:34] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 在上線 裝備都沒了
-[04:56:07] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 跨世界的物品紀錄好像有點問題
-[04:56:38] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 有時候mv tp過去 東西會記錄 有時不會
-[04:56:49] [Server thread/INFO]: [Server] 似乎是....  把插件都拿店就沒這問題了 XDDD
-[04:57:14] [Async Chat Thread - #9/INFO]: [world]<OChinBo> 插件拿掉不就沒法跨世界了
-[05:02:17] [Server thread/INFO]: SpyCat005 was blown up by Creeper
-[05:02:51] [Async Chat Thread - #10/INFO]: [world]<SpyCat005> 傻眼
-[05:02:57] [Server thread/INFO]: SpyCat005 issued server command: /back
-[05:03:13] [Async Chat Thread - #10/INFO]: [world]<OChinBo> XD
-[05:11:43] [Server thread/INFO]: OChinBo lost connection: Disconnected
-[05:11:43] [Server thread/INFO]: OChinBo left the game
-[05:13:37] [Server thread/INFO]: Villager EntityVillager['Mason'/381432, l='world', x=633.07, y=67.00, z=737.30] died, message: 'Mason was slain by Zombie'
-[06:08:58] [Server thread/INFO]: Villager EntityVillager['Mason'/391891, l='world', x=634.80, y=66.94, z=734.24] died, message: 'Mason was slain by Zombie'
-[06:34:21] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[06:34:21] [Server thread/INFO]: biteyou74 left the game
-[08:22:44] [User Authenticator #26/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[08:22:44] [Server thread/INFO]: wolf[/115.165.203.20:61150] logged in with entity id 418239 at ([world]297.4538136111239, 70.0, 1553.1790289503099)
-[08:22:59] [Craft Scheduler Thread - 418/INFO]: [AuthMe] wolf logged in!
-[08:31:59] [Server thread/INFO]: wolf issued server command: /weather sun
-[09:16:40] [Server thread/WARN]: wolf moved wrongly!
-[09:17:43] [Server thread/INFO]: wolf lost connection: Disconnected
-[09:17:43] [Server thread/INFO]: wolf left the game
-[09:39:30] [Server thread/INFO]: SpyCat005 was shot by Skeleton
-[09:39:34] [Server thread/INFO]: SpyCat005 issued server command: /back
-[09:39:36] [User Authenticator #27/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
-[09:39:36] [Server thread/INFO]: LRIC[/123.194.147.86:50750] logged in with entity id 432128 at ([world]-688.0727452562599, 62.0, 151.5332243324282)
-[09:39:43] [Craft Scheduler Thread - 437/INFO]: [AuthMe] LRIC logged in!
-[10:21:44] [Server thread/INFO]: LRIC lost connection: Timed out
-[10:21:44] [Server thread/INFO]: LRIC left the game
-[10:37:06] [Server thread/INFO]: SpyCat005 fell from a high place
-[10:58:27] [User Authenticator #28/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[10:58:28] [Server thread/INFO]: wolf[/115.165.203.20:62833] logged in with entity id 448282 at ([world]297.8303343658911, 70.0, 1553.677373909623)
-[10:58:41] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
-[10:58:41] [Server thread/INFO]: SpyCat005 left the game
-[10:58:54] [Craft Scheduler Thread - 456/INFO]: [AuthMe] wolf logged in!
-[10:59:07] [User Authenticator #29/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[10:59:07] [Server thread/INFO]: SpyCat005[/115.165.227.248:8577] logged in with entity id 448769 at ([world]590.4085201368607, 65.0, 839.5350091768364)
-[10:59:24] [Craft Scheduler Thread - 455/INFO]: [AuthMe] SpyCat005 logged in!
-[11:15:30] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> w
-[11:15:33] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> wolf
-[11:15:35] [Async Chat Thread - #11/INFO]: [world]<wolf> ?
-[11:15:46] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 喔喔 沒事以為你掛機
-[11:15:52] [Async Chat Thread - #11/INFO]: [world]<wolf> yee
-[11:16:04] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 你在幹嘛
-[11:16:14] [Async Chat Thread - #11/INFO]: [world]<wolf> 挖礦
-[11:16:39] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 你家在哪0.0村莊附近嗎
-[11:16:46] [Async Chat Thread - #11/INFO]: [world]<wolf> 沒
-[11:16:58] [Async Chat Thread - #11/INFO]: [world]<wolf> 目前在遠征
-[11:17:03] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 喔喔
-[11:38:03] [Server thread/INFO]: wolf lost connection: Disconnected
-[11:38:03] [Server thread/INFO]: wolf left the game
-[11:41:16] [Server thread/INFO]: SpyCat005 was shot by Skeleton
-[11:44:04] [User Authenticator #30/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
-[11:44:04] [Server thread/INFO]: Andy[/220.135.139.86:50055] logged in with entity id 487917 at ([world]-387.5, 68.0, -506.5)
-[11:44:11] [Craft Scheduler Thread - 468/INFO]: [AuthMe] Andy logged in!
-[11:50:31] [Server thread/INFO]: Andy issued server command: /home
-[11:51:01] [Server thread/INFO]: Andy issued server command: /back
-[11:52:20] [Server thread/INFO]: Andy issued server command: /back
-[11:53:02] [Server thread/INFO]: Andy issued server command: /back
-[11:58:49] [Server thread/INFO]: SpyCat005 issued server command: /back
-[12:02:40] [Server thread/INFO]: Andy issued server command: /home
-[12:03:30] [Server thread/INFO]: Andy issued server command: /
-[12:03:40] [Server thread/INFO]: Andy issued server command: /back
-[12:11:24] [Server thread/INFO]: Andy issued server command: /home
-[12:13:12] [Server thread/INFO]: Andy issued server command: /back
-[12:15:19] [Server thread/INFO]: Andy issued server command: /home
-[12:17:57] [Server thread/INFO]: SpyCat005 was slain by Zombie
-[12:18:10] [Server thread/INFO]: Andy issued server command: /back
-[12:18:56] [Server thread/INFO]: Andy was slain by Zombie
-[12:19:03] [Server thread/INFO]: Andy issued server command: /back
-[12:20:04] [Server thread/INFO]: Andy issued server command: /home
-[12:20:26] [Server thread/INFO]: Andy issued server command: /back
-[12:26:19] [Server thread/INFO]: Andy was slain by Zombie
-[12:26:39] [Server thread/INFO]: Andy issued server command: /back
-[12:30:29] [Server thread/INFO]: Andy issued server command: /home
-[12:31:43] [Server thread/INFO]: Andy issued server command: /back
-[12:38:10] [Server thread/INFO]: Villager EntityVillager['Farmer'/513989, l='world', x=623.99, y=64.00, z=718.44] died, message: 'Farmer was slain by Zombie'
-[12:38:45] [Server thread/INFO]: Villager EntityVillager['Cleric'/513920, l='world', x=571.14, y=64.00, z=728.83] died, message: 'Cleric was slain by Zombie Villager'
-[12:39:03] [Server thread/INFO]: Villager EntityVillager['Farmer'/513927, l='world', x=589.99, y=64.00, z=702.10] died, message: 'Farmer was slain by Zombie'
-[12:42:38] [Server thread/INFO]: Andy issued server command: /home
-[12:45:19] [Server thread/INFO]: Andy issued server command: /back
-[12:59:03] [Server thread/INFO]: Andy was burnt to a crisp whilst fighting Skeleton
-[12:59:26] [Server thread/INFO]: Andy issued server command: /back
-[13:00:25] [Server thread/INFO]: Andy issued server command: /home
-[13:05:52] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/513974, l='world', x=551.74, y=70.94, z=748.24] died, message: 'Toolsmith was slain by Zombie'
-[13:07:11] [Server thread/WARN]: SpyCat005 moved wrongly!
-[13:08:25] [Server thread/INFO]: SpyCat005 was slain by Zombie
-[13:09:30] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> A
-[13:09:34] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> Andy
-[13:09:43] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> 你那裏有西瓜嗎
-[13:28:47] [User Authenticator #31/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[13:28:47] [Server thread/INFO]: biteyou74[/120.102.191.141:13475] logged in with entity id 533860 at ([world]-232.7861339654427, 85.5, -1035.772795304163)
-[13:28:55] [Craft Scheduler Thread - 502/INFO]: [AuthMe] biteyou74 logged in!
-[13:32:15] [Server thread/INFO]: biteyou74 issued server command: /fly
-[13:34:14] [Server thread/INFO]: SpyCat005 burned to death
-[13:34:27] [Server thread/INFO]: SpyCat005 issued server command: /back
-[13:43:33] [User Authenticator #32/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
-[13:43:33] [Server thread/INFO]: LRIC[/123.194.147.86:51672] logged in with entity id 540512 at ([world]-686.3000000119209, 62.0, 149.92500001192093)
-[13:43:38] [Craft Scheduler Thread - 508/INFO]: [AuthMe] LRIC logged in!
-[13:51:37] [Server thread/INFO]: Andy issued server command: /back
-[13:53:39] [Server thread/INFO]: Andy issued server command: /home
-[13:56:21] [Server thread/INFO]: Andy issued server command: /back
-[13:59:31] [Server thread/INFO]: Andy was slain by Zombie
-[14:00:19] [Server thread/INFO]: Andy issued server command: /back
-[14:02:01] [Server thread/INFO]: SpyCat005 was slain by Zombie
-[14:02:05] [Server thread/INFO]: SpyCat005 issued server command: /back
-[14:02:13] [Server thread/INFO]: SpyCat005 issued server command: /back
-[14:02:48] [Server thread/INFO]: Andy was slain by Zombie
-[14:03:02] [Server thread/INFO]: Andy issued server command: /back
-[14:09:45] [Server thread/INFO]: Andy was slain by Cave Spider
-[14:10:46] [Server thread/INFO]: Andy issued server command: /back
-[14:10:52] [Server thread/INFO]: Andy issued server command: /home
-[14:11:21] [Server thread/INFO]: Andy issued server command: /back
-[14:13:03] [Server thread/INFO]: Andy issued server command: /home
-[14:13:51] [Server thread/INFO]: Andy issued server command: /back
-[14:14:07] [Server thread/INFO]: Andy was slain by Cave Spider
-[14:14:11] [Server thread/INFO]: Andy issued server command: /back
-[14:18:20] [Server thread/INFO]: Andy issued server command: /home
-[14:19:54] [Server thread/INFO]: Andy issued server command: /back
-[14:21:27] [Server thread/INFO]: Andy was shot by Skeleton
-[14:21:54] [Server thread/INFO]: Andy issued server command: /back
-[14:22:20] [Server thread/INFO]: LRIC issued server command: /fly
-[14:22:43] [User Authenticator #33/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[14:22:43] [Server thread/INFO]: basic_balion[/36.235.254.23:13981] logged in with entity id 568695 at ([world]-289.45245001914725, 79.0, -1034.4651905786122)
-[14:22:49] [Server thread/INFO]: basic_balion issued server command: /login
-[14:23:03] [Craft Scheduler Thread - 523/INFO]: [AuthMe] basic_balion logged in!
-[14:23:12] [Server thread/INFO]: basic_balion issued server command: /fly
-[14:27:59] [Server thread/ERROR]: Block at -952, 62, 61 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@1e3972e8. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[14:34:25] [Server thread/INFO]: Andy issued server command: /home
-[14:35:48] [Server thread/INFO]: Andy issued server command: /back
-[14:39:44] [Server thread/INFO]: Andy issued server command: /home
-[14:45:45] [Server thread/INFO]: LRIC was slain by Phantom
-[14:57:59] [Server thread/INFO]: LRIC has reached the goal [Hired Help]
-[15:05:28] [User Authenticator #34/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[15:05:28] [Server thread/INFO]: Keisari1313[/111.248.203.214:55438] logged in with entity id 597767 at ([world]-223.296838630945, 104.0, -1076.3305268112779)
-[15:05:43] [Craft Scheduler Thread - 532/INFO]: [AuthMe] Keisari1313 logged in!
-[15:06:59] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[15:08:59] [Server thread/INFO]: Keisari1313 has made the advancement [Best Friends Forever]
-[15:09:14] [User Authenticator #35/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[15:09:14] [Server thread/INFO]: rgps3725[/59.115.168.93:60971] logged in with entity id 600031 at ([world]-230.3864852829292, 122.0, -1083.503535786948)
-[15:09:20] [Craft Scheduler Thread - 536/INFO]: [AuthMe] rgps3725 logged in!
-[15:09:33] [Server thread/INFO]: rgps3725 issued server command: /fly
-[15:13:32] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[15:13:32] [Server thread/INFO]: basic_balion left the game
-[15:13:56] [User Authenticator #36/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[15:13:57] [Server thread/INFO]: basic_balion[/36.235.254.23:14782] logged in with entity id 603141 at ([world]-315.5120061680092, 77.4108395542985, -978.5240440560342)
-[15:14:03] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[15:14:03] [Server thread/INFO]: basic_balion left the game
-[15:14:34] [User Authenticator #37/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[15:14:34] [Server thread/INFO]: basic_balion[/36.235.254.23:14847] logged in with entity id 603526 at ([world]-315.5120061680092, 76.0, -978.5240440560342)
-[15:14:44] [Craft Scheduler Thread - 537/INFO]: [AuthMe] basic_balion logged in!
-[15:15:06] [Server thread/INFO]: basic_balion issued server command: /fly
-[15:16:27] [Server thread/INFO]: SpyCat005 has made the advancement [Suit Up]
-[15:17:18] [Server thread/INFO]: LRIC issued server command: /back
-[15:19:43] [Server thread/INFO]: Andy issued server command: /back
-[15:22:33] [Server thread/INFO]: Andy issued server command: /home
-[15:22:38] [Server thread/INFO]: LRIC issued server command: /back
-[15:23:12] [Server thread/INFO]: Andy issued server command: /back
-[15:23:42] [Server thread/INFO]: LRIC issued server command: /back
-[15:24:16] [Server thread/INFO]: LRIC has made the advancement [Best Friends Forever]
-[15:26:36] [Server thread/INFO]: SpyCat005 drowned
-[15:26:50] [Server thread/INFO]: LRIC issued server command: /back
-[15:27:52] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[15:27:52] [Server thread/INFO]: rgps3725 left the game
-[15:29:14] [User Authenticator #38/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[15:29:14] [Server thread/INFO]: rgps3725[/111.71.94.20:60409] logged in with entity id 617019 at ([world]-153.20942926732965, 84.5554307598092, -1054.2084500699752)
-[15:29:18] [Craft Scheduler Thread - 548/INFO]: [AuthMe] rgps3725 logged in!
-[15:29:25] [Server thread/INFO]: rgps3725 issued server command: /fly
-[15:33:15] [Server thread/INFO]: Andy issued server command: /home
-[15:33:30] [User Authenticator #39/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[15:33:31] [Server thread/INFO]: JerryU29[/49.159.80.132:57700] logged in with entity id 620298 at ([world]-225.13779771857668, 111.0, -1090.300000011921)
-[15:33:42] [Craft Scheduler Thread - 550/INFO]: [AuthMe] JerryU29 logged in!
-[15:33:51] [Server thread/INFO]: rgps3725 issued server command: /home
-[15:34:32] [Server thread/INFO]: LRIC issued server command: /back
-[15:35:13] [Server thread/WARN]: biteyou74 moved too quickly! -14.488863245511254,1.7429316017248908,-0.025440986610647087
-[15:35:23] [Server thread/INFO]: JerryU29 issued server command: /fly
-[15:35:44] [Server thread/INFO]: Andy issued server command: /back
-[15:41:06] [Server thread/INFO]: JerryU29 issued server command: /tpa rgps3725
-[15:41:12] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[15:41:50] [Server thread/INFO]: Andy was blown up by Creeper
-[15:42:04] [Server thread/INFO]: Andy issued server command: /back
-[15:43:15] [Server thread/INFO]: Andy issued server command: /home
-[15:43:37] [Server thread/INFO]: Andy issued server command: /back
-[15:44:14] [Server thread/WARN]: LRIC moved wrongly!
-[15:46:46] [Server thread/INFO]: Villager EntityVillager['Armorer'/614564, l='world', x=624.49, y=67.00, z=737.06] died, message: 'Armorer was slain by Zombie'
-[15:47:24] [Server thread/WARN]: Boat moved wrongly!
-[15:47:27] [Server thread/WARN]: Boat moved wrongly!
-[15:47:27] [Server thread/WARN]: Boat moved wrongly!
-[15:47:27] [Server thread/WARN]: Boat moved wrongly!
-[15:47:45] [Server thread/INFO]: JerryU29 issued server command: /tpa rgps3725
-[15:47:49] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[15:48:25] [Server thread/INFO]: Andy issued server command: /home
-[15:48:48] [Server thread/INFO]: Andy issued server command: /back
-[15:50:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5867ms or 117 ticks behind
-[15:51:04] [Server thread/INFO]: JerryU29 drowned
-[15:51:16] [Server thread/INFO]: JerryU29 issued server command: /back
-[15:51:50] [Server thread/INFO]: LRIC was slain by Spider
-[15:51:58] [Server thread/INFO]: LRIC issued server command: /back
-[15:52:46] [Server thread/INFO]: LRIC was slain by Zombie
-[15:54:36] [Server thread/INFO]: LRIC issued server command: /back
-[15:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
-[15:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[15:56:35] [Server thread/INFO]: Andy went up in flames
-[15:56:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
-[15:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[15:57:52] [Server thread/INFO]: Andy issued server command: /back
-[15:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[15:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
-[15:59:17] [Server thread/INFO]: Andy was slain by Zombie
-[15:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6804ms or 136 ticks behind
-[15:59:42] [Server thread/INFO]: Andy issued server command: /back
-[16:00:03] [Server thread/INFO]: Andy tried to swim in lava
-[16:00:16] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 有人有西瓜嗎
-[16:00:29] [Async Chat Thread - #13/INFO]: [world]<biteyou74> 很多
-[16:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[16:00:34] [Server thread/INFO]: Andy issued server command: /back
-[16:00:49] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> !
-[16:00:56] [Server thread/INFO]: rgps3725 issued server command: /home
-[16:01:15] [Server thread/INFO]: rgps3725 issued server command: /tpa SpyCat005
-[16:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[16:01:26] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
-[16:01:28] [Server thread/INFO]: biteyou74 issued server command: /tpa SpyCat005
-[16:01:41] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 有了:D
-[16:01:45] [Async Chat Thread - #13/INFO]: [world]<rgps3725> 不謝
-[16:01:46] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 3Q
-[16:01:49] [Server thread/INFO]: rgps3725 issued server command: /home
-[16:02:00] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 正在蓋房子 要布置
-[16:02:11] [Async Chat Thread - #13/INFO]: [world]<rgps3725> 不夠 我們還有 哈
-[16:02:18] [Server thread/INFO]: rgps3725 issued server command: /tpa JerryU29
-[16:02:22] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 你們住在一起喔?
-[16:02:31] [Server thread/INFO]: JerryU29 issued server command: /tpaccept
-[16:02:34] [Async Chat Thread - #13/INFO]: [world]<biteyou74> 目前是
-[16:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
-[16:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
-[16:04:18] [Server thread/INFO]: rgps3725 issued server command: /tpa JerryU29
-[16:04:27] [Server thread/INFO]: JerryU29 issued server command: /tpaccept
-[16:04:45] [User Authenticator #40/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:04:45] [Server thread/INFO]: mx90498793[/115.165.227.248:59087] logged in with entity id 661701 at ([world]225.5, 66.0, 268.5)
-[16:04:45] [pool-13-thread-1/INFO]: 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\8d58b448-7d5f-3e87-8398-464b788f425c.yml
-[16:04:45] [Server thread/INFO]: mx90498793 has made the advancement [Getting an Upgrade]
-[16:05:19] [Server thread/INFO]: mx90498793 lost connection: §b【AuthMe】§6超過登入時間，請再試一次
-[16:05:19] [Server thread/INFO]: mx90498793 left the game
-[16:05:21] [User Authenticator #41/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:05:21] [Server thread/INFO]: mx90498793[/115.165.227.248:59089] logged in with entity id 663612 at ([world]219.5, 69.0, 265.5)
-[16:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[16:05:36] [Server thread/INFO]: SpyCat005 issued server command: /tpahere mx90498793
-[16:05:43] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[16:05:43] [Server thread/INFO]: basic_balion left the game
-[16:05:52] [Server thread/INFO]: mx90498793 lost connection: §b【AuthMe】§6超過登入時間，請再試一次
-[16:05:52] [Server thread/INFO]: mx90498793 left the game
-[16:05:54] [User Authenticator #42/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:05:54] [Server thread/INFO]: mx90498793[/115.165.227.248:59091] logged in with entity id 664074 at ([world]219.90419898047824, 69.0, 265.64738464358936)
-[16:06:24] [Server thread/INFO]: SpyCat005 issued server command: /tpahere mx90498793
-[16:06:24] [Server thread/INFO]: Andy was shot by Skeleton
-[16:06:26] [Server thread/INFO]: mx90498793 lost connection: §b【AuthMe】§6超過登入時間，請再試一次
-[16:06:26] [Server thread/INFO]: mx90498793 left the game
-[16:06:28] [User Authenticator #43/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:06:29] [Server thread/INFO]: mx90498793[/115.165.227.248:59092] logged in with entity id 664930 at ([world]219.90419898047824, 69.0, 265.64738464358936)
-[16:06:31] [Server thread/INFO]: SpyCat005 issued server command: /tpahere mx90498793
-[16:07:02] [Server thread/INFO]: mx90498793 lost connection: §b【AuthMe】§6超過登入時間，請再試一次
-[16:07:02] [Server thread/INFO]: mx90498793 left the game
-[16:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[16:07:04] [User Authenticator #44/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:07:04] [Server thread/INFO]: mx90498793[/115.165.227.248:59094] logged in with entity id 666610 at ([world]219.90419898047824, 69.0, 265.64738464358936)
-[16:07:15] [Server thread/INFO]: mx90498793 lost connection: Disconnected
-[16:07:15] [Server thread/INFO]: mx90498793 left the game
-[16:07:16] [User Authenticator #45/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[16:07:16] [Server thread/INFO]: Caber588[/219.70.214.164:53647] logged in with entity id 666847 at ([world]-293.035325078397, 76.0, -974.2057411683501)
-[16:07:23] [Craft Scheduler Thread - 561/INFO]: [AuthMe] Caber588 logged in!
-[16:07:35] [Server thread/INFO]: Caber588 issued server command: /fly
-[16:07:37] [Server thread/INFO]: Andy issued server command: /back
-[16:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[16:08:47] [User Authenticator #46/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:08:47] [Server thread/INFO]: mx90498793[/115.165.227.248:59115] logged in with entity id 668764 at ([world]219.90419898047824, 69.0, 265.64738464358936)
-[16:09:03] [Server thread/INFO]: mx90498793 lost connection: Disconnected
-[16:09:03] [Server thread/INFO]: mx90498793 left the game
-[16:09:19] [Server thread/INFO]: Andy was shot by Skeleton
-[16:09:26] [User Authenticator #47/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
-[16:09:26] [Server thread/INFO]: mx90498793[/115.165.227.248:59121] logged in with entity id 669471 at ([world]219.90419898047824, 69.0, 265.64738464358936)
-[16:09:30] [Server thread/INFO]: Andy issued server command: /back
-[16:09:49] [Server thread/INFO]: mx90498793 lost connection: Disconnected
-[16:09:49] [Server thread/INFO]: mx90498793 left the game
-[16:11:39] [Server thread/INFO]: Villager EntityVillager['Villager'/661534, l='world', x=582.17, y=65.00, z=717.66] died, message: 'Villager was slain by Zombie'
-[16:12:45] [Server thread/ERROR]: Block at -3,988, 34, 2,114 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@57e2a202. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[16:14:51] [Server thread/INFO]: Keisari1313 has made the advancement [Diamonds!]
-[16:16:00] [Server thread/INFO]: Andy issued server command: /home
-[16:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5414ms or 108 ticks behind
-[16:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[16:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
-[16:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[16:25:43] [Server thread/INFO]: SpyCat005 issued server command: /home
-[16:25:48] [Server thread/INFO]: SpyCat005 issued server command: /home
-[16:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[16:26:34] [Server thread/INFO]: Caber588 issued server command: /home
-[16:26:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
-[16:26:52] [Server thread/INFO]: Andy issued server command: /back
-[16:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5778ms or 115 ticks behind
-[16:27:42] [Server thread/INFO]: Caber588 issued server command: /back
-[16:29:29] [Server thread/INFO]: Keisari1313 has made the advancement [Take Aim]
-[16:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[16:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
-[16:32:19] [Server thread/INFO]: Villager EntityVillager['Villager'/534400, l='world', x=-237.50, y=67.00, z=-844.64] died, message: 'Villager was slain by Zombie'
-[16:32:48] [Server thread/INFO]: Caber588 issued server command: /home
-[16:33:43] [Server thread/INFO]: Caber588 issued server command: /back
-[16:34:17] [Server thread/INFO]: JerryU29 issued server command: /home
-[16:36:39] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
-[16:36:39] [Server thread/INFO]: Keisari1313 left the game
-[16:37:00] [Server thread/INFO]: JerryU29 issued server command: /tpa rgps3725
-[16:37:04] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[16:37:21] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[16:37:24] [Server thread/INFO]: Andy issued server command: /home
-[16:37:49] [Server thread/INFO]: Andy issued server command: /back
-[16:37:52] [Server thread/INFO]: Caber588 issued server command: /home
-[16:39:11] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
-[16:40:15] [Server thread/INFO]: JerryU29 issued server command: /tpa rgps3725
-[16:40:17] [Server thread/INFO]: rgps3725 issued server command: /tpaccept
-[16:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5608ms or 112 ticks behind
-[16:42:47] [Server thread/INFO]: Andy fell from a high place
-[16:43:22] [Server thread/INFO]: Andy issued server command: /back
-[16:43:36] [Server thread/WARN]: LRIC moved wrongly!
-[16:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[16:45:38] [Server thread/INFO]: Andy issued server command: /home
-[16:45:55] [Server thread/INFO]: Andy issued server command: /back
-[16:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[16:48:55] [Server thread/INFO]: Villager EntityVillager['Farmer'/614499, l='world', x=585.03, y=64.00, z=723.39] died, message: 'Farmer was slain by Zombie'
-[16:49:12] [Server thread/INFO]: Andy was blown up by Creeper
-[16:49:18] [Server thread/INFO]: Villager EntityVillager['Villager'/707686, l='world', x=588.00, y=63.94, z=720.99] died, message: 'Villager was slain by Zombie Villager'
-[16:49:19] [Server thread/INFO]: Andy issued server command: /back
-[16:49:38] [Server thread/INFO]: Villager EntityVillager['Farmer'/614505, l='world', x=600.57, y=63.94, z=721.69] died, message: 'Farmer was slain by Zombie'
-[16:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[16:50:30] [Server thread/INFO]: Villager EntityVillager['Cleric'/553560, l='world', x=633.52, y=68.00, z=721.67] died, message: 'Cleric was slain by Zombie'
-[16:50:56] [Server thread/INFO]: Villager EntityVillager['Fletcher'/631041, l='world', x=624.62, y=65.00, z=742.32] died, message: 'Fletcher was slain by Zombie'
-[16:51:05] [Server thread/INFO]: Villager EntityVillager['Armorer'/614562, l='world', x=620.12, y=67.00, z=736.24] died, message: 'Armorer was slain by Zombie'
-[16:53:02] [Server thread/INFO]: JerryU29 drowned
-[16:53:11] [Server thread/INFO]: Andy issued server command: /home
-[16:53:50] [Server thread/INFO]: Andy issued server command: /back
-[16:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[16:54:59] [Server thread/INFO]: JerryU29 issued server command: /back
-[16:55:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[16:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
-[16:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
-[16:58:01] [Server thread/WARN]: Caber588 moved too quickly! -1.6008851142782987,0.0,-16.025049582158772
-[16:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[16:59:18] [Server thread/INFO]: Villager EntityVillager['Mason'/614541, l='world', x=558.09, y=71.00, z=744.08] died, message: 'Mason was slain by Zombie'
-[16:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[17:00:15] [Server thread/INFO]: Caber588 issued server command: /home
-[17:00:22] [Server thread/INFO]: Caber588 issued server command: /home
-[17:00:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
-[17:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
-[17:02:49] [Server thread/INFO]: Andy issued server command: /home
-[17:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[17:03:13] [Server thread/INFO]: Andy issued server command: /back
-[17:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5883ms or 117 ticks behind
-[17:05:32] [Server thread/INFO]: JerryU29 issued server command: /home
-[17:06:15] [Server thread/INFO]: Villager EntityVillager['Librarian'/614574, l='world', x=616.35, y=64.00, z=711.64] died, message: 'Librarian was slain by Zombie'
-[17:08:47] [Server thread/INFO]: Villager EntityVillager['Villager'/614252, l='world', x=578.05, y=17.00, z=718.32] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
-[17:08:51] [Server thread/INFO]: rgps3725 issued server command: /home
-[17:10:07] [Server thread/INFO]: Andy was slain by Zombie
-[17:10:33] [Server thread/INFO]: Andy issued server command: /back
-[17:13:41] [Server thread/INFO]: Andy issued server command: /home
-[17:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7172ms or 143 ticks behind
-[17:19:41] [Server thread/INFO]: SpyCat005 was shot by Skeleton
-[17:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
-[17:19:50] [Server thread/INFO]: SpyCat005 issued server command: /back
-[17:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[17:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
-[17:22:04] [Server thread/INFO]: LRIC lost connection: Disconnected
-[17:22:04] [Server thread/INFO]: LRIC left the game
-[17:22:08] [Server thread/INFO]: Andy was slain by Zombie
-[17:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
-[17:28:39] [Async Chat Thread - #14/INFO]: [world]<SpyCat005> 煩...樹有時候長得很畸形
-[17:32:00] [Server thread/INFO]: Andy issued server command: /home
-[17:32:17] [Server thread/INFO]: Andy was slain by Spider
-[17:32:50] [Server thread/INFO]: Andy issued server command: /back
-[17:39:03] [Server thread/INFO]: Andy was blown up by Creeper
-[17:39:40] [Server thread/INFO]: Andy issued server command: /back
-[17:42:04] [Server thread/INFO]: rgps3725 issued server command: /home
-[17:44:49] [Server thread/INFO]: Andy issued server command: /home
-[17:49:17] [Server thread/INFO]: SpyCat005 was slain by Spider
-[17:51:30] [Server thread/INFO]: Andy lost connection: Disconnected
-[17:51:30] [Server thread/INFO]: Andy left the game
-[17:57:41] [User Authenticator #48/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[17:57:41] [Server thread/INFO]: wolf[/115.165.203.20:49872] logged in with entity id 789157 at ([world]-150.90448817679192, 65.0, 1625.8943131393055)
-[17:57:46] [Craft Scheduler Thread - 603/INFO]: [AuthMe] wolf logged in!
-[17:57:49] [Async Chat Thread - #15/INFO]: [world]<wolf> yee
-[17:57:53] [Async Chat Thread - #15/INFO]: [world]<SpyCat005> yee
-[17:59:28] [Async Chat Thread - #16/INFO]: [world]<SpyCat005> 好安靜
-[17:59:47] [Async Chat Thread - #16/INFO]: [world]<wolf> 默默地玩
-[18:03:24] [Async Chat Thread - #17/INFO]: [world]<wolf> 鷹架好好玩w
-[18:03:33] [Async Chat Thread - #17/INFO]: [world]<SpyCat005> ?
-[18:03:45] [Async Chat Thread - #17/INFO]: [world]<wolf> 這遊戲的
-[18:04:02] [Async Chat Thread - #17/INFO]: [world]<wolf> 搭平台很方便又能垂直下上移動
-[18:08:09] [Async Chat Thread - #18/INFO]: [world]<wolf> 你要的話我可以給你一組XD
-[18:08:36] [Async Chat Thread - #18/INFO]: [world]<SpyCat005> 0.0
-[18:08:44] [Async Chat Thread - #18/INFO]: [world]<wolf> 鷹架
-[18:09:38] [Async Chat Thread - #18/INFO]: [world]<SpyCat005> 好啊
-[18:09:43] [Server thread/INFO]: SpyCat005 issued server command: /home
-[18:09:59] [Async Chat Thread - #18/INFO]: [world]<wolf> 等白天
-[18:12:25] [Server thread/INFO]: SpyCat005 burned to death
-[18:12:26] [Async Chat Thread - #19/INFO]: [world]<wolf> ....
-[18:12:32] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> ?
-[18:12:49] [Async Chat Thread - #19/INFO]: [world]<wolf> 剛看地圖發現你血狂噴
-[18:12:57] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> XD
-[18:13:22] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> 怎麼看地圖
-[18:13:34] [Async Chat Thread - #19/INFO]: [world]<wolf> 另外開網頁
-[18:13:45] [Async Chat Thread - #19/INFO]: [world]<wolf> 社團有連結
-[18:14:08] [Async Chat Thread - #19/INFO]: [world]<wolf> 那我等等過去你家
-[18:14:16] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> OK
-[18:15:09] [Server thread/INFO]: [WEB] wolf: 看位置算蠻近的www
-[18:15:14] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> 找到地圖了XD真的有顯示血量?
-[18:15:45] [Server thread/INFO]: [WEB] wolf: 地圖左下那可以直接打字
-[18:15:57] [Server thread/INFO]: [WEB] mx90498793: 酷喔
-[18:16:07] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> -.-
-[18:16:11] [Async Chat Thread - #19/INFO]: [world]<wolf> www
-[18:16:25] [Server thread/INFO]: [WEB] wolf: 沒開遊戲也能聊w
-[18:16:46] [Server thread/INFO]: [WEB] mx90498793: 其實還蠻高興DF又重新開的
-[18:16:49] [Server thread/INFO]: wolf issued server command: /weather sun
-[18:16:59] [Async Chat Thread - #19/INFO]: [world]<wolf> 隔了好幾年
-[18:17:16] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> 真的
-[18:22:25] [Async Chat Thread - #20/INFO]: [world]<wolf> 到拉
-[18:23:28] [Async Chat Thread - #21/INFO]: [world]<wolf> 怎那麼多骷髏馬www
-[18:23:49] [Async Chat Thread - #21/INFO]: [world]<SpyCat005> 我早上玩到現在就變這麼多了
-[18:23:58] [Async Chat Thread - #21/INFO]: [world]<wolf> 想拐ww
-[18:24:26] [Async Chat Thread - #21/INFO]: [world]<SpyCat005> 因為鐵巨人都打骷髏不打馬所以才這麼多
-[18:24:45] [Async Chat Thread - #21/INFO]: [world]<wolf> 改天來這找村民交易好了w
-[18:25:22] [Async Chat Thread - #21/INFO]: [world]<SpyCat005> 看到快壞掉的巨人就補一下
-[18:26:42] [Async Chat Thread - #22/INFO]: [world]<SpyCat005> 他們出來太多人我就敲鐘= =
-[18:26:55] [Async Chat Thread - #22/INFO]: [world]<wolf> 這真熱鬧
-[18:27:37] [Async Chat Thread - #22/INFO]: [world]<wolf> 你這能開地獄門嗎XD
-[18:27:55] [Async Chat Thread - #22/INFO]: [world]<SpyCat005> 有人開了?
-[18:28:04] [Async Chat Thread - #22/INFO]: [world]<wolf> 在哪?
-[18:28:34] [Async Chat Thread - #22/INFO]: [world]<wolf> 好多貓
-[18:28:56] [Async Chat Thread - #22/INFO]: [world]<SpyCat005> 他早上才上吧
-[18:29:02] [User Authenticator #49/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[18:29:03] [Server thread/INFO]: Keisari1313[/111.248.203.214:57589] logged in with entity id 806708 at ([world]-217.9985047233187, 104.0, -1074.1819051713455)
-[18:29:09] [Async Chat Thread - #22/INFO]: [world]<wolf> 居然有藏寶圖
-[18:29:12] [Server thread/INFO]: Caber588 issued server command: /home
-[18:29:15] [Craft Scheduler Thread - 611/INFO]: [AuthMe] Keisari1313 logged in!
-[18:30:22] [Server thread/INFO]: SpyCat005 has made the advancement [We Need to Go Deeper]
-[18:30:36] [Async Chat Thread - #23/INFO]: [world_nether]<wolf> 靠w跟我家是相通的www
-[18:30:42] [Server thread/INFO]: Caber588 issued server command: /home
-[18:30:51] [Async Chat Thread - #23/INFO]: [world_nether]<SpyCat005> 這是你那邊的?
-[18:30:56] [Async Chat Thread - #23/INFO]: [world]<wolf> 恩
-[18:31:06] [Server thread/WARN]: wolf moved too quickly! 14.506649331161015,0.0,12.790962627163026
-[18:31:27] [Async Chat Thread - #23/INFO]: [world]<wolf> 想書這小屋誰蓋的w
-[18:31:35] [Async Chat Thread - #23/INFO]: [world_nether]<SpyCat005> XD
-[18:32:09] [Async Chat Thread - #23/INFO]: [world]<wolf> 這樣我就方便回家了
-[18:32:20] [Async Chat Thread - #23/INFO]: [world]<SpyCat005> XD讚喔
-[18:33:28] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 我這裡是誰家
-[18:33:49] [Async Chat Thread - #24/INFO]: [world]<rgps3725> LRIC
-[18:34:04] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[18:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5397ms or 107 ticks behind
-[18:34:05] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 荒島求生喔
-[18:34:09] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[18:34:10] [Async Chat Thread - #24/INFO]: [world]<rgps3725> XD
-[18:34:15] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[18:34:48] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 可是他挑的地方真的蠻漂亮的
-[18:35:01] [Server thread/INFO]: rgps3725 has made the advancement [Spooky Scary Skeleton]
-[18:35:07] [Server thread/INFO]: JerryU29 has made the advancement [Spooky Scary Skeleton]
-[18:35:08] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> ?
-[18:35:11] [Server thread/INFO]: Keisari1313 has made the advancement [Spooky Scary Skeleton]
-[18:35:15] [Async Chat Thread - #24/INFO]: [world]<wolf> ..........
-[18:35:31] [Async Chat Thread - #24/INFO]: [world]<biteyou74> 準備囉
-[18:35:43] [Async Chat Thread - #24/INFO]: [world]<wolf> ?
-[18:35:45] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> !!!凋零王嗎
-[18:35:48] [Server thread/INFO]: JerryU29 has made the advancement [Withering Heights]
-[18:35:48] [Server thread/INFO]: rgps3725 has made the advancement [Withering Heights]
-[18:35:48] [Server thread/INFO]: Keisari1313 has made the advancement [Withering Heights]
-[18:35:49] [Async Chat Thread - #24/INFO]: [world]<wolf> ....
-[18:35:52] [Async Chat Thread - #24/INFO]: [world]<biteyou74> 來了
-[18:36:16] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 好猛!!
-[18:36:19] [Server thread/INFO]: Keisari1313 was pummeled by Wither
-[18:36:21] [Async Chat Thread - #24/INFO]: [world]<wolf> 來不及過去w
-[18:36:23] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> .
-[18:36:27] [Server thread/INFO]: JerryU29 was pummeled by Wither
-[18:36:31] [Server thread/INFO]: Keisari1313 issued server command: /back
-[18:36:32] [Server thread/INFO]: rgps3725 withered away
-[18:36:41] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 揍死是三小
-[18:36:41] [Server thread/INFO]: JerryU29 issued server command: /back
-[18:36:45] [Async Chat Thread - #24/INFO]: [world]<biteyou74> 死傷慘重
-[18:36:47] [Async Chat Thread - #24/INFO]: [world]<wolf> 物理w
-[18:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[18:39:31] [Server thread/INFO]: Keisari1313 has reached the goal [Beaconator]
-[18:39:31] [Server thread/INFO]: Keisari1313 has made the advancement [Bring Home the Beacon]
-[18:39:31] [Server thread/INFO]: JerryU29 has reached the goal [Beaconator]
-[18:39:31] [Server thread/INFO]: JerryU29 has made the advancement [Bring Home the Beacon]
-[18:39:37] [Async Chat Thread - #25/INFO]: [world]<wolf> 真快
-[18:40:02] [Async Chat Thread - #25/INFO]: [world]<biteyou74> 其實這個是第二座了
-[18:40:06] [Async Chat Thread - #25/INFO]: [world]<wolf> !?
-[18:40:15] [Async Chat Thread - #25/INFO]: [world]<SpyCat005> 那怎麼還有成就
-[18:40:23] [Async Chat Thread - #25/INFO]: [world]<biteyou74> 有人還沒有解
-[18:40:30] [Server thread/INFO]: SpyCat005 drowned
-[18:40:42] [Server thread/INFO]: Caber588 issued server command: /home
-[18:41:12] [Async Chat Thread - #25/INFO]: [world]<wolf> 那一片都是稻草?
-[18:41:22] [Async Chat Thread - #25/INFO]: [world]<biteyou74> 是小麥田
-[18:41:25] [Async Chat Thread - #25/INFO]: [world]<rgps3725> 我們用遊戲內3年的時間 完成人類300萬年的進程
-[18:41:41] [Async Chat Thread - #25/INFO]: [world]<JerryU29> 是麥田
-[18:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5060ms or 101 ticks behind
-[18:42:20] [Server thread/INFO]: JerryU29 has made the advancement [Ol' Betsy]
-[18:42:25] [Async Chat Thread - #25/INFO]: [world]<SpyCat005> .
-[18:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[18:42:46] [Server thread/INFO]: JerryU29 issued server command: /home
-[18:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9920ms or 198 ticks behind
-[18:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[18:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[18:45:47] [Async Chat Thread - #26/INFO]: [world]<SpyCat005> 我忽然想到石器時代這部動漫
-[18:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[18:46:45] [Async Chat Thread - #26/INFO]: [world]<SpyCat005> XDDD真的很好玩?鷹架
-[18:46:55] [Async Chat Thread - #26/INFO]: [world]<wolf> 超棒W
-[18:47:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
-[18:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[18:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
-[18:50:22] [Server thread/INFO]: rgps3725 issued server command: /home
-[18:50:46] [Server thread/INFO]: JerryU29 has made the advancement [Total Beelocation]
-[18:51:18] [Server thread/INFO]: rgps3725 has completed the challenge [Return to Sender]
-[18:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[18:51:42] [Server thread/INFO]: wolf lost connection: Disconnected
-[18:51:42] [Server thread/INFO]: wolf left the game
-[18:52:53] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[18:52:53] [Server thread/INFO]: JerryU29 left the game
-[18:52:56] [User Authenticator #50/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[18:52:56] [Server thread/INFO]: JerryU29[/49.159.80.132:57831] logged in with entity id 822241 at ([world]-232.36124876456898, 104.0, -1066.8226792332678)
-[18:53:03] [Craft Scheduler Thread - 624/INFO]: [AuthMe] JerryU29 logged in!
-[18:53:10] [Server thread/INFO]: JerryU29 issued server command: /fly
-[18:53:21] [Server thread/INFO]: rgps3725 has made the advancement [Into Fire]
-[18:54:06] [Server thread/INFO]: JerryU29 has made the advancement [Sticky Situation]
-[18:54:58] [Server thread/INFO]: Keisari1313 has made the advancement [Sticky Situation]
-[18:55:09] [Server thread/WARN]: rgps3725 moved too quickly! -10.56744741228919,1.111023690109704,-5.492210347384571
-[18:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[18:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[19:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[19:00:25] [Server thread/WARN]: JerryU29 moved too quickly! 4.066682068574977,2.6282617144684224,20.104088721460244
-[19:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[19:01:21] [Server thread/INFO]: Caber588 has made the advancement [Voluntary Exile]
-[19:01:33] [Server thread/INFO]: rgps3725 issued server command: /home
-[19:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[19:01:40] [Server thread/INFO]: Caber588 issued server command: /home
-[19:02:26] [Server thread/INFO]: Caber588 has made the advancement [Ol' Betsy]
-[19:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
-[19:02:47] [Server thread/INFO]: Keisari1313 has made the advancement [Ol' Betsy]
-[19:02:51] [Server thread/INFO]: biteyou74 has made the advancement [Ol' Betsy]
-[19:02:58] [Server thread/INFO]: Caber588 issued server command: /home
-[19:03:07] [Server thread/INFO]: biteyou74 issued server command: /home
-[19:03:10] [Server thread/INFO]: JerryU29 issued server command: /home
-[19:03:29] [Server thread/INFO]: biteyou74 has made the advancement [Voluntary Exile]
-[19:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[19:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
-[19:05:28] [Server thread/INFO]: Caber588 has made the advancement [Who's the Pillager Now?]
-[19:05:29] [Server thread/INFO]: rgps3725 has made the advancement [Who's the Pillager Now?]
-[19:05:33] [Server thread/INFO]: biteyou74 has made the advancement [Who's the Pillager Now?]
-[19:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[19:07:19] [Server thread/INFO]: Keisari1313 has made the advancement [Voluntary Exile]
-[19:07:19] [Server thread/INFO]: Keisari1313 has made the advancement [Who's the Pillager Now?]
-[19:08:06] [Server thread/INFO]: JerryU29 has made the advancement [Voluntary Exile]
-[19:10:20] [Server thread/INFO]: JerryU29 was slain by Vex
-[19:10:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[19:11:54] [Server thread/INFO]: Caber588 was burnt to a crisp whilst fighting rgps3725
-[19:12:13] [Server thread/INFO]: JerryU29 has made the advancement [Who's the Pillager Now?]
-[19:12:28] [Server thread/INFO]: rgps3725 has reached the goal [Postmortal]
-[19:13:05] [Server thread/INFO]: JerryU29 was slain by Ravager
-[19:13:08] [Server thread/INFO]: Keisari1313 was slain by Ravager
-[19:13:16] [Server thread/INFO]: Caber588 has reached the goal [Postmortal]
-[19:13:18] [Server thread/INFO]: Keisari1313 issued server command: /back
-[19:13:42] [Server thread/INFO]: Keisari1313 has reached the goal [Postmortal]
-[19:14:18] [Server thread/INFO]: biteyou74 was slain by Vex
-[19:14:50] [Server thread/INFO]: JerryU29 was slain by Vex
-[19:14:57] [Async Chat Thread - #27/INFO]: [world]<SpyCat005> 你們是為了解成就嗎
-[19:15:16] [Server thread/INFO]: JerryU29 was slain by Vex
-[19:15:28] [Async Chat Thread - #27/INFO]: [world]<biteyou74> 對阿
-[19:15:39] [Server thread/INFO]: JerryU29 was slain by Vex
-[19:15:48] [Server thread/INFO]: biteyou74 has reached the goal [Postmortal]
-[19:15:57] [Async Chat Thread - #27/INFO]: [world]<JerryU29> ji3ul4
-[19:16:11] [Server thread/INFO]: [WEB] JerryU29: 我要
-[19:16:15] [Server thread/INFO]: biteyou74 has completed the challenge [Hero of the Village]
-[19:16:15] [Server thread/INFO]: Caber588 has completed the challenge [Hero of the Village]
-[19:16:15] [Server thread/INFO]: Keisari1313 has completed the challenge [Hero of the Village]
-[19:16:15] [Server thread/INFO]: JerryU29 has completed the challenge [Hero of the Village]
-[19:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
-[19:16:31] [Async Chat Thread - #27/INFO]: [world]<SpyCat005> 喔喔 那個喔 好猛喔!!
-[19:16:41] [Async Chat Thread - #27/INFO]: [world]<SpyCat005> 怎麼觸發的
-[19:16:56] [Server thread/INFO]: Villager EntityVillager['Farmer'/814209, l='world', x=609.57, y=63.94, z=743.19] died, message: 'Farmer was slain by Zombie'
-[19:17:08] [Async Chat Thread - #27/INFO]: [world]<biteyou74> 守衛戰 打黑色的村民 有背旗幟的
-[19:17:27] [Async Chat Thread - #27/INFO]: [world]<biteyou74> 打完後會有狀態 進入村莊會發動突襲
-[19:17:50] [Server thread/INFO]: Keisari1313 issued server command: /set
-[19:18:06] [Server thread/INFO]: Keisari1313 issued server command: /sethome
-[19:18:15] [Server thread/INFO]: Keisari1313 has made the advancement [Sweet Dreams]
-[19:18:25] [Async Chat Thread - #27/INFO]: [world]<SpyCat005> 真的猛 而且是困難模式?
-[19:18:30] [Server thread/INFO]: Keisari1313 issued server command: /sethome
-[19:18:39] [Async Chat Thread - #27/INFO]: [world]<biteyou74> 我們人多
-[19:18:55] [Async Chat Thread - #27/INFO]: [world]<biteyou74> 如果有鐵巨人 會很好打
-[19:20:04] [Server thread/INFO]: JerryU29 has reached the goal [Postmortal]
-[19:20:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[19:21:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[19:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[19:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[19:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[19:25:01] [Server thread/INFO]: rgps3725 issued server command: /home
-[19:25:03] [Async Chat Thread - #28/INFO]: [world]<SpyCat005> 你們不吃飯喔!?
-[19:25:03] [Server thread/INFO]: JerryU29 has made the advancement [Bee Our Guest]
-[19:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[19:25:23] [Async Chat Thread - #28/INFO]: [world]<biteyou74> 差不多該吃了
-[19:26:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6451ms or 129 ticks behind
-[19:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[19:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[19:29:10] [Server thread/INFO]: JerryU29 issued server command: /home
-[19:30:09] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[19:30:09] [Server thread/INFO]: JerryU29 left the game
-[19:31:54] [Server thread/INFO]: Caber588 issued server command: /home
-[19:31:56] [Async Chat Thread - #29/INFO]: [world]<Keisari1313> w
+[00:10:13] [User Authenticator #67/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[00:10:13] [Server thread/INFO]: Hibiki182[/119.77.247.72:9389] logged in with entity id 1020559 at ([world_nether]-162.69999998807907, 77.0, -1166.699999988079)
+[00:10:22] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[00:10:22] [Server thread/INFO]: Hibiki182 left the game
+[00:10:23] [User Authenticator #68/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[00:10:23] [Server thread/INFO]: Hibiki182[/119.77.247.72:9397] logged in with entity id 1020689 at ([world_nether]-162.69999998807907, 77.0, -1166.699999988079)
+[00:10:34] [Craft Scheduler Thread - 748/INFO]: [AuthMe] Hibiki182 logged in!
+[00:10:50] [Server thread/INFO]: Hibiki182 issued server command: /fly
+[00:11:17] [User Authenticator #69/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[00:11:17] [Server thread/INFO]: biteyou74[/27.247.44.109:20142] logged in with entity id 1020955 at ([world]-270.30000001192093, 91.0, -1005.1980264886182)
+[00:11:22] [User Authenticator #70/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[00:11:22] [Server thread/INFO]: Caber588[/219.70.214.164:52735] logged in with entity id 1021478 at ([world]-184.37082750525846, 79.0, -1063.0054955674339)
+[00:11:28] [Craft Scheduler Thread - 749/INFO]: [AuthMe] Caber588 logged in!
+[00:11:29] [Craft Scheduler Thread - 749/INFO]: [AuthMe] biteyou74 used the wrong password
+[00:11:29] [Server thread/INFO]: biteyou74 lost connection: §b【AuthMe】§6密碼錯誤!
+[00:11:29] [Server thread/INFO]: biteyou74 left the game
+[00:11:32] [User Authenticator #71/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[00:11:32] [Server thread/INFO]: JerryU29[/49.159.80.132:49569] logged in with entity id 1021602 at ([world]-225.47317702414466, 104.0, -1077.291682290854)
+[00:11:32] [User Authenticator #72/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[00:11:33] [Server thread/INFO]: biteyou74[/27.247.44.109:20149] logged in with entity id 1021624 at ([world]-270.30000001192093, 91.0, -1005.1980264886182)
+[00:11:42] [Craft Scheduler Thread - 748/INFO]: [AuthMe] biteyou74 logged in!
+[00:11:43] [Craft Scheduler Thread - 748/INFO]: [AuthMe] JerryU29 logged in!
+[00:12:28] [User Authenticator #73/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[00:12:28] [Server thread/INFO]: rgps3725[/59.115.168.93:65195] logged in with entity id 1021958 at ([world]-209.2933468757008, 122.0, -1061.6200810567848)
+[00:12:33] [Craft Scheduler Thread - 749/INFO]: [AuthMe] rgps3725 logged in!
+[00:12:38] [Server thread/INFO]: biteyou74 issued server command: /fly
+[00:12:56] [Server thread/INFO]: Caber588 issued server command: /fly
+[00:13:01] [Server thread/INFO]: JerryU29 issued server command: /fly
+[00:15:33] [Server thread/INFO]: rgps3725 issued server command: /fly
+[00:22:02] [Server thread/WARN]: Caber588 moved too quickly! 2.3623991196736256,10.877555128441898,-18.926399887023422
+[00:29:13] [Server thread/INFO]: Hibiki182 issued server command: /home
+[00:29:14] [Server thread/INFO]: Caber588 issued server command: /home
+[00:29:26] [Server thread/INFO]: Caber588 issued server command: /afk
+[00:29:38] [Server thread/INFO]: JerryU29 issued server command: /back
+[00:29:46] [Server thread/INFO]: JerryU29 issued server command: /home
+[00:30:38] [Server thread/INFO]: Hibiki182 issued server command: /back
+[00:30:48] [Server thread/INFO]: Caber588 issued server command: /back
+[00:31:20] [Server thread/INFO]: Hibiki182 issued server command: /home
+[00:38:38] [Server thread/INFO]: JerryU29 issued server command: /home
+[00:40:45] [Server thread/INFO]: Hibiki182 issued server command: /home
+[00:43:35] [Server thread/INFO]: Hibiki182 issued server command: /back
+[00:50:06] [Server thread/INFO]: rgps3725 has completed the challenge [Serious Dedication]
+[00:52:08] [Server thread/WARN]: Hibiki182 moved too quickly! 14.092982843564101,0.1713219668461221,-3.395366638667838
+[00:52:26] [Server thread/INFO]: Hibiki182 issued server command: /home
+[00:52:39] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
+[00:52:44] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[00:52:44] [Server thread/INFO]: rgps3725 left the game
+[00:52:45] [User Authenticator #74/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[00:52:45] [Server thread/INFO]: rgps3725[/59.115.168.93:49173] logged in with entity id 1048828 at ([world]-100.81112573387469, 13.0, -1122.4899050570064)
+[00:52:49] [Craft Scheduler Thread - 760/INFO]: [AuthMe] rgps3725 logged in!
+[00:53:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:08] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:08] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:13] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[00:53:45] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[00:55:39] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
+[00:58:52] [Server thread/INFO]: Caber588 was burnt to a crisp whilst fighting Blaze
+[00:58:57] [Server thread/INFO]: Caber588 issued server command: /BACK
+[01:00:27] [Server thread/INFO]: Caber588 issued server command: /home
+[01:01:54] [User Authenticator #75/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[01:01:54] [Server thread/INFO]: FredYea[/124.6.23.53:64489] logged in with entity id 1055134 at ([world]258.2445819037507, 63.0, 1465.4237170198237)
+[01:02:03] [Craft Scheduler Thread - 768/INFO]: [AuthMe] FredYea logged in!
+[01:02:46] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[01:02:46] [Server thread/INFO]: Hibiki182 left the game
+[01:04:56] [Server thread/INFO]: Caber588 issued server command: /back
+[01:05:14] [Server thread/INFO]: Caber588 issued server command: /home
+[01:10:08] [Server thread/INFO]: FredYea was burnt to a crisp whilst fighting Zombie
+[01:12:02] [Server thread/WARN]: Caber588 moved too quickly! -0.3785835171064633,-16.354785594167637,-14.427925360021845
+[01:12:02] [Server thread/WARN]: JerryU29 moved too quickly! 20.539026090586958,0.0,11.232895328356449
+[01:17:05] [Server thread/INFO]: JerryU29 issued server command: /spawn
+[01:18:48] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[01:18:48] [Server thread/INFO]: Caber588 left the game
+[01:21:43] [Server thread/INFO]: rgps3725 issued server command: /fly
+[01:22:55] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[01:22:55] [Server thread/INFO]: rgps3725 left the game
+[01:25:41] [User Authenticator #76/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[01:25:41] [Server thread/INFO]: SpyCat005[/115.165.227.248:9630] logged in with entity id 1077035 at ([world]590.001826074634, 65.0, 829.1631449838442)
+[01:25:51] [Craft Scheduler Thread - 779/INFO]: [AuthMe] SpyCat005 logged in!
+[01:27:02] [Server thread/WARN]: biteyou74 moved too quickly! 8.203422600368413,0.0,16.594022570164725
+[01:27:02] [Server thread/WARN]: JerryU29 moved too quickly! -10.859115854680795,8.594981675332733,-18.67812475165738
+[01:27:56] [Server thread/INFO]: Villager EntityVillager['Mason'/1077172, l='world', x=606.31, y=64.00, z=714.01] died, message: 'Mason was slain by Zombie'
+[01:32:22] [Server thread/INFO]: JerryU29 issued server command: /home
+[01:36:14] [Server thread/INFO]: JerryU29 issued server command: /back
+[01:42:01] [Server thread/WARN]: biteyou74 moved too quickly! 1.9309532149632105,15.670692203028437,17.861548093567308
+[01:43:22] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/1077115, l='world', x=606.30, y=64.42, z=767.32] died, message: 'Toolsmith was slain by Zombie'
+[01:44:20] [Server thread/INFO]: JerryU29 issued server command: /home
+[01:47:01] [Server thread/WARN]: JerryU29 moved too quickly! 7.2131753526973625,0.0,12.356687048426807
+[01:47:20] [Server thread/ERROR]: Block at -2,284, 61, 3,877 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@34f18f41. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[01:48:20] [Server thread/INFO]: JerryU29 issued server command: /home
+[01:49:24] [Server thread/INFO]: PowerPU lost connection: Disconnected
+[01:49:24] [Server thread/INFO]: PowerPU left the game
+[01:50:38] [Server thread/INFO]: JerryU29 issued server command: /home
+[01:52:42] [Server thread/INFO]: JerryU29 lost connection: Disconnected
+[01:52:42] [Server thread/INFO]: JerryU29 left the game
+[01:55:17] [Server thread/WARN]: Skipping Entity with id 
+[02:07:13] [Server thread/INFO]: Villager EntityVillager['Villager'/1077195, l='world', x=633.98, y=68.00, z=727.51] died, message: 'Villager was slain by Zombie'
+[02:16:04] [Server thread/INFO]: biteyou74 issued server command: /home
+[02:20:36] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
+[02:21:08] [Server thread/INFO]: biteyou74 issued server command: /BACK
+[02:21:23] [Server thread/INFO]: biteyou74 issued server command: /BACK
+[02:27:24] [Async Chat Thread - #33/INFO]: [world]<FredYea> 0.0
+[02:28:13] [Async Chat Thread - #33/INFO]: [world]<FredYea> 感謝 0.0
+[02:28:22] [Async Chat Thread - #33/INFO]: [world]<biteyou74> 路過送個伴手禮
+[02:28:44] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/1077173, l='world', x=620.38, y=64.56, z=772.19] died, message: 'Weaponsmith was slain by Zombie'
+[02:29:06] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[02:42:04] [Server thread/INFO]: SpyCat005 was slain by Phantom
+[02:45:04] [Async Chat Thread - #34/INFO]: [world]<biteyou74> 要躺個床嗎
+[02:45:15] [Async Chat Thread - #34/INFO]: [world]<biteyou74> 業妹有點多
+[03:08:30] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[03:08:30] [Server thread/INFO]: biteyou74 left the game
+[03:26:01] [Server thread/INFO]: FredYea lost connection: Disconnected
+[03:26:01] [Server thread/INFO]: FredYea left the game
+[03:47:51] [Server thread/INFO]: [Server] 終於到家
+[03:48:13] [Server thread/INFO]: [Server] 看到大家打凋零王 感覺好猛
+[07:51:32] [Server thread/INFO]: SpyCat005 issued server command: /op
+[07:55:30] [Server thread/INFO]: SpyCat005 issued server command: /gamemode 1
+[07:55:30] [Server thread/INFO]: §cSpyCat005 §4被拒絕使用命令

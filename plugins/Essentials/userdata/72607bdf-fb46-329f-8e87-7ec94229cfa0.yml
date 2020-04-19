@@ -1,23 +1,32 @@
 lastAccountName: Tofu_Ivan
 timestamps:
-  login: 1586620054904
-  logout: 1586620462921
+  login: 1587213784403
+  logout: 1587221812336
   kits:
     tools: 1586620193718
-ipAddress: 114.43.93.80
+  lastteleport: 1587221613836
+ipAddress: 114.45.59.93
 afk: false
 logoutlocation:
   world: world
-  x: 1262.2005502025095
-  y: 68.0
-  z: 1162.3418718700707
-  yaw: 227.89629
-  pitch: 22.049915
+  x: 3774.4903838549953
+  y: 121.0
+  z: 3516.9380886486583
+  yaw: -279.08704
+  pitch: 34.950024
 homes:
   home:
     world: world
-    x: 1262.2005502025095
-    y: 68.0
-    z: 1162.3418718700707
-    yaw: 227.89629
-    pitch: 22.049915
+    x: 3770.0039413154623
+    y: 121.0
+    z: 3519.4957878131104
+    yaw: -31.436749
+    pitch: 1.6500455
+nickname: Ivan
+lastlocation:
+  world: world
+  x: 3770.0039413154623
+  y: 121.0
+  z: 3519.4957878131104
+  yaw: -31.436749
+  pitch: 1.6500455

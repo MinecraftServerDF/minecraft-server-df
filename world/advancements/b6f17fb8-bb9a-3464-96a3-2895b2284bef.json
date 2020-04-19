@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-04-18 20:28:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-11 15:37:57 +0800"
@@ -128,6 +134,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-04-11 17:56:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-04-18 19:47:50 +0800"
     },
     "done": true
   },
@@ -212,6 +224,13 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-04-11 16:00:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-18 20:07:19 +0800",
+      "diamond_boots": "2020-04-18 20:07:19 +0800"
     },
     "done": true
   },
@@ -441,7 +460,8 @@
     "criteria": {
       "baked_potato": "2020-04-11 15:39:43 +0800",
       "potato": "2020-04-12 15:32:50 +0800",
-      "rotten_flesh": "2020-04-11 18:16:56 +0800"
+      "rotten_flesh": "2020-04-11 18:16:56 +0800",
+      "cookie": "2020-04-18 20:31:41 +0800"
     },
     "done": false
   },
@@ -660,6 +680,13 @@
       "has_stone": "2020-04-11 16:45:37 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2020-04-18 20:26:44 +0800",
+      "minecraft:bee": "2020-04-18 20:23:48 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -999,6 +1026,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-04-18 16:14:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-04-18 20:28:23 +0800"
     },
     "done": true
   },
@@ -1425,6 +1458,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-04-11 15:37:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-04-18 20:23:34 +0800"
     },
     "done": true
   },
@@ -2004,6 +2043,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-04-18 19:47:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-04-18 20:22:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-11 15:57:20 +0800"
@@ -2058,6 +2109,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-04-18 20:23:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-04-11 16:00:45 +0800"
@@ -2084,7 +2141,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/all_black.png": "2020-04-18 15:08:59 +0800"
+      "textures/entity/cat/jellie.png": "2020-04-18 20:39:32 +0800",
+      "textures/entity/cat/ragdoll.png": "2020-04-18 20:45:58 +0800",
+      "textures/entity/cat/all_black.png": "2020-04-18 15:08:59 +0800",
+      "textures/entity/cat/red.png": "2020-04-18 20:37:28 +0800"
     },
     "done": false
   },

@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2020-04-19 02:33:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-07 19:14:47 +0800"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-04-19 02:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-07 19:15:08 +0800"
@@ -573,11 +585,13 @@
     "criteria": {
       "minecraft:skeleton": "2020-04-08 20:47:11 +0800",
       "minecraft:spider": "2020-04-07 19:33:17 +0800",
+      "minecraft:creeper": "2020-04-19 01:31:25 +0800",
       "minecraft:slime": "2020-04-17 16:02:30 +0800",
       "minecraft:phantom": "2020-04-17 01:44:37 +0800",
       "minecraft:silverfish": "2020-04-17 15:54:34 +0800",
       "minecraft:zombie": "2020-04-07 19:33:24 +0800",
-      "minecraft:drowned": "2020-04-07 20:23:35 +0800"
+      "minecraft:drowned": "2020-04-07 20:23:35 +0800",
+      "minecraft:zombie_villager": "2020-04-19 03:07:19 +0800"
     },
     "done": false
   },
@@ -596,6 +610,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-04-12 16:28:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-04-19 01:31:58 +0800"
     },
     "done": true
   },
@@ -851,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-04-14 19:40:23 +0800"
@@ -959,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-04-19 01:31:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-08 19:39:19 +0800"
@@ -980,6 +1012,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-14 19:40:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
     },
     "done": true
   },
@@ -1282,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-04-19 02:33:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-04-14 19:40:55 +0800"
@@ -1444,6 +1488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-04-07 19:14:47 +0800"
@@ -1549,6 +1599,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-04-07 19:51:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-04-19 02:32:51 +0800"
     },
     "done": true
   },
@@ -1674,6 +1730,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-14 19:41:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
     },
     "done": true
   },
@@ -2099,6 +2161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-04-14 19:47:57 +0800"
@@ -2162,6 +2230,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-14 19:40:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
     },
     "done": true
   },
@@ -2252,6 +2326,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-04-14 19:41:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-04-19 02:33:16 +0800"
     },
     "done": true
   },
@@ -2555,6 +2635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 19:33:26 +0800"
@@ -2576,6 +2662,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-04-14 19:40:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-04-19 02:32:25 +0800"
     },
     "done": true
   },
@@ -2612,6 +2704,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-04-09 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-04-19 02:21:31 +0800"
     },
     "done": true
   },
@@ -2702,6 +2800,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-14 19:48:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-04-19 02:32:51 +0800"
     },
     "done": true
   },
