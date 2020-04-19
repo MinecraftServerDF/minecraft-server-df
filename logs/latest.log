@@ -950,3 +950,44 @@
 [19:18:13] [Server thread/INFO]: LRIC issued server command: /sethome
 [19:18:42] [Server thread/INFO]: LRIC issued server command: /s
 [19:18:42] [Server thread/INFO]: §cLRIC §4被拒絕使用命令
+[19:22:02] [Server thread/INFO]: rgps3725 issued server command: /home
+[19:42:44] [Server thread/WARN]: Caber588 moved too quickly! -10.951485184862491,-6.178430335225045,-4.804212937693592
+[19:48:20] [User Authenticator #13/INFO]: UUID of player Moboro is c68c421c-fbfd-30a2-9fd1-89c8fa5708e9
+[19:48:20] [Server thread/INFO]: Moboro[/1.34.107.64:12137] logged in with entity id 138244 at ([world]202.5, 64.0, 261.5)
+[19:48:20] [pool-13-thread-1/INFO]: 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\c68c421c-fbfd-30a2-9fd1-89c8fa5708e9.yml
+[19:48:32] [Server thread/INFO]: LRIC lost connection: Disconnected
+[19:48:32] [Server thread/INFO]: LRIC left the game
+[19:48:39] [Server thread/INFO]: [AuthMe] Moboro registered 1.34.107.64
+[19:48:39] [Craft Scheduler Thread - 77/INFO]: [AuthMe] Moboro logged in!
+[19:48:47] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[19:48:47] [Server thread/INFO]: Caber588 left the game
+[19:48:55] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[19:48:55] [Server thread/INFO]: rgps3725 left the game
+[19:49:03] [User Authenticator #14/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[19:49:03] [Server thread/INFO]: basic_balion[/36.235.254.23:5209] logged in with entity id 138918 at ([world]-219.98253651367122, 104.0, -1080.1266777064275)
+[19:49:11] [Craft Scheduler Thread - 78/INFO]: [AuthMe] basic_balion logged in!
+[19:49:32] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 過來
+[19:49:43] [Server thread/INFO]: basic_balion issued server command: /fly
+[19:49:59] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 電動椅
+[19:50:05] [Async Chat Thread - #9/INFO]: [world]<basic_balion> ............
+[19:50:19] [Async Chat Thread - #9/INFO]: [world]<basic_balion> 不要壓榨動物
+[19:50:36] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 豬 本來就是用來坐的
+[19:50:59] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 要不要打lOL
+[19:51:08] [Async Chat Thread - #9/INFO]: [world]<basic_balion> no
+[19:51:11] [Async Chat Thread - #9/INFO]: [world]<biteyou74> OK
+[19:51:18] [Async Chat Thread - #9/INFO]: [world]<basic_balion> 我上來看看而已
+[19:51:23] [Server thread/INFO]: CommandBlock at 44,62,271 issued server command: /tp @p -178 64 211
+[19:51:24] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 好喔
+[19:51:25] [Server thread/INFO]: CommandBlock at 44,62,271 issued server command: /tp @p -178 64 211
+[19:51:32] [Server thread/INFO]: CommandBlock at 44,62,271 issued server command: /tp @p -178 64 211
+[19:51:50] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[19:51:50] [Server thread/INFO]: basic_balion left the game
+[19:54:25] [Server thread/INFO]: Moboro issued server command: /fly
+[19:54:30] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[19:54:30] [Server thread/INFO]: biteyou74 left the game
+[20:08:20] [Server thread/INFO]: Moboro issued server command: /fly
+[20:09:21] [Server thread/INFO]: Moboro has made the advancement [A Seedy Place]
+[20:09:38] [Server thread/INFO]: Moboro has made the advancement [The Parrots and the Bats]
+[20:13:04] [Server thread/INFO]: Moboro has made the advancement [Stone Age]
+[20:13:24] [Server thread/INFO]: Moboro has made the advancement [Getting an Upgrade]
+[20:15:40] [Server thread/INFO]: Moboro has made the advancement [Monster Hunter]
