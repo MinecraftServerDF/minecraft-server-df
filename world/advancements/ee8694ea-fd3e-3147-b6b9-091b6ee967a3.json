@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-19 10:06:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-04-11 08:48:14 +0800"
@@ -293,6 +299,12 @@
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-11 08:55:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-19 09:44:16 +0800"
     },
     "done": true
   },
@@ -2398,6 +2410,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-19 09:43:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-04-04 19:04:46 +0800"
@@ -2581,6 +2599,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-04-04 21:55:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-04-19 10:24:47 +0800"
     },
     "done": true
   },

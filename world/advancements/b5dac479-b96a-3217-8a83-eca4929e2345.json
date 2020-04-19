@@ -702,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-19 08:49:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2020-04-18 02:24:05 +0800"
