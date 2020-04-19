@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "minecraft:nether/all_potions": {
+    "criteria": {
+      "all_effects": "2020-04-19 18:41:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2020-04-18 19:03:29 +0800"

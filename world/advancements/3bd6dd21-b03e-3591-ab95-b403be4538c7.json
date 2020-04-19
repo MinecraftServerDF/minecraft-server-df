@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-04-19 18:57:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-04-08 19:44:48 +0800"
@@ -626,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 18:49:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-04-07 19:16:39 +0800"
@@ -731,6 +743,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-14 19:47:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 18:49:32 +0800"
     },
     "done": true
   },
@@ -878,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-19 18:49:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2020-04-14 19:40:23 +0800"
@@ -929,6 +953,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-08 19:39:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-04-19 18:49:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-19 18:49:33 +0800"
     },
     "done": true
   },
@@ -1201,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-19 18:49:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-04-07 19:14:47 +0800"
@@ -1210,6 +1252,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-07 19:18:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-04-19 18:49:46 +0800"
     },
     "done": true
   },
@@ -1300,6 +1348,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-08 20:31:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2020-04-19 18:49:32 +0800"
     },
     "done": true
   },
@@ -1573,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2020-04-19 18:49:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-12 17:07:28 +0800"
@@ -1588,6 +1648,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-14 19:48:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2020-04-19 18:57:35 +0800"
     },
     "done": true
   },
@@ -1785,6 +1851,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-08 19:39:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2020-04-19 18:49:35 +0800"
     },
     "done": true
   },
@@ -2126,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-19 18:57:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-04-08 19:37:49 +0800"
@@ -2339,6 +2417,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-04-07 19:51:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2020-04-19 18:49:35 +0800"
     },
     "done": true
   },
@@ -2783,6 +2867,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-04-12 17:18:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-04-19 18:49:46 +0800"
     },
     "done": true
   },
