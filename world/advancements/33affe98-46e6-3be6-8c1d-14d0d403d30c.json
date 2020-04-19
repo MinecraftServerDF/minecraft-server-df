@@ -1279,6 +1279,7 @@
       "minecraft:deep_cold_ocean": "2020-04-12 19:08:59 +0800",
       "minecraft:taiga_hills": "2020-04-10 19:06:59 +0800",
       "minecraft:desert": "2020-04-03 21:53:38 +0800",
+      "minecraft:deep_frozen_ocean": "2020-04-19 14:25:30 +0800",
       "minecraft:jungle": "2020-04-05 19:54:46 +0800",
       "minecraft:birch_forest": "2020-04-18 15:47:09 +0800",
       "minecraft:jungle_hills": "2020-04-10 18:08:13 +0800",
@@ -2502,6 +2503,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-04-07 21:00:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-19 13:56:02 +0800"
     },
     "done": true
   },
