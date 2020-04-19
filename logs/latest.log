@@ -213,3 +213,90 @@
 [12:04:54] [Server thread/INFO]: LRIC[/123.194.147.86:50190] logged in with entity id 1191751 at ([world]-688.8216637811936, 62.0, 151.75060164460083)
 [12:05:06] [Craft Scheduler Thread - 928/INFO]: [AuthMe] LRIC logged in!
 [12:15:59] [Server thread/INFO]: [Server] 安安你好
+[12:43:56] [User Authenticator #80/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[12:43:56] [Server thread/INFO]: SpyCat005[/115.165.227.248:1652] logged in with entity id 1198105 at ([world]581.1455596478929, 68.0625, 841.2731647261338)
+[12:44:06] [Craft Scheduler Thread - 937/INFO]: [AuthMe] SpyCat005 logged in!
+[13:07:13] [Server thread/INFO]: SpyCat005 issued server command: /home
+[13:08:31] [User Authenticator #81/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[13:08:31] [Server thread/INFO]: apple[/127.0.0.1:1950] logged in with entity id 1206517 at ([world]359.93233357679264, 63.0, 782.7995697111636)
+[13:08:39] [Craft Scheduler Thread - 947/INFO]: [AuthMe] apple logged in!
+[13:08:42] [Server thread/INFO]: apple issued server command: /tp LRIC
+[13:08:54] [Server thread/INFO]: apple issued server command: /tp SpyCat005
+[13:09:01] [Server thread/INFO]: apple issued server command: /fly
+[13:09:10] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 0.0
+[13:09:12] [Async Chat Thread - #48/INFO]: [world]<apple> 0.0
+[13:09:20] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 稀客?
+[13:09:25] [Async Chat Thread - #48/INFO]: [world]<apple> 真假
+[13:09:40] [Async Chat Thread - #48/INFO]: [world]<apple> 我是不是很少上限 我上線都是 晃一下
+[13:09:44] [Async Chat Thread - #48/INFO]: [world]<apple> XDD
+[13:09:49] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 我前天才蓋完這棟
+[13:09:56] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 裡面還沒布置玩
+[13:10:03] [Async Chat Thread - #48/INFO]: [world]<apple> COOOL
+[13:10:20] [Async Chat Thread - #48/INFO]: [world]<apple> 說不定你們房子蓋好可以 去 分享 吧哈姆特 D卡之類的
+[13:10:25] [Async Chat Thread - #48/INFO]: [world]<apple> 哈哈
+[13:10:48] [Async Chat Thread - #48/INFO]: [world]<apple> 原來你住在我蓋的集中營旁邊
+[13:10:57] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 原來就是你
+[13:11:14] [Async Chat Thread - #48/INFO]: [world]<apple> 不知道集中營效果好不好
+[13:11:25] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 你石柱拿到蠹魚磚了 害我死了2次
+[13:11:34] [Async Chat Thread - #48/INFO]: [world]<apple> XDDDDD
+[13:11:54] [Server thread/INFO]: apple issued server command: /gamemode 1
+[13:11:57] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 不錯啊 我時常幫鐵巨人補鐵
+[13:12:13] [Async Chat Thread - #48/INFO]: [world]<apple> 我比較想知道 怎麼種菜
+[13:12:19] [Async Chat Thread - #48/INFO]: [world]<apple> 我是說村民種菜
+[13:12:21] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 這裡是不是沒有幸運3啊 我都沒副到
+[13:12:34] [Async Chat Thread - #48/INFO]: [world]<apple> 我沒改遊戲設定阿
+[13:12:51] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 喔喔 丟給他們你想種的蔬菜16個 他們就種了
+[13:13:56] [Async Chat Thread - #49/INFO]: [world]<apple> soga
+[13:14:05] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 對了 村民結婚 會聚在水池慶祝?
+[13:14:18] [Server thread/INFO]: apple issued server command: /tp SpyCat005
+[13:14:18] [Server thread/WARN]: apple moved too quickly! -159.63081849967648,-52.86800629552951,165.79863132306616
+[13:14:24] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 有時候我就敲鐘讓他們進去
+[13:14:29] [Async Chat Thread - #49/INFO]: [world]<apple> coooooooool
+[13:14:59] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 這裡骷髏馬有繁殖的跡象XD
+[13:15:16] [Async Chat Thread - #49/INFO]: [world]<apple> 這麼變態 都是骨頭還能繁殖
+[13:15:36] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 因為鐵巨人只打骷髏不會打到馬
+[13:15:37] [Server thread/INFO]: apple issued server command: /lightning
+[13:15:45] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 那是我的馬
+[13:15:47] [Async Chat Thread - #49/INFO]: [world]<apple> 0.0
+[13:16:02] [Server thread/INFO]: apple issued server command: /gamemode 0
+[13:16:06] [Async Chat Thread - #49/INFO]: [world]<apple> 我以為路邊的
+[13:16:19] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 因為我發現我馬房蓋太小了QAQ
+[13:16:29] [Async Chat Thread - #49/INFO]: [world]<apple> 不對呀 馬被雷劈 不會變成骷髏馬
+[13:16:45] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 喔喔骷髏馬是自然生成的
+[13:17:18] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 靠近之後會召喚3之骷髏騎士
+[13:17:39] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 然後讓鐵巨人打骷髏騎士 之後就剩下骷髏馬了
+[13:17:42] [Async Chat Thread - #49/INFO]: [world]<apple> 我比較煩惱 之後 1.16 出出來 我該怎麼升級
+[13:17:45] [Async Chat Thread - #49/INFO]: [world]<apple> XDDDDDDDD
+[13:17:48] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> ?
+[13:17:53] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 1.16?
+[13:19:10] [Async Chat Thread - #50/INFO]: [world]<SpyCat005> apple
+[13:19:27] [Async Chat Thread - #50/INFO]: [world]<SpyCat005> 地域可以改成不噴裝嗎!?
+[13:26:27] [Async Chat Thread - #51/INFO]: [world]<apple> 這我就不明白啦 我不知道為啥 只有 world不噴裝
+[13:26:36] [Async Chat Thread - #51/INFO]: [world]<apple> XDD我得找找
+[13:26:41] [Async Chat Thread - #51/INFO]: [world]<SpyCat005> 3Q
+[13:26:49] [Server thread/INFO]: apple was blown up by Creeper
+[13:26:52] [Async Chat Thread - #51/INFO]: [world]<SpyCat005> .
+[13:27:01] [Server thread/INFO]: apple issued server command: /top
+[13:27:09] [Server thread/INFO]: apple fell from a high place
+[13:27:12] [Server thread/INFO]: apple issued server command: /top
+[13:30:43] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> = =我這棟好像村長家喔
+[13:30:52] [Server thread/INFO]: apple issued server command: /fly
+[13:31:04] [Async Chat Thread - #52/INFO]: [world]<apple> .....
+[13:31:13] [Async Chat Thread - #52/INFO]: [world]<apple> 我到了一個地方 整片田
+[13:31:16] [Async Chat Thread - #52/INFO]: [world]<apple> 嚇到我
+[13:31:23] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> ?哪裡
+[13:31:31] [Server thread/INFO]: SpyCat005 issued server command: /tpa apple
+[13:31:42] [Async Chat Thread - #52/INFO]: [world]<apple> 就在你們建築物附近
+[13:31:56] [Server thread/INFO]: apple issued server command: /tpaccept
+[13:32:18] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 挖靠
+[13:32:25] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 那棟是三小
+[13:32:26] [Server thread/INFO]: apple issued server command: /tp SpyCat005
+[13:32:34] [Async Chat Thread - #52/INFO]: [world]<apple> 超扯阿
+[13:32:57] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 玩生存才知道神在哪裡
+[13:33:00] [Async Chat Thread - #52/INFO]: [world]<apple> 你應該知道可以飛吧
+[13:33:04] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> ?
+[13:33:07] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[13:33:15] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> !!!我剛剛才知道
+[13:33:22] [Async Chat Thread - #52/INFO]: [world]<apple> 我有授權給大家
+[13:33:36] [Async Chat Thread - #52/INFO]: [world]<apple> 這田 有點 扯
+[13:33:40] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 挖靠 真的厲害啦 這幾棟
