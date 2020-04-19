@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-04-20 00:24:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-04-19 20:24:57 +0800"
@@ -550,6 +556,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-04-19 20:08:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-04-19 23:42:32 +0800"
     },
     "done": true
   },
@@ -1344,6 +1356,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-04-19 20:08:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-04-20 00:24:30 +0800"
     },
     "done": true
   },

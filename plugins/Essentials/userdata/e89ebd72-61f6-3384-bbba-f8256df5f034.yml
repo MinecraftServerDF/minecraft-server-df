@@ -1,24 +1,24 @@
 lastAccountName: Andy
 timestamps:
   login: 1587300691106
-  logout: 1587291811949
-  lastteleport: 1587309945026
+  logout: 1587314490552
+  lastteleport: 1587314442826
 ipAddress: 220.135.139.86
 logoutlocation:
   world: world
-  x: -388.1140033161179
+  x: -397.4243347801262
   y: 68.0
-  z: -512.6482063731814
-  yaw: 357.7699
-  pitch: 13.949819
+  z: -506.0004179114111
+  yaw: 64.20325
+  pitch: 20.100246
 afk: false
 lastlocation:
   world: world
-  x: -398.7568478903996
-  y: 68.0
-  z: -507.0638394408584
-  yaw: 16.05777
-  pitch: 6.000294
+  x: -336.83435193469904
+  y: 73.0
+  z: -460.9727375888683
+  yaw: -236.26636
+  pitch: 16.35065
 homes:
   home:
     world: world

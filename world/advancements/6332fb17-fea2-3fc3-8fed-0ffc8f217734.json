@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-04-20 00:42:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 19:22:15 +0800"
@@ -1342,6 +1348,7 @@
       "minecraft:desert": "2020-04-09 17:08:27 +0800",
       "minecraft:deep_frozen_ocean": "2020-04-19 01:12:20 +0800",
       "minecraft:birch_forest": "2020-04-19 02:00:59 +0800",
+      "minecraft:warm_ocean": "2020-04-20 01:39:19 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-19 16:27:46 +0800",
       "minecraft:badlands": "2020-04-11 23:30:10 +0800",
       "minecraft:savanna_plateau": "2020-04-19 16:08:05 +0800",
@@ -1997,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-04-20 00:43:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
@@ -2328,6 +2341,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 19:22:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-04-20 00:42:20 +0800"
     },
     "done": true
   },
