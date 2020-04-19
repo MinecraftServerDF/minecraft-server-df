@@ -1027,3 +1027,28 @@
 [22:18:18] [Craft Scheduler Thread - 118/INFO]: [AuthMe] basic_balion logged in!
 [22:18:23] [Server thread/INFO]: basic_balion issued server command: /fly
 [22:18:30] [Server thread/INFO]: [WEB] apple: moboro 沒填過問卷
+[22:19:11] [Async Chat Thread - #10/INFO]: [world]<Moboro> 我等等填
+[22:19:23] [Server thread/INFO]: [WEB] apple: 好的
+[22:30:32] [Server thread/INFO]: basic_balion issued server command: /home
+[22:43:00] [User Authenticator #17/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[22:43:01] [Server thread/INFO]: biteyou74[/120.102.191.141:6222] logged in with entity id 208186 at ([world]-224.00554574842343, 106.90779718977033, -1073.7206977526123)
+[22:43:10] [Craft Scheduler Thread - 126/INFO]: [AuthMe] biteyou74 logged in!
+[22:43:11] [Server thread/INFO]: Andy was slain by Phantom
+[22:44:09] [Server thread/INFO]: biteyou74 issued server command: /FLY
+[22:46:01] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[22:46:01] [Server thread/INFO]: biteyou74 left the game
+[22:51:57] [Server thread/INFO]: Andy issued server command: /home
+[22:52:14] [Server thread/INFO]: basic_balion issued server command: /home
+[22:52:18] [Server thread/INFO]: Andy issued server command: /back
+[22:52:21] [Server thread/INFO]: basic_balion issued server command: /home
+[22:54:03] [Server thread/INFO]: Andy issued server command: /home
+[22:56:41] [Server thread/INFO]: Andy issued server command: /fly
+[23:03:29] [Server thread/INFO]: basic_balion issued server command: /home
+[23:03:41] [Server thread/INFO]: basic_balion issued server command: /home
+[23:07:04] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[23:07:04] [Server thread/INFO]: basic_balion left the game
+[23:08:04] [Server thread/INFO]: Moboro was blown up by Creeper
+[23:10:48] [Server thread/INFO]: Andy issued server command: /home
+[23:10:56] [Server thread/INFO]: Andy issued server command: /back
+[23:14:00] [Server thread/INFO]: Andy issued server command: /home
+[23:14:20] [Server thread/INFO]: Andy issued server command: /back
