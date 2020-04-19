@@ -1,4 +1,21 @@
 lastAccountName: Moboro
 timestamps:
   login: 1587296900784
+  lastteleport: 1587302688026
 ipAddress: 1.34.107.64
+lastlocation:
+  world: world
+  x: -4372.699999988079
+  y: 16.0
+  z: 660.6999999880791
+  yaw: -138.40913
+  pitch: 27.532871
+homes:
+  home:
+    world: world
+    x: -4369.52765276358
+    y: 63.0
+    z: 688.3672668933777
+    yaw: 322.6211
+    pitch: 32.545803
+afk: true
