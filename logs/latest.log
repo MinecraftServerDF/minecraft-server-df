@@ -1,497 +1,756 @@
-[00:10:13] [User Authenticator #67/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
-[00:10:13] [Server thread/INFO]: Hibiki182[/119.77.247.72:9389] logged in with entity id 1020559 at ([world_nether]-162.69999998807907, 77.0, -1166.699999988079)
-[00:10:22] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
-[00:10:22] [Server thread/INFO]: Hibiki182 left the game
-[00:10:23] [User Authenticator #68/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
-[00:10:23] [Server thread/INFO]: Hibiki182[/119.77.247.72:9397] logged in with entity id 1020689 at ([world_nether]-162.69999998807907, 77.0, -1166.699999988079)
-[00:10:34] [Craft Scheduler Thread - 748/INFO]: [AuthMe] Hibiki182 logged in!
-[00:10:50] [Server thread/INFO]: Hibiki182 issued server command: /fly
-[00:11:17] [User Authenticator #69/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[00:11:17] [Server thread/INFO]: biteyou74[/27.247.44.109:20142] logged in with entity id 1020955 at ([world]-270.30000001192093, 91.0, -1005.1980264886182)
-[00:11:22] [User Authenticator #70/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[00:11:22] [Server thread/INFO]: Caber588[/219.70.214.164:52735] logged in with entity id 1021478 at ([world]-184.37082750525846, 79.0, -1063.0054955674339)
-[00:11:28] [Craft Scheduler Thread - 749/INFO]: [AuthMe] Caber588 logged in!
-[00:11:29] [Craft Scheduler Thread - 749/INFO]: [AuthMe] biteyou74 used the wrong password
-[00:11:29] [Server thread/INFO]: biteyou74 lost connection: §b【AuthMe】§6密碼錯誤!
-[00:11:29] [Server thread/INFO]: biteyou74 left the game
-[00:11:32] [User Authenticator #71/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:11:32] [Server thread/INFO]: JerryU29[/49.159.80.132:49569] logged in with entity id 1021602 at ([world]-225.47317702414466, 104.0, -1077.291682290854)
-[00:11:32] [User Authenticator #72/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[00:11:33] [Server thread/INFO]: biteyou74[/27.247.44.109:20149] logged in with entity id 1021624 at ([world]-270.30000001192093, 91.0, -1005.1980264886182)
-[00:11:42] [Craft Scheduler Thread - 748/INFO]: [AuthMe] biteyou74 logged in!
-[00:11:43] [Craft Scheduler Thread - 748/INFO]: [AuthMe] JerryU29 logged in!
-[00:12:28] [User Authenticator #73/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[00:12:28] [Server thread/INFO]: rgps3725[/59.115.168.93:65195] logged in with entity id 1021958 at ([world]-209.2933468757008, 122.0, -1061.6200810567848)
-[00:12:33] [Craft Scheduler Thread - 749/INFO]: [AuthMe] rgps3725 logged in!
-[00:12:38] [Server thread/INFO]: biteyou74 issued server command: /fly
-[00:12:56] [Server thread/INFO]: Caber588 issued server command: /fly
-[00:13:01] [Server thread/INFO]: JerryU29 issued server command: /fly
-[00:15:33] [Server thread/INFO]: rgps3725 issued server command: /fly
-[00:22:02] [Server thread/WARN]: Caber588 moved too quickly! 2.3623991196736256,10.877555128441898,-18.926399887023422
-[00:29:13] [Server thread/INFO]: Hibiki182 issued server command: /home
-[00:29:14] [Server thread/INFO]: Caber588 issued server command: /home
-[00:29:26] [Server thread/INFO]: Caber588 issued server command: /afk
-[00:29:38] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:29:46] [Server thread/INFO]: JerryU29 issued server command: /home
-[00:30:38] [Server thread/INFO]: Hibiki182 issued server command: /back
-[00:30:48] [Server thread/INFO]: Caber588 issued server command: /back
-[00:31:20] [Server thread/INFO]: Hibiki182 issued server command: /home
-[00:38:38] [Server thread/INFO]: JerryU29 issued server command: /home
-[00:40:45] [Server thread/INFO]: Hibiki182 issued server command: /home
-[00:43:35] [Server thread/INFO]: Hibiki182 issued server command: /back
-[00:50:06] [Server thread/INFO]: rgps3725 has completed the challenge [Serious Dedication]
-[00:52:08] [Server thread/WARN]: Hibiki182 moved too quickly! 14.092982843564101,0.1713219668461221,-3.395366638667838
-[00:52:26] [Server thread/INFO]: Hibiki182 issued server command: /home
-[00:52:39] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
-[00:52:44] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[00:52:44] [Server thread/INFO]: rgps3725 left the game
-[00:52:45] [User Authenticator #74/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[00:52:45] [Server thread/INFO]: rgps3725[/59.115.168.93:49173] logged in with entity id 1048828 at ([world]-100.81112573387469, 13.0, -1122.4899050570064)
-[00:52:49] [Craft Scheduler Thread - 760/INFO]: [AuthMe] rgps3725 logged in!
-[00:53:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:08] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:08] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:11] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:13] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[00:53:45] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[00:55:39] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
-[00:58:52] [Server thread/INFO]: Caber588 was burnt to a crisp whilst fighting Blaze
-[00:58:57] [Server thread/INFO]: Caber588 issued server command: /BACK
-[01:00:27] [Server thread/INFO]: Caber588 issued server command: /home
-[01:01:54] [User Authenticator #75/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
-[01:01:54] [Server thread/INFO]: FredYea[/124.6.23.53:64489] logged in with entity id 1055134 at ([world]258.2445819037507, 63.0, 1465.4237170198237)
-[01:02:03] [Craft Scheduler Thread - 768/INFO]: [AuthMe] FredYea logged in!
-[01:02:46] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
-[01:02:46] [Server thread/INFO]: Hibiki182 left the game
-[01:04:56] [Server thread/INFO]: Caber588 issued server command: /back
-[01:05:14] [Server thread/INFO]: Caber588 issued server command: /home
-[01:10:08] [Server thread/INFO]: FredYea was burnt to a crisp whilst fighting Zombie
-[01:12:02] [Server thread/WARN]: Caber588 moved too quickly! -0.3785835171064633,-16.354785594167637,-14.427925360021845
-[01:12:02] [Server thread/WARN]: JerryU29 moved too quickly! 20.539026090586958,0.0,11.232895328356449
-[01:17:05] [Server thread/INFO]: JerryU29 issued server command: /spawn
-[01:18:48] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[01:18:48] [Server thread/INFO]: Caber588 left the game
-[01:21:43] [Server thread/INFO]: rgps3725 issued server command: /fly
-[01:22:55] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[01:22:55] [Server thread/INFO]: rgps3725 left the game
-[01:25:41] [User Authenticator #76/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[01:25:41] [Server thread/INFO]: SpyCat005[/115.165.227.248:9630] logged in with entity id 1077035 at ([world]590.001826074634, 65.0, 829.1631449838442)
-[01:25:51] [Craft Scheduler Thread - 779/INFO]: [AuthMe] SpyCat005 logged in!
-[01:27:02] [Server thread/WARN]: biteyou74 moved too quickly! 8.203422600368413,0.0,16.594022570164725
-[01:27:02] [Server thread/WARN]: JerryU29 moved too quickly! -10.859115854680795,8.594981675332733,-18.67812475165738
-[01:27:56] [Server thread/INFO]: Villager EntityVillager['Mason'/1077172, l='world', x=606.31, y=64.00, z=714.01] died, message: 'Mason was slain by Zombie'
-[01:32:22] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:36:14] [Server thread/INFO]: JerryU29 issued server command: /back
-[01:42:01] [Server thread/WARN]: biteyou74 moved too quickly! 1.9309532149632105,15.670692203028437,17.861548093567308
-[01:43:22] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/1077115, l='world', x=606.30, y=64.42, z=767.32] died, message: 'Toolsmith was slain by Zombie'
-[01:44:20] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:47:01] [Server thread/WARN]: JerryU29 moved too quickly! 7.2131753526973625,0.0,12.356687048426807
-[01:47:20] [Server thread/ERROR]: Block at -2,284, 61, 3,877 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@34f18f41. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[01:48:20] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:49:24] [Server thread/INFO]: PowerPU lost connection: Disconnected
-[01:49:24] [Server thread/INFO]: PowerPU left the game
-[01:50:38] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:52:42] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[01:52:42] [Server thread/INFO]: JerryU29 left the game
-[01:55:17] [Server thread/WARN]: Skipping Entity with id 
-[02:07:13] [Server thread/INFO]: Villager EntityVillager['Villager'/1077195, l='world', x=633.98, y=68.00, z=727.51] died, message: 'Villager was slain by Zombie'
-[02:16:04] [Server thread/INFO]: biteyou74 issued server command: /home
-[02:20:36] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
-[02:21:08] [Server thread/INFO]: biteyou74 issued server command: /BACK
-[02:21:23] [Server thread/INFO]: biteyou74 issued server command: /BACK
-[02:27:24] [Async Chat Thread - #33/INFO]: [world]<FredYea> 0.0
-[02:28:13] [Async Chat Thread - #33/INFO]: [world]<FredYea> 感謝 0.0
-[02:28:22] [Async Chat Thread - #33/INFO]: [world]<biteyou74> 路過送個伴手禮
-[02:28:44] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/1077173, l='world', x=620.38, y=64.56, z=772.19] died, message: 'Weaponsmith was slain by Zombie'
-[02:29:06] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[02:42:04] [Server thread/INFO]: SpyCat005 was slain by Phantom
-[02:45:04] [Async Chat Thread - #34/INFO]: [world]<biteyou74> 要躺個床嗎
-[02:45:15] [Async Chat Thread - #34/INFO]: [world]<biteyou74> 業妹有點多
-[03:08:30] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[03:08:30] [Server thread/INFO]: biteyou74 left the game
-[03:26:01] [Server thread/INFO]: FredYea lost connection: Disconnected
-[03:26:01] [Server thread/INFO]: FredYea left the game
-[03:47:51] [Server thread/INFO]: [Server] 終於到家
-[03:48:13] [Server thread/INFO]: [Server] 看到大家打凋零王 感覺好猛
-[07:51:32] [Server thread/INFO]: SpyCat005 issued server command: /op
-[07:55:30] [Server thread/INFO]: SpyCat005 issued server command: /gamemode 1
-[07:55:30] [Server thread/INFO]: §cSpyCat005 §4被拒絕使用命令
-[08:24:47] [Server thread/WARN]: Boat moved wrongly!
-[08:39:59] [Server thread/INFO]: SpyCat005 was slain by Zombie
-[08:40:22] [Server thread/INFO]: SpyCat005 issued server command: /back
-[08:42:12] [User Authenticator #77/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[08:42:12] [Server thread/INFO]: wolf[/115.165.203.20:53003] logged in with entity id 1150980 at ([world]298.0380251965504, 70.0, 1553.4997234838543)
-[08:42:15] [Server thread/INFO]: SpyCat005 issued server command: /home
-[08:42:18] [Craft Scheduler Thread - 878/INFO]: [AuthMe] wolf logged in!
-[08:42:24] [Async Chat Thread - #35/INFO]: [world]<SpyCat005> yee
-[08:42:27] [Async Chat Thread - #35/INFO]: [world]<wolf> yee
-[08:45:16] [Async Chat Thread - #36/INFO]: [world]<wolf> 鷹架超適合搭橋用w
-[08:45:33] [Async Chat Thread - #36/INFO]: [world]<SpyCat005> 真的
-[08:46:02] [Async Chat Thread - #36/INFO]: [world]<wolf> 決定要量產了www
-[08:49:27] [Server thread/INFO]: SpyCat005 has made the advancement [Best Friends Forever]
-[08:49:43] [Async Chat Thread - #37/INFO]: [world]<SpyCat005> 騎馬啦~
-[08:50:41] [User Authenticator #78/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[08:50:41] [Server thread/INFO]: basic_balion[/36.235.254.23:3111] logged in with entity id 1154926 at ([world]-99.40075051899683, 13.0, -1120.762499988079)
-[08:50:56] [Craft Scheduler Thread - 882/INFO]: [AuthMe] basic_balion logged in!
-[08:51:02] [Async Chat Thread - #38/INFO]: [world]<wolf> 橫掃之刃3!
-[08:51:17] [Async Chat Thread - #38/INFO]: [world]<wolf> 燃燒2!
-[08:51:23] [Async Chat Thread - #38/INFO]: [world]<SpyCat005> !!
-[08:51:31] [Async Chat Thread - #38/INFO]: [world]<wolf> 鋒利4
-[08:51:43] [Async Chat Thread - #38/INFO]: [world]<wolf> 根本神器
-[08:51:45] [Async Chat Thread - #38/INFO]: [world]<SpyCat005> 剛剛婦的?
-[08:51:58] [Async Chat Thread - #38/INFO]: [world]<wolf> 附魔到的
-[08:57:11] [Server thread/INFO]: basic_balion issued server command: /home
-[08:58:29] [Server thread/INFO]: basic_balion issued server command: /fly
-[09:00:36] [Async Chat Thread - #39/INFO]: [world]<SpyCat005> !!!有村民可以換到探險家地圖
-[09:00:42] [Async Chat Thread - #39/INFO]: [world]<wolf> !!
-[09:01:01] [Async Chat Thread - #39/INFO]: [world]<SpyCat005> 而且是2種的
-[09:01:09] [Async Chat Thread - #39/INFO]: [world]<wolf> 太遠了www
-[09:01:36] [Server thread/INFO]: [WEB] SpyCat005: 你幹麼住這麼遠啊
-[09:01:59] [Async Chat Thread - #39/INFO]: [world]<wolf> 跟其他人比算近了
-[09:02:28] [Async Chat Thread - #39/INFO]: [world]<wolf> 然後地獄門又相連
-[09:02:30] [Async Chat Thread - #39/INFO]: [world]<SpyCat005> 我正在照顧村民不能走太遠XD
-[09:03:53] [Async Chat Thread - #40/INFO]: [world]<SpyCat005> XD有農夫可以換金紅羅波跟西瓜
-[09:04:16] [Async Chat Thread - #40/INFO]: [world]<wolf> 我從地域開門好了
-[09:08:19] [Async Chat Thread - #41/INFO]: [world]<SpyCat005> 喔喔 因為有村民結婚啦 難怪常常看到村民聚再一起
-[09:08:44] [Server thread/INFO]: basic_balion issued server command: /home
-[09:10:21] [Server thread/INFO]: SpyCat005 was slain by Iron Golem
-[09:10:24] [Async Chat Thread - #42/INFO]: [world_nether]<wolf> ....
-[09:10:37] [Async Chat Thread - #42/INFO]: [world]<SpyCat005> 快速回家法
-[09:11:25] [Async Chat Thread - #42/INFO]: [world]<SpyCat005> !!有貓自己來我家?
-[09:16:56] [Server thread/INFO]: SpyCat005 tried to swim in lava
-[09:17:05] [Async Chat Thread - #43/INFO]: [world]<SpyCat005> !!
-[09:17:15] [Async Chat Thread - #43/INFO]: [world]<SpyCat005> 東西全沒
-[09:17:28] [Async Chat Thread - #43/INFO]: [world]<SpyCat005> 是因為在地獄嗎
-[09:17:34] [Async Chat Thread - #43/INFO]: [world_nether]<wolf> 恩
-[09:17:46] [Async Chat Thread - #43/INFO]: [world]<SpyCat005> QAQ
-[09:18:20] [Async Chat Thread - #43/INFO]: [world_nether]<wolf> 所以我不太喜歡死回去w
-[09:18:45] [Async Chat Thread - #43/INFO]: [world]<SpyCat005> 風險好大
-[09:19:40] [Async Chat Thread - #43/INFO]: [world]<wolf> 習慣就好
-[09:21:24] [Async Chat Thread - #44/INFO]: [world]<wolf> 草
-[09:21:38] [Async Chat Thread - #44/INFO]: [world]<wolf> 算錯
-[09:21:50] [Async Chat Thread - #44/INFO]: [world]<wolf> 差了幾格
-[09:22:06] [Async Chat Thread - #44/INFO]: [world]<wolf> 開在你家上面了wwww
-[09:22:17] [Server thread/INFO]: basic_balion issued server command: /fly
-[09:22:18] [Server thread/INFO]: basic_balion issued server command: /fly
-[09:22:29] [Server thread/INFO]: basic_balion issued server command: /home
-[09:25:10] [Async Chat Thread - #45/INFO]: [world]<SpyCat005> 誰家
-[09:25:15] [Async Chat Thread - #45/INFO]: [world]<wolf> 你家
-[09:25:22] [Async Chat Thread - #45/INFO]: [world]<SpyCat005> =口=""
-[09:25:28] [Async Chat Thread - #45/INFO]: [world]<wolf> 你上來看看
-[09:25:58] [Async Chat Thread - #45/INFO]: [world]<wolf> 不妥我再拆掉重弄w
-[09:26:48] [Async Chat Thread - #45/INFO]: [world_nether]<SpyCat005> 不錯啊
-[09:27:05] [Async Chat Thread - #45/INFO]: [world]<wolf> 那我就不改囉
-[09:27:27] [Async Chat Thread - #45/INFO]: [world_nether]<SpyCat005> 恩恩
-[09:28:37] [Server thread/INFO]: SpyCat005 issued server command: /home
-[09:29:25] [Async Chat Thread - #46/INFO]: [world]<SpyCat005> 我家在地圖上蠻整齊的?
-[09:29:36] [Async Chat Thread - #46/INFO]: [world]<SpyCat005> 剛剛才正面看
-[09:29:55] [Async Chat Thread - #46/INFO]: [world]<wolf> 強迫症嗎w
-[09:30:21] [Server thread/INFO]: [WEB] SpyCat005: 感覺很向村長家= =
-[09:43:57] [Server thread/INFO]: wolf has made the advancement [What a Deal!]
-[09:44:47] [Server thread/INFO]: [WEB] SpyCat005: 有發現甚麼好東西嗎ˊ
-[09:45:03] [Async Chat Thread - #47/INFO]: [world]<wolf> 換寶石w
-[09:45:38] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[09:45:38] [Server thread/INFO]: basic_balion left the game
-[09:45:49] [Async Chat Thread - #47/INFO]: [world]<SpyCat005> 先下了 眼睛痠
-[09:45:54] [Async Chat Thread - #47/INFO]: [world]<wolf> 88
-[09:45:58] [Async Chat Thread - #47/INFO]: [world]<SpyCat005> 88
-[09:46:02] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
-[09:46:02] [Server thread/INFO]: SpyCat005 left the game
-[10:24:47] [Server thread/INFO]: wolf has made the advancement [Tactical Fishing]
-[10:27:35] [Server thread/INFO]: wolf lost connection: Disconnected
-[10:27:35] [Server thread/INFO]: wolf left the game
-[12:04:54] [User Authenticator #79/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
-[12:04:54] [Server thread/INFO]: LRIC[/123.194.147.86:50190] logged in with entity id 1191751 at ([world]-688.8216637811936, 62.0, 151.75060164460083)
-[12:05:06] [Craft Scheduler Thread - 928/INFO]: [AuthMe] LRIC logged in!
-[12:15:59] [Server thread/INFO]: [Server] 安安你好
-[12:43:56] [User Authenticator #80/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[12:43:56] [Server thread/INFO]: SpyCat005[/115.165.227.248:1652] logged in with entity id 1198105 at ([world]581.1455596478929, 68.0625, 841.2731647261338)
-[12:44:06] [Craft Scheduler Thread - 937/INFO]: [AuthMe] SpyCat005 logged in!
-[13:07:13] [Server thread/INFO]: SpyCat005 issued server command: /home
-[13:08:31] [User Authenticator #81/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
-[13:08:31] [Server thread/INFO]: apple[/127.0.0.1:1950] logged in with entity id 1206517 at ([world]359.93233357679264, 63.0, 782.7995697111636)
-[13:08:39] [Craft Scheduler Thread - 947/INFO]: [AuthMe] apple logged in!
-[13:08:42] [Server thread/INFO]: apple issued server command: /tp LRIC
-[13:08:54] [Server thread/INFO]: apple issued server command: /tp SpyCat005
-[13:09:01] [Server thread/INFO]: apple issued server command: /fly
-[13:09:10] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 0.0
-[13:09:12] [Async Chat Thread - #48/INFO]: [world]<apple> 0.0
-[13:09:20] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 稀客?
-[13:09:25] [Async Chat Thread - #48/INFO]: [world]<apple> 真假
-[13:09:40] [Async Chat Thread - #48/INFO]: [world]<apple> 我是不是很少上限 我上線都是 晃一下
-[13:09:44] [Async Chat Thread - #48/INFO]: [world]<apple> XDD
-[13:09:49] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 我前天才蓋完這棟
-[13:09:56] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 裡面還沒布置玩
-[13:10:03] [Async Chat Thread - #48/INFO]: [world]<apple> COOOL
-[13:10:20] [Async Chat Thread - #48/INFO]: [world]<apple> 說不定你們房子蓋好可以 去 分享 吧哈姆特 D卡之類的
-[13:10:25] [Async Chat Thread - #48/INFO]: [world]<apple> 哈哈
-[13:10:48] [Async Chat Thread - #48/INFO]: [world]<apple> 原來你住在我蓋的集中營旁邊
-[13:10:57] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 原來就是你
-[13:11:14] [Async Chat Thread - #48/INFO]: [world]<apple> 不知道集中營效果好不好
-[13:11:25] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 你石柱拿到蠹魚磚了 害我死了2次
-[13:11:34] [Async Chat Thread - #48/INFO]: [world]<apple> XDDDDD
-[13:11:54] [Server thread/INFO]: apple issued server command: /gamemode 1
-[13:11:57] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 不錯啊 我時常幫鐵巨人補鐵
-[13:12:13] [Async Chat Thread - #48/INFO]: [world]<apple> 我比較想知道 怎麼種菜
-[13:12:19] [Async Chat Thread - #48/INFO]: [world]<apple> 我是說村民種菜
-[13:12:21] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 這裡是不是沒有幸運3啊 我都沒副到
-[13:12:34] [Async Chat Thread - #48/INFO]: [world]<apple> 我沒改遊戲設定阿
-[13:12:51] [Async Chat Thread - #48/INFO]: [world]<SpyCat005> 喔喔 丟給他們你想種的蔬菜16個 他們就種了
-[13:13:56] [Async Chat Thread - #49/INFO]: [world]<apple> soga
-[13:14:05] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 對了 村民結婚 會聚在水池慶祝?
-[13:14:18] [Server thread/INFO]: apple issued server command: /tp SpyCat005
-[13:14:18] [Server thread/WARN]: apple moved too quickly! -159.63081849967648,-52.86800629552951,165.79863132306616
-[13:14:24] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 有時候我就敲鐘讓他們進去
-[13:14:29] [Async Chat Thread - #49/INFO]: [world]<apple> coooooooool
-[13:14:59] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 這裡骷髏馬有繁殖的跡象XD
-[13:15:16] [Async Chat Thread - #49/INFO]: [world]<apple> 這麼變態 都是骨頭還能繁殖
-[13:15:36] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 因為鐵巨人只打骷髏不會打到馬
-[13:15:37] [Server thread/INFO]: apple issued server command: /lightning
-[13:15:45] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 那是我的馬
-[13:15:47] [Async Chat Thread - #49/INFO]: [world]<apple> 0.0
-[13:16:02] [Server thread/INFO]: apple issued server command: /gamemode 0
-[13:16:06] [Async Chat Thread - #49/INFO]: [world]<apple> 我以為路邊的
-[13:16:19] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 因為我發現我馬房蓋太小了QAQ
-[13:16:29] [Async Chat Thread - #49/INFO]: [world]<apple> 不對呀 馬被雷劈 不會變成骷髏馬
-[13:16:45] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 喔喔骷髏馬是自然生成的
-[13:17:18] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 靠近之後會召喚3之骷髏騎士
-[13:17:39] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 然後讓鐵巨人打骷髏騎士 之後就剩下骷髏馬了
-[13:17:42] [Async Chat Thread - #49/INFO]: [world]<apple> 我比較煩惱 之後 1.16 出出來 我該怎麼升級
-[13:17:45] [Async Chat Thread - #49/INFO]: [world]<apple> XDDDDDDDD
-[13:17:48] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> ?
-[13:17:53] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> 1.16?
-[13:19:10] [Async Chat Thread - #50/INFO]: [world]<SpyCat005> apple
-[13:19:27] [Async Chat Thread - #50/INFO]: [world]<SpyCat005> 地域可以改成不噴裝嗎!?
-[13:26:27] [Async Chat Thread - #51/INFO]: [world]<apple> 這我就不明白啦 我不知道為啥 只有 world不噴裝
-[13:26:36] [Async Chat Thread - #51/INFO]: [world]<apple> XDD我得找找
-[13:26:41] [Async Chat Thread - #51/INFO]: [world]<SpyCat005> 3Q
-[13:26:49] [Server thread/INFO]: apple was blown up by Creeper
-[13:26:52] [Async Chat Thread - #51/INFO]: [world]<SpyCat005> .
-[13:27:01] [Server thread/INFO]: apple issued server command: /top
-[13:27:09] [Server thread/INFO]: apple fell from a high place
-[13:27:12] [Server thread/INFO]: apple issued server command: /top
-[13:30:43] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> = =我這棟好像村長家喔
-[13:30:52] [Server thread/INFO]: apple issued server command: /fly
-[13:31:04] [Async Chat Thread - #52/INFO]: [world]<apple> .....
-[13:31:13] [Async Chat Thread - #52/INFO]: [world]<apple> 我到了一個地方 整片田
-[13:31:16] [Async Chat Thread - #52/INFO]: [world]<apple> 嚇到我
-[13:31:23] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> ?哪裡
-[13:31:31] [Server thread/INFO]: SpyCat005 issued server command: /tpa apple
-[13:31:42] [Async Chat Thread - #52/INFO]: [world]<apple> 就在你們建築物附近
-[13:31:56] [Server thread/INFO]: apple issued server command: /tpaccept
-[13:32:18] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 挖靠
-[13:32:25] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 那棟是三小
-[13:32:26] [Server thread/INFO]: apple issued server command: /tp SpyCat005
-[13:32:34] [Async Chat Thread - #52/INFO]: [world]<apple> 超扯阿
-[13:32:57] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 玩生存才知道神在哪裡
-[13:33:00] [Async Chat Thread - #52/INFO]: [world]<apple> 你應該知道可以飛吧
-[13:33:04] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> ?
-[13:33:07] [Server thread/INFO]: SpyCat005 issued server command: /fly
-[13:33:15] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> !!!我剛剛才知道
-[13:33:22] [Async Chat Thread - #52/INFO]: [world]<apple> 我有授權給大家
-[13:33:36] [Async Chat Thread - #52/INFO]: [world]<apple> 這田 有點 扯
-[13:33:40] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 挖靠 真的厲害啦 這幾棟
-[13:34:24] [Async Chat Thread - #52/INFO]: [world]<apple> 我以為你們是一起的
-[13:34:27] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> = =這個田我給100分
-[13:34:36] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 喔喔我假日才能玩
-[13:34:56] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 我想幫忙採收了
-[13:35:21] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 別好了 可能是為了好看而用的
-[13:35:46] [Async Chat Thread - #52/INFO]: [world]<SpyCat005> 這裡有養蜂場?
-[13:37:01] [Async Chat Thread - #53/INFO]: [world]<SpyCat005> = =一整座的綠寶石塔
-[13:38:05] [Server thread/INFO]: SpyCat005 issued server command: /sethome
-[13:38:27] [Async Chat Thread - #54/INFO]: [world_nether]<SpyCat005> 這裡可以設置幾個家
-[13:40:57] [Server thread/INFO]: SpyCat005 has made the advancement [A Terrible Fortress]
-[13:41:57] [Server thread/INFO]: SpyCat005 issued server command: /home
-[13:47:31] [Server thread/INFO]: LRIC issued server command: /fly
-[13:54:23] [Async Chat Thread - #55/INFO]: [world]<apple> 無限吧
-[13:55:01] [Server thread/INFO]: SpyCat005 issued server command: /home
-[14:07:01] [Server thread/INFO]: apple issued server command: /tp SpyCat005
-[14:07:49] [Server thread/INFO]: apple issued server command: /top
-[14:07:55] [Server thread/INFO]: apple issued server command: /top
-[14:08:00] [Server thread/INFO]: apple issued server command: /top
-[14:08:09] [Server thread/INFO]: SpyCat005 issued server command: /spawn
-[14:08:38] [Server thread/INFO]: apple lost connection: Disconnected
-[14:08:38] [Server thread/INFO]: apple left the game
-[14:14:31] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
-[14:14:31] [Server thread/INFO]: SpyCat005 left the game
-[14:14:33] [User Authenticator #82/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[14:14:33] [Server thread/INFO]: SpyCat005[/115.165.227.248:2518] logged in with entity id 1235818 at ([world]602.5596443091165, 65.0, 833.9309991123816)
-[14:14:59] [Craft Scheduler Thread - 967/INFO]: [AuthMe] SpyCat005 logged in!
-[14:15:13] [Server thread/INFO]: SpyCat005 issued server command: /fly
-[14:16:59] [Server thread/WARN]: LRIC moved too quickly! 14.348941806455741,0.0,-0.47588568356218275
-[14:18:31] [Server thread/WARN]: Horse moved wrongly!
-[14:20:39] [User Authenticator #83/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[14:20:39] [Server thread/INFO]: biteyou74[/120.102.191.141:2350] logged in with entity id 1238531 at ([world]-220.34194791744144, 104.0, -1081.480850728571)
-[14:20:46] [Server thread/INFO]: biteyou74 issued server command: /login
-[14:20:56] [Craft Scheduler Thread - 971/INFO]: [AuthMe] biteyou74 logged in!
-[14:23:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5101ms or 102 ticks behind
-[14:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[14:25:53] [Server thread/INFO]: SpyCat005 issued server command: /home a
-[14:28:31] [Server thread/INFO]: SpyCat005 was shot by Skeleton
-[14:30:08] [User Authenticator #84/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
-[14:30:09] [Server thread/INFO]: apple[/127.0.0.1:3003] logged in with entity id 1246784 at ([world]-274.6330376301702, 67.0, -1064.9131039323522)
-[14:30:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
-[14:30:20] [Craft Scheduler Thread - 975/INFO]: [AuthMe] apple logged in!
-[14:30:45] [Server thread/INFO]: apple issued server command: /tp LRIC
-[14:30:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
-[14:31:45] [Server thread/INFO]: apple drowned
-[14:32:04] [Async Chat Thread - #56/INFO]: [world]<LRIC> 原來在水裡XD
-[14:32:18] [Server thread/INFO]: apple issued server command: /tp LRIC
-[14:32:26] [Async Chat Thread - #56/INFO]: [world]<apple> XDDDDDDDD
-[14:32:36] [Async Chat Thread - #56/INFO]: [world]<apple> 看你找不到我的樣子
-[14:32:45] [Async Chat Thread - #56/INFO]: [world]<LRIC> 對阿 亂揮 看看
-[14:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
-[14:32:57] [Server thread/WARN]: apple moved wrongly!
-[14:33:25] [Server thread/INFO]: apple issued server command: /tp LRIC
-[14:33:33] [Async Chat Thread - #56/INFO]: [world]<LRIC> 北極熊是怎樣XDD
-[14:34:03] [Async Chat Thread - #56/INFO]: [world]<LRIC> 很滑
-[14:34:26] [Async Chat Thread - #56/INFO]: [world]<LRIC> 船不能共乘喔?
-[14:34:34] [Async Chat Thread - #56/INFO]: [world]<apple> 可以啊
-[14:35:16] [Async Chat Thread - #56/INFO]: [world]<LRIC> 讚
-[14:35:46] [Server thread/INFO]: biteyou74 issued server command: /fly
-[14:36:39] [Server thread/INFO]: apple issued server command: /fly
-[14:36:54] [Server thread/INFO]: apple was slain by Polar Bear
-[14:36:59] [Server thread/INFO]: apple issued server command: /back
-[14:37:13] [Async Chat Thread - #57/INFO]: [world]<LRIC> 哈哈哈哈 你要把船踢到哪
-[14:37:39] [User Authenticator #85/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
-[14:37:39] [Server thread/INFO]: Andy[/220.135.139.86:49586] logged in with entity id 1252168 at ([world]-395.899263457873, 68.0, -511.9685691180805)
-[14:37:49] [Craft Scheduler Thread - 980/INFO]: [AuthMe] Andy logged in!
-[14:38:07] [Async Chat Thread - #57/INFO]: [world]<apple> 好兇
-[14:38:07] [Server thread/WARN]: apple moved wrongly!
-[14:38:26] [Server thread/INFO]: apple was slain by Polar Bear
-[14:38:28] [Async Chat Thread - #57/INFO]: [world]<LRIC> 北極熊載不走
-[14:38:32] [Async Chat Thread - #57/INFO]: [world]<apple> yao
-[14:38:36] [Async Chat Thread - #57/INFO]: [world]<apple> yap
-[14:41:26] [Server thread/WARN]: Skipping Entity with id 
-[14:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
-[14:43:09] [Server thread/INFO]: LRIC issued server command: /back
-[14:43:18] [Server thread/INFO]: LRIC issued server command: /home
-[14:43:23] [Server thread/INFO]: LRIC issued server command: /back
-[14:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
-[14:45:46] [Async Chat Thread - #58/INFO]: [world]<LRIC> 安 屋頂更新了欸XDDD
-[14:46:02] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 被都更了
-[14:46:09] [Async Chat Thread - #58/INFO]: [world]<LRIC> 內裝比上次高級
-[14:46:33] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 我們要蓋不讓牛頓哭的建築
-[14:46:54] [Server thread/INFO]: SpyCat005 issued server command: /sethome
-[14:47:25] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 把這裡當自己家 隨意
-[14:47:49] [Async Chat Thread - #58/INFO]: [world]<LRIC> haha 稍早有逛過
-[14:48:13] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 喔喔
-[14:48:34] [Async Chat Thread - #58/INFO]: [world]<LRIC> 這裡是北部吧XDDD 世界中心以北
-[14:48:44] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 台北以台都是南部
-[14:49:06] [Async Chat Thread - #58/INFO]: [world]<LRIC> 好 我鄉下人 我錯了
-[14:49:48] [Async Chat Thread - #58/INFO]: [world]<biteyou74> 我們是南蠻國家
-[14:51:02] [Server thread/INFO]: SpyCat005 has made the advancement [Into Fire]
-[14:51:57] [Async Chat Thread - #59/INFO]: [world]<LRIC> 這告示牌很可以 我現在才看到
-[14:52:12] [Async Chat Thread - #59/INFO]: [world]<biteyou74> 一直都徵不到人 好奇怪
-[14:54:13] [User Authenticator #86/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[14:54:14] [Server thread/INFO]: Caber588[/219.70.214.164:50566] logged in with entity id 1263838 at ([world]-235.4814034102552, 106.16876184814184, -1063.4546175256992)
-[14:54:19] [Craft Scheduler Thread - 986/INFO]: [AuthMe] Caber588 logged in!
-[14:54:22] [Server thread/INFO]: Caber588 issued server command: /fly
-[14:56:11] [Server thread/WARN]: LRIC moved wrongly!
-[14:56:29] [Server thread/INFO]: SpyCat005 has made the advancement [Hot Stuff]
-[14:57:38] [Server thread/INFO]: SpyCat005 has made the advancement [Spooky Scary Skeleton]
-[15:01:33] [Server thread/INFO]: Caber588 has completed the challenge [Sniper Duel]
-[15:06:28] [Server thread/INFO]: LRIC has made the advancement [A Terrible Fortress]
-[15:07:38] [Server thread/WARN]: SpyCat005 moved too quickly! 16.493213153866975,1.560595837066323,7.364052666294128
-[15:07:38] [Server thread/WARN]: biteyou74 moved too quickly! 3.5352916807111683,15.374980045055594,-15.720185149446934
-[15:07:38] [Server thread/WARN]: LRIC moved too quickly! 7.664516394808288,-5.619334184631768,18.37590185988006
-[15:10:15] [Server thread/INFO]: LRIC has completed the challenge [Return to Sender]
-[15:21:48] [Server thread/INFO]: LRIC lost connection: Disconnected
-[15:21:48] [Server thread/INFO]: LRIC left the game
-[15:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5189ms or 103 ticks behind
-[15:22:41] [Server thread/WARN]: biteyou74 moved too quickly! -18.47025391357289,17.624943572876703,-3.1521889533996728
-[15:22:41] [Server thread/WARN]: biteyou74 moved too quickly! -18.0506427876648,17.24994355797554,-3.4447568707785194
-[15:22:53] [Server thread/INFO]: SpyCat005 drowned
-[15:23:50] [Server thread/INFO]: SpyCat005 issued server command: /back
-[15:25:52] [Server thread/INFO]: SpyCat005 has completed the challenge [Return to Sender]
-[15:33:50] [Server thread/INFO]: Caber588 issued server command: /home
-[15:39:01] [Server thread/INFO]: SpyCat005 withered away whilst fighting Wither Skeleton
-[15:39:14] [Async Chat Thread - #60/INFO]: [world]<SpyCat005> = =凸
-[15:40:18] [Server thread/INFO]: SpyCat005 issued server command: /home
-[15:45:28] [Async Chat Thread - #61/INFO]: [world]<biteyou74> 要去沙漠村莊找海鞘ㄇ
-[15:48:31] [Server thread/INFO]: biteyou74 was slain by Caber588
-[15:48:46] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[15:48:46] [Server thread/INFO]: biteyou74 left the game
-[15:49:26] [User Authenticator #87/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[15:49:26] [Server thread/INFO]: biteyou74[/120.102.191.141:2764] logged in with entity id 1299199 at ([world]-234.69999998807907, 106.0, -1075.5748052809643)
-[15:49:41] [Craft Scheduler Thread - 1004/INFO]: [AuthMe] biteyou74 logged in!
-[15:49:54] [Server thread/INFO]: biteyou74 issued server command: /home
-[15:49:56] [Server thread/INFO]: Andy issued server command: /home
-[15:50:54] [Server thread/INFO]: biteyou74 issued server command: /fly
-[15:54:22] [User Authenticator #88/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[15:54:23] [Server thread/INFO]: rgps3725[/114.45.127.118:51249] logged in with entity id 1302112 at ([world]-101.26446907885325, 13.0, -1120.1861874143372)
-[15:54:26] [Craft Scheduler Thread - 1008/INFO]: [AuthMe] rgps3725 logged in!
-[15:54:31] [Server thread/INFO]: rgps3725 issued server command: /fly
-[15:54:47] [Server thread/INFO]: Andy issued server command: /home
-[15:56:28] [Server thread/INFO]: Andy issued server command: /baclk
-[15:56:30] [Server thread/INFO]: Andy issued server command: /back
-[15:57:45] [Server thread/WARN]: biteyou74 moved too quickly! -17.359254839327832,3.420433466156723,-34.03040808442097
-[15:58:40] [User Authenticator #89/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
-[15:58:41] [Server thread/INFO]: FredYea[/124.6.23.53:51890] logged in with entity id 1309829 at ([world]254.98277893819227, 63.0, 1466.4495773012832)
-[15:58:43] [Server thread/INFO]: Andy was shot by Pillager
-[15:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5061ms or 101 ticks behind
-[15:58:50] [Craft Scheduler Thread - 1011/INFO]: [AuthMe] FredYea used the wrong password
-[15:58:50] [Server thread/INFO]: FredYea lost connection: §b【AuthMe】§6密碼錯誤!
-[15:58:50] [Server thread/INFO]: FredYea left the game
-[15:58:53] [Server thread/INFO]: Andy issued server command: /back
-[15:58:53] [User Authenticator #90/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
-[15:58:53] [Server thread/INFO]: FredYea[/124.6.23.53:51892] logged in with entity id 1310478 at ([world]254.98277893819227, 63.0, 1466.4495773012832)
-[15:58:59] [Craft Scheduler Thread - 1011/INFO]: [AuthMe] FredYea logged in!
-[15:59:05] [Server thread/WARN]: Horse moved wrongly!
-[15:59:18] [Server thread/WARN]: Horse moved wrongly!
-[15:59:18] [Server thread/WARN]: Horse moved wrongly!
-[15:59:20] [Server thread/INFO]: biteyou74 issued server command: /tpa Caber588
-[15:59:31] [Server thread/INFO]: Andy issued server command: /home
-[15:59:37] [Server thread/INFO]: Caber588 issued server command: /tpaccept
-[16:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[16:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[16:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
-[16:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
-[16:02:31] [Server thread/INFO]: rgps3725 issued server command: /tpa Caber588
-[16:02:34] [Server thread/INFO]: Caber588 issued server command: /tpaccept
-[16:03:46] [Server thread/INFO]: Caber588 issued server command: /home
-[16:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
-[16:04:01] [Server thread/INFO]: Caber588 issued server command: /back
-[16:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[16:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[16:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[16:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
-[16:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5334ms or 106 ticks behind
-[16:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5103ms or 102 ticks behind
-[16:08:47] [Server thread/WARN]: Caber588 moved too quickly! -4.350211172136369,-24.438055130602066,-13.618568808937198
-[16:08:57] [Server thread/INFO]: Andy issued server command: /home
-[16:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7085ms or 141 ticks behind
-[16:09:39] [Server thread/INFO]: rgps3725 issued server command: /home
-[16:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[16:09:50] [Server thread/INFO]: FredYea issued server command: /afk.auto
-[16:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[16:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
-[16:11:49] [User Authenticator #91/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
-[16:11:50] [Server thread/INFO]: LRIC[/123.194.147.86:52550] logged in with entity id 1328519 at ([world]577.1363254395003, 63.0, -214.4466550172432)
-[16:12:01] [Craft Scheduler Thread - 1017/INFO]: [AuthMe] LRIC logged in!
-[16:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7142ms or 142 ticks behind
-[16:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8872ms or 177 ticks behind
-[16:12:57] [Server thread/INFO]: Andy has made the advancement [Voluntary Exile]
-[16:13:17] [Server thread/INFO]: LRIC issued server command: /fly
-[16:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10694ms or 213 ticks behind
-[16:14:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17748ms or 354 ticks behind
-[16:14:14] [Server thread/INFO]: Andy fell from a high place
-[16:14:25] [Server thread/INFO]: Andy issued server command: /back
-[16:14:30] [Server thread/INFO]: Andy issued server command: /home
-[16:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
-[16:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[16:16:12] [Server thread/INFO]: LRIC issued server command: /back
-[16:16:28] [Server thread/INFO]: LRIC issued server command: /back
-[16:16:43] [Server thread/INFO]: LRIC issued server command: /home
-[16:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[16:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[16:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[17:03:31] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:03:31] [Server thread/INFO]: Loading properties
+[17:03:32] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e7dc2f5-ce66f69 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[17:03:32] [Server thread/INFO]: Debug logging is disabled
+[17:03:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:03:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:03:32] [Server thread/INFO]: Default game type: SURVIVAL
+[17:03:32] [Server thread/INFO]: Generating keypair
+[17:03:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:03:32] [Server thread/INFO]: Using default channel type
+[17:03:35] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:03:39] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[17:03:39] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[17:03:39] [Server thread/INFO]: [dynmap] version=git-Spigot-e7dc2f5-ce66f69 (MC: 1.15.2)
+[17:03:39] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[17:03:39] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[17:03:39] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:03:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0-SNAPSHOT+4971-8c83fd6
+[17:03:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@17c01a48]
+[17:03:40] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[17:03:40] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[17:03:40] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.15.2-v4-SNAPSHOT
+[17:03:42] [Server thread/INFO]: -------- World Settings For [DUMMY] --------
+[17:03:42] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:42] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:42] [Server thread/INFO]: View Distance: 10
+[17:03:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:42] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:42] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:42] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:42] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:42] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:44] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[17:03:44] [Server thread/INFO]: [Lift] Loading Lift v63
+[17:03:44] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.1-SNAPSHOT-b777
+[17:03:44] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-SNAPSHOT-b2388
+[17:03:44] [Server thread/INFO]: [LightCleaner] Loading LightCleaner v1.15.2-v1
+[17:03:44] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.1.0-b805
+[17:03:44] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0-SNAPSHOT+4971-8c83fd6
+[17:03:44] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:03:44] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[17:03:44] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:03:44] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[17:03:44] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[17:03:44] [Server thread/WARN]: [WorldEdit]   
+[17:03:44] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[17:03:44] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[17:03:44] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[17:03:44] [Server thread/WARN]: [WorldEdit]   
+[17:03:44] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[17:03:44] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[17:03:44] [Server thread/WARN]: [WorldEdit]   
+[17:03:44] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[17:03:44] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[17:03:44] [Server thread/WARN]: [WorldEdit]   
+[17:03:44] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[17:03:44] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:03:44] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.15.2-v4-SNAPSHOT
+[17:03:45] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on Spigot (git-Spigot-e7dc2f5-ce66f69) : v1_15_R1 (Minecraft 1.15.2)
+[17:03:45] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
+[17:03:46] [Server thread/INFO]: [BKCommonLib] Updating is like reinventing the wheel for BKCommonLib.
+[17:03:46] [Server thread/INFO]: [BKCommonLib] BKCommonLib version 1.15.2-v4-SNAPSHOT (build: 751) enabled! (1.637s)
+[17:03:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:03:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:03:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:03:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:03:46] [Server thread/INFO]: Preparing level "world"
+[17:03:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:03:47] [Server thread/INFO]: Loaded 6 recipes
+[17:03:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:03:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:47] [Server thread/INFO]: View Distance: 10
+[17:03:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:47] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:47] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:47] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:03:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:03:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:47] [Server thread/INFO]: View Distance: 10
+[17:03:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:47] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:47] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:03:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:47] [Server thread/INFO]: View Distance: 10
+[17:03:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:47] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:47] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:47] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[17:03:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:48] [Server thread/INFO]: Preparing spawn area: 30%
+[17:03:48] [Server thread/INFO]: Time elapsed: 1100 ms
+[17:03:48] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:49] [Server thread/INFO]: Time elapsed: 719 ms
+[17:03:49] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:03:49] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:49] [Server thread/INFO]: Time elapsed: 339 ms
+[17:03:49] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257
+[17:03:50] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[17:03:50] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[17:03:50] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:03:50] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[17:03:50] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[17:03:50] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[17:03:51] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[17:03:51] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[17:03:51] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[17:03:51] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[17:03:51] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:03:51] [Server thread/INFO]: [dynmap] Loaded 83532 pending tile renders for world 'world'
+[17:03:51] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:03:51] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:03:51] [Server thread/INFO]: [dynmap] Enabled
+[17:03:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[17:03:51] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[17:03:51] [Server thread/INFO]: No kits found to migrate.
+[17:03:52] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[17:03:52] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[17:03:52] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[17:03:52] [Server thread/INFO]: Loaded 21018 items from items.json.
+[17:03:52] [Server thread/INFO]: Using locale zh_TW
+[17:03:52] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:03:52] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:03:52] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[17:03:52] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[17:03:52] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[17:03:52] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[17:03:52] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[17:03:52] [Server thread/INFO]: [Lift] Enabling Lift v63
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: BLACK_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: BLUE_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: BROWN_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: CYAN_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: GRAY_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: GREEN_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: LIGHT_BLUE_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: LIGHT_GRAY_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: LIME_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: MAGENTA_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: ORANGE_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: PINK_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: PURPLE_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: RED_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: WHITE_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Floor material added: YELLOW_STAINED_GLASS
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: ACACIA_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: BIRCH_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: DARK_OAK_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: JUNGLE_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: OAK_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: SPRUCE_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Button material added: STONE_BUTTON
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: ACACIA_WALL_SIGN
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: BIRCH_WALL_SIGN
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: DARK_OAK_WALL_SIGN
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: JUNGLE_WALL_SIGN
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: OAK_WALL_SIGN
+[17:03:52] [Server thread/INFO]: [Lift] Sign material added: SPRUCE_WALL_SIGN
+[17:03:52] [Server thread/INFO]: Lift v63 is now enabled!
+[17:03:52] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[17:03:52] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.1.1-SNAPSHOT-b777" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[17:03:52] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+[17:03:52] [Server thread/INFO]: -------- World Settings For [world_china] --------
+[17:03:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:52] [Server thread/INFO]: View Distance: 10
+[17:03:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:52] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:52] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:52] [Server thread/INFO]: Preparing start region for dimension 'world_china'/minecraft:overworld
+[17:03:53] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:53] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:53] [Server thread/INFO]: Time elapsed: 800 ms
+[17:03:53] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_china'.
+[17:03:53] [Server thread/INFO]: -------- World Settings For [world_comic_world] --------
+[17:03:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:53] [Server thread/INFO]: View Distance: 10
+[17:03:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:53] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:53] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:53] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:53] [Server thread/INFO]: Preparing start region for dimension 'world_comic_world'/minecraft:overworld
+[17:03:54] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:54] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:54] [Server thread/INFO]: Time elapsed: 950 ms
+[17:03:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_comic_world'.
+[17:03:54] [Server thread/INFO]: -------- World Settings For [world_yucsh] --------
+[17:03:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:54] [Server thread/INFO]: View Distance: 10
+[17:03:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:54] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:54] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:54] [Server thread/INFO]: Preparing start region for dimension 'world_yucsh'/minecraft:overworld
+[17:03:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:55] [Server thread/INFO]: Time elapsed: 659 ms
+[17:03:55] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_yucsh'.
+[17:03:55] [Server thread/INFO]: -------- World Settings For [world_MaoMao] --------
+[17:03:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:55] [Server thread/INFO]: View Distance: 10
+[17:03:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:55] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:55] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:55] [Server thread/INFO]: Preparing start region for dimension 'world_MaoMao'/minecraft:overworld
+[17:03:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:55] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:55] [Server thread/INFO]: Time elapsed: 589 ms
+[17:03:55] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_MaoMao'.
+[17:03:55] [Server thread/INFO]: -------- World Settings For [world_old] --------
+[17:03:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:55] [Server thread/INFO]: View Distance: 10
+[17:03:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:55] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:55] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:55] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:55] [Server thread/INFO]: Preparing start region for dimension 'world_old'/minecraft:overworld
+[17:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:56] [Server thread/INFO]: Time elapsed: 603 ms
+[17:03:56] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_old'.
+[17:03:56] [Server thread/INFO]: -------- World Settings For [creative] --------
+[17:03:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:56] [Server thread/INFO]: View Distance: 10
+[17:03:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:56] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:56] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:56] [Server thread/INFO]: Preparing start region for dimension 'creative'/minecraft:overworld
+[17:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:57] [Server thread/INFO]: Time elapsed: 652 ms
+[17:03:57] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'creative'.
+[17:03:57] [Server thread/INFO]: -------- World Settings For [world_ken] --------
+[17:03:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:57] [Server thread/INFO]: View Distance: 10
+[17:03:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:57] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:57] [Server thread/INFO]: Preparing start region for dimension 'world_ken'/minecraft:overworld
+[17:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:57] [Server thread/INFO]: Time elapsed: 603 ms
+[17:03:57] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_ken'.
+[17:03:57] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_train
+[17:03:57] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[17:03:57] [Server thread/INFO]: -------- World Settings For [world_survive] --------
+[17:03:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:57] [Server thread/INFO]: View Distance: 10
+[17:03:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:57] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:57] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:57] [Server thread/INFO]: Preparing start region for dimension 'world_survive'/minecraft:overworld
+[17:03:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:58] [Server thread/INFO]: Time elapsed: 680 ms
+[17:03:58] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world_survive'.
+[17:03:58] [Server thread/INFO]: -------- World Settings For [world-1-8] --------
+[17:03:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:03:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:03:58] [Server thread/INFO]: View Distance: 10
+[17:03:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:03:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:03:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:03:58] [Server thread/INFO]: Mob Spawn Range: 8
+[17:03:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:03:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:03:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:03:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:03:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:03:58] [Server thread/INFO]: Max TNT Explosions: 100
+[17:03:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:03:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:03:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:03:58] [Server thread/INFO]: Preparing start region for dimension 'world-1-8'/minecraft:overworld
+[17:03:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:58] [Server thread/INFO]: Preparing spawn area: 0%
+[17:03:59] [Server thread/INFO]: Time elapsed: 637 ms
+[17:03:59] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world-1-8'.
+[17:03:59] [Server thread/INFO]: [Multiverse-Core] 12 - World(s) loaded.
+[17:03:59] [Server thread/INFO]: [Multiverse-Core] Version 4.1.1-SNAPSHOT-b777 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[17:03:59] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-SNAPSHOT-b2388
+[17:03:59] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[17:03:59] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[17:03:59] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[17:03:59] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[17:03:59] [Server thread/WARN]: [AuthMe] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[17:04:00] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[17:04:00] [Server thread/INFO]: [LightCleaner] Enabling LightCleaner v1.15.2-v1
+[17:04:00] [Server thread/INFO]: [LightCleaner] Saving plugins\LightCleaner\Localization.yml...
+[17:04:00] [Server thread/INFO]: [LightCleaner] LightCleaner version 1.15.2-v1 enabled! (0.041s)
+[17:04:00] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.1.0-b805
+[17:04:00] [Server thread/WARN]: [Multiverse-Portals] Failed Parsing World for: train (World Error, World did not exist or was not imported into Multiverse-Core!)
+[17:04:00] [Server thread/WARN]: [Multiverse-Portals] Portal train has an invalid LOCATION!
+[17:04:00] [Server thread/WARN]: [Multiverse-Portals] Portal 'train' not loaded due to invalid location!
+[17:04:00] [Server thread/INFO]: [Multiverse-Portals] 18 - Portals(s) loaded
+[17:04:00] [Server thread/WARN]: [Multiverse-Core] Portal world1 has an invalid DESTINATION!
+[17:04:00] [Server thread/WARN]: [Multiverse-Portals] Loaded class com.sk89q.worldedit.IncompleteRegionException from WorldEdit v7.2.0-SNAPSHOT+4971-8c83fd6 which is not a depend, softdepend or loadbefore of this plugin.
+[17:04:00] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[17:04:00] [Server thread/INFO]: [Multiverse-Portals 4.1.0-b805]  Enabled - By Rigby and fernferret
+[17:04:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:04:00] [Server thread/INFO]: Done (14.145s)! For help, type "help"
+[17:04:00] [Craft Scheduler Thread - 6/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[17:04:00] [Craft Scheduler Thread - 6/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[17:04:00] [Craft Scheduler Thread - 6/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[17:04:00] [Craft Scheduler Thread - 6/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[17:04:00] [User Authenticator #1/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[17:04:00] [User Authenticator #2/INFO]: UUID of player rachelTH884 is dfef87ad-5aa6-35ce-b8bf-ef5d76b3ef6c
+[17:04:00] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[17:04:01] [Server thread/INFO]: rachelTH884[/36.232.173.156:61402] logged in with entity id 1424 at ([world]218.28350590762946, 69.0, 265.8740317322335)
+[17:04:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fd9c1dd[id=b5dac479-b96a-3217-8a83-eca4929e2345,name=SpyCat005,properties={},legacy=false] (/115.165.227.248:3837) lost connection: Disconnected
+[17:04:16] [Server thread/INFO]: rachelTH884 issued server command: /r
+[17:04:17] [User Authenticator #3/INFO]: UUID of player LRIC is 33affe98-46e6-3be6-8c1d-14d0d403d30c
+[17:04:17] [Server thread/INFO]: LRIC[/123.194.147.86:52900] logged in with entity id 1853 at ([world]281.86779529892175, 91.11798127667207, -648.7119068734424)
+[17:04:17] [User Authenticator #4/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[17:04:18] [Server thread/INFO]: biteyou74[/120.102.191.141:9038] logged in with entity id 1854 at ([world]-154.69999998807907, 69.0, -1031.699999988079)
+[17:04:18] [User Authenticator #5/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[17:04:19] [Server thread/INFO]: rgps3725[/114.45.127.118:57578] logged in with entity id 1994 at ([world]-230.85839917527565, 104.0, -1070.831543161161)
+[17:04:22] [Craft Scheduler Thread - 15/INFO]: [AuthMe] LRIC logged in!
+[17:04:26] [Server thread/INFO]: LRIC issued server command: /fly
+[17:04:26] [User Authenticator #6/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[17:04:27] [Server thread/INFO]: SpyCat005[/115.165.227.248:3878] logged in with entity id 2508 at ([world]775.8775497657786, 11.0, 704.218864804853)
+[17:04:28] [Craft Scheduler Thread - 16/INFO]: [AuthMe] biteyou74 logged in!
+[17:04:28] [Craft Scheduler Thread - 16/INFO]: [AuthMe] rgps3725 logged in!
+[17:04:30] [Server thread/INFO]: rachelTH884 issued server command: /register
+[17:04:32] [Craft Scheduler Thread - 16/INFO]: [AuthMe] SpyCat005 logged in!
+[17:04:36] [Server thread/INFO]: rachelTH884 issued server command: /regi
+[17:04:46] [User Authenticator #7/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[17:04:46] [Server thread/INFO]: FredYea[/124.6.23.53:52144] logged in with entity id 2801 at ([world]258.086467068443, 63.0, 1467.1363916914192)
+[17:04:50] [Server thread/INFO]: biteyou74 issued server command: /fly
+[17:04:53] [Craft Scheduler Thread - 15/INFO]: [AuthMe] FredYea logged in!
+[17:05:08] [Server thread/INFO]: [AuthMe] rachelTH884 registered 36.232.173.156
+[17:05:08] [Craft Scheduler Thread - 15/INFO]: [AuthMe] rachelTH884 logged in!
+[17:05:35] [Server thread/INFO]: rgps3725 issued server command: /fly
+[17:07:25] [User Authenticator #8/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
+[17:07:26] [Server thread/INFO]: Andy[/220.135.139.86:59043] logged in with entity id 6250 at ([world]-387.0975076772759, 68.0, -506.66864309126163)
+[17:07:32] [Craft Scheduler Thread - 20/INFO]: [AuthMe] Andy logged in!
+[17:08:06] [User Authenticator #9/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[17:08:06] [Server thread/INFO]: mx90498793[/115.165.227.248:64392] logged in with entity id 7068 at ([world]219.9054935496738, 69.0, 265.3333320191694)
+[17:08:20] [Server thread/INFO]: [AuthMe] mx90498793 registered 115.165.227.248
+[17:08:20] [Craft Scheduler Thread - 19/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[17:08:20] [Craft Scheduler Thread - 19/INFO]: [AuthMe] §7§aSpyCat005§7, §amx90498793§7.
+[17:08:20] [Craft Scheduler Thread - 19/INFO]: [AuthMe] mx90498793 logged in!
+[17:08:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[17:08:37] [Async Chat Thread - #0/INFO]: [world]<mx90498793> 3Q
+[17:08:54] [Server thread/INFO]: LRIC issued server command: /back
+[17:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6263ms or 125 ticks behind
+[17:09:01] [Server thread/INFO]: Andy issued server command: /home
+[17:09:13] [Server thread/INFO]: rachelTH884 lost connection: Disconnected
+[17:09:13] [Server thread/INFO]: rachelTH884 left the game
+[17:09:29] [Server thread/INFO]: Andy issued server command: /back
+[17:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7240ms or 144 ticks behind
+[17:09:56] [Server thread/INFO]: mx90498793 issued server command: /tpa SpyCat005
+[17:10:02] [Server thread/INFO]: SpyCat005 was slain by Zombie
+[17:10:02] [Server thread/INFO]: mx90498793 issued server command: /fly
+[17:10:05] [Server thread/INFO]: Andy issued server command: /home
+[17:10:07] [Server thread/INFO]: SpyCat005 issued server command: /back
+[17:10:26] [Server thread/INFO]: Andy issued server command: /back
+[17:10:41] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
+[17:10:50] [Server thread/INFO]: mx90498793 issued server command: /tpa SpyCat005
+[17:10:52] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
+[17:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[17:11:13] [Async Chat Thread - #1/INFO]: [world]<SpyCat005> 石頭
+[17:11:34] [AWT-Windows/INFO]: ***WARNING: SWT requires comctl32.dll version 5.80 or greater
+[17:11:34] [AWT-Windows/INFO]: ***WARNING: Detected: 0.0
+[17:12:04] [Server thread/INFO]: SpyCat005 issued server command: /home
+[17:12:07] [Server thread/INFO]: [Server] goood 感覺設定一切都有生效　現在　登入　沒輸入密碼　１００秒　才會被踢出
+[17:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[17:12:25] [Async Chat Thread - #2/INFO]: [world]<FredYea> 0.0
+[17:12:33] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[17:12:35] [Server thread/INFO]: [Server] 這樣友善一點
+[17:12:54] [Async Chat Thread - #2/INFO]: [world]<mx90498793> 尊重有善包容
+[17:12:57] [Server thread/INFO]: mx90498793 has made the advancement [Monster Hunter]
+[17:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[17:13:23] [Server thread/INFO]: SpyCat005 drowned
+[17:13:26] [Async Chat Thread - #2/INFO]: [world]<mx90498793> -.-
+[17:13:47] [Server thread/INFO]: SpyCat005 issued server command: /tpahere mx90498793
+[17:13:51] [Server thread/INFO]: mx90498793 issued server command: /tpaccept
+[17:14:05] [Server thread/INFO]: mx90498793 issued server command: /m SpyCat005 你加?
+[17:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[17:14:27] [Server thread/INFO]: mx90498793 issued server command: /m SpyCat005 你家?
+[17:14:36] [Server thread/INFO]: SpyCat005 issued server command: /m mx90498793 恩恩
+[17:14:38] [Server thread/INFO]: mx90498793 issued server command: /m SpyCat005 你不會密語==?
+[17:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5573ms or 111 ticks behind
+[17:15:20] [Server thread/INFO]: mx90498793 was slain by SpyCat005
+[17:15:28] [Server thread/INFO]: mx90498793 issued server command: /back
+[17:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[17:15:38] [Async Chat Thread - #3/INFO]: [world]<rgps3725> 剛剛說好的尊重包容友善ㄋ
+[17:15:44] [Server thread/INFO]: SpyCat005 issued server command: /m mx90498793 OK幫你設置回點了
+[17:15:51] [Async Chat Thread - #3/INFO]: [world]<mx90498793> QQ
+[17:16:04] [Server thread/INFO]: mx90498793 has made the advancement [Acquire Hardware]
+[17:16:12] [Async Chat Thread - #3/INFO]: [world]<mx90498793> 吃飯
+[17:16:33] [Server thread/INFO]: mx90498793 was slain by SpyCat005
+[17:16:41] [Server thread/INFO]: mx90498793 issued server command: /back
+[17:16:54] [Server thread/INFO]: SpyCat005 issued server command: /m mx90498793 過來
+[17:17:30] [Async Chat Thread - #4/INFO]: [world]<mx90498793> 98
+[17:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[17:18:00] [Server thread/WARN]: Donkey moved wrongly!
+[17:18:06] [Server thread/INFO]: Andy issued server command: /home
+[17:18:34] [Server thread/INFO]: Andy issued server command: /back
+[17:18:50] [Server thread/INFO]: Andy has made the advancement [Local Brewery]
+[17:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[17:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[17:21:21] [Server thread/INFO]: Andy issued server command: /home
+[17:21:53] [Server thread/INFO]: Andy issued server command: /back
+[17:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[17:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[17:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[17:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[17:24:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5053ms or 101 ticks behind
+[17:25:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[17:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[17:26:39] [Server thread/WARN]: Mule moved wrongly!
+[17:26:39] [Server thread/WARN]: Mule moved wrongly!
+[17:26:40] [Server thread/WARN]: Mule moved wrongly!
+[17:26:40] [Server thread/WARN]: Mule moved wrongly!
+[17:26:52] [Server thread/INFO]: rgps3725 issued server command: /home
+[17:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[17:27:15] [Server thread/WARN]: Mule moved wrongly!
+[17:27:21] [Server thread/INFO]: rgps3725 has made the advancement [Local Brewery]
+[17:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[17:28:05] [Server thread/INFO]: biteyou74 has made the advancement [Local Brewery]
+[17:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[17:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[17:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[17:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[17:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[17:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
+[17:31:32] [Server thread/WARN]: Mule moved wrongly!
+[17:31:33] [Server thread/WARN]: Mule moved wrongly!
+[17:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
+[17:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[17:32:52] [Server thread/INFO]: rgps3725 issued server command: /spawn
+[17:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6213ms or 124 ticks behind

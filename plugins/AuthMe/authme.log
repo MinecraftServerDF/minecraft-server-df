@@ -4044,3 +4044,41 @@
 [04-19 15:58:50]: [FINE] FredYea used the wrong password
 [04-19 15:58:59]: [FINE] FredYea logged in!
 [04-19 16:12:01]: [FINE] LRIC logged in!
+[04-19 17:03:10]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[04-19 17:03:59]: [INFO] SQLite Setup finished
+[04-19 17:03:59]: [INFO] No supported permissions system found! Permissions are disabled!
+[04-19 17:03:59]: [INFO] Hooked successfully into Essentials
+[04-19 17:03:59]: [INFO] Hooked successfully into Multiverse-Core
+[04-19 17:03:59]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-19 17:04:00]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[04-19 17:04:00]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-19 17:04:00]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-19 17:04:00]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-19 17:04:00]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[04-19 17:04:00]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[04-19 17:04:22]: [FINE] LRIC logged in!
+[04-19 17:04:28]: [FINE] biteyou74 logged in!
+[04-19 17:04:28]: [FINE] rgps3725 logged in!
+[04-19 17:04:32]: [FINE] SpyCat005 logged in!
+[04-19 17:04:53]: [FINE] FredYea logged in!
+[04-19 17:05:08]: [FINE] rachelTH884 registered 36.232.173.156
+[04-19 17:05:08]: [FINE] rachelTH884 logged in!
+[04-19 17:07:32]: [FINE] Andy logged in!
+[04-19 17:08:20]: [FINE] mx90498793 registered 115.165.227.248
+[04-19 17:08:20]: [FINE] The user mx90498793 has 2 accounts:
+[04-19 17:08:20]: [FINE] §7§aSpyCat005§7, §amx90498793§7.
+[04-19 17:08:20]: [FINE] mx90498793 logged in!
+[04-19 17:39:18]: [FINE] Caber588 logged in!

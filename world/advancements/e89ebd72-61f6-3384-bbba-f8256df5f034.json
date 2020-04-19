@@ -526,6 +526,7 @@
     "criteria": {
       "minecraft:pillager": "2020-04-11 23:37:33 +0800",
       "minecraft:skeleton": "2020-04-08 22:18:59 +0800",
+      "minecraft:vindicator": "2020-04-19 16:45:02 +0800",
       "minecraft:spider": "2020-04-04 22:54:55 +0800",
       "minecraft:creeper": "2020-04-12 16:18:19 +0800",
       "minecraft:slime": "2020-04-18 15:27:03 +0800",
@@ -1058,6 +1059,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2020-04-13 23:14:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-19 17:18:50 +0800"
     },
     "done": true
   },

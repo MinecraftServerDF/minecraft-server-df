@@ -1349,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-19 17:28:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-04-09 17:47:09 +0800"
@@ -2151,7 +2157,8 @@
     "criteria": {
       "minecraft:pig": "2020-04-17 18:12:35 +0800",
       "minecraft:turtle": "2020-04-12 19:59:52 +0800",
-      "minecraft:cow": "2020-04-12 20:33:00 +0800"
+      "minecraft:cow": "2020-04-12 20:33:00 +0800",
+      "minecraft:horse": "2020-04-19 17:24:04 +0800"
     },
     "done": false
   },

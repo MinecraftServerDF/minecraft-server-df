@@ -1,0 +1,378 @@
+%YAML 1.1
+---
+tiles:
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,13,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,29,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,29,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,14,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,30,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,30,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,15,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,37,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,31,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,16,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,38,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,32,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,36,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,39,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,33,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,37,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,40,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,34,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,38,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,41,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,35,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,39,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,42,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,36,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,40,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,43,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,37,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,41,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,44,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,38,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,42,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,45,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,39,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,43,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,46,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,40,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,44,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,47,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 122,41,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,45,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,48,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,16,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,46,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,49,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,17,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,47,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,50,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,18,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,48,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,51,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,19,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,49,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,52,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,20,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,50,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,53,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,21,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,51,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,54,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,22,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,52,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,55,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,23,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,56,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,56,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,24,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,57,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,57,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,25,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,58,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,58,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,26,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,59,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,59,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,27,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,60,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,60,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,28,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,61,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,61,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,29,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,62,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,62,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,30,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 68,63,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 235,63,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,31,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,5,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,6,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,32,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,6,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,18,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,33,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,7,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,22,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,34,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,8,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,26,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,35,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,9,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,27,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,36,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,10,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,28,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,37,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,11,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,29,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,38,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,12,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,30,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,39,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,13,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,31,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,40,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,14,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,37,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,41,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 69,15,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 236,38,iso_SE_30_hires,2
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 123,42,iso_SE_60_lowres,0
+invalid:
+    ct:
+    - 0/0:d/fc000000:f/70000000:3/0:3/0:0/6000:0/cd000:0/20f000:0/86800:0/d8080:0/1e080:0/26100:0/0:0/0:0/68:0/19:0/2f:0/1f:0/a:0/4:0/83e4:0/200030:0/1c0020:0/3c0200:0/7d80c0:0/18d8080:0/2e8000:0/1f8000:0/3b0000:0/3a0000:0/c0000:0/40000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:20/0:20/0:18/0:f0/0:1e0/0:1f0/0:1f0/0:10/0:10000000/0:30000100/0:c000140/0:1e000000/0:10000000/0:80000000/0:a0000000/0:20000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:50000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:80000000/0:c3800000/0:ffc00000/0:ffe00000/0:fff00000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff00000/0:fff00000/0:ffc00000/0:ff800000/17:ff000000/31:3e000000/22:1c300000/e:0/e:400000/9:0/3:f008000/3:1f800000/1:3fc40000/0:7ff00000/0:fff60000/0:fffc0000/0:fff18000/0:fff38000/0:ffc00000/0:ffc00000/0:ffc00000/0:ff800000/0:ff000000/0:fe000000/0:fc000000/c000000:f8000000/7fc00000:f0000000/ff600000:c0000003/ff440000:3/f9020000:3/fb800000:3/ff000000:f/6f000000:a/3f000000:1f/ff000000
+    - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:1000/0:103000/0:203800/0:80602800/0:80400000/0:80000000/0:c0800000/0:0/0:700000/0:300000/0:458000/0:7e0000/0:6c0000/0:1c0000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:10000000/0:30000000/2000:30000000/3800:30000000/1800:30000000/1c00:70000000/1e00:f0000000/3f00:f0000000/3f80:f0000000/3f80:f0000000/1f80:f0000000/3f80:f0000000/3f80:f0000000/3f80:f0000000/3f80:f0000000/7f80:f0000000/7f00:f0000000/7f00:f0000000/7f00:f0000000/fe00:f0000000/fc00:f0000000/f800:f0000000/0:f0000000/0:f0000000/0:f0000000/0:70000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/80:0/3ef:0/7ff:0/1fff:0/1fffff:0/7fffff:0/ffffff:0/1ffffff:0/3ffffff:0/3fffffff:0/7fffffff:0/ffffffff:1/ffffffff:3/ffffffff:7/ffffffff:f/fffffffe:3f/ffffffe0:7f/fffffcc0:7f/fffff800:7f/fffff000:7f/ffffe000:7f/ffffe000:7f/fffff000:7f/fffff800:7f/fffffc78:3f/fffffeff:1f/ffffffff:7/ffffffff:3/ffffffff:1/ffffffff:0/ffffffff:0/fffffff:0/7fffffff:0/ffffffff:1/ffffffff:7000003/ffffffff:7800007/ffffffff:1fc0000f/ffffffff:1fc0001f/ffdfffff:c60001f/fffffffc:480001f/fffffffc:400003f/fffffffc:3f/fffffffe:3f/fffffffe
+    - 0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:100000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 2/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:1/80000000:f/c0000000:1f/ff000000:3f/ff800000:c00001ff/ffe00000:e00003ff/fff00000:f0003fff/fff80001:feffffff/fffc0001:ffffffff/fffe0001:ffffffff/fffe0001:ffffffff/ffff0019:ffffffff/ffff007f:ffffffff/ffff00ff:ffffffff/ffff07ff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffff0001/ffffffff:fffc0001/ffffffff:fff80000/ffffffff:ff00000/7fffffff:7c00000/3fffffff:0/1ffffffd:0/ffffff8:0/3fffff0:0/1fffee0:0/7ffe00:0/3ffe00:0/1ffc00:0/ff800:0/7f000:0/1c000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 3/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:1e00000/0:33f00000/0:fffc0000/0:ffff8000/0:ffffc000/0:ffffe000/0:fffff800/0:fffffc00/0:fffffe00/301e00:ffffff80/c7e7f00:ffffffff/7fffffc8:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffcfffff/ffffffff:ffc1ffff/ffffffff:ffc0ffff/ffffffff:ffc03fff/ffffffff:ff800fff/ffffffff:ff0007ff/ffffffff:fe0003ff/ffffffff:f800007f/bffe1fff:f000003f/1ff80fff:0/7f000ff:0/3e0001f:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 4/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/3:0/7:0/f:0/1f:0/3f:0/3f:0/3f:0/3f:0/3f:0/fff:0/1fff:0/7fff:0/ffff:0/ffffff:0/1ffffff:0/7ffffff:0/fffffff:0/1fffffff:0/3fffffff:0/3fffffff:0/3fffffff:0/3fffffff:0/3fffffff:0/3ffffff0:0/3fffffe0:0/3fff9f00:0/1ffc0200:0/ff80000:0/3f00000:0/1e00000:0/c00000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    t:
+    - 0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:2800000/0:f000000/0:3f8f0000/0:1fff0000/0:bfe0000/0:bfc0000/0:f08000/0:1c0a000/40000000:e0000000/0:e0000000/80000000:e0000000/20000000:7c800000/0:20000002/0:9/0:8000001/0:0/0:0/0:100000/c000:0/0:0/0:0/1800000:0/1800000:0/80000:0/2000:0/80b001:0/1b01:0/18b9:0/de3c:0/43e00:0/7000:0/3030:0/800:0/100:0/0:0/0:30000000/31800000:48/0:60/20000:0/300000:0/400000:0/0:0/0:80/0:0/0:0/4000000:80000000/c0000000:80000000/0:80000000/0:80000000/0
+    - 1/1:0/f980:0/5c3e0:0/1ff66:0/1bc2f:0/18dc0f:0/23c840:0/7a040:0/1c200:0/7e00:0/3c00:0/800:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - fffffffe/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/c00000:0/0:0/0:0/0:0/0:0/38000:0/27c78000:0/fe60000:0/6fe00000:0/7fe00000:7/fff80000:f/fff00000:7/ffe80000:7/ff3c0000:3/fc1e0000
+    - ffffffff/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/20000:0/0:0/0:0/0:0/c00000:0/4400000:0/4000000:0/8000000:0/7000000:50000000/0:c1000000/0:80000000/0:80000000/30000000:0/0:0/0:0/0:0/2400000:0/80000:0/b80000:0/300000:0/400000:0/1400401:0/1000306:0/3fc0:0/1fe80:0/d03800:0/3803000:0/208000:0/20800:0/20000:0/0:0/0:0/0:0/0:0/0
+    - ffffffff/ffffffff:0/0:0/0:0/0:70000/0:1f0000/0:180040/0:180040/0:1800/0:1e00/0:19c00/0:79800/0:e1800/0:0/0:c0000000/0:80000000/0:80000000/0:80000000/0:200000/0:300000/0:300000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:6000000/0:0/0:a0000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/ffffffff:0/4500e2:0/62:0/800260:0/800270:0/6070:0/4000:0/0:0/0:0/0:0/4000:0/0:0/8:0/88:0/18:0/11:0/3:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/1:0/0:0/0:0/0:80000000/0:b0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/0:316198/0:3e030/0:83f051/0:308cb07c/0:ff1a0c30/0:ffbe1e00/0:ef41000/0:c940000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1800:0/800000:0/800000:0/0:0/2000:0/2001:0/8c03:0/3:0/0:0/0:0/0:0/80:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/800000:0/0:0/0:0/0:0/e003000:0/8f000:0/18f300:0/18d300:0/1abc00:0/2bc01:1/80003c31:0/8000c001:0/e001
+    - fffffffe/ffffffff:0/18000000:0/0:0/0:0/0:0/0:0/0:0/8000000:2/8000000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:c02b700/0:7ffff8/17000000:7f3ff8/9800000:fff3ff8/800000:1ffff9f8/0:fffff070/1000000:fffff000/0:ff9fe007/300:ffc3c006/300:7fc7e002/70:9f878000/70:ef3ce0c6/10000000:f01ce00f/0:f03cfdff/0:8118fdff/0:f0003fc/0:a00fff8/0:30e7c0/0
+    - 3/2:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/60000:0/0:0/0:0/0:0/0
+    - fffffffe/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:80000/0:700000/0:20000/0:40000/0:0/0:e02000/0:c00000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/40000:0/0:0/0:0/4:0/e4:0/308e4
+    - 2/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:c0000000/0:c0000000/0:c0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/17:0/f:0/f:0/3f:0/3f:0/1f:0/3f:0/65:0/87cc:0/380:0/300
+    - 3/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:c0000000/0:f000000f/e0000000:fc0003ff/f0000000:ff7f3fff/f0000000:ffffffff/f8000000:ffffffff/ff000000:ffffffff/ffc00000:ffffffff/fff80000:ffffffff/fffc0000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/ffff8000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000
+    - 2/0:0/0:0/9260:0/f3f0:0/1cf90:0/480c:0/7f00:0/7f80:0/1b82:0/31f:0/2f:0/7f:0/7f:0/4:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 3/0:fff80000/0:fff00000/0:fc000000/0:fc004000/0:3c002000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c000000/0:3c040000/0:3c100000/0:3c30e000/0:3c008000/0:3c11e000/0:3c31e000/0:3c20c000/0:3c00e000/0:3c05e000/0:3c7fe000/0:3cffc000/0:3c7e2000/0:3c46c000/0:3fe3e000/0:fe3e000/0:fd22000/0:4ff6000/0:afec000/0:7fff0000/0:dfbe8000/0:ff000000/0:fe000000/0:f00f0000/0:f86fe000/0:fc7fe000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0:fffff000/0
+    - 3/ffffffff:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/fffc0000:ffffffff/fff80000:ffffffff/fff80000:ffffffff/ffe00000:ffffffff/ff000000:ffffffff/ff010000:ffffffff/f1000000:ffffffff/e0000000:ffffffff/80000000:ffffffff/e0000000:f7ffffff/f8000000:80ffffff/fe000000:7fffff/ffc00000:ffffff/ffe00000:1ffffff/fff80300:fffffff/fffc0000:3fffffff/fffc0000:ffffffff/fffc0000:ffffffff/fffc0000:ffffffff/fffc0040:ffffffff/fffc0c00:ffffffff/fffc0400:ffffffff/fffc3000:ffffffff/fffc1000:ffffffff/fffc0003:ffffffff/fffe000d:ffffffff/fffc0010:ffffffff/fff80000:ffffffff/ffc00000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/ff000000:ffffffff/fe000000:ffffffff/f0000000:ffffffff/e0000000:ffffffff/80000000:fffffffc/0:fffffff8/0:ffffffc0/0:ffffff80/0:ffffff80/0:fffffe00/0:fffffc00/f000000:ffffe000/f000000:ffffc000/f000000:fffe0000/f000000
+    - 4/0:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffffffe:ffffffff/fffffffc:ffffffff/ffffffe0:ffffffff/ffffffe0:ffffffff/ffffffe0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffff00:ffffffff/ffffff00:ffffffff/ffffff00:ffffffff/ffffff00:ffffffff/ffffff00:ffffffff/ffffff00:ffffffff/fffffe00:ffffffff/fffffe00:ffffffff/fffffe00:ffffffff/fffffe00:ffffffff/fffffe00:ffffffff/fffffe01:ffffffff/fffffe71:ffffffff/fffffff4:ffffffff/fffff93c:ffffffff/fffff93c:ffffffff/fffffe16:ffffffff/ffffff3e:ffffffff/fffffffc:ffffffff/fffffff8:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffff9f/ffe79fff:ffffff0f/ffe78fff:fffffc07/ffe781ff:ffff8001/ffe780ff:fffe0001/ffe7801f:fffc0000/3fe78007:ffff8000/1fe78007:ffffc000/7e78007:ffffe000/78003:ffffe000/78003:ffffe000/78003:fffff800/78003:fffffc00/78003:ffffff00/78003:ffffffe0/78003:fffffff0/78003:fffffffe/78003:ffffffff/78003:ffffffff/e0078003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003
+    - 4/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffffff0:ffffff8f/ffe0fe00:ffffff87/ffc00000:ffffff81/ff800000:ffffff00/3fcf0000:ffffff80/1fffe007:ffffffe0/3ffff01f:ffffffe1/ffffffff:ffffffe7/ffffffff:ffffffef/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 5/1:e00007ff/ffffffff:e00007ff/ffffffff:e00001ff/ffffffff:e000003f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e000001f/ffffffff:e0000003/ffffffff:e0000001/ffffffff:e0000000/3fffffff:e0000000/fffffff:e0000000/7ffffff:e0000000/7ffffff:e0000000/7ffffff:e0000000/7ffffff:80000000/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/3ffffff:0/7fffff:0/1fffff:0/fffff:0/1ffff:0/ffff:0/1fff:0/fff:0/3ff:0/7f:0/3f:0/7:0/3:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 5/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1e00:0/3fbc:0/fffff:0/1fffff:0/7ffffff:0/fffffff:0/3fffffff:1/ffffffff:3/ffffffff:1f/ffffffff:3f/ffffffff:ff/ffffffff:7ff/ffffffff:1fffff/ffffffff:7fffff/ffffffff:1ffffff/ffffffff:3ffffff/ffffffff:1fffffff/ffffffff:3fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 4/1:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000003:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000001:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f0000000:ffffffff/c0000000:ffffffff/0:ffffffff/0:ffffffff/0:ffffffff/0:ffffffff/0:fffffffe/0:fffffffe/0:fffffff8/0:fffffff0/0:ffffff80/0:ffffff00/0:fffff800/0:ffffe000/0:f3f8000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 5/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 5/0:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:f03fffff/ffffffff:e03fffff/ffffffff:e03fffff/ffffffff:e03fffff/ffffffff:e03fffff/ffffffff:e03fffff/ffffffff:e03fffff/ffffffff:e01fffff/ffffffff:e007ffff/ffffffff:e003ffff/ffffffff:e000ffff/ffffffff:e000ffff/ffffffff:e0001fff/ffffffff:e0000fff/ffffffff
+    - 4/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:1/fc0000f0:1f/fe0001fc:7f/ff8003fe:3ff/ffe0ffff:7ff/fffbffff:3fff/ffffffff:7fff/ffffffff:1ffff/ffffffff:1ffffff/ffffffff:f7ffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 6/ffffffff:0/1ffff:0/3ffff:0/1fffff:0/3fffff:0/1ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/7ffffff:0/ffffff:0/3fffff:0/fffff:0/3ffff:0/7fff:0/3fff:0/1fff:0/3ff:0/ff:0/7f:0/3ff:0/7ff:0/1fff:0/7fff:0/1ffff:0/3ffff:0/3ffff:0/3ffff:0/3ffff:0/3ffff:0/fffff:0/fffff:0/1fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff
+    - 6/0:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/ffffff:0/1ffffff:0/fffffff:0/3fffffff:0/7fffffff:3/ffffffff:7/ffffffff:7/ffffffff:7/ffffffff:7/ffffffff:fe000007/ffffffff:ff800007/ffffffff:fff00007/ffffffff:fff80007/ffffffff:fffe0007/ffffffff:fffff007/ffffffff:fffffc07/ffffffff:ffffff3f/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 7/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffe0:ffffffff/fffff000:ffffffff/ffff8000:ffffffff/fffe0000:fffffe0f/fffc0000:fffff800/7c000000:7ffff800/0:1ffe000/0:ffc000/0:7f0000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 6/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffffff8:ffffffff/fffffff0:ffffffff/ffffff80:ffffffff/ffffff00:ffffffff/ffffc000:ffffffff/ffff0000:ffffffff/fffe0000:ffffe000/0:ffffe000/0:ffff8000/0:ffff0000/0:fffe0000/0:fff00000/0:ffc00000/0:fe000000/0:fc000000/0:e0000000/0:c0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 7/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/f0:0/7ff:0/7fff:0/3ffff:0/7ffff:0/1fffff:0/ffffff:0/1ffffff:0/fffffff:0/1fffffff:0/ffffffff:1/ffffffff:7/ffffffff:7/ffffffff:7/ffffffff:f/ffffffff:3f/ffffffff:7f/ffffffff:3ff/ffffffff:7ff/ffffffff:3fff/ffffffff:ffff/ffffffff:3ffff/ffffffff:fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:1fffff/ffffffff:ffffff/ffffffff:1ffffff/ffffffff:7ffffff/ffffffff:3fffffff/ffffffff:7fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 7/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:44/0:6c/0:3fe/0:7f0/0:3c4/30000000:7ffe/2c000000:7f3ff/fe000000:3f821/ee000000:f000/2000000:6000/0:3800/0:3800/1800000:0/0:0/0:300/80000000:0/0:0/0
+    - 6/fffffffe:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/7:0/1f:0/7f:0/ff:0/7ff:0/1fff:0/7fff
+    - 8/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/3:0/7:0/7:0/7:0/7:0/7:0/7:0/7
+    - 9/1:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/fffffff8:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:3fffffff/ffffffff:fffffff/ffffffff:3ffffff/ffffffff:7fffff/ffffffff:3fffff/ffffffff:fffff/ffffffff:3ffff/ffffffff:ffff/ffffffff:1fff/ffffffff:fff/ffffffff:7ff/ffffffff:ff/ffffffff:3f/ffffffff:1/ffffffff:0/7fffffff:0/fffffff:0/7ffffff:0/3ffffff:0/7fffff:0/1fffff:0/7ffff
+    - 8/1:0/7:0/7f007:0/1ffffff:0/3ffffff:0/1fffffff:0/3fffffff:1/ffffffff:3/ffffffff:3ff/ffffffff:1fffffff/ffffffff:7fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffff01:ffffffff/fffffe00:ffffffff/fffff000:ffffffff/ffffe000:ffffffff/ffff8000:ffffffff/fffc0000:ffffffff/fff80000:fffffff0/ffc00000:ffffffe0/7800000:ffffffe0/0:ffffff80/0:ffffff80/0:ffffff00/0:ffffff00/0:fffffc00/0
+    - 9/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:e0000000/0:f0000000/0:fe000000/0:ff8000f0/0:fffcf7fe/0:ffffffff/80000000:ffffffff/c0000000:ffffffff/f8000000:ffffffff/fc000000:ffffffff/ff800000:ffffffff/ffc00000:ffffffff/fff00000:ffffffff/fffe0000:ffffffff/ffff0000:ffffffff/ffffe000:ffffffff/fffff000:ffffffff/fffffe00:ffffffff/ffffff80:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffc0:ffffffff/ffffffe0
+    - 8/2:fffff800/0:ffffe000/0:ffff8000/0:fffe0000/0:fff00000/0:ffe00000/0:f8000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - a/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/1f:0/3fff:0/7fff:0/3ffff:0/fffff:0/1fffff:0/7ffffff:0/fffffff:3/ffffffff:7/ffffffff:1f/ffffffff:7f/ffffffff:fefff/ffffffff:1e7fffff/ffffffff:3fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - b/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffffffe:ffffffff/fffffffc:ffffffff/ffffffe0:ffffffff/fffffc00:ffffffff/fffff000:ffffffff/ffffc000:ff9fffff/ffff8000:8000ffff/fffc0000:3fff/fff80000:7ff/fe000000:3ff/fc000000:ff/80000000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 9/2:0/1ffff:0/ffff:0/1fff:0/7ff:0/1ff:0/7f:0/f:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - a/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:fffffc3f/fe1ffff9:7e000000/1fc1:0/1:0/1:0/1:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - b/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:7f000000/0:ff800000/0:ffe00000/0:fff80000/0:fffe0000/0:ffffc000/1e03f80:fffffc00/3f87fe0:ffffff80/1fffffff:fffffff9/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - c/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:3c00/0:1ff80/0:3fff8/0:7fffe/0:7fffffff/c0000000:ffffffff/e0000000:ffffffff/fc00f000:ffffffff/fe01fffd:ffffffff/ffbfffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - d/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffffffc:fdffffff/fffffffc:f07fffff/ffffffc0:800fffff/fffff000:7ffff/ffffe000:1fff/ffffe000:fff/fffe0000:1ff/fff00000:ff/fff00000:3f/fff00000:0/3ff00000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - c/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:3fffff/ffffffff:1fffff/ffffffff:7ffff/ffffffff:1ffff/ffffffff:7fff/ffffffff:f01/ffffffff:0/f3ffffff:0/fffff:0/7ffff:0/7fff:0/3f:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - d/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1e0000:0/7f0000:0/ffdfc0:3ffff/e7ffffff:7ffff/ffffffff:1ffffff/ffffffff:3ffffff/ffffffff:fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - e/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:e0000000/0:f8000000/0:fe000000/0:ff800000/0:fff00000/0:fff80000/0:ffff0000/0:ffff8000/0:ffffe000/0:fffffc00/0:fffffe00/0:ffffffc0/0:ffffffe0/0:ffffffff/c0000000:ffffffff/fffc0000:ffffffff/ffffff00:ffffffff/fffffff8:ffffffff/fffffffe:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - f/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fe3fffff:ffffffff/fe03ffff:ffffffff/fe0001ff:ffffffff/fe0000ff:ffffffff/fe000000:ffffffff/fe000000:ffffffff/fe000000:ffffffff/fe000000:ffffffff/fe000000:ffffffff/f0000000:ffffffff/e0000000:ffffffff/0:fffffffc/0:fffffff8/0:ffffffc0/0:ffffff80/0:fffffc00/0:fffff800/0:ffffe000/0:ffff0000/0:bffe0000/0:87f00000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - e/1:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:7fffffff/ffffffff:3fffffff/ffffffff:1fffffff/ffffffff:3ffffff/ffffffff:ffffff/ffffffff:3fffff/ffffffff:1ffff/ffffffff:3fff/ffffffff:1fff/ffffffff:fff/ffffffff:3f/ffffffff:1f/ffffffff:3/ffffffff:0/1fffffff:0/fffffff:0/3fffff:0/1ffff8:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - f/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/7f000000:7/ffc00000:7c003f/fff80000:fe007f/fffc0000:1ff00ff/fffe0000:fffe7ff/fffff800:3fffffff/fffffe00:ffffffff/fffffffe:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff
+    - 10/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/3:0/7:0/3f:0/ff:0/3ff:0/fff:0/7fff:0/ffff:0/1ffff:0/fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/3fffff:0/7fffff:0/7fffff:0/7fffff:0/7fffff:0/7fffff:1e0/1ffffff:7f0/3ffffff:3ffe/1fffffff:7fff/3fffffff:1ffff/ffffffff:3fffff/ffffffff:ffffff/ffffffff:3ffffff/ffffffff
+    - 11/1:0/0:0/0:0/1e7ff:0/1fffff:1/ffffffff:3/ffffffff:1f/ffffffff:1ff/ffffffff:7ff/ffffffff:1fff/ffffffff:7fff/ffffffff:3ffff/ffffffff:7ffff/ffffffff:fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:7fffff/ffffffff:3fffff/ffffffff:fffff/ffffffcf:3ffff/fffffe00:ffff/fffffc00:1fff/ffffe000:fff/ffff0000:7ff/ffff0000:ff/fff80000:3f/fff00000:7/ff800000:3/ff000000:0/78000000:0/0:0/0:0/0:0/0:0/0
+    - 10/1:fffffff/ffffffff:1fffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/ffffffff:ffffffff/fffff3fe:ffffffff/ffff8000:ffffffff/ffff0000:ffffffff/fffc0000:ffffffff/fff00000:ffffffff/ffc00000:f9ffffff/c0000000:8003ffff/0:3ffe/0:f0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    flat:
+    - 0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/f000000:0/f400000:0/1d100000:0/1ff00074:0/1d3000f4:0/1bf00070:0/1f70003a:0/3c600238:0/1f80001c:0/c2001c0:0/4500490:0/ce00000:0/b800000:0/6600000:0/5a00000:0/3600000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/1:0/1:0/1:0/1
+    - ffffffff/0:4000/0:0/0:4000/0:4000/0:6010/0:10/0:2060/0:660/0:270/0:50/0:1800f0/0:801a0000/0:401c0000/0:40f00000/0:65e80000/0:1700000/0:400000/0:0/0:0/0:580000/0:480000/0:800000/0:40000/0:0/0:240000/0:0/0:8000000/0:0/0:0/0:9000000/0:9d800000/0:bc000000/0:3fc00000/0:7c00000/0:13c00000/0:27e00000/0:23e00000/0:3600000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/a00:0/300:0/380:0/380:0/3e0:0/780:0/700:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/360000:0/4370000:0/e060000:0/9040000:0/11000000:0/11400000:0/13c90000:0/11780000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/60:0/80:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 2/2:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/1:0/f:0/f:0/3f:0/3f:0/3f:0/ff:0/1ff:0/3ff:0/3ff:0/3ff:0/7ff:0/7ff:0/3fff:0/7fff:0/1ffff:0/3ffff:0/fffff:0/3fffffff:1/ffffffff:1f/fffffff0:3f/fffffff0:3f/fffffff0:3f/fffffff0:3f/ffffffe0:1ff/ffffff80:1ff/fffffc00:1ff/ffff0000:1ff/ffc00000
+    - ffffffff/ffffffff:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:600/0:680/0:300/0:300/0:0/0:0/0
+    - 1/0:0/0:0/0:0/0:0/0:0/0:0/3c0:0/3c0:0/3c0:0/7c0:0/fc0:0/1ffc0:0/1ffc0:0/3ffc0:0/3ffc0:0/3fffc0:0/3fffc0:0/3fffe0:0/3fff00:0/3fff00:0/3fff00:0/3fff00:0/7ffe00:0/7ffc00:0/fff800:0/1fff800:0/7fff800:0/7ffe000:0/7ffe000:0/7ffe000:0/fffe000:0/fffe000:0/fffe000:0/fffe000:0/fffe000:0/fffe000:0/fffc000:0/1fffc3e0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffffe0:0/1fffbfe0:0/1fff3fe0:0/0:0/0:0/0:0/7e0:0/7e0:0/7e0:0/7e0:0/7e0:0/7e0:0/7e0:0/7e0
+    - 0/1:fffe0000/0:fffe0000/0:fffe0000/0:ffff0000/0:ffff8000/0:fffffff8/0:ffffffff/f0000000:ffffffff/f0000000:ffffffff/f8000000:ffffffff/fc000000:ffffffff/fc000000:fbffffff/fc000000:ffffffff/fc000000:ff0fffff/fc000000:ff803fff/fc000000:ff803fff/fc000000:ff803fff/fc000000:ff8000ff/fc000000:ff8000ff/fc000000:ff8000ff/f8000000:ff800000/0:ff800000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffffc000/0:ffff8000/0:ffff8000/0:ffff8000/0:ffff0000/0:fffc0000/0:fffc0000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff80000/0:fff00000/0:fff00000/0:fff00000/0:fff00000/0:ffe00000/0:ff800000/0:ff000000/0:ff000000/0:ff000000/0:ff000000/0:ff000000/0:f0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0:e0000000/0
+    - ffffffff/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:20/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 2/3:1ff/ff000000:1ff/fc000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:1ff/ff000000:ff/ff000000:7f/ff000000:7f/ff000000:1f/ff000000:1f/ff000000:ff/fc000000:ff/fc000000:ff/fc000000:ff/f0000000:1ff/f0000000:1ff/f0000000:1ff/f0000000:1ff/f0000000:3ff/f0000000:7ff/e0000000:fff/e0000000:fff/e0000000:fff/80000000:3ffe/0:3ffc/0:3ffc/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:3ff8/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 0/2:e0000000/0:80000000/0:80000000/0:c0000000/0:c0000000/0:c0000000/0:c0000000/0:c0000000/0:c0000000/0:c0000000/0:c0000000/0:80000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    - 1/2:7/ffffffff:7/ffffffff:f/ffffffff:f/ffffffff:f/ffffffff:f/ffffffff:f/ffffffff:1f/ffffffff:1f/ffffffff:1f/ffffffff:1f/ffffffff:1f/ff7fffff:7f/ff7fffff:7f/ff000000:ff/fc000000:ff/f0000000:ff/f0000000:7ff/e0000000:7ff/80000000:1fff/80000000:1fff/0:1ffe/0:1ffe/0:fffc/0:1ffffc/0:1ffff8/0:7ffff8/0:fffff8/0:fffff8/0:1fffff8/0:fffffff8/0:fffffff8/0:fffffff0/0:ffffffe0/0:fffffc00/0:fffffc00/0:fffff800/0:fffff800/0:ffffe000/0:ffff0000/0:fffe0000/0:fff00000/0:fff00000/0:fe000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:fc000000/0:f0000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+invZoomOut:
+    ct:
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    -   - 1/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:4000000/0:0/0:0/0:0/0:0/0:0/0:2000000/0:2000000/0:2000000/0:2000000/0:2000000/0:2000000/0:2000000/0:2000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:10000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/0:0/20000000:0/60000000:0/60000000:0/20000000:0/20000000:0/20000000:0/20000000:0/20000000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/4000:0/4000:0/4000:0/4000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/80:0/80:0/80:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    t:
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    -   - 3/0:0/0:0/0:0/0:0/0:800/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0:400/0
+    -   - 1/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:200000/0:200000/0:200000/0:200000/0:0/0:0/0:200000/0:200000/0:200000/0:300000/0:300000/0:300000/0:100000/0:100000/0:100000/0:100000/0:100000/0:100000/0:100000/0:100000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:4000000/0:0/0:0/0:4000000/0:4000000/0:0/0:4000000/0:0/0:4000000/0:4000000/0:4000000/0:6000000/0:6000000/0:6000000/0:6000000/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/10000000:0/10000000:0/10000000:0/10000000:0/10000000:0/10000000:0/10000000:0/10000000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/4000:0/4000:0/4000:0/4000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/80:0/80:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/8:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    flat:
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    - [
+        ]
+    -   - 1/0:0/0:0/0:0/0:0/0:0/0:0/0:0/10:0/10:0/10:0/10:0/10:0/10:0/10:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/8:0/8:0/8:0/8:0/8:0/8:0/0:0/0:0/0:0/0:0/0:0/8:0/8:0/8:0/8:0/8:0/8:0/8
+    -   - 0/0:0/0:0/0:0/0:2/0:2/0:2/0:2/0:2/0:2/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:2/0:2/0:2/0:2/0:2/0:2/0:2/0:2/0:0/0:0/0:2/0:2/0:2/0:2/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/10000:0/10000:0/10000:0/0:0/0:0/0:0/0:0/0:0/10000:0/10000:0/10000:0/10000:0/0:0/10000:0/10000:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/0:0/0:0/0:0/100:0/100:0/100:0/0:0/0:0/800:0/800:0/0:0/0:0/0:0/0:0/800:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    -   - 0/0:0/0:0/0:0/0:0/0:0/0:0/20:0/20:0/0:0/20:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
