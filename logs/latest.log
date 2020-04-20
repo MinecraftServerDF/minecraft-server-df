@@ -653,3 +653,33 @@
 [11:32:24] [Server thread/INFO]: Andy issued server command: /back
 [11:32:46] [Server thread/INFO]: Andy issued server command: /home
 [11:34:25] [Server thread/INFO]: Andy issued server command: /back
+[11:43:12] [Server thread/WARN]: Andy moved wrongly!
+[11:44:43] [Server thread/INFO]: Andy issued server command: /home
+[11:45:33] [Server thread/INFO]: Andy issued server command: /back
+[11:45:43] [Server thread/INFO]: Andy has made the advancement [We Need to Go Deeper]
+[12:06:14] [Server thread/INFO]: Andy has made the advancement [A Terrible Fortress]
+[12:13:11] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:13:25] [Server thread/INFO]: Andy issued server command: /back
+[12:13:30] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:13:35] [Server thread/INFO]: Andy issued server command: /back
+[12:13:40] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:13:44] [Server thread/INFO]: Andy issued server command: /back
+[12:13:48] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:13:53] [Server thread/INFO]: Andy issued server command: /back
+[12:14:00] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:14:04] [Server thread/INFO]: Andy issued server command: /back
+[12:14:09] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:14:13] [Server thread/INFO]: Andy issued server command: /back
+[12:14:29] [Server thread/INFO]: Andy issued server command: /home
+[12:14:30] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:14:34] [Server thread/INFO]: Andy issued server command: /back
+[12:14:40] [Server thread/INFO]: Andy issued server command: /home
+[12:14:42] [Server thread/INFO]: Andy was slain by Wither Skeleton
+[12:14:46] [Server thread/INFO]: Andy issued server command: /back
+[12:14:55] [Server thread/INFO]: Andy withered away whilst fighting Wither Skeleton
+[12:14:59] [Server thread/INFO]: Andy issued server command: /back
+[12:15:03] [Server thread/INFO]: Andy issued server command: /home
+[12:15:21] [Server thread/INFO]: Andy issued server command: /home
+[12:18:12] [Server thread/INFO]: Andy issued server command: /home
+[12:18:32] [Server thread/INFO]: Andy issued server command: /back
+[12:29:07] [Server thread/INFO]: Villager EntityVillager['Fletcher'/32666, l='world', x=-358.70, y=67.00, z=-420.30] died, message: 'Fletcher was slain by Zombie'
