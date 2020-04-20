@@ -720,3 +720,42 @@
 [15:23:46] [Server thread/INFO]: Andy issued server command: /back
 [15:24:46] [Server thread/INFO]: Andy issued server command: /home
 [15:33:34] [Server thread/INFO]: Andy issued server command: /home
+[15:36:42] [Server thread/INFO]: Andy issued server command: /back
+[15:39:50] [Server thread/INFO]: Andy was shot by Skeleton
+[15:40:37] [Server thread/INFO]: Andy issued server command: /back
+[15:42:24] [Server thread/INFO]: Andy issued server command: /home
+[15:43:14] [Server thread/INFO]: Andy issued server command: /back
+[15:47:17] [Server thread/INFO]: Andy issued server command: /home
+[15:51:32] [Server thread/INFO]: Andy issued server command: /home
+[15:52:10] [Server thread/INFO]: Caber588 issued server command: /home
+[15:58:42] [User Authenticator #6/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[15:58:43] [Server thread/INFO]: mx90498793[/115.165.227.248:50208] logged in with entity id 221167 at ([world]-323.42700323359236, 79.76360294551559, -1032.2273842216462)
+[15:58:52] [Craft Scheduler Thread - 154/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[15:58:52] [Craft Scheduler Thread - 154/INFO]: [AuthMe] ¡±7spycat005, ¡±amx90498793¡±7.
+[15:58:52] [Craft Scheduler Thread - 154/INFO]: [AuthMe] mx90498793 logged in!
+[15:58:58] [Server thread/INFO]: mx90498793 issued server command: /fly
+[15:59:55] [Server thread/INFO]: mx90498793 lost connection: Disconnected
+[15:59:55] [Server thread/INFO]: mx90498793 left the game
+[16:02:45] [Server thread/INFO]: Caber588 issued server command: /home
+[16:06:00] [User Authenticator #7/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[16:06:00] [Server thread/INFO]: mx90498793[/115.165.227.248:50263] logged in with entity id 223416 at ([world]-182.01494919443925, 86.0, -1052.1413520211067)
+[16:06:11] [Craft Scheduler Thread - 162/INFO]: [AuthMe] mx90498793 used the wrong password
+[16:06:12] [Server thread/INFO]: mx90498793 lost connection: ¡±b¡iAuthMe¡j¡±6±K½X¿ù»~!
+[16:06:12] [Server thread/INFO]: mx90498793 left the game
+[16:06:14] [User Authenticator #8/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[16:06:14] [Server thread/INFO]: mx90498793[/115.165.227.248:50264] logged in with entity id 223507 at ([world]-182.01494919443925, 86.0, -1052.1413520211067)
+[16:06:20] [Craft Scheduler Thread - 160/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[16:06:20] [Craft Scheduler Thread - 160/INFO]: [AuthMe] ¡±7spycat005, ¡±amx90498793¡±7.
+[16:06:20] [Craft Scheduler Thread - 160/INFO]: [AuthMe] mx90498793 logged in!
+[16:06:22] [Server thread/INFO]: mx90498793 fell from a high place
+[16:06:28] [Server thread/INFO]: mx90498793 issued server command: /back
+[16:06:32] [Server thread/INFO]: mx90498793 issued server command: /fly
+[16:08:02] [Server thread/INFO]: mx90498793 issued server command: /seen
+[16:09:11] [Server thread/INFO]: mx90498793 issued server command: /sethome
+[16:14:31] [Server thread/INFO]: mx90498793 has made the advancement [Stone Age]
+[16:14:55] [Server thread/WARN]: mx90498793 moved too quickly! -1.7658633563273156,-2.446947937232963,-22.991727121824397
+[16:14:55] [Server thread/WARN]: mx90498793 moved too quickly! -2.2101355733456103,-2.078246482582088,-22.122971129255802
+[16:24:28] [Server thread/INFO]: mx90498793 was shot by Skeleton
+[16:24:42] [Server thread/INFO]: mx90498793 issued server command: /back
+[16:28:21] [Server thread/INFO]: mx90498793 lost connection: Disconnected
+[16:28:21] [Server thread/INFO]: mx90498793 left the game
