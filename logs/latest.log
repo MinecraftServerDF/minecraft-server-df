@@ -621,3 +621,7 @@
 [07:14:50] [Craft Scheduler Thread - 19/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
 [07:14:51] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
 [07:19:20] [Server thread/INFO]: Villager EntityVillager['Villager'/761, l='world_old', x=153.26, y=63.00, z=60.29] died, message: 'Villager was pricked to death'
+[10:03:29] [User Authenticator #1/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[10:03:29] [Server thread/INFO]: basic_balion[/36.235.254.23:11541] logged in with entity id 1736 at ([world]-223.8635918243179, 104.0, -1081.159751901476)
+[10:03:46] [Craft Scheduler Thread - 55/INFO]: [AuthMe] basic_balion logged in!
+[10:04:01] [Server thread/INFO]: basic_balion issued server command: /fly
