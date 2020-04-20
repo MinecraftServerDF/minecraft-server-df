@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/break_diamond_hoe": {
+    "criteria": {
+      "broke_hoe": "2020-04-20 15:01:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-04-11 23:55:22 +0800"
