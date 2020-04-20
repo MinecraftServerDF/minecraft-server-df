@@ -704,3 +704,8 @@
 [13:13:16] [Server thread/INFO]: mx90498793 lost connection: Disconnected
 [13:13:16] [Server thread/INFO]: mx90498793 left the game
 [13:33:19] [Server thread/INFO]: Andy issued server command: /home
+[13:49:04] [Server thread/INFO]: Andy was slain by Phantom
+[14:16:37] [Server thread/INFO]: Andy issued server command: /home
+[14:25:07] [Server thread/INFO]: Villager EntityVillager['Fletcher'/176419, l='world', x=-347.77, y=63.00, z=-441.12] died, message: 'Fletcher was slain by Zombie'
+[14:25:27] [Server thread/INFO]: Villager EntityVillager['Farmer'/176420, l='world', x=-366.28, y=63.00, z=-430.30] died, message: 'Farmer was slain by Zombie Villager'
+[14:30:26] [Server thread/INFO]: Andy issued server command: /home
