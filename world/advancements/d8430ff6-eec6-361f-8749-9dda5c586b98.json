@@ -686,6 +686,7 @@
       "minecraft:phantom": "2020-04-08 20:17:21 +0800",
       "minecraft:wither_skeleton": "2020-04-12 01:38:21 +0800",
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
+      "minecraft:cave_spider": "2020-04-20 21:42:25 +0800",
       "minecraft:enderman": "2020-04-12 15:14:31 +0800",
       "minecraft:zombie": "2020-04-07 10:31:27 +0800",
       "minecraft:drowned": "2020-04-08 20:59:00 +0800",
@@ -1672,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-04-20 23:11:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-07 13:35:28 +0800"
@@ -2415,6 +2422,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-04-12 00:28:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-04-20 22:58:25 +0800"
     },
     "done": true
   },
