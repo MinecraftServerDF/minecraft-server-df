@@ -1,16 +1,16 @@
 lastAccountName: apple
 timestamps:
-  login: 1587400578174
-  logout: 1587401074993
+  login: 1587414693604
+  logout: 1587414730876
   lastteleport: 1587400782855
-ipAddress: 61.216.179.32
+ipAddress: 127.0.0.1
 logoutlocation:
   world: world
-  x: 625.3567395686345
-  y: 75.49338477257999
-  z: -239.743639328926
-  yaw: 50.18579
-  pitch: 12.000008
+  x: 620.6039768581229
+  y: 74.0
+  z: -120.36038405630441
+  yaw: 3.9858072
+  pitch: 29.550014
 afk: false
 lastlocation:
   world: world_yucsh
