@@ -677,3 +677,156 @@
 [15:38:37] [Server thread/INFO]: apple issued server command: /time set sunset
 [15:43:15] [Server thread/INFO]: apple lost connection: Disconnected
 [15:43:15] [Server thread/INFO]: apple left the game
+[16:08:14] [User Authenticator #5/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[16:08:15] [Server thread/INFO]: apple[/127.0.0.1:7974] logged in with entity id 20946 at ([world_yucsh]5.111466292344424, 135.48872443899654, 43.25568120742944)
+[16:08:25] [Craft Scheduler Thread - 64/INFO]: [AuthMe] apple used the wrong password
+[16:08:25] [Server thread/INFO]: apple lost connection: ¡±b¡iAuthMe¡j¡±6±K½X¿ù»~!
+[16:08:25] [Server thread/INFO]: apple left the game
+[16:08:27] [User Authenticator #6/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[16:08:28] [Server thread/INFO]: apple[/127.0.0.1:7977] logged in with entity id 20947 at ([world_yucsh]5.111466292344424, 66.0, 43.25568120742944)
+[16:08:35] [Craft Scheduler Thread - 66/INFO]: [AuthMe] apple logged in!
+[16:08:40] [Server thread/INFO]: apple issued server command: /spawn
+[16:08:47] [Server thread/INFO]: apple issued server command: /gamemode 1
+[16:11:48] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:12:06] [Server thread/INFO]: apple has made the advancement [Eye Spy]
+[16:13:04] [Server thread/INFO]: apple issued server command: /GAMEMODE 1
+[16:21:13] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:24:00] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:895) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[16:24:00] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:895) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[16:24:00] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:895) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[16:24:25] [Server thread/INFO]: apple issued server command: /spawn
+[16:30:23] [User Authenticator #7/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[16:30:23] [Server thread/INFO]: Caber588[/219.70.214.164:49788] logged in with entity id 27003 at ([world]-277.299134517961, 133.0, -1006.978295323739)
+[16:30:28] [Craft Scheduler Thread - 73/INFO]: [AuthMe] Caber588 logged in!
+[16:30:34] [Server thread/INFO]: Caber588 fell from a high place
+[16:30:38] [Server thread/INFO]: Caber588 issued server command: /fly
+[16:44:30] [Server thread/INFO]: Caber588 issued server command: /home
+[16:45:55] [Server thread/INFO]: Caber588 issued server command: /back
+[16:46:33] [Server thread/INFO]: Caber588 issued server command: /home
+[16:47:22] [Server thread/INFO]: apple issued server command: /spawn
+[16:47:27] [Server thread/INFO]: Caber588 issued server command: /back
+[16:47:32] [Server thread/INFO]: apple issued server command: /time set sunset
+[16:47:45] [Server thread/INFO]: apple issued server command: /time set
+[16:47:45] [Server thread/INFO]: Caber588 issued server command: /home
+[16:47:48] [Server thread/INFO]: apple issued server command: /time set day
+[16:47:55] [Server thread/INFO]: Caber588 issued server command: /home
+[16:47:58] [Server thread/INFO]: apple issued server command: /time set sunset
+[16:48:04] [Server thread/INFO]: apple issued server command: /time set sunrise
+[16:49:05] [Server thread/INFO]: apple issued server command: /time set
