@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-04-08 19:42:10 +0800"
@@ -398,6 +404,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
     },
     "done": true
   },
@@ -721,6 +733,7 @@
       "minecraft:zombie_pigman": "2020-04-14 22:54:54 +0800",
       "minecraft:ravager": "2020-04-18 19:08:40 +0800",
       "minecraft:ghast": "2020-04-10 21:15:40 +0800",
+      "minecraft:guardian": "2020-04-22 01:29:58 +0800",
       "minecraft:vindicator": "2020-04-18 19:09:02 +0800",
       "minecraft:magma_cube": "2020-04-12 15:00:48 +0800",
       "minecraft:spider": "2020-04-06 01:18:52 +0800",
@@ -1490,6 +1503,7 @@
       "minecraft:mountains": "2020-04-07 01:21:51 +0800",
       "minecraft:taiga": "2020-04-05 23:28:41 +0800",
       "minecraft:desert_hills": "2020-04-09 14:04:26 +0800",
+      "minecraft:giant_tree_taiga": "2020-04-22 01:21:04 +0800",
       "minecraft:deep_cold_ocean": "2020-04-05 23:22:50 +0800",
       "minecraft:snowy_tundra": "2020-04-07 00:13:35 +0800",
       "minecraft:taiga_hills": "2020-04-09 00:39:08 +0800",
@@ -1513,6 +1527,7 @@
       "minecraft:bamboo_jungle_hills": "2020-04-10 20:17:30 +0800",
       "minecraft:wooded_hills": "2020-04-07 01:22:38 +0800",
       "minecraft:stone_shore": "2020-04-05 23:25:51 +0800",
+      "minecraft:giant_tree_taiga_hills": "2020-04-22 01:34:23 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-05 23:38:11 +0800",
       "minecraft:swamp": "2020-04-05 23:18:12 +0800",
       "minecraft:snowy_taiga_hills": "2020-04-07 00:07:12 +0800",
@@ -2370,6 +2385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2020-04-05 23:36:28 +0800"
@@ -2415,6 +2436,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2020-04-09 22:20:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
     },
     "done": true
   },
@@ -2485,6 +2512,7 @@
       "minecraft:turtle": "2020-04-07 01:05:19 +0800",
       "minecraft:sheep": "2020-04-09 14:52:26 +0800",
       "minecraft:cow": "2020-04-09 14:52:07 +0800",
+      "minecraft:wolf": "2020-04-22 01:15:37 +0800",
       "minecraft:rabbit": "2020-04-22 00:21:05 +0800",
       "minecraft:bee": "2020-04-10 23:02:21 +0800"
     },
@@ -2994,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-04-05 23:42:25 +0800"
@@ -3165,6 +3199,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-06 23:56:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
     },
     "done": true
   },
@@ -3633,6 +3673,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-04-13 23:13:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-22 01:24:41 +0800"
     },
     "done": true
   },
