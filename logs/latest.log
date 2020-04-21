@@ -662,3 +662,18 @@
 [14:57:25] [Server thread/INFO]: apple issued server command: /flyspeed 15
 [14:58:05] [Server thread/WARN]: apple moved wrongly!
 [15:01:12] [Server thread/INFO]: apple issued server command: /spawn
+[15:25:08] [Server thread/INFO]: apple lost connection: Disconnected
+[15:25:08] [Server thread/INFO]: apple left the game
+[15:29:31] [User Authenticator #3/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[15:29:32] [Server thread/INFO]: apple[/127.0.0.1:7290] logged in with entity id 19501 at ([world_yucsh]-23.59524344883431, 85.11855977794471, 228.28534359997977)
+[15:29:37] [Craft Scheduler Thread - 51/INFO]: [AuthMe] apple logged in!
+[15:31:06] [Server thread/INFO]: apple issued server command: /fly
+[15:31:31] [User Authenticator #4/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[15:31:31] [Server thread/INFO]: biteyou74[/120.102.191.141:9512] logged in with entity id 19707 at ([world]-218.70000002533197, 111.0000002, -1098.700000025332)
+[15:31:44] [Craft Scheduler Thread - 54/INFO]: [AuthMe] biteyou74 logged in!
+[15:34:02] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[15:34:02] [Server thread/INFO]: biteyou74 left the game
+[15:38:31] [Server thread/INFO]: apple issued server command: /time set sunrise
+[15:38:37] [Server thread/INFO]: apple issued server command: /time set sunset
+[15:43:15] [Server thread/INFO]: apple lost connection: Disconnected
+[15:43:15] [Server thread/INFO]: apple left the game
