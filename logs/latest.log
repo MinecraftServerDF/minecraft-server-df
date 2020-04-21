@@ -653,3 +653,12 @@
 [14:09:06] [Server thread/INFO]: apple issued server command: /gamemode 3
 [14:09:34] [Server thread/INFO]: apple issued server command: /flyspeed 2
 [14:12:23] [Server thread/INFO]: apple issued server command: /time set night
+[14:55:18] [Server thread/INFO]: apple issued server command: /mv tp world_creative
+[14:55:24] [Server thread/INFO]: apple issued server command: /mv tp world_create
+[14:55:39] [Server thread/INFO]: apple issued server command: /mvlist
+[14:55:50] [Server thread/INFO]: apple issued server command: /mv creative
+[14:55:59] [Server thread/INFO]: apple issued server command: /mv tp creative
+[14:56:04] [Server thread/INFO]: apple issued server command: /fly
+[14:57:25] [Server thread/INFO]: apple issued server command: /flyspeed 15
+[14:58:05] [Server thread/WARN]: apple moved wrongly!
+[15:01:12] [Server thread/INFO]: apple issued server command: /spawn
