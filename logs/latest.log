@@ -970,3 +970,86 @@ Caused by: java.lang.AssertionError: TRAP
 [21:04:02] [Server thread/INFO]: Villager EntityVillager['Villager'/144450, l='world', x=5984.30, y=66.75, z=1878.46] died, message: 'Villager was slain by Zombie'
 [21:06:46] [Server thread/INFO]: Caber588 issued server command: /home
 [21:16:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/151369, l='world', x=6277.83, y=68.00, z=2155.86] died, message: 'Farmer was slain by Zombie'
+[21:21:18] [User Authenticator #16/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[21:21:18] [Server thread/INFO]: wolf[/115.165.203.20:60792] logged in with entity id 162838 at ([world]298.4730858213787, 70.0, 1553.1441931138309)
+[21:21:24] [Craft Scheduler Thread - 172/INFO]: [AuthMe] wolf logged in!
+[21:22:45] [Server thread/INFO]: Hibiki182 issued server command: /back
+[21:22:54] [Async Chat Thread - #2/INFO]: [world]<wolf> ......
+[21:22:58] [Async Chat Thread - #2/INFO]: [world]<YuShiou> ?
+[21:23:16] [Async Chat Thread - #2/INFO]: [world]<wolf> 流浪商人在樹上= =
+[21:23:38] [Async Chat Thread - #2/INFO]: [world]<YuShiou> 我試過把他關起來 還是會不見 XD
+[21:23:57] [Server thread/INFO]: Hibiki182 issued server command: /back
+[21:24:00] [Async Chat Thread - #2/INFO]: [world]<YuShiou> 他有賣 鸚鵡螺嗎 ?
+[21:24:03] [Async Chat Thread - #2/INFO]: [world]<wolf> 殺掉好了(X
+[21:24:07] [Async Chat Thread - #2/INFO]: [world]<wolf> 沒有
+[21:24:18] [Async Chat Thread - #2/INFO]: [world]<YuShiou> 沒屁用 殺了 (O)
+[21:24:43] [Server thread/INFO]: [WEB] Allen: 嚇死 我以為要殺我
+[21:24:48] [Async Chat Thread - #2/INFO]: [world]<wolf> www
+[21:24:50] [Server thread/INFO]: [WEB] Allen: 我只是講個電話
+[21:25:05] [Server thread/INFO]: [WEB] Allen: 下去到個垃圾 回來再繼續好惹
+[21:25:13] [Server thread/INFO]: [WEB] Allen: 想開發西北邊
+[21:25:25] [Async Chat Thread - #2/INFO]: [world]<wolf> 然後他就死了
+[21:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:25:57] [Async Chat Thread - #2/INFO]: [world]<YuShiou> 我還在往東南跑 找綠林府邸
+[21:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[21:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[21:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[21:28:30] [Server thread/INFO]: Caber588 issued server command: /home
+[21:28:48] [Server thread/INFO]: Caber588 issued server command: /home
+[21:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[21:29:26] [Server thread/INFO]: Caber588 issued server command: /back
+[21:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8741ms or 174 ticks behind
+[21:30:04] [Server thread/INFO]: Caber588 issued server command: /home
+[21:30:09] [Server thread/INFO]: Caber588 issued server command: /home
+[21:30:11] [Server thread/INFO]: Hibiki182 issued server command: /back
+[21:31:04] [Server thread/INFO]: Hibiki182 issued server command: /back
+[21:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[21:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[21:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[21:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[21:37:35] [Server thread/INFO]: [WEB] Allen: 結果鐵路世界超難修
+[21:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[21:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[21:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:42:52] [Server thread/INFO]: YuShiou issued server command: /fly
+[21:43:25] [Server thread/INFO]: Allen was shot by Skeleton
+[21:44:01] [Server thread/WARN]: YuShiou moved wrongly!
+[21:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6567ms or 131 ticks behind
+[21:47:54] [Server thread/WARN]: YuShiou moved wrongly!
+[21:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[21:49:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[21:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5246ms or 104 ticks behind
+[21:51:55] [Server thread/INFO]: wolf lost connection: Disconnected
+[21:51:55] [Server thread/INFO]: wolf left the game
+[21:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[21:52:28] [Server thread/INFO]: Villager EntityVillager['Villager'/175321, l='world', x=-1027.79, y=68.00, z=-3797.73] died, message: 'Villager was slain by Zombie'
+[21:52:39] [User Authenticator #17/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[21:52:40] [Server thread/INFO]: rgps3725[/59.115.166.168:58686] logged in with entity id 200807 at ([world]-224.4311749139054, 104.0, -1075.3182445826062)
+[21:52:41] [Server thread/INFO]: Villager EntityVillager['Villager'/175320, l='world', x=-1029.35, y=66.94, z=-3778.49] died, message: 'Villager was slain by Zombie'
+[21:52:46] [Craft Scheduler Thread - 182/INFO]: [AuthMe] rgps3725 logged in!
+[21:52:58] [Server thread/INFO]: rgps3725 issued server command: /fly
+[21:54:09] [Server thread/WARN]: YuShiou moved wrongly!
+[21:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[21:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[21:59:30] [Server thread/INFO]: YuShiou lost connection: Disconnected
+[21:59:30] [Server thread/INFO]: YuShiou left the game
+[22:01:09] [Server thread/INFO]: Allen was blown up by Creeper
+[22:08:13] [User Authenticator #18/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[22:08:13] [Server thread/INFO]: JerryU29[/49.159.80.132:49285] logged in with entity id 212188 at ([world]-224.93919705552426, 111.5625, -1091.2261815113063)
+[22:08:34] [Craft Scheduler Thread - 190/INFO]: [AuthMe] JerryU29 used the wrong password
+[22:08:34] [Server thread/INFO]: JerryU29 lost connection: §b【AuthMe】§6密碼錯誤!
+[22:08:34] [Server thread/INFO]: JerryU29 left the game
+[22:08:36] [User Authenticator #19/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
+[22:08:37] [Server thread/INFO]: JerryU29[/49.159.80.132:49291] logged in with entity id 212387 at ([world]-224.93919705552426, 111.5625, -1091.2261815113063)
+[22:08:43] [Craft Scheduler Thread - 188/INFO]: [AuthMe] JerryU29 logged in!
+[22:09:01] [Server thread/INFO]: JerryU29 issued server command: /fly
+[22:09:17] [Server thread/INFO]: Hibiki182 issued server command: /home
+[22:11:20] [User Authenticator #20/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[22:11:21] [Server thread/INFO]: Selina[/110.50.182.80:30033] logged in with entity id 213814 at ([world]370.5289591440516, 64.0, 785.652168288863)
+[22:11:30] [Craft Scheduler Thread - 191/INFO]: [AuthMe] Selina logged in!
+[22:11:34] [Server thread/INFO]: Selina issued server command: /list
+[22:11:50] [Server thread/INFO]: Allen has made the advancement [Acquire Hardware]
+[22:12:17] [Server thread/INFO]: Allen has made the advancement [Isn't It Iron Pick]
+[22:14:16] [Server thread/INFO]: Caber588 issued server command: /home

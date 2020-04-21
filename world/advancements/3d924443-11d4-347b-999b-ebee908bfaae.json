@@ -2598,6 +2598,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2020-04-08 22:11:28 +0800",
+      "textures/entity/cat/black.png": "2020-04-21 22:23:25 +0800",
+      "textures/entity/cat/ragdoll.png": "2020-04-21 22:23:48 +0800",
       "textures/entity/cat/british_shorthair.png": "2020-04-12 00:01:28 +0800",
       "textures/entity/cat/calico.png": "2020-04-12 00:18:10 +0800"
     },
