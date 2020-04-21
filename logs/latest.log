@@ -1053,3 +1053,69 @@ Caused by: java.lang.AssertionError: TRAP
 [22:11:50] [Server thread/INFO]: Allen has made the advancement [Acquire Hardware]
 [22:12:17] [Server thread/INFO]: Allen has made the advancement [Isn't It Iron Pick]
 [22:14:16] [Server thread/INFO]: Caber588 issued server command: /home
+[22:29:53] [User Authenticator #21/INFO]: Disconnecting com.mojang.authlib.GameProfile@5c753fec[id=7785d5ca-3e63-37a8-b98c-88a8fec8a10d,name=apple,properties={},legacy=false] (/61.216.179.32:62046): §b【AuthMe】§6有同樣帳號的玩家在線上!
+[22:29:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@5c753fec[id=7785d5ca-3e63-37a8-b98c-88a8fec8a10d,name=apple,properties={},legacy=false] (/61.216.179.32:62046) lost connection: §b【AuthMe】§6有同樣帳號的玩家在線上!
+[22:30:19] [Server thread/INFO]: apple lost connection: Disconnected
+[22:30:19] [Server thread/INFO]: apple left the game
+[22:30:25] [User Authenticator #22/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:30:25] [Server thread/INFO]: apple[/61.216.179.32:62051] logged in with entity id 225945 at ([world_china]2153.6390466298817, 82.29169024863681, -3840.9498874534092)
+[22:30:37] [Craft Scheduler Thread - 199/INFO]: [AuthMe] apple logged in!
+[22:30:42] [Server thread/INFO]: JerryU29 issued server command: /home
+[22:30:44] [Server thread/INFO]: apple issued server command: /tp Allen
+[22:30:59] [Server thread/INFO]: apple issued server command: /tp Caber588
+[22:31:07] [Server thread/INFO]: apple lost connection: Disconnected
+[22:31:07] [Server thread/INFO]: apple left the game
+[22:31:08] [User Authenticator #23/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:31:08] [Server thread/INFO]: apple[/61.216.179.32:62061] logged in with entity id 226512 at ([world]-294.98204631946584, 122.5, -1055.5)
+[22:31:24] [Craft Scheduler Thread - 197/INFO]: [AuthMe] apple used the wrong password
+[22:31:24] [Server thread/INFO]: apple lost connection: §b【AuthMe】§6密碼錯誤!
+[22:31:24] [Server thread/INFO]: apple left the game
+[22:31:46] [User Authenticator #24/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[22:31:46] [Server thread/INFO]: apple[/61.216.179.32:62064] logged in with entity id 226851 at ([world]-294.98204631946584, 122.5, -1055.5)
+[22:31:56] [Craft Scheduler Thread - 197/INFO]: [AuthMe] apple logged in!
+[22:33:17] [Server thread/INFO]: apple fell from a high place
+[22:34:30] [User Authenticator #25/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[22:34:30] [Server thread/INFO]: basic_balion[/36.232.2.107:5859] logged in with entity id 228193 at ([world]-190.69999998807907, 79.0, -1057.699999988079)
+[22:34:36] [Server thread/INFO]: apple issued server command: /tp Allen
+[22:34:41] [Craft Scheduler Thread - 202/INFO]: [AuthMe] basic_balion logged in!
+[22:34:46] [Server thread/INFO]: basic_balion issued server command: /fly
+[22:37:07] [Server thread/INFO]: apple issued server command: /gamemode 3
+[22:37:11] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[22:37:59] [Server thread/INFO]: JerryU29 was burnt to a crisp whilst fighting Caber588
+[22:38:18] [Async Chat Thread - #3/INFO]: [world]<Hibiki182> 內鬥
+[22:38:30] [Async Chat Thread - #3/INFO]: [world]<apple> ???
+[22:38:46] [Async Chat Thread - #3/INFO]: [world]<rgps3725> 一個美妙的意外
+[22:38:59] [Async Chat Thread - #3/INFO]: [world]<Hibiki182> 打夜妹打到彼此
+[22:39:14] [Server thread/INFO]: [WEB] Allen: 我還在慢慢農= =
+[22:39:15] [Async Chat Thread - #3/INFO]: [world]<Caber588> 跟果蠅一樣多
+[22:41:12] [AWT-Windows/INFO]: ***WARNING: SWT requires comctl32.dll version 5.80 or greater
+[22:41:12] [AWT-Windows/INFO]: ***WARNING: Detected: 0.0
+[22:41:21] [Server thread/INFO]: [Server] 我看到之前的對話記錄了
+[22:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[22:47:53] [Server thread/INFO]: Caber588 issued server command: /home
+[22:48:05] [Server thread/INFO]: Caber588 issued server command: /back
+[22:52:48] [Server thread/INFO]: apple issued server command: /tp Caber588
+[22:53:02] [Server thread/INFO]: apple issued server command: /tp basic_balion
+[22:53:16] [Server thread/INFO]: apple issued server command: /tp Selina
+[22:56:25] [Server thread/INFO]: Hibiki182 issued server command: /home
+[23:00:06] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[23:00:06] [Server thread/INFO]: Caber588 left the game
+[23:00:14] [User Authenticator #26/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[23:00:14] [Server thread/INFO]: Caber588[/219.70.214.164:51394] logged in with entity id 244010 at ([world]-98.30000001192093, 12.5, -1120.762499988079)
+[23:00:22] [Craft Scheduler Thread - 211/INFO]: [AuthMe] Caber588 logged in!
+[23:10:30] [Server thread/INFO]: apple lost connection: Disconnected
+[23:10:30] [Server thread/INFO]: apple left the game
+[23:13:32] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[23:13:32] [Server thread/INFO]: basic_balion left the game
+[23:14:03] [User Authenticator #27/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[23:14:03] [Server thread/INFO]: basic_balion[/36.232.2.107:6393] logged in with entity id 254479 at ([world]-209.2598240077603, 79.0, -1066.2146402493213)
+[23:14:15] [Craft Scheduler Thread - 217/INFO]: [AuthMe] basic_balion logged in!
+[23:14:42] [Server thread/INFO]: basic_balion issued server command: /fly
+[23:15:35] [User Authenticator #28/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[23:15:35] [Server thread/INFO]: apple[/61.216.179.32:63629] logged in with entity id 255623 at ([world]346.7197028942177, 74.89850879551523, 694.6587784739147)
+[23:15:52] [Craft Scheduler Thread - 220/INFO]: [AuthMe] apple logged in!
+[23:16:46] [Server thread/INFO]: apple was slain by Zombie
+[23:17:08] [Server thread/WARN]: Selina moved wrongly!
+[23:17:49] [Server thread/INFO]: apple issued server command: /tp Hibiki182
+[23:18:26] [Server thread/INFO]: apple issued server command: /spawn
+[23:18:38] [Server thread/INFO]: apple issued server command: /gamemode 3

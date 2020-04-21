@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-04-21 23:06:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-16 21:59:13 +0800"
@@ -1115,6 +1121,7 @@
       "minecraft:dark_forest": "2020-04-07 23:20:19 +0800",
       "minecraft:river": "2020-04-04 23:35:16 +0800",
       "minecraft:wooded_hills": "2020-04-05 01:29:25 +0800",
+      "minecraft:stone_shore": "2020-04-21 23:21:24 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-09 15:29:09 +0800",
       "minecraft:swamp": "2020-04-05 01:52:29 +0800",
       "minecraft:plains": "2020-04-04 23:42:37 +0800"
@@ -1719,6 +1726,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-04-04 23:39:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2020-04-21 23:06:46 +0800"
     },
     "done": true
   },

@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2020-04-21 23:34:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 01:09:34 +0800"
@@ -609,6 +615,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-04-17 00:13:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-04-21 23:34:53 +0800"
     },
     "done": true
   },
@@ -1837,6 +1849,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-04-20 01:33:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2020-04-21 23:34:53 +0800"
     },
     "done": true
   },
