@@ -949,3 +949,24 @@ Caused by: java.lang.AssertionError: TRAP
 [20:09:29] [Server thread/INFO]: YuShiou drowned
 [20:09:51] [Server thread/INFO]: YuShiou issued server command: /back
 [20:14:34] [Server thread/WARN]: YuShiou moved wrongly!
+[20:22:27] [User Authenticator #14/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[20:22:27] [Server thread/INFO]: Hibiki182[/119.77.247.72:2064] logged in with entity id 114546 at ([world]-846.5, 10.0, -3397.5)
+[20:22:37] [Craft Scheduler Thread - 151/INFO]: [AuthMe] Hibiki182 logged in!
+[20:24:09] [Server thread/WARN]: YuShiou moved wrongly!
+[20:24:13] [Server thread/WARN]: Hibiki182 moved wrongly!
+[20:25:44] [Server thread/INFO]: Hibiki182 issued server command: /home
+[20:26:43] [Server thread/INFO]: Hibiki182 issued server command: /fly
+[20:29:39] [Server thread/INFO]: Hibiki182 issued server command: /back
+[20:33:57] [User Authenticator #15/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[20:33:58] [Server thread/INFO]: Allen[/123.193.76.147:52530] logged in with entity id 126199 at ([world]-1467.3684343574832, 74.0, -630.9483943932123)
+[20:34:09] [Craft Scheduler Thread - 157/INFO]: [AuthMe] Allen logged in!
+[20:51:29] [Server thread/INFO]: Hibiki182 issued server command: /home
+[20:52:09] [Server thread/INFO]: Caber588 issued server command: /home
+[20:53:07] [Server thread/WARN]: YuShiou moved wrongly!
+[20:57:51] [Server thread/WARN]: YuShiou moved wrongly!
+[20:59:49] [Server thread/INFO]: Hibiki182 issued server command: /back
+[21:01:52] [Server thread/INFO]: Caber588 issued server command: /home
+[21:01:56] [Server thread/INFO]: Caber588 issued server command: /home
+[21:04:02] [Server thread/INFO]: Villager EntityVillager['Villager'/144450, l='world', x=5984.30, y=66.75, z=1878.46] died, message: 'Villager was slain by Zombie'
+[21:06:46] [Server thread/INFO]: Caber588 issued server command: /home
+[21:16:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/151369, l='world', x=6277.83, y=68.00, z=2155.86] died, message: 'Farmer was slain by Zombie'
