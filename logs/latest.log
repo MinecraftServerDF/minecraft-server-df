@@ -885,3 +885,21 @@ Caused by: java.lang.AssertionError: TRAP
 [17:17:02] [Async Chat Thread - #1/INFO]: [world]<Caber588> 整片拆掉?
 [17:17:09] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 摁
 [17:17:28] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 我有留底了
+[17:21:02] [Server thread/INFO]: biteyou74 was blown up by Creeper
+[17:35:02] [Server thread/INFO]: Caber588 issued server command: /home
+[17:36:15] [User Authenticator #9/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[17:36:16] [Server thread/INFO]: mx90498793[/115.165.227.248:53590] logged in with entity id 46224 at ([world]492.1720601890895, 70.0, -1204.5438375628983)
+[17:36:22] [Craft Scheduler Thread - 95/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[17:36:22] [Craft Scheduler Thread - 95/INFO]: [AuthMe] §7spycat005, §amx90498793§7.
+[17:36:22] [Craft Scheduler Thread - 95/INFO]: [AuthMe] mx90498793 logged in!
+[17:36:24] [Server thread/INFO]: mx90498793 issued server command: /fly
+[17:37:23] [Server thread/INFO]: Caber588 issued server command: /back
+[17:38:26] [Server thread/INFO]: mx90498793 was blown up by Creeper
+[17:39:36] [Server thread/INFO]: mx90498793 issued server command: /back
+[17:40:07] [Server thread/INFO]: mx90498793 has made the advancement [A Seedy Place]
+[17:41:04] [Server thread/INFO]: mx90498793 issued server command: /back
+[17:43:02] [Server thread/INFO]: mx90498793 lost connection: Disconnected
+[17:43:02] [Server thread/INFO]: mx90498793 left the game
+[17:43:09] [Server thread/INFO]: Caber588 issued server command: /home
+[17:43:17] [Server thread/INFO]: Caber588 issued server command: /back
+[17:44:10] [Server thread/INFO]: Caber588 issued server command: /home
