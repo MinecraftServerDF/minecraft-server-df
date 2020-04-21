@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2020-04-13 01:03:39 +0800"
@@ -486,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2020-04-14 00:50:42 +0800"
@@ -495,6 +507,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-04-15 00:08:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
     },
     "done": true
   },
@@ -825,6 +843,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-13 01:14:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
     },
     "done": true
   },
@@ -1601,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-13 02:46:23 +0800"
@@ -1726,6 +1756,7 @@
       "minecraft:wooded_hills": "2020-04-13 01:30:42 +0800",
       "minecraft:stone_shore": "2020-04-13 02:31:28 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-14 00:47:33 +0800",
+      "minecraft:swamp": "2020-04-21 20:36:50 +0800",
       "minecraft:savanna": "2020-04-14 21:21:52 +0800",
       "minecraft:plains": "2020-04-13 01:22:24 +0800"
     },
@@ -1800,6 +1831,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2020-04-20 01:33:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-04-21 20:27:45 +0800"
     },
     "done": true
   },
