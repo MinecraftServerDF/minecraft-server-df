@@ -1748,6 +1748,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-04-14 22:39:20 +0800",
+      "minecraft:jungle_edge": "2020-04-22 00:15:24 +0800",
       "minecraft:mountains": "2020-04-13 00:49:51 +0800",
       "minecraft:badlands_plateau": "2020-04-14 00:03:10 +0800",
       "minecraft:forest": "2020-04-15 00:03:24 +0800",
@@ -1757,6 +1758,8 @@
       "minecraft:taiga_hills": "2020-04-13 00:53:26 +0800",
       "minecraft:desert": "2020-04-14 02:02:23 +0800",
       "minecraft:deep_frozen_ocean": "2020-04-18 01:41:09 +0800",
+      "minecraft:jungle": "2020-04-22 00:15:33 +0800",
+      "minecraft:jungle_hills": "2020-04-22 00:22:37 +0800",
       "minecraft:warm_ocean": "2020-04-15 23:55:39 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-13 23:25:28 +0800",
       "minecraft:badlands": "2020-04-13 23:28:06 +0800",
