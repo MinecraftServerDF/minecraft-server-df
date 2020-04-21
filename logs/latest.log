@@ -36,3 +36,50 @@
 [02:14:12] [Server thread/INFO]: Caber588 issued server command: /home
 [02:14:29] [Server thread/INFO]: Caber588 lost connection: Disconnected
 [02:14:29] [Server thread/INFO]: Caber588 left the game
+[02:20:35] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[02:20:35] [Server thread/INFO]: biteyou74 left the game
+[02:30:04] [User Authenticator #31/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[02:30:04] [Server thread/INFO]: apple[/61.216.179.32:50620] logged in with entity id 404168 at ([world]-162.69999998807907, 79.0, -1058.699999988079)
+[02:30:17] [Craft Scheduler Thread - 283/INFO]: [AuthMe] apple logged in!
+[02:31:41] [Server thread/INFO]: apple issued server command: /gamemode 1
+[02:33:57] [Server thread/INFO]: apple issued server command: /gamemode 3
+[02:35:01] [Server thread/INFO]: apple issued server command: /spawn
+[02:35:14] [Server thread/INFO]: apple issued server command: /mv apple world_china
+[02:35:20] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[02:35:40] [Server thread/INFO]: apple issued server command: /fly
+[02:36:00] [Server thread/INFO]: apple issued server command: /walkspeed 10
+[02:37:44] [Server thread/INFO]: apple issued server command: /gamemode 1
+[02:37:54] [Server thread/INFO]: apple issued server command: /clean apple
+[02:38:04] [Server thread/INFO]: apple issued server command: /gamemode 0
+[02:38:11] [Server thread/WARN]: apple moved wrongly!
+[02:39:22] [Server thread/INFO]: apple issued server command: /gamemode 3
+[02:40:16] [Server thread/INFO]: apple issued server command: /time set day
+[02:40:44] [Server thread/INFO]: apple issued server command: /effect give apple minecraft:night_vision
+[02:40:44] [Server thread/INFO]: [apple: Applied effect Night Vision to apple]
+[02:41:57] [Server thread/INFO]: apple issued server command: /effect give apple minecraft:night_vision 999999 99
+[02:41:57] [Server thread/INFO]: [apple: Applied effect Night Vision to apple]
+[02:46:36] [Server thread/INFO]: apple issued server command: /spawn
+[02:46:47] [Server thread/INFO]: apple issued server command: /mv apple world_china
+[02:46:54] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[02:47:03] [Server thread/INFO]: apple issued server command: /gamemode 3
+[02:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5845ms or 116 ticks behind
+[02:57:01] [Server thread/INFO]: apple issued server command: /gamemode 1
+[02:59:07] [Server thread/INFO]: apple issued server command: /gamemode 3
+[03:03:22] [Server thread/INFO]: apple issued server command: /gamemode 1
+[03:03:55] [Server thread/INFO]: apple issued server command: /back
+[03:04:10] [Server thread/INFO]: apple issued server command: /kill applwe
+[03:04:12] [Server thread/INFO]: apple issued server command: /kill apple
+[03:04:12] [Server thread/INFO]: apple died
+[03:04:22] [Server thread/INFO]: apple issued server command: /spawn
+[03:04:27] [Server thread/INFO]: apple issued server command: /fly
+[03:07:21] [Server thread/INFO]: apple issued server command: /top
+[03:19:12] [Server thread/INFO]: apple issued server command: /tp apple -900 80 31
+[03:19:19] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:29] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:31] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:33] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:34] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:37] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:19:40] [Server thread/INFO]: CommandBlock at -911,52,21 issued server command: /tp @p -1702 71 -3603
+[03:20:31] [Server thread/INFO]: apple lost connection: Disconnected
+[03:20:31] [Server thread/INFO]: apple left the game
