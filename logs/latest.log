@@ -830,3 +830,58 @@ Caused by: java.lang.AssertionError: TRAP
 [16:47:58] [Server thread/INFO]: apple issued server command: /time set sunset
 [16:48:04] [Server thread/INFO]: apple issued server command: /time set sunrise
 [16:49:05] [Server thread/INFO]: apple issued server command: /time set
+[16:49:16] [Server thread/INFO]: apple issued server command: /time set sunrise
+[16:49:21] [Server thread/INFO]: apple issued server command: /time set sunset
+[16:49:34] [Server thread/INFO]: apple issued server command: /time set afternoon
+[16:49:41] [Server thread/INFO]: apple issued server command: /time set afternoon
+[16:50:25] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[16:50:32] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:52:53] [Server thread/INFO]: apple issued server command: /spawn
+[16:53:18] [Server thread/INFO]: apple issued server command: /mv tp world-1-8
+[16:53:40] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:54:03] [Server thread/INFO]: apple issued server command: /time set morning
+[16:54:43] [Server thread/INFO]: apple issued server command: /spawn
+[16:54:57] [Server thread/INFO]: apple issued server command: /mv tp world_yucsh
+[16:56:19] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:56:53] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[16:57:07] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:58:05] [Server thread/INFO]: apple issued server command: /spawn
+[16:58:10] [Server thread/INFO]: apple issued server command: /gamemode 3
+[16:58:41] [Server thread/WARN]: apple moved too quickly! -2.9662775743959173,0.0,-128.1192202510258
+[16:59:01] [Server thread/INFO]: apple issued server command: /spawn
+[16:59:01] [Server thread/WARN]: apple moved too quickly! -48.845734095083515,-48.545316456741574,975.8912389501687
+[17:02:24] [Server thread/INFO]: apple lost connection: Disconnected
+[17:02:24] [Server thread/INFO]: apple left the game
+[17:10:19] [User Authenticator #8/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[17:10:19] [Server thread/INFO]: biteyou74[/120.102.191.141:13722] logged in with entity id 40776 at ([world]-237.40591415167594, 76.0, -984.748379413852)
+[17:10:34] [Craft Scheduler Thread - 86/INFO]: [AuthMe] biteyou74 logged in!
+[17:10:50] [Async Chat Thread - #0/INFO]: [world]<biteyou74> 框張
+[17:11:09] [Async Chat Thread - #0/INFO]: [world]<biteyou74> 痾 等等
+[17:11:10] [Async Chat Thread - #0/INFO]: [world]<Caber588> 你居然還沒蓋好
+[17:11:13] [Server thread/INFO]: biteyou74 issued server command: /fly
+[17:11:15] [Async Chat Thread - #0/INFO]: [world]<Caber588> 搞什麼
+[17:11:23] [Async Chat Thread - #0/INFO]: [world]<biteyou74> 你蓋錯了
+[17:11:33] [Async Chat Thread - #0/INFO]: [world]<Caber588> 我不在乎
+[17:11:36] [Async Chat Thread - #0/INFO]: [world]<biteyou74> - -
+[17:11:47] [Async Chat Thread - #0/INFO]: [world]<Caber588> 東西送出去就是別人的事情了
+[17:13:26] [Server thread/INFO]: [WEB] Hibiki182: 龜派氣功(???)< ============O))
+[17:14:27] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 我好餓 剛剛餓到醒不來
+[17:14:42] [Async Chat Thread - #1/INFO]: [world]<Caber588> 你可以吃自己
+[17:14:50] [Async Chat Thread - #1/INFO]: [world]<Caber588> 或者請你室友就你
+[17:15:02] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 等等要去拿餐了
+[17:15:09] [Async Chat Thread - #1/INFO]: [world]<Caber588> 什麼餐
+[17:15:13] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 水較
+[17:15:14] [Async Chat Thread - #1/INFO]: [world]<Caber588> 你為什麼有餐
+[17:15:18] [Async Chat Thread - #1/INFO]: [world]<Caber588> 我的呢
+[17:15:27] [Server thread/INFO]: [WEB] Hibiki182: 我也要
+[17:15:30] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 我做不到
+[17:15:41] [Async Chat Thread - #1/INFO]: [world]<Caber588> 太過分了
+[17:15:47] [Async Chat Thread - #1/INFO]: [world]<Caber588> 你還拆我蓋的東西
+[17:15:50] [Async Chat Thread - #1/INFO]: [world]<Caber588> 我好難過
+[17:16:01] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 沒辦法 這個東西很難蓋吼
+[17:16:27] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 我自己拆的還比較多ㄟ
+[17:16:27] [Async Chat Thread - #1/INFO]: [world]<Caber588> 這跟我的水餃沒有關係
+[17:16:44] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 你沒有水餃
+[17:17:02] [Async Chat Thread - #1/INFO]: [world]<Caber588> 整片拆掉?
+[17:17:09] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 摁
+[17:17:28] [Async Chat Thread - #1/INFO]: [world]<biteyou74> 我有留底了
