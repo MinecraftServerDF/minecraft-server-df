@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-22 19:47:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-03 23:41:29 +0800"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-22 20:28:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-05 18:27:18 +0800"
@@ -548,6 +560,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-04 20:44:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-04-22 19:57:26 +0800"
     },
     "done": true
   },
@@ -1022,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-04-22 19:57:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-04-12 13:52:36 +0800"
@@ -1354,15 +1378,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-04-22 20:30:08 +0800",
       "minecraft:forest": "2020-04-03 23:36:29 +0800",
+      "minecraft:mountains": "2020-04-22 19:45:28 +0800",
+      "minecraft:taiga": "2020-04-22 19:58:30 +0800",
       "minecraft:desert_hills": "2020-04-03 23:13:05 +0800",
+      "minecraft:deep_cold_ocean": "2020-04-22 20:30:18 +0800",
+      "minecraft:taiga_hills": "2020-04-22 20:03:42 +0800",
       "minecraft:desert": "2020-04-03 23:11:17 +0800",
       "minecraft:badlands": "2020-04-03 23:44:05 +0800",
       "minecraft:savanna_plateau": "2020-04-10 19:47:28 +0800",
       "minecraft:beach": "2020-04-03 23:07:10 +0800",
       "minecraft:dark_forest": "2020-04-03 23:51:24 +0800",
       "minecraft:river": "2020-04-03 23:11:10 +0800",
+      "minecraft:wooded_mountains": "2020-04-22 19:59:30 +0800",
       "minecraft:wooded_hills": "2020-04-04 21:21:22 +0800",
+      "minecraft:stone_shore": "2020-04-22 19:45:16 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-04 00:08:10 +0800",
       "minecraft:savanna": "2020-04-09 19:32:50 +0800",
       "minecraft:plains": "2020-04-03 23:45:14 +0800"
@@ -1955,6 +1986,7 @@
       "golden_apple": "2020-04-04 00:21:05 +0800",
       "rotten_flesh": "2020-04-03 23:53:43 +0800",
       "cookie": "2020-04-08 20:43:22 +0800",
+      "suspicious_stew": "2020-04-22 20:19:36 +0800",
       "rabbit_stew": "2020-04-12 13:58:17 +0800"
     },
     "done": false
@@ -2528,6 +2560,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2020-04-12 14:56:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-22 19:47:05 +0800"
     },
     "done": true
   },
