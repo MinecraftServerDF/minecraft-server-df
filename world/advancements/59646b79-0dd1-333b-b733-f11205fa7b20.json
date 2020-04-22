@@ -420,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-23 02:06:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 01:09:34 +0800"
@@ -756,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-23 02:06:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-04-13 00:56:17 +0800"
@@ -980,6 +992,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-04-13 02:46:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-04-23 02:07:14 +0800"
     },
     "done": true
   },
@@ -1943,6 +1961,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2020-04-13 23:10:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-23 02:06:12 +0800"
     },
     "done": true
   },

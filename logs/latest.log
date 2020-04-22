@@ -37,3 +37,78 @@
 [01:16:31] [Server thread/INFO]: Caber588 issued server command: /back
 [01:23:32] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [01:23:32] [Server thread/INFO]: basic_balion left the game
+[01:49:35] [User Authenticator #20/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[01:49:36] [Server thread/INFO]: apple[/61.216.179.32:53665] logged in with entity id 356469 at ([world_yucsh]34.28820335019371, 118.30723711876847, 245.6607322854548)
+[01:49:53] [Craft Scheduler Thread - 338/INFO]: [AuthMe] apple logged in!
+[01:50:00] [Server thread/INFO]: apple issued server command: /tp Hibiki182
+[01:50:12] [Server thread/INFO]: apple issued server command: /gamemode 3
+[01:51:21] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[01:51:37] [Server thread/INFO]: apple issued server command: /gamemode 3
+[01:53:14] [Async Chat Thread - #9/INFO]: [world_china]<apple> 0.0
+[01:53:27] [Async Chat Thread - #9/INFO]: [world]<biteyou74> ...
+[01:53:36] [Async Chat Thread - #9/INFO]: [world]<Hibiki182> 找安找安
+[01:59:39] [User Authenticator #21/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[01:59:40] [Server thread/INFO]: appa1423[/39.9.192.191:42603] logged in with entity id 359852 at ([world]832.606266824837, 82.0, 1252.3973778475445)
+[01:59:47] [Server thread/WARN]: Hibiki182 moved too quickly! 13.454481813720975,0.0,-32.77982251750291
+[01:59:47] [Craft Scheduler Thread - 342/INFO]: [AuthMe] appa1423 logged in!
+[02:01:57] [Server thread/INFO]: apple issued server command: /tp appa1423
+[02:03:24] [Server thread/INFO]: [WEB] appa1423: 有可能指令生成蜂窩或蜜蜂嗎
+[02:04:00] [Async Chat Thread - #10/INFO]: [world]<biteyou74> 可能要有權限ㄅ
+[02:04:07] [Server thread/INFO]: [WEB] appa1423: 甚麼音效???
+[02:04:39] [Server thread/INFO]: apple issued server command: /fly
+[02:04:47] [Server thread/WARN]: Hibiki182 moved too quickly! 4.312217990585168,-22.322287794416567,5.597859543157938
+[02:06:26] [Server thread/INFO]: apple was slain by Phantom
+[02:06:28] [Server thread/INFO]: [WEB] appa1423: 靠 原來事夜寐
+[02:07:02] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[02:07:02] [Server thread/INFO]: appa1423 left the game
+[02:11:26] [Server thread/INFO]: apple issued server command: /tp Hibiki182
+[02:11:33] [Server thread/INFO]: apple issued server command: /gamemode 3
+[02:11:36] [Server thread/INFO]: apple issued server command: /tp Caber588
+[02:11:43] [Server thread/INFO]: apple issued server command: /tp biteyou74
+[02:16:35] [Server thread/INFO]: apple issued server command: /flyspeed 1
+[02:19:47] [Server thread/WARN]: apple moved too quickly! -12.480919284156556,0.0,-14.399007685593006
+[02:20:05] [Server thread/INFO]: Hibiki182 issued server command: /back
+[02:20:32] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[02:20:32] [Server thread/INFO]: Hibiki182 left the game
+[03:00:22] [Server thread/INFO]: apple issued server command: /tp biteyou74
+[03:00:39] [Async Chat Thread - #11/INFO]: [world]<apple> 0.0
+[03:00:45] [Async Chat Thread - #11/INFO]: [world]<apple> sleep
+[03:01:14] [Server thread/INFO]: apple issued server command: /killapple
+[03:01:19] [Server thread/INFO]: apple issued server command: /kill apple
+[03:01:19] [Server thread/INFO]: apple died
+[03:01:22] [Async Chat Thread - #11/INFO]: [world]<biteyou74> 你是不是附在我們身上阿
+[03:01:39] [Server thread/INFO]: Caber588 lost connection: Disconnected
+[03:01:39] [Server thread/INFO]: Caber588 left the game
+[03:01:47] [Server thread/INFO]: apple lost connection: Disconnected
+[03:01:47] [Server thread/INFO]: apple left the game
+[03:04:10] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[03:04:10] [Server thread/INFO]: biteyou74 left the game
+[03:04:19] [User Authenticator #22/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[03:04:19] [Server thread/INFO]: basic_balion[/36.232.2.107:2256] logged in with entity id 388248 at ([world]-371.5026062128974, 106.62393863192504, -1002.627374066819)
+[03:04:33] [Craft Scheduler Thread - 362/INFO]: [AuthMe] basic_balion logged in!
+[03:04:38] [Server thread/INFO]: basic_balion issued server command: /fly
+[03:16:37] [User Authenticator #23/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[03:16:37] [Server thread/INFO]: apple[/61.216.179.32:50159] logged in with entity id 392351 at ([world]-223.5, 111.0000002, -1059.5)
+[03:16:51] [Server thread/INFO]: basic_balion issued server command: /home
+[03:16:52] [Craft Scheduler Thread - 367/INFO]: [AuthMe] apple logged in!
+[03:17:09] [Server thread/INFO]: apple issued server command: /mv tp world_yucsh
+[03:17:46] [Server thread/INFO]: apple lost connection: Disconnected
+[03:17:46] [Server thread/INFO]: apple left the game
+[03:17:50] [User Authenticator #24/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[03:17:50] [Server thread/INFO]: apple[/61.216.179.32:50860] logged in with entity id 392565 at ([world_yucsh]-14.546692697380724, 66.0, 244.9566836425424)
+[03:18:00] [Craft Scheduler Thread - 369/INFO]: [AuthMe] apple logged in!
+[03:18:31] [Server thread/INFO]: basic_balion issued server command: /home
+[03:19:09] [Server thread/INFO]: apple lost connection: Disconnected
+[03:19:09] [Server thread/INFO]: apple left the game
+[03:19:27] [Server thread/INFO]: basic_balion issued server command: /home
+[03:19:48] [User Authenticator #25/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[03:19:49] [Server thread/INFO]: apple[/61.216.179.32:52037] logged in with entity id 392912 at ([world_yucsh]-23.01840744641064, 66.0, 236.64981411845625)
+[03:20:01] [Craft Scheduler Thread - 371/INFO]: [AuthMe] apple logged in!
+[03:20:15] [Server thread/INFO]: apple issued server command: /gamemode 3
+[03:20:17] [Server thread/INFO]: basic_balion issued server command: /home
+[03:23:59] [Server thread/INFO]: apple issued server command: /time set night
+[03:25:17] [Server thread/INFO]: apple issued server command: /time set day
+[03:39:30] [Server thread/INFO]: apple lost connection: Disconnected
+[03:39:30] [Server thread/INFO]: apple left the game
+[03:43:08] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[03:43:08] [Server thread/INFO]: basic_balion left the game
