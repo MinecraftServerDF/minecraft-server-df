@@ -1008,15 +1008,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2020-04-12 13:36:29 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-12 13:03:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-04-12 13:36:29 +0800"
     },
     "done": true
   },
