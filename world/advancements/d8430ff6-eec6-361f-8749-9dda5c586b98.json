@@ -685,6 +685,7 @@
       "minecraft:spider": "2020-04-07 10:26:21 +0800",
       "minecraft:creeper": "2020-04-07 13:39:18 +0800",
       "minecraft:slime": "2020-04-11 23:32:49 +0800",
+      "minecraft:evoker": "2020-04-22 22:48:02 +0800",
       "minecraft:phantom": "2020-04-08 20:17:21 +0800",
       "minecraft:wither_skeleton": "2020-04-12 01:38:21 +0800",
       "minecraft:husk": "2020-04-07 20:49:49 +0800",
@@ -2430,6 +2431,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-04-11 23:32:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-04-22 22:39:19 +0800"
     },
     "done": true
   },
