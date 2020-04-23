@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2020-04-23 19:19:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-09 19:10:13 +0800"
@@ -1389,6 +1395,7 @@
       "minecraft:taiga_hills": "2020-04-09 17:31:44 +0800",
       "minecraft:desert": "2020-04-09 17:08:27 +0800",
       "minecraft:deep_frozen_ocean": "2020-04-19 01:12:20 +0800",
+      "minecraft:jungle": "2020-04-23 19:36:39 +0800",
       "minecraft:birch_forest": "2020-04-19 02:00:59 +0800",
       "minecraft:warm_ocean": "2020-04-20 01:39:19 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-19 16:27:46 +0800",
@@ -2935,6 +2942,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2020-04-10 21:26:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2020-04-23 19:19:58 +0800"
     },
     "done": true
   },
