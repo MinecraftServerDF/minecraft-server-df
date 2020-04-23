@@ -665,6 +665,7 @@
       "minecraft:creeper": "2020-04-09 15:18:17 +0800",
       "minecraft:slime": "2020-04-11 19:49:00 +0800",
       "minecraft:phantom": "2020-04-09 00:38:03 +0800",
+      "minecraft:witch": "2020-04-23 13:34:40 +0800",
       "minecraft:wither_skeleton": "2020-04-16 08:48:01 +0800",
       "minecraft:silverfish": "2020-04-11 19:44:53 +0800",
       "minecraft:enderman": "2020-04-16 08:46:56 +0800",
@@ -2527,6 +2528,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-09 00:37:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-04-23 13:57:37 +0800"
     },
     "done": true
   },
