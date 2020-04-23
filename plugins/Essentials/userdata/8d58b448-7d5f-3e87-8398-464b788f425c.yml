@@ -1,16 +1,16 @@
 lastAccountName: mx90498793
 timestamps:
-  login: 1587626574986
+  login: 1587657763029
   logout: 1587638764368
   lastteleport: 1587462067376
 ipAddress: 115.165.227.248
 lastlocation:
   world: world
-  x: -1636.6128461762798
-  y: 63.200000047683716
-  z: 511.36833398720484
-  yaw: -65.40314
-  pitch: 51.450127
+  x: -1609.925000011921
+  y: 66.0
+  z: 466.4825308109167
+  yaw: 267.77344
+  pitch: 18.899801
 logoutlocation:
   world: world
   x: -1610.699999988079
@@ -18,7 +18,7 @@ logoutlocation:
   z: 466.6976982696867
   yaw: 264.60117
   pitch: 10.9498005
-afk: false
+afk: true
 homes:
   home:
     world: world

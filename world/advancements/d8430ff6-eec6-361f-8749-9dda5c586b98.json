@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-04-24 01:04:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2020-04-07 17:36:44 +0800"
@@ -686,6 +692,7 @@
       "minecraft:skeleton": "2020-04-07 12:46:06 +0800",
       "minecraft:zombie_pigman": "2020-04-18 00:43:07 +0800",
       "minecraft:ghast": "2020-04-12 01:23:32 +0800",
+      "minecraft:guardian": "2020-04-24 00:59:16 +0800",
       "minecraft:vindicator": "2020-04-22 22:31:02 +0800",
       "minecraft:magma_cube": "2020-04-12 01:09:49 +0800",
       "minecraft:spider": "2020-04-07 10:26:21 +0800",
@@ -1213,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-24 01:00:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 16:36:26 +0800"
@@ -1532,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-24 01:00:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2020-04-07 21:16:57 +0800"
@@ -1691,6 +1710,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-09 20:28:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-04-24 01:00:14 +0800"
     },
     "done": true
   },
