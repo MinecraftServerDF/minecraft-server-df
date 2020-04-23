@@ -2267,6 +2267,7 @@
       "spider_eye": "2020-04-18 20:41:37 +0800",
       "potato": "2020-04-13 01:35:10 +0800",
       "cooked_cod": "2020-04-05 17:45:54 +0800",
+      "golden_apple": "2020-04-23 22:53:50 +0800",
       "rotten_flesh": "2020-04-05 14:54:45 +0800",
       "suspicious_stew": "2020-04-18 20:37:55 +0800",
       "dried_kelp": "2020-04-06 23:35:55 +0800",
@@ -3167,6 +3168,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-04-05 15:50:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-04-23 22:52:35 +0800"
     },
     "done": true
   },

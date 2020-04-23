@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-23 23:20:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-04-13 01:05:31 +0800"
@@ -116,6 +122,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-13 01:14:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-04-23 23:31:12 +0800"
     },
     "done": true
   },
@@ -576,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-04-23 23:20:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-04-20 00:48:02 +0800"
@@ -998,6 +1016,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2020-04-23 02:07:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-04-23 23:21:47 +0800"
     },
     "done": true
   },
@@ -1439,6 +1463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-23 23:20:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-04-17 00:13:06 +0800"
@@ -1790,6 +1820,7 @@
       "minecraft:badlands": "2020-04-13 23:28:06 +0800",
       "minecraft:savanna_plateau": "2020-04-14 21:23:50 +0800",
       "minecraft:beach": "2020-04-13 00:47:55 +0800",
+      "minecraft:dark_forest": "2020-04-23 22:57:23 +0800",
       "minecraft:river": "2020-04-13 01:00:21 +0800",
       "minecraft:lukewarm_ocean": "2020-04-13 23:20:47 +0800",
       "minecraft:birch_forest_hills": "2020-04-23 22:12:01 +0800",
