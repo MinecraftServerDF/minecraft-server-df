@@ -384,3 +384,7 @@
 [17:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5089ms or 101 ticks behind
 [17:30:31] [Server thread/INFO]: appa1423 lost connection: Disconnected
 [17:30:31] [Server thread/INFO]: appa1423 left the game
+[18:18:03] [User Authenticator #54/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[18:18:03] [Server thread/INFO]: wolf[/115.165.203.20:51120] logged in with entity id 1044448 at ([world]303.7532645952924, 64.0, 1536.2955863644256)
+[18:18:09] [Craft Scheduler Thread - 955/INFO]: [AuthMe] wolf logged in!
+[18:36:31] [Server thread/WARN]: wolf moved too quickly! -8.191926996948666,-1.0,-30.821614691279137
