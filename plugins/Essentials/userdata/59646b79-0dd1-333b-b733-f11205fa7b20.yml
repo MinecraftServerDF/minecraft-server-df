@@ -1,23 +1,23 @@
 lastAccountName: Hibiki182
 timestamps:
-  login: 1587655584731
-  logout: 1587663097758
-  lastteleport: 1587662842469
-ipAddress: 180.217.80.166
+  login: 1587742866802
+  logout: 1587742865652
+  lastteleport: 1587741516096
+ipAddress: 119.77.247.72
 lastlocation:
   world: world
-  x: -219.81911473174844
+  x: -220.69999998807907
   y: 104.0
-  z: -1087.7942321275968
-  yaw: -41.12271
-  pitch: 33.29937
+  z: -1092.3811197606228
+  yaw: 23.226871
+  pitch: 19.499304
 logoutlocation:
   world: world
-  x: -8114.649799993374
-  y: 10.0
-  z: -1354.479143442896
-  yaw: -266.57593
-  pitch: 6.8996506
+  x: -9333.590233110908
+  y: 15.0
+  z: -1383.699999988079
+  yaw: -273.77112
+  pitch: 31.94941
 homes:
   home:
     world: world

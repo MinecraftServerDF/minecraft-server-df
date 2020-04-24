@@ -415,3 +415,354 @@
 [21:06:17] [Server thread/INFO]: apple issued server command: /lightning
 [21:11:05] [Server thread/INFO]: apple lost connection: Disconnected
 [21:11:05] [Server thread/INFO]: apple left the game
+[21:29:44] [User Authenticator #58/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[21:29:44] [Server thread/INFO]: Selina[/1.200.60.6:10105] logged in with entity id 1078579 at ([world]371.17500116729843, 64.0, 786.1750011672984)
+[21:29:58] [Craft Scheduler Thread - 1007/INFO]: [AuthMe] Selina logged in!
+[21:36:36] [User Authenticator #59/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[21:36:36] [Server thread/INFO]: mx90498793[/115.165.227.248:56360] logged in with entity id 1081348 at ([world]-1610.588638083564, 66.0, 466.5494881726057)
+[21:36:49] [Craft Scheduler Thread - 1011/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[21:36:49] [Craft Scheduler Thread - 1011/INFO]: [AuthMe] §7spycat005, §amx90498793§7.
+[21:36:49] [Craft Scheduler Thread - 1011/INFO]: [AuthMe] mx90498793 logged in!
+[21:40:56] [User Authenticator #60/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[21:40:56] [Server thread/INFO]: rgps3725[/36.228.128.161:51906] logged in with entity id 1083038 at ([world]-227.5, 104.0, -1068.5)
+[21:41:04] [Craft Scheduler Thread - 1015/INFO]: [AuthMe] rgps3725 logged in!
+[21:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[21:41:28] [Server thread/INFO]: rgps3725 issued server command: /fly
+[21:42:53] [Server thread/INFO]: mx90498793 issued server command: /fly
+[21:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[21:43:43] [Server thread/INFO]: rgps3725 lost connection: Disconnected
+[21:43:43] [Server thread/INFO]: rgps3725 left the game
+[21:43:49] [Server thread/INFO]: mx90498793 has made the advancement [The Parrots and the Bats]
+[21:44:44] [Server thread/INFO]: mx90498793 issued server command: /back
+[21:45:37] [Server thread/INFO]: mx90498793 issued server command: /spawn
+[21:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[21:48:42] [Server thread/INFO]: mx90498793 issued server command: /back
+[21:49:00] [Server thread/WARN]: biteyou74 moved too quickly! 4.571278845061499,11.999993147728958,6.543814103506861
+[21:49:00] [Server thread/WARN]: biteyou74 moved too quickly! 4.309515098868019,11.624993132828195,6.184018964766437
+[21:53:59] [Server thread/WARN]: biteyou74 moved too quickly! 4.171249576934031,3.564540875082116,-10.092491474242138
+[22:17:57] [User Authenticator #61/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
+[22:17:57] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:50849] logged in with entity id 1102008 at ([world]219.5, 68.0, 267.5)
+[22:17:57] [pool-13-thread-1/INFO]: 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\0c003cce-da73-3f39-bbdd-a91be6be8261.yml
+[22:17:57] [Server thread/INFO]: LRIC_MOON has made the advancement [Getting an Upgrade]
+[22:18:13] [Server thread/INFO]: [AuthMe] LRIC_MOON registered 123.194.147.86
+[22:18:13] [Craft Scheduler Thread - 1025/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
+[22:18:13] [Craft Scheduler Thread - 1025/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
+[22:18:13] [Craft Scheduler Thread - 1025/INFO]: [AuthMe] LRIC_MOON logged in!
+[22:20:28] [User Authenticator #62/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[22:20:28] [Server thread/INFO]: YuShiou[/1.34.17.118:10796] logged in with entity id 1103800 at ([world]511.0734174788687, 88.0, 817.0788245824972)
+[22:20:34] [Craft Scheduler Thread - 1029/INFO]: [AuthMe] YuShiou logged in!
+[22:21:08] [Server thread/INFO]: LRIC_MOON has made the advancement [Stone Age]
+[22:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[22:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[22:22:39] [User Authenticator #63/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[22:22:39] [Server thread/INFO]: SpyCat005[/115.165.227.248:3936] logged in with entity id 1106459 at ([world]584.722361367357, 68.0, 841.5158254034544)
+[22:22:51] [Craft Scheduler Thread - 1032/INFO]: [AuthMe] The user SpyCat005 has 2 accounts:
+[22:22:51] [Craft Scheduler Thread - 1032/INFO]: [AuthMe] §7§aSpyCat005§7, §amx90498793§7.
+[22:22:51] [Craft Scheduler Thread - 1032/INFO]: [AuthMe] SpyCat005 logged in!
+[22:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[22:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[22:23:59] [Server thread/WARN]: SpyCat005 moved wrongly!
+[22:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[22:24:40] [Server thread/WARN]: SpyCat005 moved wrongly!
+[22:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5856ms or 117 ticks behind
+[22:25:43] [Server thread/INFO]: LRIC_MOON issued server command: /fly
+[22:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[22:25:47] [Server thread/INFO]: YuShiou has made the advancement [Bee Our Guest]
+[22:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[22:27:14] [Server thread/WARN]: SpyCat005 moved wrongly!
+[22:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[22:27:26] [Server thread/INFO]: SpyCat005 issued server command: /home
+[22:27:37] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:894) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[22:27:37] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:894) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[22:27:37] [Server thread/WARN]: Exception loading entity: 
+net.minecraft.server.v1_15_R1.ReportedException: Loading entity NBT
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1702) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.lambda$101(EntityTypes.java:301) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:341) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:298) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.b(EntityTypes.java:342) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityTypes.a(EntityTypes.java:323) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.loadEntities(ChunkRegionLoader.java:396) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkRegionLoader.lambda$6(ChunkRegionLoader.java:114) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Chunk.addEntities(Chunk.java:501) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$33(PlayerChunkMap.java:588) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerChunkMap.lambda$31(PlayerChunkMap.java:574) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.util.concurrent.CompletableFuture.uniApply(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at net.minecraft.server.v1_15_R1.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeTask(ChunkProviderServer.java:578) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:589) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ChunkProviderServer.runTasks(ChunkProviderServer.java:248) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.ba(MinecraftServer.java:927) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.executeNext(MinecraftServer.java:911) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.sleepForTick(MinecraftServer.java:894) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:828) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.AssertionError: TRAP
+	at net.minecraft.server.v1_15_R1.ItemStack.checkEmpty(ItemStack.java:86) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ItemStack.setCount(ItemStack.java:864) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.c(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.SystemUtils.a(SourceFile:290) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.b(SourceFile:46) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.EntityEnderSignal.a(SourceFile:194) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.Entity.f(Entity.java:1647) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	... 28 more
+[22:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5841ms or 116 ticks behind
+[22:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5311ms or 106 ticks behind
+[22:29:18] [Server thread/WARN]: SpyCat005 moved wrongly!
+[22:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[22:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9720ms or 194 ticks behind
+[22:30:30] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
+[22:30:30] [Server thread/INFO]: LRIC_MOON left the game
+[22:30:38] [Server thread/WARN]: SpyCat005 moved wrongly!
+[22:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6337ms or 126 ticks behind
+[22:31:11] [User Authenticator #64/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[22:31:12] [Server thread/INFO]: basic_balion[/36.232.8.157:1855] logged in with entity id 1114137 at ([world]-221.1171453874986, 104.0, -1081.824999988079)
+[22:31:25] [Craft Scheduler Thread - 1037/INFO]: [AuthMe] basic_balion logged in!
+[22:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[22:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8036ms or 160 ticks behind
+[22:32:33] [Server thread/INFO]: basic_balion issued server command: /fly
+[22:36:01] [User Authenticator #65/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[22:36:01] [Server thread/INFO]: Caber588[/219.70.214.164:50121] logged in with entity id 1117537 at ([world]-219.6203165137664, 104.76094698702687, -1085.5801771734793)
+[22:36:07] [Craft Scheduler Thread - 1038/INFO]: [AuthMe] Caber588 logged in!
+[22:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[22:36:16] [Server thread/INFO]: Caber588 issued server command: /fly
+[22:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7607ms or 152 ticks behind
+[22:42:03] [User Authenticator #66/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[22:42:04] [Server thread/INFO]: Hibiki182[/180.217.80.166:6309] logged in with entity id 1123374 at ([world]-8114.649799993374, 10.0, -1354.479143442896)
+[22:42:15] [Craft Scheduler Thread - 1040/INFO]: [AuthMe] Hibiki182 logged in!
+[22:42:37] [Server thread/INFO]: SpyCat005 issued server command: /spawn
+[22:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[22:43:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[22:44:20] [Server thread/INFO]: Selina was shot by Skeleton
+[22:44:20] [Server thread/INFO]: Hibiki182 issued server command: /fly
+[22:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
+[22:44:28] [Server thread/INFO]: Selina issued server command: /back
+[22:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[22:45:45] [Server thread/WARN]: Caber588 moved wrongly!
+[22:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[22:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5144ms or 102 ticks behind
+[22:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5082ms or 101 ticks behind
+[22:48:17] [Server thread/INFO]: basic_balion issued server command: /home
+[22:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[22:49:58] [Server thread/INFO]: Caber588 issued server command: /home
+[22:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[22:50:21] [Server thread/WARN]: basic_balion moved wrongly!
+[22:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[22:54:53] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:54:58] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:07] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:09] [Server thread/WARN]: basic_balion moved wrongly!
+[22:55:09] [Server thread/WARN]: basic_balion moved wrongly!
+[22:55:10] [Server thread/WARN]: basic_balion moved wrongly!
+[22:55:23] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:23] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:24] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:27] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:34] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:55:37] [Server thread/WARN]: Caber588 moved wrongly!
+[22:55:37] [Server thread/WARN]: biteyou74 moved wrongly!
+[22:59:12] [Server thread/WARN]: basic_balion moved wrongly!
+[23:02:25] [Server thread/INFO]: Selina drowned
+[23:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[23:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
+[23:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7422ms or 148 ticks behind
+[23:04:44] [Server thread/INFO]: Selina issued server command: /back
+[23:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5521ms or 110 ticks behind
+[23:05:27] [Server thread/INFO]: Hibiki182 issued server command: /home
+[23:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[23:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[23:07:54] [Server thread/INFO]: Hibiki182 issued server command: /back
+[23:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:08:12] [Server thread/INFO]: Caber588 issued server command: /home
+[23:08:35] [Server thread/INFO]: Caber588 issued server command: /back
+[23:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[23:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[23:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[23:10:47] [Server thread/INFO]: Caber588 issued server command: /home
+[23:11:04] [User Authenticator #67/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[23:11:04] [Server thread/INFO]: Allen[/123.193.76.147:50206] logged in with entity id 1158088 at ([world]-1467.307271356717, 69.0, -644.8447643626241)
+[23:11:10] [Craft Scheduler Thread - 1051/INFO]: [AuthMe] Allen logged in!
+[23:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[23:11:35] [Server thread/INFO]: Caber588 issued server command: /back
+[23:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5176ms or 103 ticks behind
+[23:12:15] [Server thread/INFO]: YuShiou issued server command: /fly
+[23:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[23:12:46] [Server thread/WARN]: Hibiki182 moved wrongly!
+[23:13:12] [Server thread/INFO]: Caber588 issued server command: /home
+[23:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
+[23:13:26] [Server thread/INFO]: Caber588 issued server command: /back
+[23:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5038ms or 100 ticks behind
+[23:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8222ms or 164 ticks behind
+[23:15:08] [Server thread/INFO]: Caber588 issued server command: /home
+[23:15:20] [Server thread/INFO]: Caber588 issued server command: /back
+[23:15:27] [Server thread/INFO]: Caber588 issued server command: /back
+[23:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6062ms or 121 ticks behind
+[23:15:34] [Server thread/INFO]: Caber588 issued server command: /back
+[23:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8900ms or 178 ticks behind
+[23:16:07] [Async Chat Thread - #26/INFO]: [world]<Allen> 今天人好多
+[23:16:09] [Server thread/INFO]: Caber588 issued server command: /back
+[23:16:19] [Server thread/INFO]: Selina issued server command: /list
+[23:16:21] [Server thread/INFO]: Caber588 issued server command: /back
+[23:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8796ms or 175 ticks behind
+[23:17:02] [Server thread/INFO]: basic_balion issued server command: /home
+[23:17:12] [Server thread/INFO]: Caber588 issued server command: /home
+[23:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9992ms or 199 ticks behind
+[23:17:30] [Server thread/INFO]: Caber588 issued server command: /back
+[23:17:35] [Server thread/INFO]: Hibiki182 issued server command: /back
+[23:17:39] [Server thread/INFO]: Hibiki182 issued server command: /back
+[23:17:50] [Async Chat Thread - #27/INFO]: [world]<Selina> 請問目前WEB版的地圖中 如果我往黑黑的地方去 會擴充地圖是嗎?
+[23:17:56] [Server thread/INFO]: Caber588 issued server command: /home
+[23:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7579ms or 151 ticks behind
+[23:18:12] [Async Chat Thread - #27/INFO]: [world]<YuShiou> 4
+[23:18:27] [Async Chat Thread - #27/INFO]: [world]<Selina> 好唷~~~
+[23:18:32] [Server thread/INFO]: Hibiki182 issued server command: /back
+[23:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7883ms or 157 ticks behind
+[23:18:42] [Server thread/INFO]: Caber588 issued server command: /back
+[23:18:57] [User Authenticator #68/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
+[23:18:57] [Server thread/INFO]: rgps3725[/36.228.128.161:53612] logged in with entity id 1169466 at ([world]-219.3638004491634, 12.0, -1041.1689176978116)
+[23:19:01] [Craft Scheduler Thread - 1054/INFO]: [AuthMe] rgps3725 logged in!
+[23:19:05] [Server thread/INFO]: Caber588 issued server command: /back
+[23:19:07] [Server thread/INFO]: rgps3725 issued server command: /fly
+[23:19:27] [Server thread/INFO]: Caber588 issued server command: /back
+[23:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
+[23:19:34] [Server thread/INFO]: SpyCat005 was shot by Skeleton
+[23:19:48] [Server thread/INFO]: Caber588 issued server command: /home
+[23:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12112ms or 242 ticks behind
+[23:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13557ms or 271 ticks behind
+[23:21:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12467ms or 249 ticks behind
+[23:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10631ms or 212 ticks behind
+[23:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7676ms or 153 ticks behind
+[23:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10683ms or 213 ticks behind
+[23:23:37] [Server thread/INFO]: Villager EntityVillager['Farmer'/1162935, l='world', x=564.16, y=72.00, z=758.49] died, message: 'Farmer was slain by Zombie'
+[23:23:44] [Server thread/INFO]: Villager EntityVillager['Mason'/1162934, l='world', x=564.30, y=72.56, z=761.70] died, message: 'Mason was slain by Zombie Villager'
+[23:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11677ms or 233 ticks behind
+[23:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12981ms or 259 ticks behind
+[23:25:38] [Server thread/INFO]: Allen has made the advancement [Hot Stuff]
+[23:25:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11237ms or 224 ticks behind
+[23:25:57] [Server thread/WARN]: Hibiki182 moved wrongly!
+[23:26:05] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:26:06] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:26:06] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:26:06] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14313ms or 286 ticks behind
+[23:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12754ms or 255 ticks behind
+[23:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8022ms or 160 ticks behind
+[23:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11921ms or 238 ticks behind
+[23:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[23:29:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[23:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6324ms or 126 ticks behind
+[23:30:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6870ms or 137 ticks behind
+[23:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6926ms or 138 ticks behind
+[23:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10147ms or 202 ticks behind
+[23:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14761ms or 295 ticks behind
+[23:32:58] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[23:32:58] [Server thread/INFO]: Hibiki182 left the game
+[23:33:00] [User Authenticator #69/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[23:33:00] [Server thread/INFO]: Hibiki182[/119.77.247.72:5310] logged in with entity id 1183161 at ([world]-9324.843417634147, 11.200000047683716, -1383.300000011921)
+[23:33:08] [Craft Scheduler Thread - 1059/INFO]: [AuthMe] Hibiki182 logged in!
+[23:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14894ms or 297 ticks behind
+[23:34:16] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[23:34:16] [Server thread/INFO]: Hibiki182 left the game
+[23:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15641ms or 312 ticks behind
+[23:35:03] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10169ms or 203 ticks behind
+[23:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11816ms or 236 ticks behind
+[23:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
+[23:36:58] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:36:59] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6518ms or 130 ticks behind
+[23:37:36] [Server thread/WARN]: SpyCat005 moved wrongly!
+[23:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8263ms or 165 ticks behind
+[23:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9887ms or 197 ticks behind
+[23:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7297ms or 145 ticks behind
+[23:39:04] [User Authenticator #70/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[23:39:04] [Server thread/INFO]: Hibiki182[/180.217.80.166:6304] logged in with entity id 1188139 at ([world]-9329.216505804508, 14.0, -1383.699999988079)
+[23:39:12] [Server thread/INFO]: Selina drowned
+[23:39:17] [Craft Scheduler Thread - 1064/INFO]: [AuthMe] Hibiki182 logged in!
+[23:39:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13619ms or 272 ticks behind
