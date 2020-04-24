@@ -1,7 +1,7 @@
 lastAccountName: YuShiou
 timestamps:
   login: 1587705336098
-  logout: 1587701714048
+  logout: 1587725735480
   lastteleport: 1587697994004
 ipAddress: 1.34.17.118
 lastlocation:
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 55.200165
 logoutlocation:
   world: world
-  x: 512.2111947796332
+  x: 511.0734174788687
   y: 88.0
-  z: 818.3358095186084
-  yaw: -139.3559
-  pitch: 6.2994313
-afk: true
+  z: 817.0788245824972
+  yaw: -39.963196
+  pitch: 22.950161
+afk: false
