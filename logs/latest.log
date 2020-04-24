@@ -156,3 +156,40 @@
 [09:34:04] [Craft Scheduler Thread - 822/INFO]: [AuthMe] basic_balion logged in!
 [09:34:29] [Server thread/INFO]: basic_balion issued server command: /fly
 [10:06:50] [Server thread/INFO]: basic_balion issued server command: /home
+[10:47:14] [User Authenticator #47/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[10:47:15] [Server thread/INFO]: YuShiou[/1.34.17.118:8669] logged in with entity id 837879 at ([world]512.8197611319938, 88.0, 816.5670360605618)
+[10:47:19] [Craft Scheduler Thread - 840/INFO]: [AuthMe] YuShiou logged in!
+[10:47:35] [Server thread/INFO]: YuShiou issued server command: /fly
+[10:50:24] [Server thread/INFO]: basic_balion issued server command: /home
+[10:50:33] [User Authenticator #48/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[10:50:33] [Server thread/INFO]: appa1423[/39.9.192.191:41512] logged in with entity id 841748 at ([world]832.17514517998, 82.0, 1253.6324643137466)
+[10:50:39] [Craft Scheduler Thread - 842/INFO]: [AuthMe] appa1423 logged in!
+[10:56:17] [User Authenticator #49/INFO]: UUID of player mx90498793 is 8d58b448-7d5f-3e87-8398-464b788f425c
+[10:56:17] [Server thread/INFO]: mx90498793[/115.165.227.248:54250] logged in with entity id 845076 at ([world]-1611.699999988079, 66.0, 466.30000001192093)
+[10:56:25] [Craft Scheduler Thread - 844/INFO]: [AuthMe] The user mx90498793 has 2 accounts:
+[10:56:25] [Craft Scheduler Thread - 844/INFO]: [AuthMe] §7spycat005, §amx90498793§7.
+[10:56:25] [Craft Scheduler Thread - 844/INFO]: [AuthMe] mx90498793 logged in!
+[10:56:28] [Server thread/INFO]: mx90498793 issued server command: /fly
+[10:56:49] [Server thread/INFO]: basic_balion issued server command: /home
+[10:56:49] [Async Chat Thread - #17/INFO]: [world]<mx90498793> ==
+[10:57:04] [Async Chat Thread - #17/INFO]: [world]<YuShiou> ?
+[10:57:05] [Async Chat Thread - #17/INFO]: [world]<mx90498793> 誰拿走我的釣竿
+[10:57:13] [Server thread/INFO]: mx90498793 was blown up by Creeper
+[10:57:41] [Async Chat Thread - #17/INFO]: [world]<YuShiou> 不清楚 我一職都在攻略海底神殿XD
+[10:57:43] [Async Chat Thread - #17/INFO]: [world]<mx90498793> 有人偷走我的釣竿==
+[10:57:54] [Async Chat Thread - #17/INFO]: [world]<mx90498793> 有修補的
+[10:58:37] [Async Chat Thread - #17/INFO]: [world]<mx90498793> 沒事 sor我發現他在漏斗
+[11:00:03] [Async Chat Thread - #18/INFO]: [world]<YuShiou> OK
+[11:00:09] [Server thread/INFO]: YuShiou was slain by Guardian
+[11:00:15] [Async Chat Thread - #18/INFO]: [world]<mx90498793> 不ok瞜
+[11:00:28] [Async Chat Thread - #18/INFO]: [world]<YuShiou> ?
+[11:00:32] [Server thread/INFO]: YuShiou issued server command: /back
+[11:00:38] [Async Chat Thread - #18/INFO]: [world]<mx90498793> 你被殺死了
+[11:00:55] [Async Chat Thread - #18/INFO]: [world]<YuShiou> 無訪 有防噴裝 XD
+[11:02:06] [Server thread/INFO]: YuShiou was killed by Guardian using magic
+[11:02:11] [Server thread/INFO]: YuShiou issued server command: /back
+[11:13:04] [Server thread/INFO]: YuShiou was killed by Guardian using magic
+[11:13:10] [Server thread/INFO]: YuShiou issued server command: /back
+[11:15:57] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[11:15:57] [Server thread/INFO]: appa1423 left the game
+[11:23:26] [Server thread/INFO]: basic_balion issued server command: /home
