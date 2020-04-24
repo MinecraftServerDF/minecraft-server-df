@@ -1143,6 +1143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 14:03:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-11 15:47:41 +0800"
@@ -1624,6 +1630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 14:03:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2020-04-11 17:58:13 +0800"
@@ -1843,6 +1855,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-11 18:04:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-24 14:03:32 +0800"
     },
     "done": true
   },
@@ -2142,6 +2160,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/jellie.png": "2020-04-18 20:39:32 +0800",
+      "textures/entity/cat/black.png": "2020-04-24 13:57:59 +0800",
       "textures/entity/cat/ragdoll.png": "2020-04-18 20:45:58 +0800",
       "textures/entity/cat/all_black.png": "2020-04-18 15:08:59 +0800",
       "textures/entity/cat/red.png": "2020-04-18 20:37:28 +0800"

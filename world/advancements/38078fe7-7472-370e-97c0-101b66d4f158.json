@@ -3468,6 +3468,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/white.png": "2020-04-24 14:29:21 +0800",
+      "textures/entity/cat/jellie.png": "2020-04-24 14:28:32 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-04-09 00:37:08 +0800"
