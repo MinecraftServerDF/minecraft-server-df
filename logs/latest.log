@@ -889,3 +889,22 @@
 [21:37:08] [User Authenticator #94/INFO]: UUID of player Andy is e89ebd72-61f6-3384-bbba-f8256df5f034
 [21:37:08] [Server thread/INFO]: Andy[/220.135.139.86:49837] logged in with entity id 1790802 at ([world]-328.16392239995383, 69.0, -430.49917395826816)
 [21:37:19] [Craft Scheduler Thread - 1443/INFO]: [AuthMe] Andy logged in!
+[21:43:20] [Server thread/INFO]: Andy issued server command: /home
+[21:44:12] [Server thread/INFO]: Andy issued server command: /back
+[21:52:07] [Server thread/INFO]: Andy issued server command: /home
+[21:55:26] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[21:55:26] [Server thread/INFO]: appa1423 left the game
+[21:58:33] [Server thread/INFO]: Andy issued server command: /home
+[21:58:33] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1790929, l='world', x=-347.44, y=63.00, z=-424.87] died, message: 'Fletcher was slain by Zombie'
+[21:59:30] [Server thread/INFO]: Andy issued server command: /back
+[22:03:19] [Server thread/INFO]: Andy lost connection: Disconnected
+[22:03:19] [Server thread/INFO]: Andy left the game
+[22:18:57] [User Authenticator #95/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
+[22:18:57] [Server thread/INFO]: Selina[/110.50.182.235:42576] logged in with entity id 1805610 at ([world]371.299999974668, 64.0000002, 786.299999974668)
+[22:19:09] [Craft Scheduler Thread - 1457/INFO]: [AuthMe] Selina logged in!
+[22:24:13] [Server thread/INFO]: Selina issued server command: /list
+[22:26:21] [Server thread/INFO]: Selina issued server command: /back
+[22:30:16] [Server thread/INFO]: LRIC_MOON was shot by Skeleton
+[22:30:29] [Server thread/INFO]: LRIC_MOON issued server command: /back
+[22:30:47] [Server thread/INFO]: LRIC_MOON was shot by Skeleton
+[22:30:55] [Server thread/INFO]: LRIC_MOON issued server command: /back
