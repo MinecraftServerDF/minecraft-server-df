@@ -1,9 +1,9 @@
 lastAccountName: Keisari1313
 timestamps:
-  login: 1587707072817
-  logout: 1587709125166
+  login: 1587807133442
+  logout: 1587807233878
   lastteleport: 1587212932786
-ipAddress: 111.248.202.84
+ipAddress: 111.248.203.169
 lastlocation:
   world: world
   x: -192.86203598883074
@@ -13,11 +13,11 @@ lastlocation:
   pitch: -8.849345
 logoutlocation:
   world: world
-  x: -220.40286085801145
-  y: 104.0
-  z: -1074.8659040461625
-  yaw: 216.21191
-  pitch: 11.700815
+  x: -215.88962402178757
+  y: 105.5
+  z: -1069.2757045443072
+  yaw: -175.88713
+  pitch: 7.6499524
 homes:
   home:
     world: world
