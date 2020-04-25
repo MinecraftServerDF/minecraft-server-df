@@ -161,6 +161,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-25 00:59:17 +0800",
+      "diamond_helmet": "2020-04-25 00:59:17 +0800",
+      "diamond_chestplate": "2020-04-25 00:59:17 +0800",
+      "diamond_boots": "2020-04-25 00:59:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-06 23:03:05 +0800"
@@ -1265,6 +1274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-04-25 00:51:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2020-04-08 21:48:50 +0800"
@@ -2262,6 +2277,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-04-05 01:23:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-04-25 00:51:18 +0800"
     },
     "done": true
   },
