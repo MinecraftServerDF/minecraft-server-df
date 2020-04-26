@@ -1714,6 +1714,7 @@
       "cooked_porkchop": "2020-04-26 13:19:54 +0800",
       "cooked_mutton": "2020-04-25 21:37:35 +0800",
       "apple": "2020-04-26 12:04:07 +0800",
+      "potato": "2020-04-26 23:27:54 +0800",
       "cooked_cod": "2020-04-25 12:13:53 +0800",
       "bread": "2020-04-25 14:28:19 +0800",
       "melon_slice": "2020-04-26 11:24:25 +0800",
@@ -2294,6 +2295,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2020-04-25 14:28:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-26 23:34:06 +0800"
     },
     "done": true
   },
