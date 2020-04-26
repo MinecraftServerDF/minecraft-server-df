@@ -680,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-04-27 00:40:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2020-04-06 23:32:48 +0800"
