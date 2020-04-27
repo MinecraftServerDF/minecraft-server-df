@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-04-28 00:29:06 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:32:17 +0800"
@@ -708,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2020-04-28 00:16:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-05 14:54:37 +0800"
@@ -773,6 +785,7 @@
       "minecraft:witch": "2020-04-07 21:04:35 +0800",
       "minecraft:wither_skeleton": "2020-04-18 18:50:18 +0800",
       "minecraft:husk": "2020-04-18 20:41:00 +0800",
+      "minecraft:shulker": "2020-04-28 00:21:20 +0800",
       "minecraft:cave_spider": "2020-04-07 21:15:29 +0800",
       "minecraft:enderman": "2020-04-08 23:47:16 +0800",
       "minecraft:silverfish": "2020-04-16 20:15:55 +0800",
@@ -1079,6 +1092,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-04-18 18:53:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-04-28 00:13:46 +0800"
     },
     "done": true
   },
@@ -1737,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-04-28 00:17:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-04-07 00:56:27 +0800"
@@ -2293,6 +2318,7 @@
     "criteria": {
       "cooked_porkchop": "2020-04-05 16:48:13 +0800",
       "cooked_beef": "2020-04-05 15:04:07 +0800",
+      "chorus_fruit": "2020-04-28 00:29:09 +0800",
       "beef": "2020-04-05 15:02:50 +0800",
       "baked_potato": "2020-04-08 22:43:10 +0800",
       "apple": "2020-04-05 17:10:01 +0800",
@@ -3371,6 +3397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-04-28 00:21:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2020-04-18 18:35:01 +0800"
@@ -3419,6 +3451,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-04-28 00:20:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-04-18 18:53:21 +0800"
@@ -3440,6 +3478,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-05 15:02:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-04-28 00:18:32 +0800"
     },
     "done": true
   },
@@ -3650,6 +3694,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-05 20:23:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-04-28 00:13:46 +0800"
     },
     "done": true
   },
