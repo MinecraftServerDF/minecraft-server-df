@@ -56,3 +56,21 @@
 [12:55:53] [Server thread/INFO]: basic_balion issued server command: /fly
 [13:20:22] [Server thread/INFO]: basic_balion issued server command: /home
 [13:20:29] [Server thread/INFO]: basic_balion issued server command: /home
+[13:40:37] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[13:40:37] [Server thread/INFO]: basic_balion left the game
+[13:43:22] [User Authenticator #142/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
+[13:43:22] [Server thread/INFO]: Caber588[/219.70.214.164:49984] logged in with entity id 2534142 at ([world]-221.62348637601463, 105.0, -1088.9887801397765)
+[13:43:27] [Craft Scheduler Thread - 2113/INFO]: [AuthMe] Caber588 logged in!
+[13:43:29] [Server thread/INFO]: Caber588 issued server command: /fly
+[13:44:09] [Server thread/INFO]: Caber588 issued server command: /spawn
+[13:47:53] [Server thread/INFO]: Caber588 issued server command: /home
+[13:48:05] [Server thread/INFO]: Caber588 issued server command: /back
+[13:50:54] [Server thread/INFO]: Caber588 issued server command: /home
+[13:51:19] [Server thread/INFO]: Caber588 issued server command: /back
+[13:56:03] [Server thread/INFO]: Caber588 issued server command: /home
+[13:56:07] [Server thread/INFO]: Caber588 issued server command: /home
+[13:56:12] [Server thread/INFO]: Caber588 issued server command: /home
+[13:56:26] [Server thread/INFO]: Caber588 issued server command: /back
+[13:58:54] [Server thread/INFO]: Caber588 issued server command: /home
+[13:59:08] [Server thread/INFO]: Caber588 issued server command: /back
+[14:01:53] [Server thread/INFO]: Caber588 issued server command: /home
