@@ -224,9 +224,27 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-04-28 00:39:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-20 00:47:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 01:17:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2020-04-28 01:18:36 +0800"
     },
     "done": true
   },
@@ -335,6 +353,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-04-15 00:48:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-04-28 01:18:17 +0800"
     },
     "done": true
   },
@@ -519,6 +543,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2020-04-14 00:45:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-04-28 01:18:17 +0800"
     },
     "done": true
   },
@@ -888,6 +918,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-04-28 01:18:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-04-28 01:18:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-04-13 23:12:11 +0800"
@@ -986,6 +1028,7 @@
       "minecraft:witch": "2020-04-16 23:05:37 +0800",
       "minecraft:wither_skeleton": "2020-04-17 00:03:37 +0800",
       "minecraft:husk": "2020-04-20 00:48:19 +0800",
+      "minecraft:shulker": "2020-04-28 00:40:03 +0800",
       "minecraft:cave_spider": "2020-04-14 21:11:46 +0800",
       "minecraft:silverfish": "2020-04-15 01:38:26 +0800",
       "minecraft:enderman": "2020-04-20 01:44:41 +0800",
@@ -1325,6 +1368,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 01:17:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 01:17:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-04-17 00:03:06 +0800"
@@ -1448,6 +1503,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-13 01:14:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-04-28 01:18:17 +0800"
     },
     "done": true
   },
@@ -1613,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-04-28 00:40:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2020-04-18 20:27:57 +0800"
@@ -1712,6 +1779,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-13 01:17:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-04-28 00:39:11 +0800"
     },
     "done": true
   },
@@ -1894,6 +1967,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-28 00:39:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-04-13 01:00:45 +0800"
@@ -2020,6 +2099,18 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-04-28 00:50:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 01:17:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-13 01:09:34 +0800"
@@ -2050,6 +2141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-04-28 01:18:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2020-04-13 23:10:16 +0800"
@@ -2071,6 +2168,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-04-28 00:13:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 01:17:46 +0800"
     },
     "done": true
   },
