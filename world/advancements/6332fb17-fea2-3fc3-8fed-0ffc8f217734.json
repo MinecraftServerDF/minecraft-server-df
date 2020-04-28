@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-04-28 22:34:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 19:22:15 +0800"
@@ -404,6 +410,12 @@
   "minecraft:husbandry/break_diamond_hoe": {
     "criteria": {
       "broke_hoe": "2020-04-20 15:01:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2020-04-28 22:06:24 +0800"
     },
     "done": true
   },
@@ -882,6 +894,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2020-04-10 00:12:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-04-28 22:06:24 +0800"
     },
     "done": true
   },
@@ -1665,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-04-28 22:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-04-10 22:31:03 +0800"
@@ -2143,6 +2167,7 @@
     "criteria": {
       "cooked_porkchop": "2020-04-15 01:24:58 +0800",
       "cooked_beef": "2020-04-09 18:46:09 +0800",
+      "chorus_fruit": "2020-04-28 22:35:07 +0800",
       "baked_potato": "2020-04-09 17:35:16 +0800",
       "apple": "2020-04-09 17:18:34 +0800",
       "potato": "2020-04-15 22:34:40 +0800",
