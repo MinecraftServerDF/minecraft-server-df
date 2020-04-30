@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-30 23:33:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2020-04-12 16:01:28 +0800"
@@ -731,6 +737,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-06 23:03:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-04-30 23:33:19 +0800"
     },
     "done": true
   },
@@ -2966,6 +2978,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-04-06 21:58:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-04-30 23:33:19 +0800"
     },
     "done": true
   },
