@@ -344,6 +344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-05-01 00:36:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-06 21:58:46 +0800"
@@ -658,6 +664,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-04-30 23:59:47 +0800",
       "minecraft:skeleton": "2020-04-05 00:54:58 +0800",
       "minecraft:zombie_pigman": "2020-04-17 00:37:21 +0800",
       "minecraft:ghast": "2020-04-12 15:49:22 +0800",
@@ -665,6 +672,7 @@
       "minecraft:spider": "2020-04-05 23:27:14 +0800",
       "minecraft:creeper": "2020-04-06 23:44:32 +0800",
       "minecraft:phantom": "2020-04-06 22:01:08 +0800",
+      "minecraft:wither_skeleton": "2020-04-30 23:59:14 +0800",
       "minecraft:husk": "2020-04-06 00:25:34 +0800",
       "minecraft:cave_spider": "2020-04-12 13:54:01 +0800",
       "minecraft:enderman": "2020-04-07 22:54:01 +0800",
@@ -905,6 +913,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_green_dye": "2020-04-05 01:27:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-30 23:59:52 +0800"
     },
     "done": true
   },
@@ -2100,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-05-01 00:36:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-05 01:23:37 +0800"
@@ -2484,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-04-30 23:56:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2020-04-08 22:45:20 +0800"
@@ -2706,6 +2732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-30 23:59:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-16 00:01:03 +0800"
@@ -2745,6 +2777,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2020-04-12 14:59:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-30 23:59:52 +0800"
     },
     "done": true
   },
