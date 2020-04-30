@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-04-30 11:56:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-04-09 17:10:59 +0800"
@@ -739,6 +745,7 @@
       "minecraft:zombie_pigman": "2020-04-12 21:58:38 +0800",
       "minecraft:ravager": "2020-04-18 19:12:48 +0800",
       "minecraft:ghast": "2020-04-17 12:36:34 +0800",
+      "minecraft:guardian": "2020-04-30 11:46:55 +0800",
       "minecraft:vindicator": "2020-04-18 19:03:29 +0800",
       "minecraft:magma_cube": "2020-04-17 12:39:26 +0800",
       "minecraft:spider": "2020-04-10 12:53:24 +0800",
@@ -1941,6 +1948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2020-04-30 11:56:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-04-09 21:13:59 +0800"
@@ -2786,6 +2799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2020-04-30 11:56:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-09 22:39:50 +0800"
@@ -3479,6 +3498,12 @@
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2020-04-18 20:22:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2020-04-30 11:56:42 +0800"
     },
     "done": true
   },
