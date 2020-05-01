@@ -2,15 +2,15 @@ lastAccountName: SpyCat005
 timestamps:
   login: 1588346640536
   logout: 1587881163829
-  lastteleport: 1588366540993
+  lastteleport: 1588371506844
 ipAddress: 115.165.227.248
 lastlocation:
   world: world
-  x: 932.1078798281594
-  y: 65.0
-  z: 657.4824718646976
-  yaw: 290.7537
-  pitch: 31.800102
+  x: 588.3000000119209
+  y: 55.875
+  z: 826.3691426301756
+  yaw: 40.052673
+  pitch: 23.849926
 logoutlocation:
   world: world
   x: 128.7013414902182
@@ -18,7 +18,7 @@ logoutlocation:
   z: 1560.7582145794124
   yaw: -31.343122
   pitch: 62.09962
-afk: true
+afk: false
 homes:
   home:
     world: world
