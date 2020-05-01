@@ -5,3 +5,14 @@
 [00:09:08] [Craft Scheduler Thread - 35/INFO]: [AuthMe] Selina logged in!
 [00:09:50] [Server thread/INFO]: Selina lost connection: Timed out
 [00:09:50] [Server thread/INFO]: Selina left the game
+[00:53:26] [User Authenticator #4/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[00:53:26] [Server thread/INFO]: YuShiou[/1.34.17.118:1951] logged in with entity id 17042 at ([world]514.1633381914769, 88.0, 824.7128943144827)
+[00:53:32] [Craft Scheduler Thread - 47/INFO]: [AuthMe] YuShiou logged in!
+[00:56:03] [Server thread/INFO]: YuShiou issued server command: /fly
+[01:06:35] [User Authenticator #5/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[01:06:35] [Server thread/INFO]: biteyou74[/27.247.44.109:17326] logged in with entity id 21813 at ([world]-227.341256078823, 104.5, -1064.8513457946342)
+[01:06:44] [Craft Scheduler Thread - 52/INFO]: [AuthMe] biteyou74 logged in!
+[01:08:17] [Server thread/WARN]: biteyou74 moved too quickly! -3.149449449513668,-1.130906499714527,9.882662023061357
+[01:10:36] [Server thread/INFO]: YuShiou lost connection: Disconnected
+[01:10:36] [Server thread/INFO]: YuShiou left the game
+[01:10:56] [Server thread/INFO]: biteyou74 issued server command: /fly
