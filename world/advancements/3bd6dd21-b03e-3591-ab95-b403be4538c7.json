@@ -795,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-03 00:47:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-14 19:48:14 +0800"
@@ -1245,6 +1251,7 @@
       "minecraft:mountains": "2020-04-17 15:52:46 +0800",
       "minecraft:taiga": "2020-04-07 19:58:33 +0800",
       "minecraft:desert_hills": "2020-04-07 19:12:03 +0800",
+      "minecraft:taiga_hills": "2020-05-02 15:14:51 +0800",
       "minecraft:desert": "2020-04-07 19:12:14 +0800",
       "minecraft:badlands": "2020-04-07 19:36:08 +0800",
       "minecraft:beach": "2020-04-07 19:08:16 +0800",
@@ -1331,6 +1338,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 19:33:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-05-03 00:46:58 +0800"
     },
     "done": true
   },
@@ -2403,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-05-03 00:46:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-08 19:39:19 +0800"
@@ -2598,6 +2617,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-14 19:48:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-03 00:47:43 +0800"
     },
     "done": true
   },

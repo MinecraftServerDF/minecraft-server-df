@@ -197,6 +197,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-05-03 00:56:47 +0800",
+      "diamond_helmet": "2020-05-03 00:56:47 +0800",
+      "diamond_chestplate": "2020-05-03 00:56:47 +0800",
+      "diamond_boots": "2020-05-03 00:56:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-18 04:20:18 +0800"
@@ -1084,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-05-03 00:43:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:41:14 +0800"
@@ -1867,6 +1882,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-05-03 00:41:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-04-25 12:43:18 +0800"
@@ -2184,6 +2205,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-05 15:41:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-05-03 00:58:16 +0800"
     },
     "done": true
   },
