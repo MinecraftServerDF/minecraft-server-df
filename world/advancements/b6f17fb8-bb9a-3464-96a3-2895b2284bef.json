@@ -456,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2020-05-02 13:59:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2020-04-11 15:39:43 +0800",
@@ -1017,6 +1023,7 @@
       "minecraft:spider": "2020-04-18 15:06:47 +0800",
       "minecraft:creeper": "2020-04-12 14:31:59 +0800",
       "minecraft:evoker": "2020-04-18 19:13:02 +0800",
+      "minecraft:slime": "2020-05-02 14:13:36 +0800",
       "minecraft:phantom": "2020-04-12 15:53:51 +0800",
       "minecraft:zombie": "2020-04-11 17:31:36 +0800",
       "minecraft:drowned": "2020-04-11 20:06:45 +0800"
@@ -1230,6 +1237,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-04-11 18:16:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-02 14:03:08 +0800"
     },
     "done": true
   },
@@ -1573,6 +1586,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-04-11 15:37:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-05-02 14:03:08 +0800"
     },
     "done": true
   },
@@ -2010,6 +2029,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-04-18 16:29:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-05-02 13:59:32 +0800"
     },
     "done": true
   },
