@@ -267,3 +267,25 @@
 [16:29:07] [Async Chat Thread - #28/INFO]: [world]<SpyCat005> ÙT°Õ
 [16:29:20] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
 [16:29:20] [Server thread/INFO]: SpyCat005 left the game
+[16:31:22] [User Authenticator #55/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[16:31:22] [Server thread/INFO]: Keisari1313[/111.248.201.238:58063] logged in with entity id 804998 at ([world]-143.6604508280956, 41.0, -973.7762640595367)
+[16:31:37] [Craft Scheduler Thread - 709/INFO]: [AuthMe] Keisari1313 logged in!
+[16:31:41] [Server thread/INFO]: Keisari1313 fell from a high place
+[16:31:49] [Server thread/INFO]: Keisari1313 issued server command: /fly
+[16:33:09] [User Authenticator #56/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[16:33:09] [Server thread/INFO]: biteyou74[/120.102.191.141:1980] logged in with entity id 806372 at ([world]-219.13079833596768, 104.0, -1070.979551582099)
+[16:33:16] [Craft Scheduler Thread - 712/INFO]: [AuthMe] biteyou74 logged in!
+[16:34:25] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[16:34:25] [Server thread/INFO]: biteyou74 left the game
+[16:47:40] [Server thread/INFO]: FredYea issued server command: /home
+[16:49:14] [User Authenticator #57/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
+[16:49:14] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:50316] logged in with entity id 811157 at ([world]1392.2697030092352, 66.0, -759.3431706423327)
+[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
+[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] ¡±7lric, ¡±aLRIC_MOON¡±7.
+[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] LRIC_MOON logged in!
+[16:51:25] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
+[16:51:25] [Server thread/INFO]: Keisari1313 left the game
+[16:52:13] [Server thread/INFO]: LRIC_MOON issued server command: /fly
+[17:08:07] [Server thread/INFO]: FredYea was impaled by Drowned
+[17:09:46] [Server thread/INFO]: Villager EntityVillager['Nitwit'/811245, l='world', x=1334.49, y=62.51, z=-722.04] died, message: 'Nitwit was slain by Zombie'
+[17:24:22] [Server thread/INFO]: FredYea issued server command: /BACK
