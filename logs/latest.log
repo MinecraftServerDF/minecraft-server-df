@@ -294,3 +294,17 @@
 [17:33:06] [Server thread/INFO]: FredYea has made the advancement [We Need to Go Deeper]
 [18:06:16] [Server thread/INFO]: FredYea lost connection: Disconnected
 [18:06:16] [Server thread/INFO]: FredYea left the game
+[19:25:06] [User Authenticator #58/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
+[19:25:06] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:51469] logged in with entity id 830879 at ([world]1320.9972566310942, 65.0, -726.5072769045884)
+[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
+[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] ¡±7lric, ¡±aLRIC_MOON¡±7.
+[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] LRIC_MOON logged in!
+[19:27:01] [Server thread/INFO]: Villager EntityVillager['Cartographer'/830881, l='world', x=1310.97, y=67.00, z=-762.41] died, message: 'Cartographer was slain by Zombie'
+[19:43:42] [Server thread/INFO]: LRIC_MOON was slain by Zombie
+[19:46:13] [User Authenticator #59/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[19:46:13] [Server thread/INFO]: Hibiki182[/119.77.247.72:7317] logged in with entity id 834738 at ([world]456.69999998807907, 11.0, -1053.5199348059525)
+[19:46:24] [Craft Scheduler Thread - 763/INFO]: [AuthMe] Hibiki182 logged in!
+[19:46:39] [Server thread/INFO]: Hibiki182 issued server command: /fly
+[19:56:59] [Server thread/INFO]: Villager EntityVillager['Farmer'/834303, l='world', x=1328.15, y=63.00, z=-733.57] died, message: 'Farmer was slain by Zombie'
+[20:09:03] [Server thread/INFO]: LRIC_MOON was blown up by Creeper
+[20:10:02] [Server thread/INFO]: LRIC_MOON issued server command: /fly
