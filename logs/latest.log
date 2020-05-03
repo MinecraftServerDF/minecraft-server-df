@@ -235,3 +235,21 @@
 [11:16:11] [Server thread/INFO]: SpyCat005 issued server command: /back
 [11:16:27] [Server thread/INFO]: SpyCat005 issued server command: /spawn
 [11:21:45] [Server thread/INFO]: Villager EntityVillager['Villager'/758637, l='world', x=602.22, y=52.00, z=709.37] died, message: 'Villager was slain by Zombie'
+[14:23:59] [User Authenticator #51/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[14:23:59] [Server thread/INFO]: Keisari1313[/111.248.201.238:53657] logged in with entity id 776087 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
+[14:24:12] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
+[14:24:12] [Server thread/INFO]: Keisari1313 left the game
+[14:24:19] [User Authenticator #52/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[14:24:20] [Server thread/INFO]: Keisari1313[/111.248.201.238:53682] logged in with entity id 776748 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
+[14:24:43] [Craft Scheduler Thread - 673/INFO]: [AuthMe] Keisari1313 used the wrong password
+[14:24:43] [Server thread/INFO]: Keisari1313 lost connection: ¡±b¡iAuthMe¡j¡±6±K½X¿ù»~!
+[14:24:43] [Server thread/INFO]: Keisari1313 left the game
+[14:24:49] [User Authenticator #53/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
+[14:24:49] [Server thread/INFO]: Keisari1313[/111.248.201.238:53696] logged in with entity id 777438 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
+[14:25:04] [Craft Scheduler Thread - 674/INFO]: [AuthMe] Keisari1313 logged in!
+[14:25:19] [Server thread/INFO]: Keisari1313 issued server command: /fly
+[14:25:55] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
+[14:25:55] [Server thread/INFO]: Keisari1313 left the game
+[14:31:15] [Server thread/INFO]: SpyCat005 issued server command: /back
+[14:32:10] [Server thread/INFO]: SpyCat005 drowned
+[14:42:11] [Server thread/INFO]: SpyCat005 issued server command: /home
