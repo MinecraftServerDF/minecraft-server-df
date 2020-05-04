@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-05-03 21:43:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2020-04-28 00:29:12 +0800"
@@ -512,6 +518,12 @@
   "minecraft:recipes/decorations/prismarine_wall": {
     "criteria": {
       "has_prismarine": "2020-04-25 09:42:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-05-03 23:03:16 +0800"
     },
     "done": true
   },
@@ -672,9 +684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-05-03 21:43:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-09 00:23:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-05-03 23:36:46 +0800"
     },
     "done": true
   },
@@ -801,13 +825,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-04-16 08:48:07 +0800",
+      "minecraft:pillager": "2020-05-03 23:13:25 +0800",
       "minecraft:skeleton": "2020-04-08 22:55:45 +0800",
       "minecraft:zombie_pigman": "2020-04-10 11:23:58 +0800",
+      "minecraft:ravager": "2020-05-03 23:20:24 +0800",
       "minecraft:ghast": "2020-04-09 14:01:31 +0800",
+      "minecraft:vindicator": "2020-05-03 23:16:24 +0800",
       "minecraft:magma_cube": "2020-04-09 13:56:43 +0800",
       "minecraft:spider": "2020-04-08 22:54:28 +0800",
       "minecraft:creeper": "2020-04-09 15:18:17 +0800",
       "minecraft:slime": "2020-04-11 19:49:00 +0800",
+      "minecraft:evoker": "2020-05-03 23:25:07 +0800",
       "minecraft:phantom": "2020-04-09 00:38:03 +0800",
       "minecraft:witch": "2020-04-23 13:34:40 +0800",
       "minecraft:wither_skeleton": "2020-04-16 08:48:01 +0800",
@@ -947,6 +975,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2020-04-25 09:42:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-05-03 23:13:27 +0800"
     },
     "done": true
   },
@@ -1454,6 +1488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-05-03 23:03:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-15 21:17:48 +0800"
@@ -1529,6 +1569,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-04-09 11:13:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2020-05-03 23:03:16 +0800"
     },
     "done": true
   },
@@ -2200,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-05-03 23:32:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-08 23:44:05 +0800"
@@ -2551,6 +2603,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2020-04-10 12:12:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2020-05-03 23:03:16 +0800"
     },
     "done": true
   },
@@ -2979,6 +3037,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2020-04-23 13:57:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-05-03 23:23:07 +0800"
     },
     "done": true
   },
@@ -3588,6 +3652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-05-03 21:43:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-04-08 23:19:56 +0800"
@@ -3651,6 +3721,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-16 08:48:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-05-03 23:20:13 +0800"
     },
     "done": true
   },

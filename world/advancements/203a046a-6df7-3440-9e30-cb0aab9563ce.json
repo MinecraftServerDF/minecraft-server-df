@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-05-04 10:52:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-04-26 20:40:00 +0800"
@@ -421,6 +427,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2020-05-03 23:18:49 +0800",
       "sweet_berries": "2020-04-09 00:41:27 +0800",
       "baked_potato": "2020-04-09 00:15:54 +0800",
       "apple": "2020-04-08 23:55:49 +0800",
@@ -1199,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-05-04 10:48:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-04-08 02:26:36 +0800"
@@ -1226,6 +1239,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2020-04-26 20:40:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-05-04 10:48:12 +0800"
     },
     "done": true
   },
@@ -1646,6 +1665,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-04-08 02:26:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-05-04 10:48:12 +0800"
     },
     "done": true
   },
@@ -2084,6 +2109,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-04-08 02:18:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-05-04 10:52:52 +0800"
     },
     "done": true
   },

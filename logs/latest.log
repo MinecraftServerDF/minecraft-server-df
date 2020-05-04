@@ -1,310 +1,86 @@
-[00:04:12] [User Authenticator #40/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
-[00:04:12] [Server thread/INFO]: Selina[/209.58.188.43:2851] logged in with entity id 665736 at ([world]371.299999974668, 64.0000002, 786.299999974668)
-[00:04:18] [Craft Scheduler Thread - 463/INFO]: [AuthMe] Selina logged in!
-[00:05:02] [Server thread/INFO]: Selina lost connection: Timed out
-[00:05:02] [Server thread/INFO]: Selina left the game
-[00:05:09] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:05:39] [User Authenticator #41/INFO]: UUID of player Selina is 3d924443-11d4-347b-999b-ebee908bfaae
-[00:05:39] [Server thread/INFO]: Selina[/209.58.188.43:2855] logged in with entity id 667881 at ([world]371.299999974668, 64.0000002, 786.299999974668)
-[00:05:46] [Craft Scheduler Thread - 462/INFO]: [AuthMe] Selina logged in!
-[00:06:29] [Server thread/INFO]: Selina lost connection: Timed out
-[00:06:29] [Server thread/INFO]: Selina left the game
-[00:16:51] [Server thread/INFO]: JerryU29 issued server command: /home
-[00:17:45] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:20:25] [User Authenticator #42/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[00:20:25] [Server thread/INFO]: biteyou74[/120.102.191.141:10611] logged in with entity id 672668 at ([world]-126.93147802004174, 41.0, -988.382246628666)
-[00:20:31] [Craft Scheduler Thread - 471/INFO]: [AuthMe] biteyou74 logged in!
-[00:20:39] [Server thread/INFO]: biteyou74 issued server command: /fly
-[00:22:24] [Server thread/INFO]: biteyou74 issued server command: /tpa JerryU29
-[00:22:52] [Server thread/INFO]: JerryU29 issued server command: /tpaccept
-[00:23:16] [Async Chat Thread - #6/INFO]: [world]<biteyou74> 你怎麼不飛
-[00:23:42] [Server thread/INFO]: JerryU29 lost connection: Timed out
-[00:23:42] [Server thread/INFO]: JerryU29 left the game
-[00:24:02] [User Authenticator #43/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:24:03] [Server thread/INFO]: JerryU29[/49.159.80.132:49425] logged in with entity id 675497 at ([world]-3138.5432364145513, 64.0, -1256.1541720434639)
-[00:24:22] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[00:24:22] [Server thread/INFO]: JerryU29 left the game
-[00:24:25] [User Authenticator #44/INFO]: UUID of player JerryU29 is 7ec68e60-b88a-37f7-92b4-d946b7bfba3b
-[00:24:25] [Server thread/INFO]: JerryU29[/49.159.80.132:49427] logged in with entity id 675529 at ([world]-3138.5432364145513, 64.0, -1256.1541720434639)
-[00:24:32] [Craft Scheduler Thread - 472/INFO]: [AuthMe] JerryU29 logged in!
-[00:24:35] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 兩支給你運
-[00:24:56] [Server thread/INFO]: JerryU29 issued server command: /fly
-[00:31:05] [User Authenticator #45/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
-[00:31:05] [Server thread/INFO]: FredYea[/124.6.23.53:60488] logged in with entity id 684653 at ([world]261.299999974668, 63.0000002, 1472.299999974668)
-[00:31:16] [Craft Scheduler Thread - 478/INFO]: [AuthMe] FredYea logged in!
-[00:31:27] [Server thread/INFO]: FredYea issued server command: /back
-[00:31:49] [Server thread/INFO]: JerryU29 issued server command: /home
-[00:32:26] [User Authenticator #46/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[00:32:27] [Server thread/INFO]: SpyCat005[/115.165.227.248:9815] logged in with entity id 688120 at ([world]580.6306666186189, 68.5, 839.5069383585546)
-[00:32:37] [Craft Scheduler Thread - 479/INFO]: [AuthMe] The user SpyCat005 has 2 accounts:
-[00:32:37] [Craft Scheduler Thread - 479/INFO]: [AuthMe] §7§aSpyCat005§7, mx90498793.
-[00:32:37] [Craft Scheduler Thread - 479/INFO]: [AuthMe] SpyCat005 logged in!
-[00:32:41] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:32:56] [Server thread/INFO]: FredYea issued server command: /home
-[00:33:02] [Server thread/INFO]: SpyCat005 issued server command: /fly
-[00:33:10] [Server thread/INFO]: FredYea issued server command: /back
-[00:41:25] [Server thread/INFO]: SpyCat005 has made the advancement [Withering Heights]
-[00:41:41] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[00:41:41] [Server thread/INFO]: biteyou74 left the game
-[00:42:08] [Server thread/INFO]: SpyCat005 withered away
-[00:43:12] [Server thread/INFO]: SpyCat005 withered away
-[00:43:17] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:43:28] [Server thread/INFO]: SpyCat005 was blown up by Wither
-[00:43:32] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:43:43] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:43:55] [Server thread/INFO]: SpyCat005 withered away whilst fighting Wither
-[00:43:58] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:44:03] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:44:16] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:44:20] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:44:34] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:44:38] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:44:48] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:45:05] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:45:23] [Server thread/INFO]: SpyCat005 withered away whilst fighting Wither
-[00:46:00] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:46:15] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:48:23] [Server thread/INFO]: SpyCat005 withered away whilst fighting Wither
-[00:49:01] [Server thread/WARN]: JerryU29 moved too quickly! -2.2926988786694835,-6.369332508616765,-14.395887466556815
-[00:49:12] [Server thread/INFO]: SpyCat005 withered away
-[00:49:16] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:49:41] [Server thread/INFO]: SpyCat005 withered away
-[00:50:50] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:52:17] [Async Chat Thread - #8/INFO]: [world]<SpyCat005> = =啊啊啊啊
-[00:52:28] [Async Chat Thread - #8/INFO]: [world]<FredYea> 0.0
-[00:52:33] [User Authenticator #47/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[00:52:33] [Server thread/INFO]: biteyou74[/27.247.44.109:20928] logged in with entity id 706227 at ([world]-123.69999998807907, 13.0, -974.5664493616829)
-[00:52:36] [Async Chat Thread - #8/INFO]: [world]<FredYea> 需要幫忙嗎0.0
-[00:52:40] [Async Chat Thread - #8/INFO]: [world]<SpyCat005> 要
-[00:52:45] [Craft Scheduler Thread - 487/INFO]: [AuthMe] biteyou74 logged in!
-[00:52:56] [Server thread/INFO]: biteyou74 issued server command: /fly
-[00:53:13] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:53:20] [Server thread/INFO]: FredYea issued server command: /home
-[00:54:03] [Server thread/INFO]: biteyou74 issued server command: /tpa SpyCat005
-[00:54:07] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:54:09] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
-[00:54:14] [Server thread/INFO]: SpyCat005 withered away
-[00:54:17] [Server thread/INFO]: JerryU29 issued server command: /tpa
-[00:54:21] [Server thread/INFO]: JerryU29 issued server command: /tpask
-[00:54:28] [Server thread/INFO]: JerryU29 issued server command: /tpahere
-[00:54:31] [Server thread/INFO]: biteyou74 was pummeled by Wither
-[00:54:39] [Async Chat Thread - #9/INFO]: [world]<biteyou74> 阿 忘了吃藥
-[00:54:47] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:54:54] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:55:02] [Server thread/WARN]: SpyCat005 moved wrongly!
-[00:55:05] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:55:29] [Server thread/INFO]: biteyou74 issued server command: /tpa SpyCat005
-[00:55:33] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
-[00:55:49] [Server thread/INFO]: JerryU29 issued server command: /tpa biteyou74
-[00:55:59] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
-[00:56:07] [Server thread/INFO]: JerryU29 issued server command: /tpa biteyou74
-[00:56:08] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:56:10] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
-[00:56:21] [Server thread/INFO]: biteyou74 was pummeled by Wither
-[00:56:41] [Server thread/INFO]: JerryU29 withered away whilst fighting Wither
-[00:56:47] [Server thread/INFO]: SpyCat005 has made the advancement [Cover Me With Diamonds]
-[00:56:58] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:57:19] [Server thread/INFO]: SpyCat005 withered away whilst fighting Wither
-[00:57:23] [Async Chat Thread - #10/INFO]: [world]<biteyou74> 看來 好像有點痛
-[00:57:24] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:57:28] [Server thread/INFO]: JerryU29 was pummeled by Wither
-[00:57:35] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:57:44] [Async Chat Thread - #10/INFO]: [world]<FredYea> 我超遠的 要等我一下了= =
-[00:57:48] [Server thread/INFO]: SpyCat005 was pummeled by Wither
-[00:57:51] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:58:03] [Server thread/INFO]: biteyou74 issued server command: /tpa JerryU29
-[00:58:03] [Server thread/INFO]: JerryU29 withered away whilst fighting Wither
-[00:58:09] [Server thread/INFO]: JerryU29 issued server command: /back
-[00:58:28] [Async Chat Thread - #10/INFO]: [world]<SpyCat005> @@我的家
-[00:58:28] [Server thread/INFO]: SpyCat005 withered away
-[00:58:35] [Server thread/INFO]: SpyCat005 issued server command: /back
-[00:58:45] [Server thread/INFO]: biteyou74 issued server command: /tpa JerryU29
-[00:58:52] [Server thread/INFO]: biteyou74 issued server command: /tpa JerryU29
-[00:58:57] [Server thread/INFO]: [WEB] JerryU29: 還好沒破壞很大
-[00:59:13] [Async Chat Thread - #10/INFO]: [world]<biteyou74> 打贏了嗎
-[00:59:22] [Server thread/INFO]: [WEB] JerryU29: 打贏了
-[00:59:29] [Async Chat Thread - #10/INFO]: [world]<biteyou74> 水
-[00:59:37] [Async Chat Thread - #10/INFO]: [world]<FredYea> 還行嗎 0.0
-[00:59:41] [User Authenticator #48/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[00:59:41] [Server thread/INFO]: Caber588[/219.70.214.164:58394] logged in with entity id 712194 at ([world]-219.454959964742, 110.0, -1094.471845514119)
-[00:59:46] [Craft Scheduler Thread - 488/INFO]: [AuthMe] Caber588 logged in!
-[00:59:47] [Server thread/INFO]: Caber588 issued server command: /fly
-[01:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[01:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5063ms or 101 ticks behind
-[01:01:54] [Server thread/INFO]: [WEB] JerryU29: 地上的東西我都幫你丟箱子裡
-[01:01:59] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 3Q
-[01:02:13] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 累= =你們當時都怎麼無傷打他的啊
-[01:02:24] [Async Chat Thread - #11/INFO]: [world]<FredYea> 真夠遠的 0.0
-[01:02:38] [Async Chat Thread - #11/INFO]: [world]<biteyou74> 堆屍戰法 跟圍毆
-[01:02:39] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 其實剛剛你tp我就可以了XD
-[01:02:54] [Server thread/INFO]: [WEB] JerryU29: 還有用密道
-[01:03:20] [Async Chat Thread - #11/INFO]: [world]<FredYea> 順便來參觀一下0.0
-[01:03:52] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[01:03:52] [Server thread/INFO]: Caber588 left the game
-[01:03:56] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[01:03:56] [Server thread/INFO]: biteyou74 left the game
-[01:04:19] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 我還有3X多棵叼投
-[01:04:31] [Server thread/INFO]: [WEB] JerryU29: 這麼多@@
-[01:04:40] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 有蓋叼場XD
-[01:05:12] [Async Chat Thread - #11/INFO]: [world]<SpyCat005> 很多 可是打不死一樣白搭= =
-[01:06:56] [Async Chat Thread - #12/INFO]: [world]<FredYea> 好了 先回去挖礦了嘿 0.0
-[01:07:04] [Server thread/INFO]: FredYea issued server command: /home
-[01:07:10] [Async Chat Thread - #12/INFO]: [world]<SpyCat005> 還要再打嗎XD
-[01:10:12] [Async Chat Thread - #13/INFO]: [world]<SpyCat005> 要怎麼才能無傷打死凋零王
-[01:10:31] [Server thread/INFO]: Villager EntityVillager['Butcher'/704273, l='world', x=601.36, y=65.00, z=750.45] died, message: 'Butcher was slain by Zombie'
-[01:10:41] [Server thread/INFO]: [WEB] JerryU29: 挖隧道打吧？
-[01:12:23] [User Authenticator #49/INFO]: UUID of player rgps3725 is df971845-ac43-3db5-814a-b9691b70cd8f
-[01:12:23] [Server thread/INFO]: rgps3725[/118.169.12.243:50562] logged in with entity id 716112 at ([world]-120.63731187294378, 47.0, -971.1317322780092)
-[01:12:28] [Craft Scheduler Thread - 495/INFO]: [AuthMe] rgps3725 logged in!
-[01:12:32] [Server thread/INFO]: rgps3725 issued server command: /fly
-[01:12:34] [Server thread/INFO]: rgps3725 issued server command: /home
-[01:12:34] [Async Chat Thread - #14/INFO]: [world]<SpyCat005> JerryU29
-[01:12:47] [Server thread/INFO]: [WEB] JerryU29: ？
-[01:13:17] [Async Chat Thread - #14/INFO]: [world]<SpyCat005> 要看叼場嗎
-[01:13:26] [Server thread/INFO]: [WEB] JerryU29: 好啊
-[01:14:32] [Server thread/INFO]: SpyCat005 issued server command: /home
-[01:14:55] [Async Chat Thread - #15/INFO]: [world_nether]<SpyCat005> tp我
-[01:15:11] [Server thread/INFO]: JerryU29 issued server command: /tpa SpyCat005
-[01:15:20] [Server thread/INFO]: SpyCat005 issued server command: /tpaccept
-[01:16:09] [Server thread/INFO]: [WEB] JerryU29: 好大哦
-[01:16:32] [Server thread/INFO]: rgps3725 issued server command: /tpa JerryU29
-[01:16:41] [Server thread/INFO]: JerryU29 issued server command: /tpaccept
-[01:17:43] [Async Chat Thread - #16/INFO]: [world_nether]<SpyCat005> 通常要等一下才會有
-[01:17:48] [Server thread/INFO]: rgps3725 issued server command: /home
-[01:17:57] [Server thread/INFO]: rgps3725 lost connection: Disconnected
-[01:17:57] [Server thread/INFO]: rgps3725 left the game
-[01:18:32] [Server thread/INFO]: [WEB] JerryU29: 難怪會有那麼多頭0.0
-[01:19:21] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 好險這座碉堡幾乎一半在熔岩裡面
-[01:20:13] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 這邊 過來
-[01:20:26] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 有4之
-[01:21:13] [Server thread/INFO]: [WEB] JerryU29: 有掉嗎？
-[01:21:23] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 沒 我這把才略2
-[01:22:23] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 這邊式花一個下午蓋的
-[01:22:33] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 又有2枝了
-[01:22:42] [Async Chat Thread - #17/INFO]: [world_nether]<SpyCat005> 6之
-[01:23:20] [Server thread/INFO]: [WEB] JerryU29: 我剛剛花了很多時間把蘑菇牛牽過來
-[01:24:11] [Server thread/INFO]: SpyCat005 issued server command: /back
-[01:24:29] [Async Chat Thread - #18/INFO]: [world]<SpyCat005> 你要投嗎
-[01:25:04] [Server thread/INFO]: SpyCat005 issued server command: /tpa JerryU29
-[01:25:18] [Server thread/INFO]: SpyCat005 issued server command: /tpahere JerryU29
-[01:25:19] [Server thread/INFO]: JerryU29 issued server command: /tpaccept
-[01:25:46] [Server thread/INFO]: [WEB] JerryU29: 一個就好了啦@@
-[01:26:04] [Server thread/INFO]: [WEB] JerryU29: 我可以拿去旗子的圖案
-[01:26:08] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> :D
-[01:26:14] [Async Chat Thread - #19/INFO]: [world]<SpyCat005> ???
-[01:26:41] [Server thread/INFO]: [WEB] JerryU29: 我最近在研究旗子0.0
-[01:27:21] [Async Chat Thread - #20/INFO]: [world]<SpyCat005> 可以研究喔
-[01:28:06] [Server thread/INFO]: [WEB] JerryU29: 我覺得做好看的旗子很難欸
-[01:28:45] [Server thread/INFO]: [WEB] JerryU29: 而且旗子還有疊顏色的麻煩
-[01:28:48] [Async Chat Thread - #21/INFO]: [world]<SpyCat005> 真的XD後來有研究出甚麼嗎
-[01:29:26] [Server thread/INFO]: FredYea issued server command: /home
-[01:29:45] [Server thread/INFO]: [WEB] JerryU29: 結論就是去網路上複製別人的比較好看XD
-[01:31:23] [Async Chat Thread - #22/INFO]: [world]<SpyCat005> 修補家好累喔= =
-[01:32:29] [Server thread/INFO]: [WEB] JerryU29: 幫不了你@@我只能幫你修農田而已
-[01:32:47] [Async Chat Thread - #23/INFO]: [world]<SpyCat005> 沒事 自己造成的
-[01:32:55] [Server thread/INFO]: FredYea issued server command: /back
-[01:33:41] [Server thread/INFO]: [WEB] JerryU29: 不過還好地上破壞的不大
-[01:34:20] [Async Chat Thread - #24/INFO]: [world]<SpyCat005> 忽然忘記釀造台怎麼做了
-[01:34:46] [Server thread/INFO]: [WEB] JerryU29: 烈焰桿跟石半磚
-[01:42:25] [Server thread/INFO]: FredYea issued server command: /home
-[01:44:04] [Server thread/INFO]: FredYea lost connection: Disconnected
-[01:44:04] [Server thread/INFO]: FredYea left the game
-[01:44:58] [Server thread/INFO]: JerryU29 issued server command: /home
-[01:50:38] [Server thread/INFO]: JerryU29 issued server command: /back
-[01:52:18] [Server thread/INFO]: [WEB] FredYea: 太累了 先休息 你們加油 0.0
-[01:52:23] [Async Chat Thread - #25/INFO]: [world]<SpyCat005> OK
-[01:52:39] [Server thread/INFO]: [WEB] JerryU29: 我等等也要去睡了
-[01:52:44] [Async Chat Thread - #25/INFO]: [world]<SpyCat005> 晚安
-[01:53:05] [Server thread/INFO]: [WEB] JerryU29: 晚安
-[01:53:12] [Server thread/INFO]: JerryU29 lost connection: Disconnected
-[01:53:12] [Server thread/INFO]: JerryU29 left the game
-[02:02:59] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
-[02:02:59] [Server thread/INFO]: SpyCat005 left the game
-[08:37:23] [User Authenticator #50/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
-[08:37:24] [Server thread/INFO]: SpyCat005[/115.165.227.248:13958] logged in with entity id 732250 at ([world]585.2767393628433, 65.0, 840.7010425198954)
-[08:37:43] [Craft Scheduler Thread - 598/INFO]: [AuthMe] The user SpyCat005 has 2 accounts:
-[08:37:43] [Craft Scheduler Thread - 598/INFO]: [AuthMe] §7§aSpyCat005§7, mx90498793.
-[08:37:43] [Craft Scheduler Thread - 598/INFO]: [AuthMe] SpyCat005 logged in!
-[08:39:53] [Server thread/INFO]: SpyCat005 issued server command: /fly
-[08:40:58] [Server thread/INFO]: SpyCat005 issued server command: /home
-[08:43:21] [Server thread/INFO]: SpyCat005 issued server command: /back
-[08:43:49] [Server thread/INFO]: SpyCat005 issued server command: /back
-[08:54:49] [Server thread/INFO]: SpyCat005 issued server command: /back
-[08:55:53] [Server thread/INFO]: SpyCat005 issued server command: /home
-[08:58:04] [Server thread/INFO]: SpyCat005 issued server command: /back
-[11:16:11] [Server thread/INFO]: SpyCat005 issued server command: /back
-[11:16:27] [Server thread/INFO]: SpyCat005 issued server command: /spawn
-[11:21:45] [Server thread/INFO]: Villager EntityVillager['Villager'/758637, l='world', x=602.22, y=52.00, z=709.37] died, message: 'Villager was slain by Zombie'
-[14:23:59] [User Authenticator #51/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[14:23:59] [Server thread/INFO]: Keisari1313[/111.248.201.238:53657] logged in with entity id 776087 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
-[14:24:12] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
-[14:24:12] [Server thread/INFO]: Keisari1313 left the game
-[14:24:19] [User Authenticator #52/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[14:24:20] [Server thread/INFO]: Keisari1313[/111.248.201.238:53682] logged in with entity id 776748 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
-[14:24:43] [Craft Scheduler Thread - 673/INFO]: [AuthMe] Keisari1313 used the wrong password
-[14:24:43] [Server thread/INFO]: Keisari1313 lost connection: §b【AuthMe】§6密碼錯誤!
-[14:24:43] [Server thread/INFO]: Keisari1313 left the game
-[14:24:49] [User Authenticator #53/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[14:24:49] [Server thread/INFO]: Keisari1313[/111.248.201.238:53696] logged in with entity id 777438 at ([world]-167.94442782785762, 90.0, -1064.9005962807425)
-[14:25:04] [Craft Scheduler Thread - 674/INFO]: [AuthMe] Keisari1313 logged in!
-[14:25:19] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[14:25:55] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
-[14:25:55] [Server thread/INFO]: Keisari1313 left the game
-[14:31:15] [Server thread/INFO]: SpyCat005 issued server command: /back
-[14:32:10] [Server thread/INFO]: SpyCat005 drowned
-[14:42:11] [Server thread/INFO]: SpyCat005 issued server command: /home
-[15:34:26] [User Authenticator #54/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
-[15:34:27] [Server thread/INFO]: FredYea[/124.6.23.53:50736] logged in with entity id 787827 at ([world]259.827690437481, 63.0, 1469.4352457293205)
-[15:34:35] [Craft Scheduler Thread - 691/INFO]: [AuthMe] FredYea logged in!
-[15:48:24] [Server thread/INFO]: FredYea issued server command: /back
-[15:57:17] [Server thread/INFO]: SpyCat005 issued server command: /back
-[15:58:00] [Async Chat Thread - #26/INFO]: [world]<SpyCat005> 休息= =刷叼頭眼睛好痠喔
-[15:58:09] [Async Chat Thread - #26/INFO]: [world]<FredYea> 0.0
-[16:06:35] [Server thread/INFO]: FredYea issued server command: /home
-[16:09:00] [Server thread/INFO]: FredYea issued server command: /back
-[16:26:23] [Async Chat Thread - #27/INFO]: [world]<SpyCat005> 0.0
-[16:26:51] [Async Chat Thread - #27/INFO]: [world]<FredYea> 0.0
-[16:29:07] [Async Chat Thread - #28/INFO]: [world]<SpyCat005> 掰啦
-[16:29:20] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
-[16:29:20] [Server thread/INFO]: SpyCat005 left the game
-[16:31:22] [User Authenticator #55/INFO]: UUID of player Keisari1313 is b6f17fb8-bb9a-3464-96a3-2895b2284bef
-[16:31:22] [Server thread/INFO]: Keisari1313[/111.248.201.238:58063] logged in with entity id 804998 at ([world]-143.6604508280956, 41.0, -973.7762640595367)
-[16:31:37] [Craft Scheduler Thread - 709/INFO]: [AuthMe] Keisari1313 logged in!
-[16:31:41] [Server thread/INFO]: Keisari1313 fell from a high place
-[16:31:49] [Server thread/INFO]: Keisari1313 issued server command: /fly
-[16:33:09] [User Authenticator #56/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[16:33:09] [Server thread/INFO]: biteyou74[/120.102.191.141:1980] logged in with entity id 806372 at ([world]-219.13079833596768, 104.0, -1070.979551582099)
-[16:33:16] [Craft Scheduler Thread - 712/INFO]: [AuthMe] biteyou74 logged in!
-[16:34:25] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[16:34:25] [Server thread/INFO]: biteyou74 left the game
-[16:47:40] [Server thread/INFO]: FredYea issued server command: /home
-[16:49:14] [User Authenticator #57/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
-[16:49:14] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:50316] logged in with entity id 811157 at ([world]1392.2697030092352, 66.0, -759.3431706423327)
-[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
-[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
-[16:49:20] [Craft Scheduler Thread - 718/INFO]: [AuthMe] LRIC_MOON logged in!
-[16:51:25] [Server thread/INFO]: Keisari1313 lost connection: Disconnected
-[16:51:25] [Server thread/INFO]: Keisari1313 left the game
-[16:52:13] [Server thread/INFO]: LRIC_MOON issued server command: /fly
-[17:08:07] [Server thread/INFO]: FredYea was impaled by Drowned
-[17:09:46] [Server thread/INFO]: Villager EntityVillager['Nitwit'/811245, l='world', x=1334.49, y=62.51, z=-722.04] died, message: 'Nitwit was slain by Zombie'
-[17:24:22] [Server thread/INFO]: FredYea issued server command: /BACK
-[17:30:15] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
-[17:30:15] [Server thread/INFO]: LRIC_MOON left the game
-[17:33:06] [Server thread/INFO]: FredYea has made the advancement [We Need to Go Deeper]
-[18:06:16] [Server thread/INFO]: FredYea lost connection: Disconnected
-[18:06:16] [Server thread/INFO]: FredYea left the game
-[19:25:06] [User Authenticator #58/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
-[19:25:06] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:51469] logged in with entity id 830879 at ([world]1320.9972566310942, 65.0, -726.5072769045884)
-[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
-[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
-[19:25:13] [Craft Scheduler Thread - 756/INFO]: [AuthMe] LRIC_MOON logged in!
-[19:27:01] [Server thread/INFO]: Villager EntityVillager['Cartographer'/830881, l='world', x=1310.97, y=67.00, z=-762.41] died, message: 'Cartographer was slain by Zombie'
-[19:43:42] [Server thread/INFO]: LRIC_MOON was slain by Zombie
-[19:46:13] [User Authenticator #59/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
-[19:46:13] [Server thread/INFO]: Hibiki182[/119.77.247.72:7317] logged in with entity id 834738 at ([world]456.69999998807907, 11.0, -1053.5199348059525)
-[19:46:24] [Craft Scheduler Thread - 763/INFO]: [AuthMe] Hibiki182 logged in!
-[19:46:39] [Server thread/INFO]: Hibiki182 issued server command: /fly
-[19:56:59] [Server thread/INFO]: Villager EntityVillager['Farmer'/834303, l='world', x=1328.15, y=63.00, z=-733.57] died, message: 'Farmer was slain by Zombie'
-[20:09:03] [Server thread/INFO]: LRIC_MOON was blown up by Creeper
-[20:10:02] [Server thread/INFO]: LRIC_MOON issued server command: /fly
+[00:09:49] [Server thread/INFO]: basic_balion issued server command: /homes
+[00:12:31] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[00:12:31] [Server thread/INFO]: basic_balion left the game
+[01:28:02] [User Authenticator #63/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[01:28:03] [Server thread/INFO]: basic_balion[/36.232.4.159:9995] logged in with entity id 915988 at ([world]-238.34073435515822, 13.808687042773034, -1004.2347625308023)
+[01:28:11] [Craft Scheduler Thread - 858/INFO]: [AuthMe] basic_balion logged in!
+[01:28:15] [Server thread/INFO]: basic_balion issued server command: /fly
+[02:25:09] [Server thread/INFO]: Villager EntityVillager['Villager'/916333, l='world', x=-298.74, y=85.56, z=-1034.63] died, message: 'Villager was burnt to a crisp whilst fighting Zombie'
+[03:22:43] [Server thread/INFO]: basic_balion issued server command: /fly
+[03:22:45] [Server thread/INFO]: basic_balion issued server command: /fly
+[04:26:16] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[04:26:16] [Server thread/INFO]: basic_balion left the game
+[08:33:06] [User Authenticator #64/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[08:33:06] [Server thread/INFO]: basic_balion[/36.232.15.158:11963] logged in with entity id 943309 at ([world]-213.59267148037029, 11.875, -1072.2975250093552)
+[08:33:16] [Craft Scheduler Thread - 947/INFO]: [AuthMe] basic_balion logged in!
+[08:33:34] [Server thread/INFO]: basic_balion issued server command: /fly
+[08:50:00] [Server thread/INFO]: basic_balion issued server command: /home
+[10:13:47] [Server thread/INFO]: basic_balion issued server command: /home
+[10:21:39] [Server thread/INFO]: basic_balion issued server command: /home
+[10:21:44] [Server thread/INFO]: basic_balion issued server command: /home
+[10:31:02] [User Authenticator #65/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[10:31:02] [Server thread/INFO]: appa1423[/27.242.193.112:11467] logged in with entity id 978298 at ([world]719.1374999880791, 106.0, 1238.862500011921)
+[10:31:10] [Craft Scheduler Thread - 974/INFO]: [AuthMe] appa1423 logged in!
+[11:06:30] [Server thread/INFO]: appa1423 lost connection: Disconnected
+[11:06:30] [Server thread/INFO]: appa1423 left the game
+[11:41:38] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[11:41:38] [Server thread/INFO]: basic_balion left the game
+[12:31:41] [Server thread/INFO]: Stopping the server
+[12:31:41] [Server thread/INFO]: Stopping server
+[12:31:41] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.1.0-b805
+[12:31:41] [Server thread/INFO]: [LightCleaner] Disabling LightCleaner v1.15.2-v1
+[12:31:41] [Server thread/INFO]: [LightCleaner] LightCleaner disabled!
+[12:31:41] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2388
+[12:31:41] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[12:31:41] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[12:31:41] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[12:31:41] [Server thread/INFO]: [Lift] Disabling Lift v63
+[12:31:41] [Server thread/INFO]: Lift v63 is now disabled!
+[12:31:41] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[12:31:41] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.15.2-v4-SNAPSHOT
+[12:31:41] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[12:31:41] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[12:31:41] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-SNAPSHOT+4982-df3b373
+[12:31:41] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:31:41] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[12:31:41] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[12:31:41] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[12:31:42] [Server thread/INFO]: [dynmap] Disabled
+[12:31:42] [Server thread/INFO]: Saving players
+[12:31:42] [Server thread/INFO]: Saving worlds
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:31:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[12:31:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[12:31:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world_china'/minecraft:world_china
+[12:31:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_china): All chunks are saved
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world_yucsh'/minecraft:world_yucsh
+[12:31:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_yucsh): All chunks are saved
+[12:31:42] [Server thread/INFO]: Saving chunks for level 'world_comic_world'/minecraft:world_comic_world
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_comic_world): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'world_MaoMao'/minecraft:world_maomao
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_MaoMao): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'world_old'/minecraft:world_old
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_old): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'creative'/minecraft:creative
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (creative): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'world_ken'/minecraft:world_ken
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_ken): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'world-1-8'/minecraft:world-1-8
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world-1-8): All chunks are saved
+[12:31:43] [Server thread/INFO]: Saving chunks for level 'world_survive'/minecraft:world_survive
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_survive): All chunks are saved
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:31:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_china): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_yucsh): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_comic_world): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_MaoMao): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_old): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (creative): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_ken): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world-1-8): All chunks are saved
+[12:31:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_survive): All chunks are saved
