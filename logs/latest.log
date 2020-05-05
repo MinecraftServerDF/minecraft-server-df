@@ -78,3 +78,18 @@
 [21:15:49] [Server thread/INFO]: rgps3725 left the game
 [21:41:49] [Server thread/INFO]: FredYea lost connection: Disconnected
 [21:41:49] [Server thread/INFO]: FredYea left the game
+[22:39:39] [User Authenticator #16/INFO]: UUID of player YuShiou is d8430ff6-eec6-361f-8749-9dda5c586b98
+[22:39:39] [Server thread/INFO]: YuShiou[/1.34.17.118:5753] logged in with entity id 110648 at ([world]618.5575450815218, 65.08240710983456, 773.4046886590728)
+[22:39:52] [Craft Scheduler Thread - 467/INFO]: [AuthMe] YuShiou logged in!
+[22:40:04] [Server thread/INFO]: YuShiou issued server command: /fly
+[22:53:49] [Server thread/INFO]: YuShiou has made the advancement [Eye Spy]
+[23:02:14] [User Authenticator #17/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[23:02:14] [Server thread/INFO]: basic_balion[/36.232.15.158:9817] logged in with entity id 118259 at ([world]-222.39592826948785, 78.0, -1072.762499988079)
+[23:02:25] [Craft Scheduler Thread - 475/INFO]: [AuthMe] basic_balion logged in!
+[23:02:34] [Server thread/INFO]: basic_balion issued server command: /fly
+[23:10:52] [Server thread/INFO]: YuShiou has made the advancement [The End?]
+[23:10:54] [Server thread/WARN]: YuShiou moved too quickly! -2040.3232396643702,6.243006932023924,-1647.8391968969001
+[23:10:54] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[23:10:54] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[23:18:56] [Server thread/INFO]: YuShiou lost connection: Disconnected
+[23:18:56] [Server thread/INFO]: YuShiou left the game
