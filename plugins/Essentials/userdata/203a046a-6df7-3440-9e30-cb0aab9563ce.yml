@@ -1,7 +1,7 @@
 lastAccountName: appa1423
 timestamps:
   login: 1588668222753
-  logout: 1588561590236
+  logout: 1588674402167
   lastteleport: 1588519748241
 ipAddress: 27.242.193.112
 lastlocation:
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 2.2500002
 logoutlocation:
   world: world
-  x: 718.299999974668
-  y: 95.0000002
-  z: 1250.299999974668
-  yaw: 50.237488
-  pitch: -42.29993
-afk: true
+  x: 764.9427001660391
+  y: 77.0
+  z: 1248.4683931792422
+  yaw: 356.8979
+  pitch: 21.29942
+afk: false
