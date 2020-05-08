@@ -173,6 +173,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-05-08 16:34:18 +0800",
+      "diamond_helmet": "2020-05-08 16:34:18 +0800",
+      "diamond_chestplate": "2020-05-08 16:34:18 +0800",
+      "diamond_boots": "2020-05-08 16:34:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-14 19:48:14 +0800"
@@ -602,6 +611,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-04-08 20:47:11 +0800",
+      "minecraft:ghast": "2020-05-08 16:23:02 +0800",
       "minecraft:spider": "2020-04-07 19:33:17 +0800",
       "minecraft:creeper": "2020-04-19 01:31:25 +0800",
       "minecraft:slime": "2020-04-17 16:02:30 +0800",
@@ -2819,6 +2829,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-05-08 16:10:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-04-08 19:30:20 +0800"
@@ -2882,6 +2898,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-07 19:32:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-08 16:10:49 +0800"
     },
     "done": true
   },
