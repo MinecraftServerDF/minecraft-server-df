@@ -39,3 +39,82 @@
 [13:54:35] [Server thread/INFO]: basic_balion[/36.232.2.144:2832] logged in with entity id 319074 at ([world]-235.30000001192093, 117.38054448481127, -1059.6262092402576)
 [13:54:46] [Craft Scheduler Thread - 1288/INFO]: [AuthMe] basic_balion logged in!
 [13:54:50] [Server thread/INFO]: basic_balion issued server command: /fly
+[14:35:30] [User Authenticator #34/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[14:35:30] [Server thread/INFO]: FredYea[/124.6.23.53:61188] logged in with entity id 330604 at ([world]259.6622264423798, 63.0, 1469.250669337393)
+[14:35:37] [Async Chat Thread - #1/INFO]: [world]<basic_balion> HI
+[14:35:39] [Craft Scheduler Thread - 1299/INFO]: [AuthMe] FredYea logged in!
+[14:35:47] [Async Chat Thread - #1/INFO]: [world]<FredYea> HI
+[14:45:15] [Async Chat Thread - #2/INFO]: [world]<basic_balion> 你在幹嘛
+[14:46:47] [Server thread/INFO]: FredYea has made the advancement [Fishy Business]
+[15:02:30] [Async Chat Thread - #3/INFO]: [world]<FredYea> 0.0
+[15:02:47] [Async Chat Thread - #3/INFO]: [world]<FredYea> 要去賺經驗 0.0
+[15:03:00] [Async Chat Thread - #3/INFO]: [world]<basic_balion> 要來我們家參觀嗎
+[15:03:07] [Async Chat Thread - #3/INFO]: [world]<basic_balion> 有刷怪塔
+[15:03:40] [Async Chat Thread - #3/INFO]: [world]<FredYea> 可以丫 0.0只是我不會TP 0.0
+[15:04:11] [Async Chat Thread - #3/INFO]: [world]<basic_balion> 你會打直指另嗎
+[15:05:23] [Async Chat Thread - #4/INFO]: [world]<FredYea> 不會 我完全新手0.0
+[15:06:03] [Async Chat Thread - #4/INFO]: [world]<basic_balion> 打tpa basic_balion 前面加/
+[15:06:15] [Server thread/INFO]: FredYea issued server command: /T
+[15:06:36] [Server thread/INFO]: FredYea issued server command: /TAP BASIC_BALION
+[15:06:49] [Server thread/INFO]: FredYea issued server command: /tpa
+[15:07:06] [Server thread/INFO]: FredYea issued server command: /tpa basic_balion
+[15:07:17] [Server thread/INFO]: basic_balion issued server command: /tpaccept
+[15:07:24] [Server thread/INFO]: FredYea issued server command: /tpa basic_balion
+[15:07:30] [Server thread/INFO]: basic_balion issued server command: /tpaccept
+[15:08:06] [Async Chat Thread - #5/INFO]: [world]<FredYea> 有磨菇牛也 0.0
+[15:08:13] [Async Chat Thread - #5/INFO]: [world]<basic_balion> 對阿
+[15:08:28] [Async Chat Thread - #5/INFO]: [world]<FredYea> 要去那裏抓丫 0.0
+[15:08:29] [Async Chat Thread - #5/INFO]: [world]<basic_balion> 要進DC用講話
+[15:08:37] [Async Chat Thread - #5/INFO]: [world]<FredYea> 可以丫 0.0
+[15:08:39] [Async Chat Thread - #5/INFO]: [world]<basic_balion> 比較快
+[15:09:39] [Async Chat Thread - #5/INFO]: [world]<FredYea> 冗之#0428
+[15:11:05] [Async Chat Thread - #6/INFO]: [world]<basic_balion> 找不到
+[15:11:12] [Async Chat Thread - #6/INFO]: [world]<FredYea> 0.0
+[15:11:21] [Async Chat Thread - #6/INFO]: [world]<basic_balion> 用伺服器ㄉ
+[15:12:24] [Async Chat Thread - #7/INFO]: [world]<FredYea> 在那呢0.0
+[15:12:58] [Async Chat Thread - #7/INFO]: [world]<basic_balion> 你進來的時候沒有加嗎
+[15:13:10] [Async Chat Thread - #7/INFO]: [world]<basic_balion> 社群應該有
+[15:13:27] [Async Chat Thread - #7/INFO]: [world]<FredYea> 沒 我只有加fb
+[15:13:42] [Async Chat Thread - #7/INFO]: [world]<basic_balion> 你去找一夏加進來
+[15:14:25] [Async Chat Thread - #7/INFO]: [world]<FredYea> 恩 我找找 0.0
+[15:15:31] [Async Chat Thread - #8/INFO]: [world]<FredYea> 應該沒辨法加了 過期了 0.0
+[15:15:52] [Async Chat Thread - #8/INFO]: [world]<basic_balion> https://discord.gg/dp3udw
+[15:16:04] [Async Chat Thread - #8/INFO]: [world]<basic_balion> 你用這找
+[15:20:14] [Server thread/INFO]: basic_balion issued server command: /captcha
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.command'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.description'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.detailedDescription'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.permissions'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.alternatives'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.children'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'common.header'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:14] [Server thread/WARN]: [AuthMe] Error getting message with key 'common.optional'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[15:20:24] [Server thread/INFO]: basic_balion issued server command: /c
+[15:20:29] [Server thread/INFO]: basic_balion issued server command: /help
+[15:20:45] [Server thread/INFO]: basic_balion issued server command: /help essentials
+[15:21:17] [User Authenticator #35/INFO]: UUID of player cov2019 is c765ec6a-b920-3080-a139-d655d128e7d4
+[15:21:17] [Server thread/INFO]: cov2019[/61.216.179.32:56376] logged in with entity id 344186 at ([world]224.5, 63.0, 274.5)
+[15:21:17] [pool-13-thread-1/INFO]: 創建空的配置:C:\Users\Po\Desktop\minecraft-server-df\plugins\Essentials\userdata\c765ec6a-b920-3080-a139-d655d128e7d4.yml
+[15:21:17] [Server thread/INFO]: cov2019 has made the advancement [Getting an Upgrade]
+[15:21:33] [Server thread/INFO]: [AuthMe] cov2019 registered 61.216.179.32
+[15:21:33] [Craft Scheduler Thread - 1311/INFO]: [AuthMe] The user cov2019 has 2 accounts:
+[15:21:33] [Craft Scheduler Thread - 1311/INFO]: [AuthMe] §7apple, §acov2019§7.
+[15:21:33] [Craft Scheduler Thread - 1311/INFO]: [AuthMe] cov2019 logged in!
+[15:22:52] [Server thread/INFO]: Made cov2019 a server operator
+[15:23:13] [Server thread/INFO]: cov2019 issued server command: /gamemode 1
+[15:23:27] [Server thread/INFO]: cov2019 issued server command: /tp basic_balion
+[15:23:55] [Async Chat Thread - #9/INFO]: [world]<cov2019> i am apple
+[15:24:00] [Async Chat Thread - #9/INFO]: [world]<cov2019> XDDD
+[15:24:03] [Async Chat Thread - #9/INFO]: [world]<basic_balion> hi
+[15:24:15] [Async Chat Thread - #9/INFO]: [world]<basic_balion> 怎麼煥明子
+[15:24:31] [Async Chat Thread - #9/INFO]: [world]<basic_balion> 之前那隻勒
+[15:24:36] [Server thread/INFO]: [WEB] cov2019: 搞個正版
+[15:25:00] [Server thread/INFO]: basic_balion issued server command: /了解
+[15:25:08] [Async Chat Thread - #9/INFO]: [world]<basic_balion> 了解
+[15:25:16] [Server thread/INFO]: cov2019 lost connection: Disconnected
+[15:25:16] [Server thread/INFO]: cov2019 left the game
+[15:26:00] [Server thread/INFO]: FredYea issued server command: /home
+[15:26:30] [Server thread/INFO]: basic_balion issued server command: /tpa FredYea
+[15:26:42] [Server thread/INFO]: FredYea issued server command: /tpaccept

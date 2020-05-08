@@ -4730,3 +4730,18 @@
 [05-08 10:44:24]: [FINE] basic_balion logged in!
 [05-08 12:38:06]: [FINE] apple logged in!
 [05-08 13:54:46]: [FINE] basic_balion logged in!
+[05-08 14:35:39]: [FINE] FredYea logged in!
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.command'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.description'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.detailedDescription'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.permissions'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.alternatives'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.children'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'common.header'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:20:14]: [WARN] Error getting message with key 'common.optional'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-08 15:21:33]: [FINE] cov2019 registered 61.216.179.32
+[05-08 15:21:33]: [FINE] The user cov2019 has 2 accounts:
+[05-08 15:21:33]: [FINE] §7apple, §acov2019§7.
+[05-08 15:21:33]: [FINE] cov2019 logged in!
