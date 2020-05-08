@@ -21,3 +21,17 @@
 [10:44:24] [Craft Scheduler Thread - 1243/INFO]: [AuthMe] basic_balion logged in!
 [10:45:24] [Server thread/INFO]: basic_balion issued server command: /fly
 [12:20:13] [Server thread/INFO]: basic_balion issued server command: /home
+[12:37:49] [User Authenticator #32/INFO]: UUID of player apple is 7785d5ca-3e63-37a8-b98c-88a8fec8a10d
+[12:37:50] [Server thread/INFO]: apple[/61.216.179.32:55959] logged in with entity id 311413 at ([world_yucsh]-95.74918391260069, 128.80859088985787, 116.66349804917263)
+[12:38:06] [Craft Scheduler Thread - 1269/INFO]: [AuthMe] apple logged in!
+[12:38:16] [Server thread/INFO]: apple issued server command: /gamemode 3
+[12:39:07] [Server thread/INFO]: apple issued server command: /mv tp word_china
+[12:39:13] [Server thread/INFO]: apple issued server command: /mv goto word_china
+[12:39:19] [Server thread/INFO]: apple issued server command: /mv tp world_china
+[12:39:31] [Server thread/INFO]: apple issued server command: /gamemode 3
+[12:43:37] [Server thread/INFO]: [WEB] apple: 0
+[12:43:43] [Async Chat Thread - #0/INFO]: [world]<basic_balion> HI~
+[12:54:57] [Server thread/INFO]: apple lost connection: Disconnected
+[12:54:57] [Server thread/INFO]: apple left the game
+[13:14:40] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[13:14:40] [Server thread/INFO]: basic_balion left the game
