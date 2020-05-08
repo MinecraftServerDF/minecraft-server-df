@@ -610,6 +610,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-05-08 23:35:32 +0800",
       "minecraft:skeleton": "2020-04-08 20:47:11 +0800",
       "minecraft:ghast": "2020-05-08 16:23:02 +0800",
       "minecraft:spider": "2020-04-07 19:33:17 +0800",
@@ -749,6 +750,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-04-07 19:51:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-05-08 23:35:32 +0800"
     },
     "done": true
   },
@@ -1445,6 +1452,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2020-04-19 18:49:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-05-08 23:12:09 +0800"
     },
     "done": true
   },
@@ -2334,6 +2347,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-07 20:24:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-05-08 23:35:32 +0800"
     },
     "done": true
   },
