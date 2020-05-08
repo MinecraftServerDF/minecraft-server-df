@@ -129,3 +129,8 @@
 [16:35:34] [Server thread/INFO]: FredYea issued server command: /HOME
 [16:51:50] [Server thread/INFO]: FredYea lost connection: Disconnected
 [16:51:50] [Server thread/INFO]: FredYea left the game
+[20:54:02] [User Authenticator #36/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[20:54:03] [Server thread/INFO]: SpyCat005[/203.77.40.61:48793] logged in with entity id 363338 at ([world]580.7292835440559, 68.5625, 837.7934797706771)
+[20:54:10] [Craft Scheduler Thread - 1387/INFO]: [AuthMe] SpyCat005 logged in!
+[20:54:18] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[21:00:15] [Server thread/INFO]: SpyCat005 issued server command: /home
