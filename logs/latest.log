@@ -3,3 +3,9 @@
 [00:34:53] [Server thread/INFO]: FredYea left the game
 [02:41:48] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [02:41:48] [Server thread/INFO]: biteyou74 left the game
+[06:23:09] [User Authenticator #39/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[06:23:09] [Server thread/INFO]: SpyCat005[/203.77.40.61:48895] logged in with entity id 411418 at ([world]591.2906809178392, 65.0, 841.74953758712)
+[06:23:23] [Craft Scheduler Thread - 1516/INFO]: [AuthMe] SpyCat005 logged in!
+[06:23:32] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[06:36:11] [Server thread/INFO]: Villager EntityVillager['Villager'/414146, l='world', x=645.94, y=66.00, z=737.63] died, message: 'Villager was slain by Zombie'
+[06:44:29] [Server thread/INFO]: SpyCat005 issued server command: /home
