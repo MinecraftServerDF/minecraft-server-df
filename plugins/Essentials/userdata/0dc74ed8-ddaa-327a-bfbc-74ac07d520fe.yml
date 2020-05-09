@@ -2,7 +2,7 @@ lastAccountName: ShortKYO
 timestamps:
   login: 1589043351121
   lastteleport: 1588255416018
-  logout: 1588261988793
+  logout: 1589047676151
 ipAddress: 220.136.48.130
 lastlocation:
   world: world
@@ -22,8 +22,8 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: -289.700000025332
-  y: 68.0000002
-  z: -824.700000025332
-  yaw: -265.73248
-  pitch: 10.3499975
+  x: -341.6389149444813
+  y: 10.0
+  z: -816.4889619240273
+  yaw: 17.482727
+  pitch: 33.44985
