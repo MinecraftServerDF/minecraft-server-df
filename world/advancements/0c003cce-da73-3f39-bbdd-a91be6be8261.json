@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-05-09 20:58:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-25 12:07:56 +0800"
@@ -2340,6 +2346,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-25 13:45:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-05-09 20:58:18 +0800"
     },
     "done": true
   },
