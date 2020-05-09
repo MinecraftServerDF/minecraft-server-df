@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-05-09 16:20:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-24 22:21:50 +0800"
@@ -243,6 +249,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-04-25 12:30:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-05-09 16:19:29 +0800"
     },
     "done": true
   },
@@ -1213,12 +1225,14 @@
       "minecraft:desert": "2020-04-24 22:20:22 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 22:27:55 +0800",
       "minecraft:badlands": "2020-04-24 22:26:28 +0800",
+      "minecraft:savanna_plateau": "2020-05-09 16:27:03 +0800",
       "minecraft:beach": "2020-04-24 22:17:57 +0800",
       "minecraft:river": "2020-04-24 22:20:10 +0800",
       "minecraft:lukewarm_ocean": "2020-04-24 22:27:41 +0800",
       "minecraft:wooded_mountains": "2020-04-25 16:12:25 +0800",
       "minecraft:wooded_hills": "2020-04-24 22:28:16 +0800",
       "minecraft:stone_shore": "2020-04-25 15:56:45 +0800",
+      "minecraft:savanna": "2020-05-09 16:23:56 +0800",
       "minecraft:plains": "2020-04-25 15:57:13 +0800"
     },
     "done": false
@@ -1478,6 +1492,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2020-04-25 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-05-09 16:19:29 +0800"
     },
     "done": true
   },
@@ -1940,6 +1960,7 @@
       "minecraft:sheep": "2020-04-25 11:51:59 +0800",
       "minecraft:cow": "2020-04-25 11:52:05 +0800",
       "minecraft:chicken": "2020-04-25 11:51:47 +0800",
+      "minecraft:rabbit": "2020-05-09 16:25:24 +0800",
       "minecraft:bee": "2020-04-25 16:54:08 +0800"
     },
     "done": false
