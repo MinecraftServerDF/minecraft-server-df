@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-05-09 16:51:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-25 13:45:40 +0800"
@@ -629,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-05-09 16:43:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-04-25 11:58:16 +0800"
@@ -990,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-05-09 16:43:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-04-26 15:02:24 +0800"
@@ -1071,6 +1089,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_string": "2020-04-26 16:30:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-05-09 16:43:08 +0800"
     },
     "done": true
   },
@@ -1276,6 +1300,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2020-04-26 11:05:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-05-09 16:43:11 +0800"
     },
     "done": true
   },
@@ -1980,6 +2010,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-04-25 20:30:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-05-09 16:43:08 +0800"
     },
     "done": true
   },
@@ -2919,6 +2955,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-04-25 14:09:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-05-09 16:43:11 +0800"
     },
     "done": true
   },
