@@ -2,15 +2,15 @@ lastAccountName: SpyCat005
 timestamps:
   login: 1588976589741
   logout: 1588945730313
-  lastteleport: 1588995421363
+  lastteleport: 1589001542664
 ipAddress: 203.77.40.61
 lastlocation:
-  world: world
-  x: 590.5595031139372
-  y: 56.0
-  z: 830.979734167474
-  yaw: 81.154785
-  pitch: 39.299503
+  world: world_nether
+  x: 363.8535314037606
+  y: 60.0
+  z: -321.40040702022816
+  yaw: 140.90588
+  pitch: 11.999516
 logoutlocation:
   world: world
   x: 591.2906809178392
@@ -18,7 +18,7 @@ logoutlocation:
   z: 841.74953758712
   yaw: 182.68549
   pitch: -3.1503708
-afk: true
+afk: false
 homes:
   home:
     world: world
