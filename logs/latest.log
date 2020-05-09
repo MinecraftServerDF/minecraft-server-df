@@ -306,3 +306,22 @@
 [19:36:09] [Server thread/INFO]: wolf left the game
 [19:36:36] [Async Chat Thread - #35/INFO]: [world]<biteyou74> 我掛網 在水底 你慢慢逛
 [19:36:53] [Async Chat Thread - #35/INFO]: [world]<SpyCat005> OK
+[19:47:07] [User Authenticator #48/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
+[19:47:07] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:56785] logged in with entity id 1032477 at ([world]-688.0093562317562, 66.5625, 151.32921845837518)
+[19:47:15] [Craft Scheduler Thread - 1719/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
+[19:47:15] [Craft Scheduler Thread - 1719/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
+[19:47:15] [Craft Scheduler Thread - 1719/INFO]: [AuthMe] LRIC_MOON logged in!
+[19:57:33] [Server thread/INFO]: LRIC_MOON issued server command: /fly
+[20:10:09] [Server thread/INFO]: SpyCat005 issued server command: /back
+[20:10:19] [Server thread/INFO]: SpyCat005 issued server command: /home
+[20:13:10] [Server thread/INFO]: SpyCat005 issued server command: /back
+[20:21:26] [Async Chat Thread - #36/INFO]: [world]<SpyCat005> 0.0
+[20:21:47] [Async Chat Thread - #36/INFO]: [world]<biteyou74> 調個位置 有蜘蛛的聲音
+[20:22:07] [Server thread/INFO]: SpyCat005 drowned
+[20:24:31] [Server thread/INFO]: Villager EntityVillager['Villager'/1046714, l='world', x=541.90, y=64.00, z=691.39] died, message: 'Villager was slain by Zombie'
+[20:25:12] [Server thread/WARN]: SpyCat005 moved too quickly! 3.7318038402937646,0.0,-25.43341187732824
+[20:26:35] [Server thread/INFO]: Villager EntityVillager['Butcher'/1046545, l='world', x=629.00, y=64.00, z=745.30] died, message: 'Butcher was slain by Zombie'
+[20:29:04] [Server thread/INFO]: SpyCat005 issued server command: /back
+[20:29:51] [Server thread/INFO]: SpyCat005 drowned
+[20:31:30] [Server thread/INFO]: SpyCat005 issued server command: /back
+[20:31:50] [Server thread/INFO]: SpyCat005 issued server command: /home
