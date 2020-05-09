@@ -6,11 +6,11 @@ timestamps:
 ipAddress: 123.194.147.86
 lastlocation:
   world: world
-  x: 1394.5
-  y: 64.0000002
-  z: -700.5
-  yaw: 68.55002
-  pitch: 13.650003
+  x: -766.5888660829901
+  y: 67.62611552405195
+  z: 131.619542831221
+  yaw: 107.74695
+  pitch: 69.449814
 logoutlocation:
   world: world
   x: -726.9877879390125
@@ -26,4 +26,4 @@ homes:
     z: 150.07868964770014
     yaw: 129.24152
     pitch: 22.19974
-afk: false
+afk: true
