@@ -1157,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-05-09 19:04:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 21:44:51 +0800"
@@ -1969,6 +1975,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-05-09 18:50:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2020-04-09 19:15:42 +0800"
@@ -2023,6 +2035,7 @@
       "bread": "2020-04-04 20:12:31 +0800",
       "melon_slice": "2020-04-20 20:22:04 +0800",
       "beetroot": "2020-04-22 19:18:45 +0800",
+      "cooked_chicken": "2020-05-09 19:09:58 +0800",
       "cooked_salmon": "2020-04-10 10:01:23 +0800",
       "carrot": "2020-04-16 19:23:22 +0800"
     },
@@ -2273,6 +2286,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-04 21:44:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-05-09 18:50:51 +0800"
     },
     "done": true
   },

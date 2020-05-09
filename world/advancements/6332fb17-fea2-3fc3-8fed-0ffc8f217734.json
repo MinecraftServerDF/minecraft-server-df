@@ -2719,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-05-09 18:58:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-04-09 17:06:36 +0800"
@@ -3526,6 +3532,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-04-09 17:27:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-05-09 19:25:49 +0800"
     },
     "done": true
   },
