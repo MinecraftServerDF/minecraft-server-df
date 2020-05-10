@@ -121,3 +121,84 @@
 [09:46:13] [Server thread/INFO]: kevinkaikai issued server command: /fly
 [09:46:23] [Server thread/INFO]: kevinkaikai issued server command: /fly
 [10:06:19] [Server thread/INFO]: kevinkaikai has made the advancement [Ice Bucket Challenge]
+[10:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[10:33:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[10:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[10:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[10:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[10:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[10:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[10:37:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[10:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[10:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[10:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5185ms or 103 ticks behind
+[10:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6275ms or 125 ticks behind
+[10:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[10:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[10:43:14] [Server thread/INFO]: basic_balion was blown up by Creeper
+[10:43:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[10:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[10:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[10:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[10:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5935ms or 118 ticks behind
+[10:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5516ms or 110 ticks behind
+[10:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[10:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7687ms or 153 ticks behind
+[11:04:08] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[11:04:08] [Server thread/INFO]: basic_balion left the game
+[11:53:51] [Server thread/INFO]: kevinkaikai has made the advancement [Hot Stuff]
+[12:36:24] [Server thread/INFO]: kevinkaikai issued server command: /home
+[12:36:32] [Server thread/INFO]: kevinkaikai issued server command: /set
+[12:36:37] [Server thread/INFO]: kevinkaikai issued server command: /sethome
+[13:16:25] [User Authenticator #64/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[13:16:25] [Server thread/INFO]: biteyou74[/120.102.191.141:12639] logged in with entity id 1228364 at ([world]-142.08948297641484, 41.0, -973.3775311649667)
+[13:16:42] [Craft Scheduler Thread - 1996/INFO]: [AuthMe] biteyou74 logged in!
+[13:17:05] [Async Chat Thread - #48/INFO]: [world]<biteyou74> 監工還沒上線 好險
+[13:18:22] [Server thread/INFO]: biteyou74 issued server command: /fly
+[13:27:00] [Server thread/INFO]: kevinkaikai has made the advancement [We Need to Go Deeper]
+[13:29:20] [Server thread/INFO]: kevinkaikai issued server command: /home
+[13:36:23] [Server thread/INFO]: kevinkaikai has made the advancement [A Seedy Place]
+[13:49:17] [User Authenticator #65/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[13:49:18] [Server thread/INFO]: SpyCat005[/203.77.40.61:48775] logged in with entity id 1237652 at ([world]594.8888451471516, 99.03260177585312, 852.5082683050144)
+[13:49:36] [Craft Scheduler Thread - 2008/INFO]: [AuthMe] SpyCat005 logged in!
+[13:49:40] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[13:49:43] [Async Chat Thread - #49/INFO]: [world]<SpyCat005> hi
+[13:49:54] [Async Chat Thread - #49/INFO]: [world]<ShortKYO> hi
+[13:49:57] [Async Chat Thread - #49/INFO]: [world]<kevinkaikai> hi
+[13:50:23] [Async Chat Thread - #49/INFO]: [world]<biteyou74> hl
+[13:51:01] [Server thread/INFO]: biteyou74 issued server command: /afk
+[13:54:22] [Server thread/INFO]: ShortKYO lost connection: Disconnected
+[13:54:22] [Server thread/INFO]: ShortKYO left the game
+[13:56:11] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/1237821, l='world', x=600.45, y=65.00, z=756.14] died, message: 'Leatherworker was slain by Zombie'
+[13:56:17] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/1238141, l='world', x=609.68, y=64.00, z=751.20] died, message: 'Weaponsmith was slain by Zombie Villager'
+[13:56:45] [Server thread/INFO]: Villager EntityVillager['Armorer'/1238145, l='world', x=606.37, y=64.00, z=765.25] died, message: 'Armorer was slain by Zombie Villager'
+[13:56:59] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/1238157, l='world', x=615.54, y=64.00, z=744.86] died, message: 'Weaponsmith was slain by Zombie'
+[13:57:12] [Server thread/INFO]: Villager EntityVillager['Cartographer'/1238192, l='world', x=632.50, y=64.00, z=757.96] died, message: 'Cartographer was slain by Zombie'
+[13:57:29] [Server thread/INFO]: Villager EntityVillager['Shepherd'/1238151, l='world', x=606.13, y=65.00, z=750.53] died, message: 'Shepherd was slain by Zombie Villager'
+[13:57:48] [Server thread/INFO]: Villager EntityVillager['Butcher'/1238142, l='world', x=627.79, y=64.00, z=745.43] died, message: 'Butcher was slain by Zombie Villager'
+[13:58:09] [Server thread/INFO]: Villager EntityVillager['Cartographer'/1238148, l='world', x=616.88, y=64.00, z=748.76] died, message: 'Cartographer was slain by Zombie Villager'
+[14:06:30] [Server thread/INFO]: kevinkaikai lost connection: Disconnected
+[14:06:30] [Server thread/INFO]: kevinkaikai left the game
+[14:21:00] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[14:21:00] [Server thread/INFO]: biteyou74 left the game
+[15:22:33] [Server thread/INFO]: Villager EntityVillager['Farmer'/1238180, l='world', x=608.30, y=64.00, z=744.93] died, message: 'Farmer was slain by Zombie'
+[15:22:46] [Server thread/INFO]: Villager EntityVillager['Librarian'/1238154, l='world', x=606.70, y=64.00, z=755.45] died, message: 'Librarian was slain by Zombie'
+[15:23:51] [Server thread/INFO]: Villager EntityVillager['Butcher'/1237814, l='world', x=610.49, y=64.00, z=759.76] died, message: 'Butcher was slain by Zombie Villager'
+[15:24:07] [Server thread/INFO]: Villager EntityVillager['Farmer'/1238179, l='world', x=610.06, y=64.00, z=731.87] died, message: 'Farmer was slain by Zombie Villager'
+[15:24:32] [Server thread/INFO]: Villager EntityVillager['Villager'/1325171, l='world', x=620.41, y=64.00, z=709.62] died, message: 'Villager was slain by Zombie Villager'
+[15:31:20] [Server thread/INFO]: Villager EntityVillager['Villager'/1325252, l='world', x=640.15, y=69.02, z=719.26] died, message: 'Villager was slain by Zombie Villager'
+[15:42:48] [User Authenticator #66/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[15:42:48] [Server thread/INFO]: basic_balion[/36.232.2.144:14650] logged in with entity id 1355532 at ([world]-211.06491044951284, 105.2431361294093, -1004.1457837568285)
+[15:42:56] [Craft Scheduler Thread - 2037/INFO]: [AuthMe] basic_balion logged in!
+[15:43:02] [Server thread/INFO]: basic_balion issued server command: /fly
+[15:49:46] [User Authenticator #67/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[15:49:46] [Server thread/INFO]: FredYea[/124.6.23.53:52559] logged in with entity id 1366642 at ([world]260.5407251739206, 63.0, 1471.0539837133972)
+[15:49:55] [Craft Scheduler Thread - 2041/INFO]: [AuthMe] FredYea logged in!
+[15:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[15:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5191ms or 103 ticks behind
+[15:55:26] [Server thread/INFO]: basic_balion issued server command: /home
+[16:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[16:01:14] [Server thread/INFO]: basic_balion issued server command: /home
+[16:01:56] [Server thread/INFO]: basic_balion issued server command: /home
+[16:03:56] [Server thread/INFO]: Villager EntityVillager['Villager'/1369674, l='world', x=604.58, y=64.94, z=740.08] died, message: 'Villager was slain by Zombie'
+[16:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5246ms or 104 ticks behind

@@ -1,28 +1,29 @@
 lastAccountName: kevinkaikai
 timestamps:
   login: 1589073664719
-  logout: 1589047673937
-  lastteleport: 1589074936821
+  logout: 1589090790400
+  lastteleport: 1589088563171
 ipAddress: 118.160.129.78
 lastlocation:
   world: world
-  x: -181.5
-  y: 103.0000002
-  z: -1034.5
-  yaw: 6.000002
-  pitch: 11.249995
+  x: 557.1692727298682
+  y: 102.9566212176833
+  z: -212.70738396226665
+  yaw: -67.751625
+  pitch: 41.24922
 homes:
   home:
     world: world
-    x: -224.7668867379448
-    y: 104.0
-    z: -1074.715645222583
-    yaw: 211.74759
-    pitch: 19.949232
+    x: -337.30000001192093
+    y: 9.0
+    z: -809.3000000119209
+    yaw: -5.6485596
+    pitch: 29.69924
 logoutlocation:
   world: world
-  x: -342.22531586779496
+  x: -343.6802196564225
   y: 10.0
-  z: -812.1058836841586
-  yaw: 140.17944
-  pitch: 34.648643
+  z: -814.082104281833
+  yaw: 172.97081
+  pitch: 15.299097
+afk: false
