@@ -1,7 +1,7 @@
 lastAccountName: FredYea
 timestamps:
   login: 1589200943875
-  logout: 1589108101589
+  logout: 1589206424550
   lastteleport: 1589013296064
 ipAddress: 124.6.23.53
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 4.1998954
 logoutlocation:
   world: world
-  x: 260.3713821904752
+  x: 255.501938083605
   y: 63.0
-  z: 1469.7462710807079
-  yaw: 150.37894
-  pitch: 15.000005
+  z: 1470.937772477754
+  yaw: -124.453865
+  pitch: 6.1499743
 afk: false
 homes:
   home:
