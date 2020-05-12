@@ -204,6 +204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-05-12 20:50:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-04-25 13:43:11 +0800"
@@ -487,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-12 21:42:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-25 13:45:40 +0800"
@@ -637,6 +649,7 @@
       "minecraft:skeleton": "2020-04-25 22:30:59 +0800",
       "minecraft:zombie_pigman": "2020-05-10 23:44:46 +0800",
       "minecraft:spider": "2020-04-26 20:20:00 +0800",
+      "minecraft:enderman": "2020-05-12 22:03:40 +0800",
       "minecraft:zombie": "2020-04-25 12:28:23 +0800",
       "minecraft:drowned": "2020-04-25 13:39:52 +0800"
     },
@@ -1253,22 +1266,28 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-04-25 18:53:00 +0800",
+      "minecraft:jungle_edge": "2020-05-12 22:30:07 +0800",
       "minecraft:forest": "2020-04-24 22:28:21 +0800",
       "minecraft:mountains": "2020-04-25 15:56:48 +0800",
+      "minecraft:badlands_plateau": "2020-05-12 20:51:15 +0800",
       "minecraft:taiga": "2020-04-25 16:01:27 +0800",
       "minecraft:desert_hills": "2020-04-24 22:20:38 +0800",
       "minecraft:deep_cold_ocean": "2020-04-25 18:53:34 +0800",
       "minecraft:taiga_hills": "2020-04-25 16:01:37 +0800",
       "minecraft:desert": "2020-04-24 22:20:22 +0800",
+      "minecraft:jungle": "2020-05-12 21:51:46 +0800",
+      "minecraft:jungle_hills": "2020-05-12 21:51:42 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 22:27:55 +0800",
       "minecraft:badlands": "2020-04-24 22:26:28 +0800",
       "minecraft:savanna_plateau": "2020-05-09 16:27:03 +0800",
       "minecraft:beach": "2020-04-24 22:17:57 +0800",
+      "minecraft:dark_forest": "2020-05-12 20:57:46 +0800",
       "minecraft:river": "2020-04-24 22:20:10 +0800",
       "minecraft:lukewarm_ocean": "2020-04-24 22:27:41 +0800",
       "minecraft:wooded_mountains": "2020-04-25 16:12:25 +0800",
       "minecraft:wooded_hills": "2020-04-24 22:28:16 +0800",
       "minecraft:stone_shore": "2020-04-25 15:56:45 +0800",
+      "minecraft:wooded_badlands_plateau": "2020-05-12 20:53:15 +0800",
       "minecraft:savanna": "2020-05-09 16:23:56 +0800",
       "minecraft:plains": "2020-04-25 15:57:13 +0800"
     },
@@ -1460,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-12 21:42:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-04-25 12:13:12 +0800"
@@ -1475,6 +1500,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2020-04-25 12:07:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-05-12 22:27:41 +0800"
     },
     "done": true
   },
@@ -1556,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-05-12 22:27:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-04-25 16:52:43 +0800"
@@ -1628,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-12 21:42:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-04-25 19:35:03 +0800"
@@ -1685,6 +1728,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-04-25 12:07:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-05-12 21:42:17 +0800"
     },
     "done": true
   },
@@ -1787,6 +1836,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-04-25 23:30:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-05-12 21:12:51 +0800"
     },
     "done": true
   },
@@ -2180,6 +2235,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-25 11:47:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-05-12 21:12:51 +0800"
     },
     "done": true
   },
@@ -2927,6 +2988,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-26 22:29:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-05-12 21:42:17 +0800"
     },
     "done": true
   },

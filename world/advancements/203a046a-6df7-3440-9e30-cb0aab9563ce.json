@@ -808,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-05-12 22:15:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2020-04-12 03:34:41 +0800"
@@ -865,6 +871,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-08 02:20:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-05-12 22:15:22 +0800"
     },
     "done": true
   },
@@ -1044,18 +1056,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-05-12 22:15:16 +0800",
       "minecraft:snowy_mountains": "2020-04-08 02:04:17 +0800",
       "minecraft:forest": "2020-04-08 02:04:38 +0800",
+      "minecraft:mountains": "2020-05-12 22:12:38 +0800",
       "minecraft:taiga": "2020-04-08 01:59:03 +0800",
       "minecraft:desert_hills": "2020-04-08 02:06:19 +0800",
       "minecraft:taiga_hills": "2020-04-08 01:59:56 +0800",
       "minecraft:desert": "2020-04-08 02:06:09 +0800",
+      "minecraft:jungle": "2020-05-12 22:14:20 +0800",
       "minecraft:birch_forest": "2020-04-11 17:13:48 +0800",
+      "minecraft:jungle_hills": "2020-05-12 22:14:44 +0800",
+      "minecraft:deep_lukewarm_ocean": "2020-05-12 22:13:58 +0800",
       "minecraft:badlands": "2020-05-11 18:54:03 +0800",
       "minecraft:beach": "2020-04-08 01:56:33 +0800",
       "minecraft:dark_forest": "2020-04-08 02:23:09 +0800",
       "minecraft:river": "2020-04-08 01:59:30 +0800",
       "minecraft:wooded_hills": "2020-04-08 02:14:39 +0800",
+      "minecraft:stone_shore": "2020-05-12 22:12:31 +0800",
       "minecraft:wooded_badlands_plateau": "2020-05-11 19:03:41 +0800",
       "minecraft:swamp": "2020-04-08 01:59:10 +0800",
       "minecraft:plains": "2020-04-08 02:01:38 +0800"
@@ -1206,6 +1224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-05-12 22:14:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-04-25 20:00:20 +0800"
@@ -1281,6 +1305,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-08 12:29:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-05-12 22:14:22 +0800"
     },
     "done": true
   },
