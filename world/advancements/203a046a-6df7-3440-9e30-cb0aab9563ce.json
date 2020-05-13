@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2020-05-13 17:35:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-04-12 13:35:55 +0800"
@@ -538,6 +544,7 @@
       "minecraft:skeleton": "2020-04-08 02:06:01 +0800",
       "minecraft:spider": "2020-04-10 16:50:29 +0800",
       "minecraft:creeper": "2020-04-11 17:04:35 +0800",
+      "minecraft:slime": "2020-05-13 17:35:40 +0800",
       "minecraft:husk": "2020-04-08 02:06:46 +0800",
       "minecraft:zombie": "2020-04-10 16:56:17 +0800",
       "minecraft:zombie_villager": "2020-05-12 15:37:33 +0800"
@@ -1036,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-05-13 17:35:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-04-08 12:29:33 +0800"
@@ -1060,6 +1073,7 @@
       "minecraft:snowy_mountains": "2020-04-08 02:04:17 +0800",
       "minecraft:forest": "2020-04-08 02:04:38 +0800",
       "minecraft:mountains": "2020-05-12 22:12:38 +0800",
+      "minecraft:badlands_plateau": "2020-05-13 17:37:12 +0800",
       "minecraft:taiga": "2020-04-08 01:59:03 +0800",
       "minecraft:desert_hills": "2020-04-08 02:06:19 +0800",
       "minecraft:taiga_hills": "2020-04-08 01:59:56 +0800",
@@ -1072,6 +1086,8 @@
       "minecraft:beach": "2020-04-08 01:56:33 +0800",
       "minecraft:dark_forest": "2020-04-08 02:23:09 +0800",
       "minecraft:river": "2020-04-08 01:59:30 +0800",
+      "minecraft:lukewarm_ocean": "2020-05-13 17:35:04 +0800",
+      "minecraft:wooded_mountains": "2020-05-13 17:34:17 +0800",
       "minecraft:wooded_hills": "2020-04-08 02:14:39 +0800",
       "minecraft:stone_shore": "2020-05-12 22:12:31 +0800",
       "minecraft:wooded_badlands_plateau": "2020-05-11 19:03:41 +0800",
@@ -1980,6 +1996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-05-13 17:35:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-04-12 13:03:51 +0800"
@@ -2253,6 +2275,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-05-10 22:33:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-05-13 17:35:54 +0800"
     },
     "done": true
   },
