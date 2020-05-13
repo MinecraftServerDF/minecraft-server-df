@@ -50,3 +50,16 @@
 [18:56:29] [User Authenticator #96/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
 [18:56:29] [Server thread/INFO]: wolf[/115.165.203.20:55400] logged in with entity id 2420849 at ([world]297.52120995756445, 70.0, 1552.4776274610433)
 [18:56:41] [Craft Scheduler Thread - 3064/INFO]: [AuthMe] wolf logged in!
+[19:36:05] [User Authenticator #97/INFO]: UUID of player FredYea is 3bd6dd21-b03e-3591-ab95-b403be4538c7
+[19:36:05] [Server thread/INFO]: FredYea[/124.6.23.53:60038] logged in with entity id 2428262 at ([world]255.501938083605, 63.0, 1470.937772477754)
+[19:36:17] [Craft Scheduler Thread - 3075/INFO]: [AuthMe] FredYea logged in!
+[19:37:12] [Async Chat Thread - #65/INFO]: [world]<FredYea> ªü¯T~
+[19:37:16] [Async Chat Thread - #65/INFO]: [world]<wolf> ??
+[19:37:27] [Async Chat Thread - #65/INFO]: [world]<FredYea> ¨Ó®³¤Q¦r·d 0.0
+[19:38:03] [Server thread/INFO]: wolf issued server command: /weather sun
+[19:52:13] [Server thread/INFO]: FredYea issued server command: /back
+[20:00:50] [Server thread/INFO]: wolf lost connection: Disconnected
+[20:00:50] [Server thread/INFO]: wolf left the game
+[20:01:11] [Server thread/INFO]: FredYea issued server command: /home
+[20:09:11] [Server thread/INFO]: FredYea lost connection: Disconnected
+[20:09:11] [Server thread/INFO]: FredYea left the game
