@@ -624,3 +624,10 @@
 [09:46:18] [Craft Scheduler Thread - 19/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [09:46:18] [Craft Scheduler Thread - 19/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [09:46:18] [Craft Scheduler Thread - 19/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[11:04:50] [User Authenticator #1/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[11:04:50] [Server thread/INFO]: appa1423[/110.26.30.108:31273] logged in with entity id 1431 at ([world]728.0728810201725, 71.0, 1144.6553707730932)
+[11:05:01] [Craft Scheduler Thread - 35/INFO]: [AuthMe] appa1423 logged in!
+[11:05:04] [Server thread/INFO]: appa1423 issued server command: /fly
+[11:05:52] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:20:38] [Server thread/INFO]: appa1423 was slain by Enderman
+[11:20:44] [Server thread/INFO]: appa1423 issued server command: /back
