@@ -22,3 +22,24 @@
 [10:37:02] [Server thread/INFO]: basic_balion issued server command: /back
 [10:37:11] [Server thread/INFO]: basic_balion issued server command: /fly
 [10:39:25] [Server thread/INFO]: basic_balion was blown up by Creeper
+[11:15:19] [Server thread/INFO]: basic_balion issued server command: /home
+[11:16:28] [Server thread/INFO]: basic_balion issued server command: /home
+[11:18:44] [Server thread/INFO]: basic_balion was killed by Guardian using magic
+[11:18:51] [Server thread/INFO]: basic_balion issued server command: /back
+[11:20:11] [Server thread/INFO]: basic_balion drowned whilst trying to escape Guardian
+[11:20:19] [Server thread/INFO]: basic_balion issued server command: /back
+[11:23:14] [Server thread/INFO]: basic_balion drowned
+[11:24:06] [Server thread/INFO]: basic_balion issued server command: /captcha
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.command'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.description'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.detailedDescription'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.permissions'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.alternatives'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.children'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'common.header'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:06] [Server thread/WARN]: [AuthMe] Error getting message with key 'common.optional'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[11:24:18] [Server thread/INFO]: basic_balion issued server command: /clean
+[11:24:31] [Server thread/INFO]: basic_balion issued server command: /cleanlight
+[11:26:15] [Server thread/INFO]: basic_balion issued server command: /home

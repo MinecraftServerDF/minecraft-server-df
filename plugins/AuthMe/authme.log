@@ -4866,3 +4866,13 @@
 [05-15 00:32:03]: [FINE] SelinaUse logged in!
 [05-15 01:15:45]: [FINE] biteyou74 logged in!
 [05-15 10:36:54]: [FINE] basic_balion logged in!
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.command'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.description'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.detailedDescription'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.permissions'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.alternatives'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.children'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'common.header'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'section.arguments'. Please update your config file 'messages/help_en.yml' or run /authme messages help
+[05-15 11:24:06]: [WARN] Error getting message with key 'common.optional'. Please update your config file 'messages/help_en.yml' or run /authme messages help
