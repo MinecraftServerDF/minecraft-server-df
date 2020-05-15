@@ -66,3 +66,9 @@
 [13:48:30] [Server thread/INFO]: appa1423 left the game
 [14:42:54] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [14:42:54] [Server thread/INFO]: basic_balion left the game
+[18:07:15] [User Authenticator #9/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
+[18:07:16] [Server thread/INFO]: appa1423[/110.26.30.108:33063] logged in with entity id 168041 at ([world]718.6999999880791, 95.0000002, 1248.9554472472958)
+[18:07:21] [Craft Scheduler Thread - 447/INFO]: [AuthMe] appa1423 logged in!
+[18:07:37] [Server thread/INFO]: appa1423 issued server command: /trigger
+[18:07:46] [Server thread/INFO]: appa1423 issued server command: /trident
+[18:08:00] [Server thread/INFO]: appa1423 issued server command: /fly
