@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-05-15 13:28:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-04-08 02:11:05 +0800"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2020-04-08 23:26:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-05-15 12:55:45 +0800"
     },
     "done": true
   },
@@ -320,6 +332,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-08 12:29:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-05-15 12:45:25 +0800"
     },
     "done": true
   },
@@ -566,14 +584,22 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-04-08 02:06:01 +0800",
+      "minecraft:guardian": "2020-05-15 13:08:16 +0800",
       "minecraft:spider": "2020-04-10 16:50:29 +0800",
       "minecraft:creeper": "2020-04-11 17:04:35 +0800",
       "minecraft:slime": "2020-05-13 17:35:40 +0800",
       "minecraft:husk": "2020-04-08 02:06:46 +0800",
       "minecraft:zombie": "2020-04-10 16:56:17 +0800",
+      "minecraft:drowned": "2020-05-15 13:36:53 +0800",
       "minecraft:zombie_villager": "2020-05-12 15:37:33 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-05-15 12:55:16 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1031,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-15 13:08:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-08 12:27:02 +0800"
@@ -1289,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-15 13:08:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-04-25 20:00:20 +0800"
@@ -1457,6 +1495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-15 13:08:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2020-04-08 02:08:50 +0800"
@@ -1611,6 +1655,7 @@
       "melon_slice": "2020-04-12 14:26:30 +0800",
       "beetroot": "2020-04-08 12:43:44 +0800",
       "cooked_chicken": "2020-05-12 16:12:47 +0800",
+      "cod": "2020-05-15 13:14:07 +0800",
       "carrot": "2020-04-12 01:49:27 +0800"
     },
     "done": false
@@ -1975,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-05-15 12:55:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-12 13:03:51 +0800"
@@ -1996,6 +2047,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-08 12:27:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-05-15 13:27:52 +0800"
     },
     "done": true
   },
@@ -2401,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-05-15 12:46:55 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-04-10 16:40:14 +0800"
@@ -2428,6 +2491,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2020-05-13 17:47:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-05-15 12:55:45 +0800"
     },
     "done": true
   },
