@@ -6,3 +6,13 @@
 [00:10:16] [Server thread/INFO]: LRIC_MOON left the game
 [01:11:06] [Server thread/INFO]: Allen lost connection: Disconnected
 [01:11:06] [Server thread/INFO]: Allen left the game
+[09:35:28] [User Authenticator #14/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
+[09:35:28] [Server thread/INFO]: wolf[/115.165.203.20:58173] logged in with entity id 252559 at ([world]300.3258554328317, 70.0, 1552.590624394801)
+[09:35:34] [Craft Scheduler Thread - 654/INFO]: [AuthMe] wolf logged in!
+[10:11:14] [Server thread/INFO]: wolf issued server command: /tp wolf 600 64 750
+[10:12:32] [Server thread/INFO]: Villager EntityVillager['Fletcher'/259791, l='world', x=639.59, y=63.00, z=699.25] died, message: 'Fletcher was slain by Zombie'
+[10:14:28] [Server thread/INFO]: wolf issued server command: /back
+[10:14:35] [Server thread/INFO]: wolf issued server command: /back
+[10:18:48] [Server thread/INFO]: wolf issued server command: /back
+[10:21:33] [Server thread/INFO]: wolf lost connection: Disconnected
+[10:21:33] [Server thread/INFO]: wolf left the game
