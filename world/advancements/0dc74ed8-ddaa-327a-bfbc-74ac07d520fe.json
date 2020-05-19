@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-05-17 12:19:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-05-10 01:29:31 +0800"
@@ -320,7 +326,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2020-04-28 21:11:52 +0800",
-      "baked_potato": "2020-04-30 23:41:08 +0800"
+      "baked_potato": "2020-04-30 23:41:08 +0800",
+      "bread": "2020-05-17 12:07:21 +0800"
     },
     "done": false
   },

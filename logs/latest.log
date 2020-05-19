@@ -1,38 +1,11 @@
-[00:00:16] [Server thread/INFO]: LRIC_MOON issued server command: /back
-[00:00:35] [Server thread/INFO]: Allen burned to death
-[00:00:43] [Server thread/INFO]: Allen issued server command: /back
-[00:07:40] [Server thread/INFO]: LRIC_MOON was poked to death by a sweet berry bush
-[00:10:16] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
-[00:10:16] [Server thread/INFO]: LRIC_MOON left the game
-[01:11:06] [Server thread/INFO]: Allen lost connection: Disconnected
-[01:11:06] [Server thread/INFO]: Allen left the game
-[09:35:28] [User Authenticator #14/INFO]: UUID of player wolf is ee8694ea-fd3e-3147-b6b9-091b6ee967a3
-[09:35:28] [Server thread/INFO]: wolf[/115.165.203.20:58173] logged in with entity id 252559 at ([world]300.3258554328317, 70.0, 1552.590624394801)
-[09:35:34] [Craft Scheduler Thread - 654/INFO]: [AuthMe] wolf logged in!
-[10:11:14] [Server thread/INFO]: wolf issued server command: /tp wolf 600 64 750
-[10:12:32] [Server thread/INFO]: Villager EntityVillager['Fletcher'/259791, l='world', x=639.59, y=63.00, z=699.25] died, message: 'Fletcher was slain by Zombie'
-[10:14:28] [Server thread/INFO]: wolf issued server command: /back
-[10:14:35] [Server thread/INFO]: wolf issued server command: /back
-[10:18:48] [Server thread/INFO]: wolf issued server command: /back
-[10:21:33] [Server thread/INFO]: wolf lost connection: Disconnected
-[10:21:33] [Server thread/INFO]: wolf left the game
-[17:40:23] [User Authenticator #15/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
-[17:40:23] [Server thread/INFO]: appa1423[/110.30.103.31:22801] logged in with entity id 263724 at ([world]742.2437787497445, 72.00063554902955, 1152.304747498048)
-[17:40:35] [Craft Scheduler Thread - 754/INFO]: [AuthMe] appa1423 logged in!
-[17:40:47] [Server thread/INFO]: appa1423 issued server command: /f;y
-[17:40:50] [Server thread/INFO]: appa1423 issued server command: /fly
-[18:00:43] [Server thread/INFO]: appa1423 issued server command: /fly
-[18:01:16] [Server thread/INFO]: appa1423 issued server command: /fly
-[18:11:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/272820, l='world', x=2145.54, y=65.94, z=2306.82] died, message: 'Farmer was slain by Zombie'
-[18:13:53] [Server thread/INFO]: appa1423 was blown up by Creeper
-[18:27:35] [Server thread/INFO]: appa1423 was blown up by Creeper
-[18:38:22] [Server thread/INFO]: appa1423 lost connection: Disconnected
-[18:38:22] [Server thread/INFO]: appa1423 left the game
-[20:10:22] [User Authenticator #16/INFO]: UUID of player appa1423 is 203a046a-6df7-3440-9e30-cb0aab9563ce
-[20:10:22] [Server thread/INFO]: appa1423[/110.30.103.31:23003] logged in with entity id 279596 at ([world]2188.699999988079, 68.0, 2285.78571620028)
-[20:10:29] [Craft Scheduler Thread - 786/INFO]: [AuthMe] appa1423 logged in!
-[20:14:24] [Server thread/INFO]: appa1423 issued server command: /fly
-[20:58:15] [Server thread/INFO]: Villager EntityVillager['Farmer'/288835, l='world', x=2164.45, y=62.94, z=2275.33] died, message: 'Farmer was slain by Zombie'
-[21:10:56] [Server thread/INFO]: appa1423 was blown up by Creeper
-[21:11:02] [Server thread/INFO]: appa1423 lost connection: Disconnected
-[21:11:02] [Server thread/INFO]: appa1423 left the game
+[19:04:00] [User Authenticator #4/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[19:04:01] [Server thread/INFO]: biteyou74[/120.102.191.141:10362] logged in with entity id 38836 at ([world]-130.66164768502648, 41.0, -943.206618615265)
+[19:04:07] [Craft Scheduler Thread - 383/INFO]: [AuthMe] biteyou74 logged in!
+[19:04:10] [Server thread/INFO]: biteyou74 issued server command: /fly
+[19:08:04] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[19:08:04] [Server thread/INFO]: biteyou74 left the game
+[19:12:16] [User Authenticator #5/INFO]: UUID of player Hibiki182 is 59646b79-0dd1-333b-b733-f11205fa7b20
+[19:12:16] [Server thread/INFO]: Hibiki182[/119.77.247.72:4253] logged in with entity id 40357 at ([world]3381.771260026649, 10.0, -1484.4934528613537)
+[19:12:27] [Craft Scheduler Thread - 387/INFO]: [AuthMe] Hibiki182 logged in!
+[19:12:48] [Server thread/INFO]: Hibiki182 lost connection: Disconnected
+[19:12:48] [Server thread/INFO]: Hibiki182 left the game

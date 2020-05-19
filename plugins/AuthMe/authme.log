@@ -4887,3 +4887,55 @@
 [05-16 09:35:34]: [FINE] wolf logged in!
 [05-16 17:40:35]: [FINE] appa1423 logged in!
 [05-16 20:10:29]: [FINE] appa1423 logged in!
+[05-16 23:49:16]: [FINE] Allen logged in!
+[05-17 02:11:50]: [FINE] Allen logged in!
+[05-17 02:23:19]: [FINE] Allen logged in!
+[05-17 09:09:21]: [FINE] wolf logged in!
+[05-17 10:13:52]: [FINE] The user LRIC_MOON has 2 accounts:
+[05-17 10:13:52]: [FINE] §7lric, §aLRIC_MOON§7.
+[05-17 10:13:52]: [FINE] LRIC_MOON logged in!
+[05-17 10:41:23]: [FINE] basic_balion logged in!
+[05-17 12:05:12]: [FINE] ShortKYO logged in!
+[05-17 12:07:13]: [FINE] The user kevinkaikai has 2 accounts:
+[05-17 12:07:13]: [FINE] §7§akevinkaikai§7, §aShortKYO§7.
+[05-17 12:07:13]: [FINE] kevinkaikai logged in!
+[05-17 13:21:41]: [FINE] Caber588 logged in!
+[05-17 13:44:21]: [FINE] The user LRIC_MOON has 2 accounts:
+[05-17 13:44:21]: [FINE] §7lric, §aLRIC_MOON§7.
+[05-17 13:44:21]: [FINE] LRIC_MOON logged in!
+[05-17 14:18:56]: [FINE] basic_balion logged in!
+[05-17 15:09:52]: [FINE] Allen logged in!
+[05-17 17:54:49]: [FINE] Allen logged in!
+[05-17 20:16:04]: [FINE] appa1423 logged in!
+[05-18 14:15:41]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[05-18 14:16:41]: [INFO] SQLite Setup finished
+[05-18 14:16:41]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-18 14:16:41]: [INFO] Hooked successfully into Essentials
+[05-18 14:16:41]: [INFO] Hooked successfully into Multiverse-Core
+[05-18 14:16:41]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[05-18 14:16:41]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[05-18 14:16:42]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-18 14:16:42]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-18 14:16:42]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-18 14:16:42]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[05-18 14:16:42]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[05-18 17:25:54]: [FINE] biteyou74 logged in!
+[05-18 17:45:38]: [FINE] Caber588 logged in!
+[05-18 21:37:45]: [FINE] The user LRIC_MOON has 2 accounts:
+[05-18 21:37:45]: [FINE] §7lric, §aLRIC_MOON§7.
+[05-18 21:37:45]: [FINE] LRIC_MOON logged in!
+[05-19 19:04:07]: [FINE] biteyou74 logged in!
+[05-19 19:12:27]: [FINE] Hibiki182 logged in!
