@@ -628,3 +628,19 @@
 [13:22:56] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
 [13:25:58] [Server thread/INFO]: LRIC_MOON issued server command: /FLY
 [13:33:02] [Server thread/INFO]: LRIC_MOON has made the advancement [Take Aim]
+[14:25:29] [Server thread/INFO]: Villager EntityVillager['Fletcher'/1503, l='world', x=-733.99, y=66.50, z=98.37] died, message: 'Fletcher hit the ground too hard'
+[15:10:22] [User Authenticator #2/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[15:10:22] [Server thread/INFO]: SpyCat005[/203.77.40.61:48762] logged in with entity id 20913 at ([world]596.2700118939734, 65.0, 841.0884799534145)
+[15:10:31] [Craft Scheduler Thread - 50/INFO]: [AuthMe] SpyCat005 logged in!
+[15:10:44] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[15:11:12] [Server thread/INFO]: SpyCat005 issued server command: /back
+[15:11:53] [Server thread/INFO]: SpyCat005 issued server command: /home
+[15:12:12] [Server thread/INFO]: SpyCat005 tried to swim in lava
+[15:27:07] [Server thread/INFO]: Villager EntityVillager['Butcher'/22684, l='world', x=600.05, y=65.00, z=749.30] died, message: 'Butcher was slain by Zombie'
+[15:27:18] [Server thread/INFO]: Villager EntityVillager['Farmer'/22690, l='world', x=601.49, y=64.00, z=727.17] died, message: 'Farmer was slain by Zombie'
+[15:27:31] [Server thread/INFO]: Villager EntityVillager['Villager'/26880, l='world', x=589.28, y=64.00, z=715.55] died, message: 'Villager was slain by Zombie'
+[15:27:33] [Server thread/INFO]: Villager EntityVillager['Farmer'/22356, l='world', x=612.77, y=64.00, z=751.53] died, message: 'Farmer was slain by Zombie'
+[15:27:41] [Server thread/INFO]: Villager EntityVillager['Cleric'/22700, l='world', x=587.96, y=63.94, z=720.33] died, message: 'Cleric was slain by Zombie Villager'
+[15:27:50] [Server thread/INFO]: Villager EntityVillager['Shepherd'/22668, l='world', x=596.85, y=64.00, z=753.90] died, message: 'Shepherd was slain by Zombie'
+[15:28:01] [Server thread/INFO]: Villager EntityVillager['Librarian'/22702, l='world', x=619.10, y=64.00, z=722.06] died, message: 'Librarian was slain by Zombie Villager'
+[15:28:23] [Server thread/INFO]: Villager EntityVillager['Librarian'/22716, l='world', x=545.90, y=64.00, z=711.96] died, message: 'Librarian was slain by Zombie'
