@@ -4952,3 +4952,30 @@
 [05-21 22:48:53]: [FINE] basic_balion logged in!
 [05-22 11:10:51]: [FINE] basic_balion logged in!
 [05-22 19:02:02]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[05-23 13:09:52]: [INFO] SQLite Setup finished
+[05-23 13:09:52]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-23 13:09:52]: [INFO] Hooked successfully into Essentials
+[05-23 13:09:52]: [INFO] Hooked successfully into Multiverse-Core
+[05-23 13:09:52]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[05-23 13:09:52]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2388 successfully enabled!
+[05-23 13:09:52]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-23 13:09:52]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-23 13:09:52]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-23 13:09:52]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[05-23 13:09:52]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+	at java.io.RandomAccessFile.open0(Native Method)
+	at java.io.RandomAccessFile.open(Unknown Source)
+	at java.io.RandomAccessFile.<init>(Unknown Source)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[05-23 13:22:22]: [FINE] The user LRIC_MOON has 2 accounts:
+[05-23 13:22:22]: [FINE] §7lric, §aLRIC_MOON§7.
+[05-23 13:22:22]: [FINE] LRIC_MOON logged in!

@@ -661,6 +661,7 @@
       "minecraft:skeleton": "2020-04-25 22:30:59 +0800",
       "minecraft:zombie_pigman": "2020-05-10 23:44:46 +0800",
       "minecraft:spider": "2020-04-26 20:20:00 +0800",
+      "minecraft:creeper": "2020-05-23 13:33:09 +0800",
       "minecraft:phantom": "2020-05-17 13:57:24 +0800",
       "minecraft:enderman": "2020-05-12 22:03:40 +0800",
       "minecraft:zombie": "2020-04-25 12:28:23 +0800",
@@ -2904,6 +2905,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-04-24 22:20:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-23 13:33:02 +0800"
     },
     "done": true
   },
