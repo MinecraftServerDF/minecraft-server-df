@@ -28,3 +28,9 @@
 [01:17:55] [Server thread/INFO]: biteyou74 lost connection: Disconnected
 [01:17:55] [Server thread/INFO]: biteyou74 left the game
 [02:25:38] [Server thread/INFO]: Villager EntityVillager['Villager'/739, l='world_old', x=197.70, y=63.00, z=129.14] died, message: 'Villager hit the ground too hard'
+[03:19:01] [User Authenticator #9/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[03:19:01] [Server thread/INFO]: basic_balion[/36.232.5.70:12319] logged in with entity id 247026 at ([world]-248.97972672540322, 94.42783193921564, -992.9196529398855)
+[03:19:12] [Craft Scheduler Thread - 518/INFO]: [AuthMe] basic_balion logged in!
+[03:19:16] [Server thread/INFO]: basic_balion issued server command: /fly
+[03:20:32] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[03:20:32] [Server thread/INFO]: basic_balion left the game
