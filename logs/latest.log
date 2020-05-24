@@ -20,3 +20,9 @@
 [18:53:13] [Server thread/INFO]: basic_balion issued server command: /home
 [20:40:39] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [20:40:39] [Server thread/INFO]: basic_balion left the game
+[23:13:37] [User Authenticator #6/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[23:13:37] [Server thread/INFO]: Allen[/123.193.76.147:56787] logged in with entity id 211888 at ([world]-1468.4752967100603, 69.0, -644.5591398984539)
+[23:13:42] [Craft Scheduler Thread - 454/INFO]: [AuthMe] Allen logged in!
+[23:13:46] [Server thread/INFO]: Allen issued server command: /fly
+[23:29:39] [Server thread/INFO]: Allen was slain by Guardian
+[23:29:43] [Server thread/INFO]: Allen issued server command: /back

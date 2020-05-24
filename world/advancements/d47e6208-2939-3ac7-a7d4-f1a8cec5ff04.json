@@ -430,6 +430,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-07 22:55:00 +0800"
@@ -580,6 +586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_the_recipe": "2020-05-24 23:22:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-04-07 22:49:50 +0800"
@@ -595,6 +607,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-04-20 22:57:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
     },
     "done": true
   },
@@ -676,6 +694,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2020-05-17 16:04:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
     },
     "done": true
   },
@@ -901,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-04-20 23:57:21 +0800"
@@ -1102,6 +1132,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-25 00:44:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
     },
     "done": true
   },
@@ -1525,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2020-05-24 23:25:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-04-21 21:49:26 +0800"
@@ -1769,10 +1811,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-04-20 23:24:39 +0800",
+      "minecraft:cold_ocean": "2020-05-24 23:16:18 +0800",
       "minecraft:mountains": "2020-04-20 23:07:02 +0800",
       "minecraft:forest": "2020-04-21 22:02:00 +0800",
       "minecraft:taiga": "2020-04-07 22:47:27 +0800",
       "minecraft:desert_hills": "2020-04-12 21:51:16 +0800",
+      "minecraft:deep_cold_ocean": "2020-05-24 23:18:03 +0800",
       "minecraft:taiga_hills": "2020-04-20 23:02:52 +0800",
       "minecraft:desert": "2020-04-07 22:52:31 +0800",
       "minecraft:jungle": "2020-04-20 23:26:33 +0800",
