@@ -1,52 +1,98 @@
-[15:26:31] [User Authenticator #15/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[15:26:31] [Server thread/INFO]: Caber588[/219.70.214.164:53621] logged in with entity id 298121 at ([world]784.7478234722365, 71.0, -1750.5881975449427)
-[15:26:38] [Craft Scheduler Thread - 1266/INFO]: [AuthMe] Caber588 logged in!
-[15:26:39] [Server thread/INFO]: Caber588 issued server command: /fly
-[15:27:55] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[15:27:55] [Server thread/INFO]: Caber588 left the game
-[15:29:54] [User Authenticator #16/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[15:29:54] [Server thread/INFO]: biteyou74[/120.102.191.141:2849] logged in with entity id 298386 at ([world]299.8765648015688, 69.0, 451.75124286281846)
-[15:30:03] [Server thread/INFO]: biteyou74 issued server command: /home
-[15:30:12] [Craft Scheduler Thread - 1270/INFO]: [AuthMe] biteyou74 logged in!
-[15:30:13] [Server thread/INFO]: biteyou74 issued server command: /home
-[15:30:17] [Server thread/INFO]: biteyou74 issued server command: /fly
-[15:36:09] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[15:41:27] [Server thread/INFO]: biteyou74 issued server command: /home
-[15:42:51] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[17:05:17] [User Authenticator #17/INFO]: UUID of player Caber588 is b9d15027-41f6-3079-9f95-dd57e9cf0bf1
-[17:05:17] [Server thread/INFO]: Caber588[/219.70.214.164:54314] logged in with entity id 316555 at ([world]781.0402995944606, 70.11705987674347, -1755.6036096820158)
-[17:05:26] [Craft Scheduler Thread - 1293/INFO]: [AuthMe] Caber588 logged in!
-[17:05:29] [Server thread/INFO]: Caber588 issued server command: /fly
-[17:05:32] [Server thread/INFO]: Caber588 issued server command: /tpa biteyou74
-[17:05:42] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
-[17:11:59] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[17:12:25] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[17:12:31] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[17:18:00] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[17:18:00] [Server thread/INFO]: biteyou74 left the game
-[17:18:08] [Server thread/INFO]: Caber588 lost connection: Disconnected
-[17:18:08] [Server thread/INFO]: Caber588 left the game
-[20:36:21] [User Authenticator #18/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[20:36:21] [Server thread/INFO]: biteyou74[/120.102.191.141:13402] logged in with entity id 321104 at ([world]260.43663770628706, 71.0, 478.9747063205457)
-[20:36:29] [Craft Scheduler Thread - 1339/INFO]: [AuthMe] biteyou74 logged in!
-[20:36:38] [Server thread/INFO]: biteyou74 issued server command: /fly
-[21:07:54] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[21:09:50] [User Authenticator #19/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
-[21:09:50] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:50669] logged in with entity id 328983 at ([world]-733.8209454340328, 72.0, 91.25717680084774)
-[21:09:58] [Craft Scheduler Thread - 1352/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
-[21:09:58] [Craft Scheduler Thread - 1352/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
-[21:09:58] [Craft Scheduler Thread - 1352/INFO]: [AuthMe] LRIC_MOON logged in!
-[21:14:43] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
-[21:14:43] [Server thread/INFO]: LRIC_MOON left the game
-[21:28:38] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[22:53:05] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[22:53:56] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[22:57:56] [Server thread/INFO]: biteyou74 issued server command: /HOME
-[22:58:18] [Server thread/INFO]: biteyou74 issued server command: /home
-[22:58:41] [Server thread/INFO]: biteyou74 issued server command: /spawn
-[23:12:52] [Server thread/INFO]: biteyou74 lost connection: Disconnected
-[23:12:52] [Server thread/INFO]: biteyou74 left the game
-[23:18:06] [User Authenticator #20/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
-[23:18:06] [Server thread/INFO]: biteyou74[/120.102.191.141:5546] logged in with entity id 356687 at ([world]219.40508284178566, 69.0, 265.32764347056934)
-[23:18:12] [Craft Scheduler Thread - 1383/INFO]: [AuthMe] biteyou74 logged in!
-[23:18:15] [Server thread/INFO]: biteyou74 issued server command: /fly
+[00:02:25] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 對了 我在這裡藏了彩蛋喔
+[00:02:36] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 雖然有些忘記藏在哪了
+[00:03:23] [Async Chat Thread - #2/INFO]: [world]<Hibiki182> 你忘記藏哪這樣是有個屁意義
+[00:03:38] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 期待有一天 會有人找到
+[00:03:49] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 幾千年的人們 大概也是這麼想的吧
+[00:03:55] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 考古的浪漫啊
+[00:04:19] [Async Chat Thread - #2/INFO]: [world]<Hibiki182> 賣快考個屁古
+[00:04:24] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 今天有這個榮幸蓋這個遺址 就是為了考古情懷
+[00:04:41] [Async Chat Thread - #2/INFO]: [world]<Hibiki182> 又不會變古蹟
+[00:04:51] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 他是古蹟阿
+[00:05:12] [Server thread/INFO]: biteyou74 issued server command: /HOME
+[00:05:26] [Async Chat Thread - #2/INFO]: [world]<Hibiki182> 那充其量只能是遺址吧
+[00:06:02] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 他是敘利亞的帕爾米拉古城
+[00:06:04] [Server thread/INFO]: [Server] 0.0
+[00:06:13] [Async Chat Thread - #2/INFO]: [world]<biteyou74> @@
+[00:06:19] [AWT-Windows/INFO]: ***WARNING: SWT requires comctl32.dll version 5.80 or greater
+[00:06:19] [AWT-Windows/INFO]: ***WARNING: Detected: 0.0
+[00:06:22] [Server thread/INFO]: [Server] 安安你好
+[00:06:25] [Async Chat Thread - #2/INFO]: [world]<biteyou74> 晚安
+[00:07:26] [Server thread/INFO]: [Server] 感覺大家都快畢業了  畢業愉快 我是一個台北人  哪天要搞網聚 別忘記我呀
+[00:07:35] [Server thread/INFO]: [Server] XDD
+[00:07:40] [Async Chat Thread - #3/INFO]: [world]<biteyou74> 如果有機會的話
+[00:07:55] [Async Chat Thread - #3/INFO]: [world]<Hibiki182> 就交給你了
+[00:08:06] [Server thread/INFO]: [Server] XDD
+[00:08:11] [Async Chat Thread - #3/INFO]: [world]<biteyou74> Server端要怎麼看是誰啊
+[00:08:57] [Server thread/INFO]: [Server] 我這邊有所有的名單呀  但是基於 個人隱私 不能透漏  我搜集的指示怕大家攻擊伺服器
+[00:09:11] [Server thread/INFO]: [Server] 大家都可以在 fb上面發文呀 大家自然會互動
+[00:09:20] [Server thread/INFO]: [Server] 以前發文挺頻繁的
+[00:09:33] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 那你是?
+[00:09:55] [Async Chat Thread - #4/INFO]: [world]<Hibiki182> 敢問閣下是？
+[00:10:01] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 我只是好奇現在講話的是誰 應該有好幾個管理員ㄅ
+[00:10:29] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 現在只看的到[Server]
+[00:10:32] [Server thread/INFO]: [Server] 管理員一直 只有我會這麼說話
+[00:10:43] [Server thread/INFO]: [Server] 我是 apple 陳伯韋 chen po wei
+[00:10:47] [Async Chat Thread - #4/INFO]: [world]<biteyou74> apple喔
+[00:10:58] [Server thread/INFO]: [Server] 都是同一人
+[00:11:05] [Server thread/INFO]: [Server] 主機在我家
+[00:11:07] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 喔喔 我以為有複數
+[00:11:32] [Server thread/INFO]: [Server] 所以有時失聯 都是因為 我家跳電 往計開
+[00:11:37] [Server thread/INFO]: [Server] 忘記
+[00:11:52] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 原來 雖然最近比較少上限
+[00:12:26] [Server thread/INFO]: [Server] 沒事也可以找我本人聊天 XDD
+[00:12:30] [Server thread/INFO]: [Server] 我很悠閒
+[00:12:39] [Async Chat Thread - #4/INFO]: [world]<Hibiki182> 我們這群最近部分人口遷居召喚峽谷
+[00:12:46] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 我...說佈上悠閒 現在只是在混
+[00:13:00] [Server thread/INFO]: [Server] 召喚峽谷好逆
+[00:13:06] [Server thread/INFO]: [Server] 我現在一直在玩跑跑卡丁車
+[00:13:11] [Server thread/INFO]: [Server] 好像沒比較好
+[00:13:17] [Async Chat Thread - #4/INFO]: [world]<biteyou74> rush嘛
+[00:13:22] [Server thread/INFO]: [Server] 對
+[00:13:48] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 改天來載看看 聽說還原度蠻高的
+[00:13:52] [Async Chat Thread - #4/INFO]: [world]<Hibiki182> 我剛獵完龍，想說來悠閒一下
+[00:14:18] [Server thread/INFO]: [Server]  競速賽一樣難道靠北  可以家好友
+[00:14:35] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 怕
+[00:14:42] [Async Chat Thread - #4/INFO]: [world]<Hibiki182> 我超級不擅長賽車遊戲
+[00:15:11] [Server thread/INFO]: [Server] 我天天看  選手開直播  我看這些選手一輩子 沒想過會轉型 變成網紅
+[00:15:19] [Async Chat Thread - #4/INFO]: [world]<Hibiki182> 最會的是nds的馬力歐賽車
+[00:15:42] [Async Chat Thread - #4/INFO]: [world]<biteyou74> ㄅ哥嘛
+[00:16:00] [Server thread/INFO]: [Server] 朔月
+[00:16:12] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 他有開直播喔
+[00:16:33] [Async Chat Thread - #4/INFO]: [world]<biteyou74> 只有看過他在緯來打比賽
+[00:17:25] [Server thread/INFO]: [Server] 狂開
+[00:17:32] [Server thread/INFO]: [Server] 白天上班 往善開直播
+[00:17:39] [Server thread/INFO]: [Server] 晚上
+[00:17:56] [Async Chat Thread - #5/INFO]: [world]<biteyou74> 有夠爆肝
+[00:18:15] [Async Chat Thread - #5/INFO]: [world]<biteyou74> 我來去買泡麵ㄌ
+[00:18:29] [Server thread/INFO]: [Server] 台酒 讚
+[00:19:13] [Async Chat Thread - #5/INFO]: [world]<biteyou74> 哀 萊爾富休息了 只剩販賣機
+[00:20:21] [Server thread/INFO]: [Server] 幹是以沒有 這麼誇張
+[00:21:33] [Async Chat Thread - #6/INFO]: [world]<Hibiki182> 學校裡的，所以不是24小時
+[00:23:59] [Server thread/INFO]: Hibiki182 issued server command: /home
+[00:25:42] [Server thread/INFO]: Hibiki182 issued server command: /back
+[00:25:51] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 只剩肉骨茶 哀
+[00:26:06] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 至少還有
+[00:26:31] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 真的 上次連販賣機裡都沒ㄌ
+[00:26:44] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 還吃我錢
+[00:26:48] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 太可憐了吧
+[00:27:26] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 半夜找食物很辛苦 沒屯糧食就只能洗洗睡了
+[00:27:58] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 你活的像要冬眠的熊
+[00:28:14] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 快餓死了
+[00:28:37] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 趁睡覺前來稽查一下白癡氣球的神殿弄完沒
+[00:28:41] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 完了要變骷弓了
+[00:28:51] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> ao6187
+[00:28:57] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 沒八
+[00:29:18] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 雖然我覺得他會說他蓋完了
+[00:29:27] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 基本上是
+[00:29:34] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 不對 那根本沒蓋
+[00:29:48] [Server thread/WARN]: biteyou74 moved too quickly! 10.676149542568965,0.0,-12.357298563997801
+[00:29:57] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 我根本不知道他在幹嘛
+[00:30:08] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 那你要來看嘛
+[00:30:15] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 等我飛到那
+[00:31:14] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 我只知道他是在做他以前做的東西 不過長怎樣就不清楚ㄌ
+[00:31:35] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 憑記憶的東西？
+[00:31:45] [Async Chat Thread - #7/INFO]: [world]<Hibiki182> 危
+[00:31:53] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 我到ㄌ
+[00:32:20] [Async Chat Thread - #7/INFO]: [world]<biteyou74> 看起來跟之前一樣
+[00:32:24] [Server thread/INFO]: Hibiki182 issued server command: /tpa biteyou74
+[00:32:30] [Server thread/INFO]: biteyou74 issued server command: /tpaccept
