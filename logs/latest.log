@@ -892,3 +892,16 @@
 [20:24:04] [Server thread/WARN]: LRIC_MOON moved wrongly!
 [21:14:47] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
 [21:14:48] [Server thread/INFO]: LRIC_MOON left the game
+[22:38:18] [User Authenticator #8/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[22:38:18] [Server thread/INFO]: Allen[/123.193.76.147:58814] logged in with entity id 159914 at ([world]-1454.2761416726562, 63.5, -668.6705440572531)
+[22:38:23] [Craft Scheduler Thread - 280/INFO]: [AuthMe] Allen logged in!
+[22:38:28] [Server thread/INFO]: Allen issued server command: /fly
+[22:46:55] [Server thread/INFO]: Allen issued server command: /home
+[22:47:09] [Server thread/INFO]: Allen issued server command: /back
+[22:57:37] [Server thread/INFO]: Allen issued server command: /home
+[22:58:19] [Server thread/INFO]: Allen issued server command: /back
+[23:08:22] [Server thread/INFO]: Allen issued server command: /home
+[23:08:51] [Server thread/INFO]: Allen issued server command: /back
+[23:10:15] [Server thread/INFO]: Allen was blown up by Creeper
+[23:10:30] [Server thread/INFO]: Allen issued server command: /back
+[23:18:47] [Server thread/INFO]: Allen issued server command: /home
