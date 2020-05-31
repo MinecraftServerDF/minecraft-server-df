@@ -682,6 +682,7 @@
       "minecraft:spider": "2020-04-26 20:20:00 +0800",
       "minecraft:creeper": "2020-05-23 13:33:09 +0800",
       "minecraft:phantom": "2020-05-17 13:57:24 +0800",
+      "minecraft:husk": "2020-05-31 19:52:56 +0800",
       "minecraft:enderman": "2020-05-12 22:03:40 +0800",
       "minecraft:zombie": "2020-04-25 12:28:23 +0800",
       "minecraft:drowned": "2020-04-25 13:39:52 +0800"
@@ -3171,6 +3172,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2020-05-31 19:39:34 +0800",
       "textures/entity/cat/black.png": "2020-04-26 12:03:20 +0800",
       "textures/entity/cat/jellie.png": "2020-04-26 12:52:44 +0800",
       "textures/entity/cat/ragdoll.png": "2020-05-17 16:25:41 +0800",
