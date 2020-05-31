@@ -623,3 +623,10 @@
 [04:03:26] [Craft Scheduler Thread - 22/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [04:03:26] [Craft Scheduler Thread - 22/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [04:03:26] [Craft Scheduler Thread - 22/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[07:51:16] [User Authenticator #1/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[07:51:16] [Server thread/INFO]: SpyCat005[/203.77.40.61:48820] logged in with entity id 1655 at ([world]592.1776036505183, 65.0, 843.3599093301273)
+[07:51:27] [Craft Scheduler Thread - 70/INFO]: [AuthMe] SpyCat005 logged in!
+[07:51:41] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[07:52:16] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[08:00:39] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[08:00:39] [Server thread/INFO]: SpyCat005 left the game
