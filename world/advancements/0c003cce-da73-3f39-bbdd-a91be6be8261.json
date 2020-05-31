@@ -660,6 +660,7 @@
       "minecraft:pillager": "2020-04-25 12:27:40 +0800",
       "minecraft:skeleton": "2020-04-25 22:30:59 +0800",
       "minecraft:zombie_pigman": "2020-05-10 23:44:46 +0800",
+      "minecraft:guardian": "2020-05-31 16:30:21 +0800",
       "minecraft:spider": "2020-04-26 20:20:00 +0800",
       "minecraft:creeper": "2020-05-23 13:33:09 +0800",
       "minecraft:phantom": "2020-05-17 13:57:24 +0800",
@@ -1078,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-05-31 16:08:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-26 11:05:55 +0800"
@@ -1222,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-31 16:31:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-24 22:21:50 +0800"
@@ -1297,6 +1310,7 @@
       "minecraft:desert": "2020-04-24 22:20:22 +0800",
       "minecraft:jungle": "2020-05-12 21:51:46 +0800",
       "minecraft:jungle_hills": "2020-05-12 21:51:42 +0800",
+      "minecraft:warm_ocean": "2020-05-31 16:24:26 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 22:27:55 +0800",
       "minecraft:badlands": "2020-04-24 22:26:28 +0800",
       "minecraft:savanna_plateau": "2020-05-09 16:27:03 +0800",
@@ -1535,6 +1549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-31 16:31:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-04-25 15:59:26 +0800"
@@ -1712,6 +1732,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-04-25 14:28:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2020-05-31 16:31:08 +0800"
     },
     "done": true
   },
