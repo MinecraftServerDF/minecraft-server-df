@@ -630,3 +630,12 @@
 [07:52:16] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
 [08:00:39] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
 [08:00:39] [Server thread/INFO]: SpyCat005 left the game
+[10:44:18] [User Authenticator #2/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[10:44:18] [Server thread/INFO]: SpyCat005[/203.77.40.61:48659] logged in with entity id 4071 at ([world]591.424020633154, 64.0, 848.23083627031)
+[10:44:29] [Craft Scheduler Thread - 107/INFO]: [AuthMe] SpyCat005 logged in!
+[10:46:14] [Server thread/INFO]: SpyCat005 issued server command: /fly
+[10:46:20] [Server thread/INFO]: SpyCat005 issued server command: /gamemode 1
+[10:46:20] [Server thread/INFO]: §cSpyCat005 §4被拒絕使用命令
+[10:50:02] [Server thread/INFO]: SpyCat005 has made the advancement [Bring Home the Beacon]
+[11:09:41] [Server thread/INFO]: SpyCat005 lost connection: Disconnected
+[11:09:41] [Server thread/INFO]: SpyCat005 left the game
