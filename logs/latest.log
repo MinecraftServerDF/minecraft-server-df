@@ -647,3 +647,16 @@
 [11:50:16] [Server thread/INFO]: LRIC_MOON issued server command: /fly
 [13:09:16] [Server thread/INFO]: LRIC_MOON was slain by Zombie
 [13:31:02] [Server thread/INFO]: Villager EntityVillager['Farmer'/22871, l='world', x=-735.90, y=62.51, z=167.80] died, message: 'Farmer was slain by Zombie'
+[13:42:46] [Server thread/INFO]: LRIC_MOON was slain by Iron Golem
+[14:16:52] [Server thread/INFO]: LRIC_MOON drowned
+[14:17:02] [Server thread/INFO]: LRIC_MOON issued server command: /back
+[14:21:38] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
+[14:21:38] [Server thread/INFO]: LRIC_MOON left the game
+[14:22:41] [User Authenticator #4/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[14:22:42] [Server thread/INFO]: biteyou74[/111.251.71.48:5019] logged in with entity id 38589 at ([world]509.9784238294379, 63.0, 399.86388924868766)
+[14:22:50] [Craft Scheduler Thread - 161/INFO]: [AuthMe] biteyou74 logged in!
+[14:23:10] [Server thread/INFO]: biteyou74 issued server command: /fly
+[14:25:59] [Server thread/INFO]: biteyou74 issued server command: /fly
+[14:26:02] [Server thread/INFO]: biteyou74 issued server command: /fly
+[14:27:32] [Server thread/WARN]: biteyou74 moved too quickly! 0.6402447116114445,-8.495338921548353,-9.699863624559612
+[14:29:12] [Server thread/INFO]: biteyou74 issued server command: /HOME
