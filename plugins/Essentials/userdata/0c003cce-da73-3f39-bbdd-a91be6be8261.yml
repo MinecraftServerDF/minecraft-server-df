@@ -1,7 +1,7 @@
 lastAccountName: LRIC_MOON
 timestamps:
   login: 1591166947727
-  logout: 1590930887987
+  logout: 1591187518335
   lastteleport: 1591182028699
 ipAddress: 123.194.147.86
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 32.39991
 logoutlocation:
   world: world
-  x: -689.2502897516131
-  y: 66.0
-  z: 152.69999998807907
-  yaw: -43.9209
-  pitch: 28.94917
+  x: -739.4340484572701
+  y: 67.0
+  z: 95.69999998807907
+  yaw: -97.82031
+  pitch: 14.399861
 homes:
   home:
     world: world
@@ -26,4 +26,4 @@ homes:
     z: 150.07868964770014
     yaw: 129.24152
     pitch: 22.19974
-afk: true
+afk: false
