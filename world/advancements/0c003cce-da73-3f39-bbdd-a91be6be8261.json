@@ -408,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-06-03 15:41:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-04-26 12:56:44 +0800"
@@ -429,6 +435,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-04-26 15:02:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-06-03 16:25:30 +0800"
     },
     "done": true
   },
@@ -685,7 +697,8 @@
       "minecraft:husk": "2020-05-31 19:52:56 +0800",
       "minecraft:enderman": "2020-05-12 22:03:40 +0800",
       "minecraft:zombie": "2020-04-25 12:28:23 +0800",
-      "minecraft:drowned": "2020-04-25 13:39:52 +0800"
+      "minecraft:drowned": "2020-04-25 13:39:52 +0800",
+      "minecraft:zombie_villager": "2020-06-03 16:30:49 +0800"
     },
     "done": false
   },
@@ -1020,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-06-03 15:41:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-25 13:45:40 +0800"
@@ -1341,6 +1360,7 @@
       "minecraft:desert": "2020-04-24 22:20:22 +0800",
       "minecraft:jungle": "2020-05-12 21:51:46 +0800",
       "minecraft:jungle_hills": "2020-05-12 21:51:42 +0800",
+      "minecraft:bamboo_jungle": "2020-06-03 16:35:38 +0800",
       "minecraft:warm_ocean": "2020-05-31 16:24:26 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 22:27:55 +0800",
       "minecraft:badlands": "2020-04-24 22:26:28 +0800",
@@ -1937,6 +1957,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2020-04-26 22:30:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-06-03 16:25:30 +0800"
     },
     "done": true
   },
@@ -2601,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-06-03 16:22:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-04-24 22:20:02 +0800"
@@ -3030,6 +3062,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-04-25 14:12:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-06-03 16:22:01 +0800"
     },
     "done": true
   },
