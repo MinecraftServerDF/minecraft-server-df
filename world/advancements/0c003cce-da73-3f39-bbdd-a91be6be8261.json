@@ -1387,6 +1387,7 @@
       "minecraft:wooded_hills": "2020-04-24 22:28:16 +0800",
       "minecraft:stone_shore": "2020-04-25 15:56:45 +0800",
       "minecraft:wooded_badlands_plateau": "2020-05-12 20:53:15 +0800",
+      "minecraft:swamp": "2020-06-03 18:54:46 +0800",
       "minecraft:savanna": "2020-05-09 16:23:56 +0800",
       "minecraft:plains": "2020-04-25 15:57:13 +0800"
     },
@@ -1770,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2020-06-03 19:11:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-04-26 15:02:24 +0800"
@@ -1791,6 +1798,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-04-25 12:23:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2020-06-03 19:11:59 +0800"
     },
     "done": true
   },
@@ -2145,6 +2158,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-04-24 22:21:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2020-06-03 19:11:59 +0800"
     },
     "done": true
   },
