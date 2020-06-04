@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-06-05 01:10:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-06 00:24:34 +0800"
@@ -1098,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-06-05 01:12:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2020-04-05 23:30:14 +0800"
@@ -1511,14 +1523,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-04-05 19:42:58 +0800",
+      "minecraft:mountains": "2020-06-05 01:23:16 +0800",
       "minecraft:taiga": "2020-04-05 19:16:07 +0800",
       "minecraft:desert_hills": "2020-04-05 19:25:24 +0800",
       "minecraft:taiga_hills": "2020-04-05 22:11:11 +0800",
       "minecraft:desert": "2020-04-05 19:24:08 +0800",
+      "minecraft:birch_forest": "2020-06-05 01:20:19 +0800",
       "minecraft:badlands": "2020-04-05 20:28:43 +0800",
       "minecraft:beach": "2020-04-05 19:12:51 +0800",
       "minecraft:dark_forest": "2020-04-05 20:30:41 +0800",
       "minecraft:river": "2020-04-05 19:21:42 +0800",
+      "minecraft:birch_forest_hills": "2020-06-05 01:22:10 +0800",
       "minecraft:wooded_hills": "2020-04-05 19:45:30 +0800",
       "minecraft:wooded_badlands_plateau": "2020-04-05 20:28:59 +0800",
       "minecraft:swamp": "2020-04-05 19:16:13 +0800",
