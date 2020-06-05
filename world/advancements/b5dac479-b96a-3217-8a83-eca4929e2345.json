@@ -1530,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-06-05 17:41:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-18 04:20:18 +0800"
@@ -2262,7 +2268,8 @@
       "minecraft:sheep": "2020-04-18 21:17:57 +0800",
       "minecraft:cow": "2020-04-18 21:17:45 +0800",
       "minecraft:chicken": "2020-04-12 07:44:54 +0800",
-      "minecraft:rabbit": "2020-04-12 16:16:44 +0800"
+      "minecraft:rabbit": "2020-04-12 16:16:44 +0800",
+      "minecraft:bee": "2020-06-05 17:47:35 +0800"
     },
     "done": false
   },
@@ -2548,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2020-06-05 17:43:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-04-17 23:45:05 +0800"
@@ -2737,6 +2750,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2020-04-18 16:07:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-06-05 17:41:12 +0800"
     },
     "done": true
   },
