@@ -111,3 +111,7 @@
 [12:37:11] [Server thread/INFO]: basic_balion issued server command: /back
 [14:32:45] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [14:32:45] [Server thread/INFO]: basic_balion left the game
+[17:18:12] [User Authenticator #30/INFO]: UUID of player SpyCat005 is b5dac479-b96a-3217-8a83-eca4929e2345
+[17:18:12] [Server thread/INFO]: SpyCat005[/203.77.40.61:48892] logged in with entity id 499380 at ([world]591.8326226388217, 64.0, 847.2375000119209)
+[17:18:24] [Craft Scheduler Thread - 1738/INFO]: [AuthMe] SpyCat005 logged in!
+[17:18:30] [Server thread/INFO]: SpyCat005 issued server command: /fly
