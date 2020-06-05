@@ -98,3 +98,11 @@
 [03:43:04] [Server thread/INFO]: basic_balion issued server command: /back
 [05:13:38] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [05:13:38] [Server thread/INFO]: basic_balion left the game
+[11:01:46] [User Authenticator #28/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[11:01:46] [Server thread/INFO]: basic_balion[/114.26.121.151:12288] logged in with entity id 444410 at ([world]-296.30000001192093, 79.0, -1033.300000011921)
+[11:02:00] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[11:02:00] [Server thread/INFO]: basic_balion left the game
+[11:02:37] [User Authenticator #29/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[11:02:37] [Server thread/INFO]: basic_balion[/114.26.121.151:12520] logged in with entity id 445040 at ([world]-296.30000001192093, 79.0, -1033.300000011921)
+[11:02:49] [Craft Scheduler Thread - 1658/INFO]: [AuthMe] basic_balion logged in!
+[11:03:20] [Server thread/INFO]: basic_balion issued server command: /fly
