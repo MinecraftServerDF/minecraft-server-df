@@ -40,3 +40,7 @@
 [19:09:12] [Server thread/INFO]: appa1423 issued server command: /back
 [19:10:02] [Server thread/INFO]: appa1423 lost connection: Disconnected
 [19:10:02] [Server thread/INFO]: appa1423 left the game
+[23:05:47] [User Authenticator #47/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[23:05:47] [Server thread/INFO]: Allen[/123.193.76.147:51273] logged in with entity id 876165 at ([world]-1465.0395486891687, 69.0, -649.9507369453019)
+[23:05:52] [Craft Scheduler Thread - 3036/INFO]: [AuthMe] Allen logged in!
+[23:05:54] [Server thread/INFO]: Allen issued server command: /fly
