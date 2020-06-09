@@ -1,19 +1,20 @@
 lastAccountName: vu06m6
 timestamps:
-  login: 1591290361921
-  logout: 1591291728093
-ipAddress: 111.241.16.181
+  login: 1591722437477
+  logout: 1591724116633
+  lastteleport: 1591723548714
+ipAddress: 111.241.17.203
 lastlocation:
   world: world
-  x: 212.0
-  y: 65.0
-  z: 271.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 780.5
+  y: 55.0000002
+  z: 708.5
+  yaw: 88.199875
+  pitch: 15.749992
 logoutlocation:
   world: world
-  x: 527.1335792277612
-  y: 76.0
-  z: 1508.825463458335
-  yaw: 164.2522
-  pitch: 25.80177
+  x: 774.7322176809798
+  y: 55.0
+  z: 711.1364529849938
+  yaw: 2.845459
+  pitch: 16.0507

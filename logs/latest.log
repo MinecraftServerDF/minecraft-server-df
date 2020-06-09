@@ -1,2 +1,13 @@
 [00:15:05] [Server thread/INFO]: Allen lost connection: Disconnected
 [00:15:05] [Server thread/INFO]: Allen left the game
+[01:07:17] [User Authenticator #48/INFO]: UUID of player vu06m6 is 09ffa186-59e4-39c1-ae3f-9ea71e43f428
+[01:07:17] [Server thread/INFO]: vu06m6[/111.241.17.203:61921] logged in with entity id 886805 at ([world]527.1335792277612, 76.0, 1508.825463458335)
+[01:07:29] [Craft Scheduler Thread - 3065/INFO]: [AuthMe] vu06m6 logged in!
+[01:18:29] [User Authenticator #49/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[01:18:29] [Server thread/INFO]: Allen[/123.193.76.147:52330] logged in with entity id 890722 at ([world]-1466.139674966175, 74.0, -634.0113612940947)
+[01:18:39] [Craft Scheduler Thread - 3070/INFO]: [AuthMe] Allen logged in!
+[01:18:42] [Server thread/INFO]: Allen issued server command: /fly
+[01:25:33] [Server thread/INFO]: vu06m6 was slain by Zombie
+[01:25:45] [Server thread/INFO]: vu06m6 issued server command: /back
+[01:35:16] [Server thread/INFO]: vu06m6 lost connection: Disconnected
+[01:35:16] [Server thread/INFO]: vu06m6 left the game
