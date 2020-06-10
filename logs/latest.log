@@ -1,42 +1,4 @@
-[00:15:05] [Server thread/INFO]: Allen lost connection: Disconnected
-[00:15:05] [Server thread/INFO]: Allen left the game
-[01:07:17] [User Authenticator #48/INFO]: UUID of player vu06m6 is 09ffa186-59e4-39c1-ae3f-9ea71e43f428
-[01:07:17] [Server thread/INFO]: vu06m6[/111.241.17.203:61921] logged in with entity id 886805 at ([world]527.1335792277612, 76.0, 1508.825463458335)
-[01:07:29] [Craft Scheduler Thread - 3065/INFO]: [AuthMe] vu06m6 logged in!
-[01:18:29] [User Authenticator #49/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
-[01:18:29] [Server thread/INFO]: Allen[/123.193.76.147:52330] logged in with entity id 890722 at ([world]-1466.139674966175, 74.0, -634.0113612940947)
-[01:18:39] [Craft Scheduler Thread - 3070/INFO]: [AuthMe] Allen logged in!
-[01:18:42] [Server thread/INFO]: Allen issued server command: /fly
-[01:25:33] [Server thread/INFO]: vu06m6 was slain by Zombie
-[01:25:45] [Server thread/INFO]: vu06m6 issued server command: /back
-[01:35:16] [Server thread/INFO]: vu06m6 lost connection: Disconnected
-[01:35:16] [Server thread/INFO]: vu06m6 left the game
-[02:08:57] [Server thread/INFO]: Allen lost connection: Disconnected
-[02:08:57] [Server thread/INFO]: Allen left the game
-[16:14:56] [User Authenticator #50/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[16:14:56] [Server thread/INFO]: basic_balion[/36.232.3.75:1543] logged in with entity id 901812 at ([world]790.3430959871081, 66.5, -1737.0947473450576)
-[16:15:06] [Craft Scheduler Thread - 3256/INFO]: [AuthMe] basic_balion logged in!
-[16:15:13] [Server thread/INFO]: basic_balion issued server command: /fly
-[16:16:31] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[16:16:31] [Server thread/INFO]: basic_balion left the game
-[19:40:41] [User Authenticator #51/INFO]: UUID of player Fred_Yeh is 8ffd3b3d-9b17-3a55-a223-0d7d2de0916a
-[19:40:41] [Server thread/INFO]: Fred_Yeh[/49.158.130.65:56578] logged in with entity id 902907 at ([world]257.84014056470545, 63.0, 1463.875634912625)
-[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] The user Fred_Yeh has 2 accounts:
-[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] ¡±7fredyea, ¡±aFred_Yeh¡±7.
-[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] Fred_Yeh logged in!
-[19:41:20] [Server thread/INFO]: Fred_Yeh issued server command: /back
-[19:45:25] [Server thread/INFO]: Fred_Yeh has made the advancement [Not Today, Thank You]
-[20:06:39] [Server thread/INFO]: Fred_Yeh issued server command: /home
-[20:10:04] [Server thread/INFO]: Fred_Yeh issued server command: /back
-[20:20:32] [Server thread/INFO]: Fred_Yeh issued server command: /home
-[20:22:12] [Server thread/INFO]: Fred_Yeh has made the advancement [Suit Up]
-[20:23:48] [Server thread/INFO]: Fred_Yeh issued server command: /back
-[20:40:51] [Server thread/INFO]: Fred_Yeh issued server command: /home
-[20:45:19] [Server thread/INFO]: Fred_Yeh lost connection: Disconnected
-[20:45:19] [Server thread/INFO]: Fred_Yeh left the game
-[22:17:32] [User Authenticator #52/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
-[22:17:33] [Server thread/INFO]: basic_balion[/36.232.3.75:12358] logged in with entity id 914704 at ([world]758.443255768485, 66.8818326770484, -1707.040065461004)
-[22:17:43] [Craft Scheduler Thread - 3342/INFO]: [AuthMe] basic_balion logged in!
-[22:17:45] [Server thread/INFO]: basic_balion issued server command: /fly
-[22:24:51] [Server thread/INFO]: basic_balion lost connection: Disconnected
-[22:24:51] [Server thread/INFO]: basic_balion left the game
+[01:57:39] [User Authenticator #53/INFO]: UUID of player Allen is d47e6208-2939-3ac7-a7d4-f1a8cec5ff04
+[01:57:39] [Server thread/INFO]: Allen[/123.193.76.147:53625] logged in with entity id 919144 at ([world]-1491.4786312360052, 74.0, -626.8960492330605)
+[01:57:45] [Craft Scheduler Thread - 3391/INFO]: [AuthMe] Allen logged in!
+[01:57:47] [Server thread/INFO]: Allen issued server command: /fly
