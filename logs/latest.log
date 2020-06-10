@@ -34,3 +34,9 @@
 [20:40:51] [Server thread/INFO]: Fred_Yeh issued server command: /home
 [20:45:19] [Server thread/INFO]: Fred_Yeh lost connection: Disconnected
 [20:45:19] [Server thread/INFO]: Fred_Yeh left the game
+[22:17:32] [User Authenticator #52/INFO]: UUID of player basic_balion is 38078fe7-7472-370e-97c0-101b66d4f158
+[22:17:33] [Server thread/INFO]: basic_balion[/36.232.3.75:12358] logged in with entity id 914704 at ([world]758.443255768485, 66.8818326770484, -1707.040065461004)
+[22:17:43] [Craft Scheduler Thread - 3342/INFO]: [AuthMe] basic_balion logged in!
+[22:17:45] [Server thread/INFO]: basic_balion issued server command: /fly
+[22:24:51] [Server thread/INFO]: basic_balion lost connection: Disconnected
+[22:24:51] [Server thread/INFO]: basic_balion left the game
