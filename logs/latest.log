@@ -19,3 +19,15 @@
 [16:15:13] [Server thread/INFO]: basic_balion issued server command: /fly
 [16:16:31] [Server thread/INFO]: basic_balion lost connection: Disconnected
 [16:16:31] [Server thread/INFO]: basic_balion left the game
+[19:40:41] [User Authenticator #51/INFO]: UUID of player Fred_Yeh is 8ffd3b3d-9b17-3a55-a223-0d7d2de0916a
+[19:40:41] [Server thread/INFO]: Fred_Yeh[/49.158.130.65:56578] logged in with entity id 902907 at ([world]257.84014056470545, 63.0, 1463.875634912625)
+[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] The user Fred_Yeh has 2 accounts:
+[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] ¡±7fredyea, ¡±aFred_Yeh¡±7.
+[19:40:49] [Craft Scheduler Thread - 3302/INFO]: [AuthMe] Fred_Yeh logged in!
+[19:41:20] [Server thread/INFO]: Fred_Yeh issued server command: /back
+[19:45:25] [Server thread/INFO]: Fred_Yeh has made the advancement [Not Today, Thank You]
+[20:06:39] [Server thread/INFO]: Fred_Yeh issued server command: /home
+[20:10:04] [Server thread/INFO]: Fred_Yeh issued server command: /back
+[20:20:32] [Server thread/INFO]: Fred_Yeh issued server command: /home
+[20:22:12] [Server thread/INFO]: Fred_Yeh has made the advancement [Suit Up]
+[20:23:48] [Server thread/INFO]: Fred_Yeh issued server command: /back
