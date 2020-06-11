@@ -1,7 +1,7 @@
 lastAccountName: Allen
 timestamps:
   login: 1591851285093
-  logout: 1591818089535
+  logout: 1591854976836
   lastteleport: 1591547964570
 ipAddress: 123.193.76.147
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: -3.3001404
 logoutlocation:
   world: world
-  x: -1468.5520708031613
+  x: -1466.461174223115
   y: 74.0
-  z: -631.4910320047534
-  yaw: -291.72
-  pitch: 29.700066
+  z: -644.2001300043795
+  yaw: 68.886
+  pitch: 31.199892
 afk: false
 homes:
   home:
