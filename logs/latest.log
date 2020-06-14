@@ -619,3 +619,11 @@
 [17:57:00] [Craft Scheduler Thread - 21/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [17:57:00] [Craft Scheduler Thread - 21/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [17:57:01] [Craft Scheduler Thread - 21/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[20:48:56] [User Authenticator #1/INFO]: UUID of player LRIC_MOON is 0c003cce-da73-3f39-bbdd-a91be6be8261
+[20:48:57] [Server thread/INFO]: LRIC_MOON[/123.194.147.86:49932] logged in with entity id 1581 at ([world]-726.0424976842158, 63.0, 104.36311664251092)
+[20:49:07] [Craft Scheduler Thread - 58/INFO]: [AuthMe] The user LRIC_MOON has 2 accounts:
+[20:49:07] [Craft Scheduler Thread - 58/INFO]: [AuthMe] §7lric, §aLRIC_MOON§7.
+[20:49:07] [Craft Scheduler Thread - 58/INFO]: [AuthMe] LRIC_MOON logged in!
+[20:49:50] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[20:54:04] [Server thread/INFO]: LRIC_MOON lost connection: Disconnected
+[20:54:04] [Server thread/INFO]: LRIC_MOON left the game
