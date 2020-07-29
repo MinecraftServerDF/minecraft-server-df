@@ -1,23 +1,23 @@
 lastAccountName: Fred_Yeh
 timestamps:
-  login: 1591789241868
-  logout: 1591793119439
-  lastteleport: 1591792854373
+  login: 1594899233121
+  logout: 1594899382352
+  lastteleport: 1594899371887
 ipAddress: 49.158.130.65
 lastlocation:
-  world: world
-  x: 308.98926650535344
-  y: 9.0
-  z: 2712.300000011921
-  yaw: 5.5332503
-  pitch: 12.8999
+  world: world_nether
+  x: 116.37173613104488
+  y: 53.0
+  z: -263.54139465735574
+  yaw: -3.63401
+  pitch: 15.600242
 logoutlocation:
   world: world
-  x: 259.9897400931628
+  x: 258.8464816255275
   y: 63.0
-  z: 1476.181268303534
-  yaw: -3.2991028
-  pitch: 30.149801
+  z: 1469.2730061752823
+  yaw: 171.6002
+  pitch: 4.799982
 afk: false
 homes:
   home:
