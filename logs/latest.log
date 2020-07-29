@@ -1,0 +1,82 @@
+[17:12:56] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:12:56] [Server thread/INFO]: Loading properties
+[17:12:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-e7dc2f5-ce66f69 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[17:12:56] [Server thread/INFO]: Debug logging is disabled
+[17:12:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:12:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:12:56] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:56] [Server thread/INFO]: Generating keypair
+[17:12:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:57] [Server thread/INFO]: Using default channel type
+[17:13:00] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:13:04] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[17:13:04] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[17:13:04] [Server thread/INFO]: [dynmap] version=git-Spigot-e7dc2f5-ce66f69 (MC: 1.15.2)
+[17:13:04] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[17:13:04] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[17:13:04] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:13:04] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0-SNAPSHOT+4982-df3b373
+[17:13:05] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1b9fd43f]
+[17:13:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[17:13:05] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[17:13:05] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.15.2-v4-SNAPSHOT
+[17:13:07] [Server thread/INFO]: -------- World Settings For [DUMMY] --------
+[17:13:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:13:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:13:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:13:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:13:07] [Server thread/INFO]: View Distance: 10
+[17:13:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:13:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:13:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:13:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:13:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:13:07] [Server thread/INFO]: Mob Spawn Range: 8
+[17:13:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:13:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:13:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:13:07] [Server thread/INFO]: Max TNT Explosions: 100
+[17:13:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:13:09] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[17:13:09] [Server thread/INFO]: [Lift] Loading Lift v63
+[17:13:09] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.1-SNAPSHOT-b777
+[17:13:09] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-SNAPSHOT-b2388
+[17:13:09] [Server thread/INFO]: [LightCleaner] Loading LightCleaner v1.15.2-v1
+[17:13:09] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.1.0-b805
+[17:13:09] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0-SNAPSHOT+4982-df3b373
+[17:13:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:13:09] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[17:13:09] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:13:09] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[17:13:09] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[17:13:09] [Server thread/WARN]: [WorldEdit]   
+[17:13:09] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[17:13:09] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[17:13:09] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[17:13:09] [Server thread/WARN]: [WorldEdit]   
+[17:13:09] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[17:13:09] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[17:13:09] [Server thread/WARN]: [WorldEdit]   
+[17:13:09] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[17:13:09] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[17:13:09] [Server thread/WARN]: [WorldEdit]   
+[17:13:09] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[17:13:09] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:13:09] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.15.2-v4-SNAPSHOT
+[17:13:09] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on Spigot (git-Spigot-e7dc2f5-ce66f69) : v1_15_R1 (Minecraft 1.15.2)
+[17:13:09] [Server thread/INFO]: [BKCommonLib] [Network] Now using a PlayerConnection hook to provide Packet Listener and Monitor support
