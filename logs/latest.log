@@ -624,3 +624,11 @@
 [13:26:57] [Craft Scheduler Thread - 19/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [13:26:57] [Craft Scheduler Thread - 19/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [13:26:57] [Craft Scheduler Thread - 19/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系統找不到指定的檔案。)
+[20:03:52] [User Authenticator #1/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[20:03:52] [Server thread/INFO]: biteyou74[/1.160.47.183:1610] logged in with entity id 1734 at ([world]799.0431208997398, 19.28271854438603, -1739.143688344325)
+[20:04:03] [Craft Scheduler Thread - 101/INFO]: [AuthMe] biteyou74 logged in!
+[20:04:11] [Server thread/INFO]: biteyou74 issued server command: /fly
+[20:04:28] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[20:05:04] [Server thread/INFO]: biteyou74 issued server command: /home
+[20:07:11] [Server thread/INFO]: biteyou74 lost connection: Disconnected
+[20:07:11] [Server thread/INFO]: biteyou74 left the game
