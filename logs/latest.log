@@ -1,0 +1,59 @@
+[10:46:14] [Server thread/INFO]: Stopping the server
+[10:46:14] [Server thread/INFO]: Stopping server
+[10:46:14] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.1.0-b805
+[10:46:15] [Server thread/INFO]: [LightCleaner] Disabling LightCleaner v1.15.2-v1
+[10:46:15] [Server thread/INFO]: [LightCleaner] LightCleaner disabled!
+[10:46:15] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2388
+[10:46:15] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[10:46:15] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[10:46:15] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[10:46:15] [Server thread/INFO]: [Lift] Disabling Lift v63
+[10:46:15] [Server thread/INFO]: Lift v63 is now disabled!
+[10:46:15] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[10:46:15] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.15.2-v4-SNAPSHOT
+[10:46:15] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[10:46:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[10:46:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-SNAPSHOT+4982-df3b373
+[10:46:15] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[10:46:15] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[10:46:15] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[10:46:15] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[10:46:16] [Server thread/INFO]: [dynmap] Disabled
+[10:46:16] [Server thread/INFO]: Saving players
+[10:46:16] [Server thread/INFO]: Saving worlds
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_china'/minecraft:world_china
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_china): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_comic_world'/minecraft:world_comic_world
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_comic_world): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_yucsh'/minecraft:world_yucsh
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_yucsh): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_MaoMao'/minecraft:world_maomao
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_MaoMao): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_old'/minecraft:world_old
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_old): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'creative'/minecraft:creative
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (creative): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_ken'/minecraft:world_ken
+[10:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_ken): All chunks are saved
+[10:46:16] [Server thread/INFO]: Saving chunks for level 'world_survive'/minecraft:world_survive
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_survive): All chunks are saved
+[10:46:17] [Server thread/INFO]: Saving chunks for level 'world-1-8'/minecraft:world-1-8
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world-1-8): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_china): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_comic_world): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_yucsh): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_MaoMao): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_old): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (creative): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_ken): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world_survive): All chunks are saved
+[10:46:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world-1-8): All chunks are saved
