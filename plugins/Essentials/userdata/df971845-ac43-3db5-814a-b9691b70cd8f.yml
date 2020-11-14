@@ -1,7 +1,7 @@
 lastAccountName: rgps3725
 timestamps:
   login: 1605331612128
-  logout: 1588684549568
+  logout: 1605333303709
   lastteleport: 1588439872142
 ipAddress: 59.115.202.133
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 34.049603
 logoutlocation:
   world: world
-  x: -207.72340902059307
-  y: 78.0
-  z: -1036.398593466695
-  yaw: -150.01831
-  pitch: 19.650097
+  x: -257.69999998807907
+  y: 85.0
+  z: -999.1291824439334
+  yaw: -5.7323503
+  pitch: 38.250553
 homes:
   home:
     world: world
