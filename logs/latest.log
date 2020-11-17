@@ -27,3 +27,60 @@
 [14:18:48] [Server thread/INFO]: Keisari1313 left the game
 [14:19:41] [Server thread/INFO]: rgps3725 lost connection: Disconnected
 [14:19:41] [Server thread/INFO]: rgps3725 left the game
+[20:01:30] [User Authenticator #32/INFO]: UUID of player Gallero is 1cf86fbb-492f-3ec2-a445-d0d96a21f20d
+[20:01:30] [Server thread/INFO]: Gallero[/59.115.173.227:63012] logged in with entity id 316435 at ([world]212.5, 69.0, 261.5)
+[20:01:30] [pool-13-thread-1/INFO]: Creating empty config: /home/po/minecraft-server-df/plugins/Essentials/userdata/1cf86fbb-492f-3ec2-a445-d0d96a21f20d.yml
+[20:01:30] [Server thread/INFO]: Gallero has made the advancement [Getting an Upgrade]
+[20:01:40] [Server thread/INFO]: Gallero lost connection: Disconnected
+[20:01:40] [Server thread/INFO]: Gallero left the game
+[20:14:33] [User Authenticator #33/INFO]: UUID of player biteyou74 is 6332fb17-fea2-3fc3-8fed-0ffc8f217734
+[20:14:33] [Server thread/INFO]: biteyou74[/36.230.79.239:2279] logged in with entity id 316817 at ([world]211.67785121683846, 65.0, 341.71502231807506)
+[20:14:42] [Craft Scheduler Thread - 3409/INFO]: [AuthMe] biteyou74 logged in!
+[20:14:49] [Server thread/INFO]: biteyou74 issued server command: /fly
+[20:21:31] [Server thread/INFO]: biteyou74 issued server command: /SPAWN
+[20:30:15] [Dynmap Render Thread/INFO]: [dynmap] Image file plugins/dynmap/web/tiles/world/flat/0_-1/z_8_-12.png - unable to write - failed
+[20:30:17] [Dynmap Render Thread/INFO]: [dynmap] Image file plugins/dynmap/web/tiles/world/t/-1_-1/-9_-22.png - unable to write - failed
+[20:30:18] [Dynmap Render Thread/INFO]: [dynmap] Image file plugins/dynmap/web/tiles/world/flat/0_-1/zzz_8_-8.png - unable to [21:01:18] [Server thread/INFO]: [LightCleaner] LightCleaner disabled!
+[21:01:18] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-SNAPSHOT-b2388
+[21:01:18] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[21:01:18] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT-b2388 disabled!
+[21:01:18] [Server thread/INFO]: [Lift] Disabling Lift v63
+[21:01:18] [Server thread/INFO]: Lift v63 is now disabled!
+[21:01:18] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.1-SNAPSHOT-b777
+[21:01:18] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.15.2-v4-SNAPSHOT
+[21:01:18] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[21:01:18] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[21:01:18] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-SNAPSHOT+4982-df3b373
+[21:01:18] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:01:18] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[21:01:18] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[21:01:18] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[21:01:19] [Server thread/INFO]: [dynmap] Saved 6 pending tile renders in world 'world'
+[21:01:19] [Server thread/INFO]: [dynmap] Disabled
+[21:01:19] [Server thread/INFO]: Saving players
+[21:01:19] [Server thread/WARN]: Failed to save player data for biteyou74
+[21:01:19] [Server thread/ERROR]: Couldn't save stats
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_272]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_272]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.IOUtils.write(IOUtils.java:1857) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:1982) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:2017) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.ServerStatisticManager.a(ServerStatisticManager.java:59) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayerFile(PlayerList.java:367) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayers(PlayerList.java:902) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:708) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:696) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:864) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_272]
+[21:01:19] [Server thread/ERROR]: Exception stopping the server
+com.google.gson.JsonIOException: java.io.IOException: No space left on device
+	at com.google.gson.Gson.toJson(Gson.java:747) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at com.google.gson.Gson.toJson(Gson.java:703) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.AdvancementDataPlayer.c(AdvancementDataPlayer.java:232) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayerFile(PlayerList.java:373) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayers(PlayerList.java:902) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:708) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:696) ~[spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:864) [spigot-1.15.2.jar:git-Spigot-e7dc2f5-ce66f69]
+	at java.lang.Thread.run(
